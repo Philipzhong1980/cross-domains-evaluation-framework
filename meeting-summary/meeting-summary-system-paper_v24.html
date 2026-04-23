@@ -84,14 +84,27 @@
     background: #ffffff;
   }
   .paper-figure__caption {
-    margin-top: 6px;
+    margin: 8px auto 0 auto;
+    padding: 0 0.16in;
+    max-width: calc(100% - 0.32in);
     font-size: 9pt;
-    line-height: 1.34;
+    line-height: 1.4;
     color: #51667d;
-    text-align: center;
+    text-align: left;
+    box-sizing: border-box;
+    overflow: visible;
+    word-break: normal;
+    overflow-wrap: normal;
+    hyphens: none;
   }
   .table-block {
     margin: 12px 0 14px 0;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  .table-group {
+    page-break-inside: avoid;
+    break-inside: avoid;
   }
   .table-caption {
     margin: 10px 0 6px 0;
@@ -113,14 +126,13 @@
   table.paper-table {
     width: 100%;
     table-layout: auto;
-    border-collapse: separate;
+    border-collapse: collapse;
     border-spacing: 0;
     border: 1px solid #d7e1ea;
-    border-radius: 12px;
-    overflow: visible;
     background: #ffffff;
     font-size: 8.75pt;
     line-height: 1.28;
+    box-sizing: border-box;
   }
   .table-block.wide table.paper-table {
     table-layout: fixed;
@@ -139,6 +151,7 @@
     overflow-wrap: normal;
     word-break: normal;
     hyphens: none;
+    box-sizing: border-box;
   }
   .table-block.wide table.paper-table th,
   .table-block.wide table.paper-table td {
@@ -189,6 +202,28 @@
     word-break: normal;
     overflow-wrap: normal;
   }
+  .table-block.main-metrics table.paper-table,
+  .table-block.dataset-metrics table.paper-table,
+  .table-block.judge-metrics table.paper-table,
+  .table-block.judge-disagreement table.paper-table {
+    table-layout: auto;
+    font-size: 8.15pt;
+  }
+  .table-block.main-metrics table.paper-table th,
+  .table-block.main-metrics table.paper-table td,
+  .table-block.dataset-metrics table.paper-table th,
+  .table-block.dataset-metrics table.paper-table td,
+  .table-block.judge-metrics table.paper-table th,
+  .table-block.judge-metrics table.paper-table td,
+  .table-block.judge-disagreement table.paper-table th,
+  .table-block.judge-disagreement table.paper-table td {
+    padding: 4px 7px;
+  }
+  .table-block.judge-disagreement {
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .table-block.capability table.paper-table th:first-child,
   .table-block.capability table.paper-table td:first-child {
     width: 45%;
@@ -204,6 +239,74 @@
   .table-block.dataset table.paper-table th:nth-child(2),
   .table-block.dataset table.paper-table td:nth-child(2) {
     width: 15%;
+  }
+  .table-block.main-metrics table.paper-table th:nth-child(1),
+  .table-block.main-metrics table.paper-table td:nth-child(1) {
+    width: 20%;
+  }
+  .table-block.main-metrics table.paper-table th:nth-child(2),
+  .table-block.main-metrics table.paper-table td:nth-child(2) {
+    width: 10%;
+  }
+  .table-block.main-metrics table.paper-table th:nth-child(3),
+  .table-block.main-metrics table.paper-table td:nth-child(3) {
+    width: 18%;
+  }
+  .table-block.main-metrics table.paper-table th:nth-child(4),
+  .table-block.main-metrics table.paper-table td:nth-child(4),
+  .table-block.main-metrics table.paper-table th:nth-child(5),
+  .table-block.main-metrics table.paper-table td:nth-child(5),
+  .table-block.main-metrics table.paper-table th:nth-child(6),
+  .table-block.main-metrics table.paper-table td:nth-child(6) {
+    width: 17%;
+  }
+  .table-block.dataset-metrics table.paper-table th:nth-child(1),
+  .table-block.dataset-metrics table.paper-table td:nth-child(1) {
+    width: 23%;
+  }
+  .table-block.dataset-metrics table.paper-table th:nth-child(2),
+  .table-block.dataset-metrics table.paper-table td:nth-child(2) {
+    width: 15%;
+  }
+  .table-block.dataset-metrics table.paper-table th:nth-child(3),
+  .table-block.dataset-metrics table.paper-table td:nth-child(3) {
+    width: 10%;
+  }
+  .table-block.dataset-metrics table.paper-table th:nth-child(4),
+  .table-block.dataset-metrics table.paper-table td:nth-child(4),
+  .table-block.dataset-metrics table.paper-table th:nth-child(5),
+  .table-block.dataset-metrics table.paper-table td:nth-child(5),
+  .table-block.dataset-metrics table.paper-table th:nth-child(6),
+  .table-block.dataset-metrics table.paper-table td:nth-child(6) {
+    width: 17%;
+  }
+  .table-block.judge-metrics table.paper-table th:nth-child(1),
+  .table-block.judge-metrics table.paper-table td:nth-child(1) {
+    width: 18%;
+  }
+  .table-block.judge-metrics table.paper-table th:nth-child(2),
+  .table-block.judge-metrics table.paper-table td:nth-child(2) {
+    width: 28%;
+  }
+  .table-block.judge-metrics table.paper-table th:nth-child(3),
+  .table-block.judge-metrics table.paper-table td:nth-child(3),
+  .table-block.judge-metrics table.paper-table th:nth-child(4),
+  .table-block.judge-metrics table.paper-table td:nth-child(4),
+  .table-block.judge-metrics table.paper-table th:nth-child(5),
+  .table-block.judge-metrics table.paper-table td:nth-child(5) {
+    width: 18%;
+  }
+  .table-block.judge-disagreement table.paper-table th:nth-child(1),
+  .table-block.judge-disagreement table.paper-table td:nth-child(1) {
+    width: 21%;
+  }
+  .table-block.judge-disagreement table.paper-table th:nth-child(2),
+  .table-block.judge-disagreement table.paper-table td:nth-child(2),
+  .table-block.judge-disagreement table.paper-table th:nth-child(3),
+  .table-block.judge-disagreement table.paper-table td:nth-child(3),
+  .table-block.judge-disagreement table.paper-table th:nth-child(4),
+  .table-block.judge-disagreement table.paper-table td:nth-child(4) {
+    width: 26.33%;
   }
   .table-block.alias table.paper-table th:first-child,
   .table-block.alias table.paper-table td:first-child {
@@ -267,6 +370,8 @@ Cisco Systems, Inc.<br>
 San Jose, California, USA</p>
 
 <p>{lizhon, dongdwan, xiaojzha, weiwchen}@cisco.com</p>
+
+<p><em>The views expressed in this paper are those of the authors and do not necessarily reflect the views of Cisco.</em></p>
 
 <h2>Abstract</h2>
 
@@ -354,7 +459,7 @@ San Jose, California, USA</p>
 
 <h3>2.4 G4: Extensibility from Offline to Online Quality Loops</h3>
 
-<p>The quantitatively validated core in this paper is the offline loop. The current architecture also includes an implemented online path, comprising feedback ingestion, evaluation triggering, result persistence, and downstream metrics emission, in which production issues can be clustered, curated, and turned into new benchmark items, even though that path is not quantitatively characterized in the present study. In this sense, the system is designed not only for evaluation but for evaluation maintenance.</p>
+<p>The quantitatively validated core in this paper is the offline loop. The current architecture also includes an implemented online path, comprising feedback ingestion, evaluation triggering, result persistence, and downstream metrics emission, in which production issues can be clustered, curated, and turned into new benchmark items, even though that path is not quantitatively characterized in the present study. In the deployed Webex Suite AI environment, this path is driven by user feedback signals and production quality escalations rather than by synthetic replay alone. In this sense, the system is designed not only for evaluation but for evaluation maintenance.</p>
 
 <p>These goals yield a clean cross-domain abstraction. The reusable skeleton is:</p>
 
@@ -388,7 +493,7 @@ San Jose, California, USA</p>
 
 <p>The comparison in Table 0 is architectural rather than exhaustive. It is intended to clarify system scope, not to claim that other frameworks cannot be extended. Capabilities evolve quickly; the table summarizes the official literature where available and otherwise the official software documentation cited in the references as accessed on April 17, 2026. We do not claim an empirical head-to-head evaluation against these systems in the present paper; that comparison is deferred to future work. Here, <code>Partial</code> indicates that a framework offers a functionally adjacent capability but not the specific combination of structured generation, typed partitioning, and file-backed persistence that this system treats as first-class. These ratings are based on the official literature where available and otherwise the official documentation cited in References 11-13, and they may not reflect later framework updates.</p>
 
-<div class="table-group"><div class="table-caption">Table 0. Architectural capability comparison between the present system and adjacent general-purpose evaluation frameworks. The purpose is to clarify systems scope, not to claim score superiority.</div><div class="table-block capability wide"><table class="paper-table" data-cols="6">
+<div class="table-group"><div class="table-caption">Table 0. Architectural capability comparison between the present system and adjacent general-purpose evaluation frameworks. The purpose is to clarify systems scope, not to claim score superiority.</div><div class="table-block capability"><table class="paper-table" data-cols="6">
 <thead>
 <tr>
 <th>Capability dimension</th>
@@ -472,7 +577,7 @@ San Jose, California, USA</p>
 <p>The repository is not itself a meeting assistant product. It is the evaluation and artifact layer that supports one.</p>
 
 <figure class="paper-figure"><img src="dual_loop_quality_framework.svg" alt="Dual-loop quality framework" class="paper-figure__image"><figcaption class="paper-figure__caption">Figure 1. Reusable quality-loop architecture for AI meeting-summary evaluation. Solid components correspond to the benchmarked offline loop. The dashed online loop is implemented as system context but is not benchmarked in this paper.</figcaption></figure>
-<p>Figure 1 shows the high-level architecture. Read through the roadmap lens, the loop consists of five reusable stages: a transcript simulator or production-data intake layer, a dataset generator, an offline evaluation stage, a CI/CD quality gate, and an online evaluation stage. The offline loop provides benchmark-backed regression control and is the portion validated directly in this paper. The online loop is implemented in the current system as an integrated feedback-to-evaluation path, but it is not quantitatively benchmarked in this paper. We therefore include it as deployed system context while restricting the paper's measured claims to the offline loop.</p>
+<p>Figure 1 shows the high-level architecture. Read through the roadmap lens, the loop consists of five reusable stages: a transcript simulator or production-data intake layer, a dataset generator, an offline evaluation stage, a CI/CD quality gate, and an online evaluation stage. The offline loop provides benchmark-backed regression control and is the portion validated directly in this paper. The online loop is implemented in the current system as an integrated feedback-to-evaluation path, but it is not quantitatively benchmarked in this paper. In the deployed Webex Suite AI environment, the online path is triggered by user feedback signals and production quality escalations; curated cases are periodically promoted to new benchmark items to refresh the offline regression suite. We therefore include it as deployed system context while restricting the paper's measured claims to the offline loop.</p>
 
 <p>At the full-system level, this translates into transcript-backed artifact storage, prompt-versioned GT construction, prompt-versioned candidate generation, offline evaluation with structured judge outputs, entry points for online and grounded evaluation, and file-backed reports that remain inspectable after execution. The public package in this repository preserves the artifact/report layer and selected analysis scripts from that system. Taken together, these components support the three concrete benefits emphasized in the roadmap: benchmarking under a stable protocol, regression detection when models or prompts change, and failure-case discovery through persisted explanations and issue labels.</p>
 
@@ -768,7 +873,7 @@ Coverage(C, G)      = (1 / n) * Σ 1[s(gj) = covered]
 
 <p>The full internal implementation underlying this artifact package is instrumented for operational-cost reporting through structured logging in <code>log_config.metrics</code>, which records job duration, API latency, LLM token usage, and LLM latency by stage. The public package does not include the raw historical log files themselves; instead, it preserves a measured telemetry export recovered from four retained batch logs during manuscript preparation. We therefore report measured latency/token summaries for the stages that have explicit completion lines in those retained logs, while still acknowledging that the historical benchmark does not preserve a complete end-to-end measured cost ledger for every pipeline stage.</p>
 
-<div class="table-group"><div class="table-caption">Table 5 summarizes the measured telemetry extracted from retained logs.</div><div class="table-block wide"><table class="paper-table" data-cols="6">
+<div class="table-group"><div class="table-caption">Table 5 summarizes the measured telemetry extracted from retained logs.</div><div class="table-block"><table class="paper-table" data-cols="6">
 <thead>
 <tr>
 <th>Retained stage</th>
@@ -845,8 +950,8 @@ Coverage(C, G)      = (1 / n) * Σ 1[s(gj) = covered]
 
 <h3>6.1 Main Benchmark Results</h3>
 
-<div class="table-group"><div class="table-caption">Table 1 reports the main merged typed benchmark result over 114 meetings, 340 completed meeting-model pairs, and 680 evaluator runs.</div><div class="table-block wide"><table class="paper-table" data-cols="6">
-<thead>
+<div class="table-group"><div class="table-caption">Table 1 reports the main merged typed benchmark result over 114 meetings, 340 completed meeting-model pairs, and 680 evaluator runs.</div><div class="table-block main-metrics"><table class="paper-table" data-cols="6">
+<colgroup><col style="width: 20%;"><col style="width: 10%;"><col style="width: 18%;"><col style="width: 17%;"><col style="width: 17%;"><col style="width: 18%;"></colgroup><thead>
 <tr>
 <th>Model</th>
 <th>Meetings</th>
@@ -890,8 +995,8 @@ Coverage(C, G)      = (1 / n) * Σ 1[s(gj) = covered]
 
 <p>Because the benchmark is typed, the merged result can also be broken down by data category.</p>
 
-<div class="table-block dataset wide"><table class="paper-table" data-cols="6">
-<thead>
+<div class="table-block dataset dataset-metrics"><table class="paper-table" data-cols="6">
+<colgroup><col style="width: 23%;"><col style="width: 15%;"><col style="width: 10%;"><col style="width: 17%;"><col style="width: 17%;"><col style="width: 18%;"></colgroup><thead>
 <tr>
 <th>Dataset type</th>
 <th>Model</th>
@@ -1195,7 +1300,7 @@ Coverage(C, G)      = (1 / n) * Σ 1[s(gj) = covered]
 <p>The completeness and coverage advantages of <code>gpt-51</code> remain broad meeting-level effects rather than mean-value artifacts. Accuracy is different: the three models remain much closer, and the merged typed benchmark no longer supports a statistically decisive winner.</p>
 
 <div class="table-group"><div class="table-caption">Table 2 reports the paired sign tests. Mean differences are reported as A minus B: positive values favor model A, and negative values favor model B. These mean-difference values are computed as per-meeting averages rather than as differences of aggregated means. Ties are excluded from the sign tests. Holm correction is applied within each metric family across the three pairwise comparisons.</div><div class="table-block significance xwide"><table class="paper-table" data-cols="8">
-<thead>
+<colgroup><col style="width: 10%;"><col style="width: 20%;"><col style="width: 16%;"><col style="width: 9%;"><col style="width: 8%;"><col style="width: 9%;"><col style="width: 16%;"><col style="width: 12%;"></colgroup><thead>
 <tr>
 <th>Metric</th>
 <th>Comparison</th>
@@ -1310,7 +1415,7 @@ Coverage(C, G)      = (1 / n) * Σ 1[s(gj) = covered]
 <p>The typed comparison now covers the full merged benchmark universe: <code>340</code> completed meeting-model pairs (<code>100</code> <code>city_council</code>, <code>66</code> <code>private_data</code>, and <code>174</code> <code>whitehouse_press_briefings</code>). The <code>city_council</code> slice contributes <code>100</code> rather than <code>102</code> meeting-model pairs for the same reason discussed in Section 5.1: one meeting in the merged benchmark contains only the <code>gpt-41-mini</code> candidate/report pair and lacks the <code>gpt-5-mini</code> and <code>gpt-51</code> outputs. We therefore treat the <code>DeepEval</code> result primarily as a ranking-consistency baseline rather than as a score-calibrated head-to-head comparison. Table 3 summarizes the per-slice comparison.</p>
 
 <div class="table-block dataset baseline xwide"><table class="paper-table" data-cols="8">
-<thead>
+<colgroup><col style="width: 18%;"><col style="width: 12%;"><col style="width: 9%;"><col style="width: 15%;"><col style="width: 9%;"><col style="width: 15%;"><col style="width: 13%;"><col style="width: 9%;"></colgroup><thead>
 <tr>
 <th>Dataset type</th>
 <th>Model</th>
@@ -1422,8 +1527,8 @@ Coverage(C, G)      = (1 / n) * Σ 1[s(gj) = covered]
 
 <p>Because the benchmark uses two judges, model means should be interpreted together with judge spread.</p>
 
-<div class="table-block"><table class="paper-table" data-cols="5">
-<thead>
+<div class="table-block judge-metrics"><table class="paper-table" data-cols="5">
+<colgroup><col style="width: 18%;"><col style="width: 28%;"><col style="width: 18%;"><col style="width: 18%;"><col style="width: 18%;"></colgroup><thead>
 <tr>
 <th>Model</th>
 <th>Judge</th>
@@ -1480,8 +1585,8 @@ Coverage(C, G)      = (1 / n) * Σ 1[s(gj) = covered]
 </div>
 <p>Claude remains systematically more generous on accuracy, while GPT-5 is somewhat more favorable to <code>gpt-51</code> on completeness. The mean absolute judge disagreement per meeting-model pair is:</p>
 
-<div class="table-block"><table class="paper-table" data-cols="4">
-<thead>
+<div class="table-block judge-disagreement"><table class="paper-table" data-cols="4">
+<colgroup><col style="width: 22%;"><col style="width: 26%;"><col style="width: 26%;"><col style="width: 26%;"></colgroup><thead>
 <tr>
 <th>Model</th>
 <th>Accuracy disagreement</th>
