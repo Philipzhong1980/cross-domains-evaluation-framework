@@ -1,5 +1,5 @@
 section,row_type,dataset_type,meeting_id,candidate_model,meeting_count,evaluator_run_count,accuracy_avg,completeness_avg,coverage_avg,accuracy_scores_by_evaluator,completeness_scores_by_evaluator,coverage_scores_by_evaluator,note,report_path
 overall_by_model_dataset_type,overall_model_dataset_type,city_council,,gpt-4.1,34,68,0.745,0.781,0.781,,,,,
-overall_by_model_dataset_type,overall_model_dataset_type,city_council,,gpt-5.4,34,68,0.76,0.831,0.834,,,,,
+overall_by_model_dataset_type,overall_model_dataset_type,city_council,,gpt-5.4,34,68,0.76,0.830,0.834,,,,,
 overall_by_model_dataset_type,overall_model_dataset_type,private_data,,gpt-4.1,22,44,0.729,0.801,0.816,,,,,
 overall_by_model_dataset_type,overall_model_dataset_type,private_data,,gpt-5.4,22,44,0.745,0.865,0.92,,,,,

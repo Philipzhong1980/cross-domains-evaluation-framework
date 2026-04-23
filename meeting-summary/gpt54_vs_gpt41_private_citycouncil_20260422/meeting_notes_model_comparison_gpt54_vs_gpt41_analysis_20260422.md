@@ -12,7 +12,7 @@
 
 ### city_council
 - `gpt-4.1`: accuracy `0.745`, completeness `0.781`, coverage `0.781`, mean-of-3 `0.769`
-- `gpt-5.4`: accuracy `0.76`, completeness `0.831`, coverage `0.834`, mean-of-3 `0.808`
+- `gpt-5.4`: accuracy `0.76`, completeness `0.830`, coverage `0.834`, mean-of-3 `0.808`
 
 ### private_data
 - `gpt-4.1`: accuracy `0.729`, completeness `0.801`, coverage `0.816`, mean-of-3 `0.782`
@@ -22,12 +22,12 @@
 
 ### overall
 - `accuracy`: `gpt-5.4` wins `30`, `gpt-4.1` wins `24`, ties `2`, avg delta `0.015232`, exact sign-test p `0.496617`
-- `completeness`: `gpt-5.4` wins `52`, `gpt-4.1` wins `3`, ties `1`, avg delta `0.054732`, exact sign-test p `0.0`
+- `completeness`: `gpt-5.4` wins `52`, `gpt-4.1` wins `3`, ties `1`, avg delta `0.054732`, exact sign-test p `1.5418777365994174e-12`
 - `coverage`: `gpt-5.4` wins `41`, `gpt-4.1` wins `8`, ties `7`, avg delta `0.073625`, exact sign-test p `2e-06`
 
 ### city_council
 - `accuracy`: `gpt-5.4` wins `17`, `gpt-4.1` wins `15`, ties `2`, avg delta `0.014618`, exact sign-test p `0.86005`
-- `completeness`: `gpt-5.4` wins `31`, `gpt-4.1` wins `2`, ties `1`, avg delta `0.049059`, exact sign-test p `0.0`
+- `completeness`: `gpt-5.4` wins `31`, `gpt-4.1` wins `2`, ties `1`, avg delta `0.049059`, exact sign-test p `1.3085082173347473e-07`
 - `coverage`: `gpt-5.4` wins `22`, `gpt-4.1` wins `5`, ties `7`, avg delta `0.053647`, exact sign-test p `0.001514`
 
 ### private_data

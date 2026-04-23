@@ -1,9 +1,9 @@
 dataset_type,metric,meeting_count,wins_gpt_5_4,wins_gpt_4_1,ties,avg_delta_gpt_5_4_minus_gpt_4_1,median_delta_gpt_5_4_minus_gpt_4_1,exact_two_sided_sign_pvalue
 overall,accuracy,56,30,24,2,0.015232,0.004,0.496617
-overall,completeness,56,52,3,1,0.054732,0.064,0.0
+overall,completeness,56,52,3,1,0.054732,0.064,1.5418777365994174e-12
 overall,coverage,56,41,8,7,0.073625,0.075,2e-06
 city_council,accuracy,34,17,15,2,0.014618,0.003,0.86005
-city_council,completeness,34,31,2,1,0.049059,0.061,0.0
+city_council,completeness,34,31,2,1,0.049059,0.061,1.3085082173347473e-07
 city_council,coverage,34,22,5,7,0.053647,0.05,0.001514
 private_data,accuracy,22,13,9,0,0.016182,0.006,0.523467
 private_data,completeness,22,21,1,0,0.0635,0.071,1.1e-05

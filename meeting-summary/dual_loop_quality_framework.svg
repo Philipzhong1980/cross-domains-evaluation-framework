@@ -1,6 +1,6 @@
-<svg width="1400" height="780" viewBox="0 0 1400 780" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1400" height="860" viewBox="0 0 1400 860" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="780" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="860" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F7FAFC"/>
       <stop offset="1" stop-color="#EEF4FF"/>
     </linearGradient>
@@ -24,97 +24,100 @@
     </marker>
   </defs>
 
-  <rect width="1400" height="780" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="860" rx="28" fill="url(#bg)"/>
 
-  <text x="700" y="64" text-anchor="middle" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#102A43">
-    Dual-Loop Quality Framework for AI Meeting Summaries
+  <text x="700" y="60" text-anchor="middle" font-size="33" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#102A43">
+    Dual-Loop Quality Framework for
   </text>
-  <text x="700" y="98" text-anchor="middle" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#486581">
-    Offline regression control and online quality diagnosis share one artifact backbone
+  <text x="700" y="98" text-anchor="middle" font-size="33" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#102A43">
+    Meeting-Summary Evaluation
+  </text>
+  <text x="700" y="134" text-anchor="middle" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#486581">
+    Offline regression control and online quality diagnosis share one persisted artifact backbone
   </text>
 
-  <rect x="70" y="148" width="1260" height="262" rx="26" fill="#FFFFFF" stroke="#C9D6E3" stroke-width="2"/>
-  <text x="120" y="190" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1F3A5F">
+  <rect x="70" y="178" width="1260" height="260" rx="26" fill="#FFFFFF" stroke="#C9D6E3" stroke-width="2"/>
+  <text x="120" y="220" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1F3A5F">
     Offline Benchmark Loop
   </text>
-  <text x="120" y="220" font-size="16" font-family="Arial, Helvetica, sans-serif" fill="#5B7083">
-    Goal: prevent regressions before release through transcript-grounded evaluation
+  <text x="120" y="250" font-size="16" font-family="Arial, Helvetica, sans-serif" fill="#5B7083">
+    Goal: prevent regressions before deployment through transcript-grounded evaluation
   </text>
 
   <g>
-    <rect x="110" y="260" width="220" height="104" rx="18" fill="url(#blueBox)" stroke="#8BB5FF"/>
-    <text x="220" y="302" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1B4D9B">Transcripts</text>
-    <text x="220" y="330" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">raw meetings, internal datasets,</text>
-    <text x="220" y="350" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">simulated production inputs</text>
+    <rect x="105" y="292" width="220" height="110" rx="18" fill="url(#blueBox)" stroke="#8BB5FF"/>
+    <text x="215" y="336" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1B4D9B">Transcripts</text>
+    <text x="215" y="364" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">raw meetings, internal datasets,</text>
+    <text x="215" y="384" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">simulated production inputs</text>
   </g>
 
   <g>
-    <rect x="385" y="260" width="220" height="104" rx="18" fill="url(#blueBox)" stroke="#8BB5FF"/>
-    <text x="495" y="302" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1B4D9B">Ground Truth</text>
-    <text x="495" y="330" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">topics, points, decisions,</text>
-    <text x="495" y="350" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">canonical meeting artifacts</text>
+    <rect x="380" y="292" width="220" height="110" rx="18" fill="url(#blueBox)" stroke="#8BB5FF"/>
+    <text x="490" y="336" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1B4D9B">Ground Truth</text>
+    <text x="490" y="364" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">topics, points, decisions,</text>
+    <text x="490" y="384" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">canonical meeting artifacts</text>
   </g>
 
   <g>
-    <rect x="660" y="260" width="220" height="104" rx="18" fill="url(#blueBox)" stroke="#8BB5FF"/>
-    <text x="770" y="302" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1B4D9B">Candidate Models</text>
-    <text x="770" y="330" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">prompted summary generation</text>
-    <text x="770" y="350" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">across comparable model variants</text>
+    <rect x="655" y="292" width="220" height="110" rx="18" fill="url(#blueBox)" stroke="#8BB5FF"/>
+    <text x="765" y="336" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1B4D9B">Candidate Models</text>
+    <text x="765" y="364" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">prompted summary generation</text>
+    <text x="765" y="384" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">across comparable model variants</text>
   </g>
 
   <g>
-    <rect x="935" y="260" width="220" height="104" rx="18" fill="url(#orangeBox)" stroke="#E2A84A"/>
-    <text x="1045" y="302" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#9A5A00">Offline Evaluation</text>
-    <text x="1045" y="330" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#7C5A1D">accuracy, completeness, coverage,</text>
-    <text x="1045" y="350" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#7C5A1D">judge explanations, error types</text>
+    <rect x="930" y="292" width="220" height="110" rx="18" fill="url(#orangeBox)" stroke="#E2A84A"/>
+    <text x="1040" y="336" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#9A5A00">Offline Evaluation</text>
+    <text x="1040" y="364" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#7C5A1D">accuracy, completeness, coverage,</text>
+    <text x="1040" y="384" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#7C5A1D">judge explanations, error types</text>
   </g>
 
-  <path d="M330 312H385" stroke="#3559A6" stroke-width="4" marker-end="url(#arrow)"/>
-  <path d="M605 312H660" stroke="#3559A6" stroke-width="4" marker-end="url(#arrow)"/>
-  <path d="M880 312H935" stroke="#3559A6" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M325 347H380" stroke="#3559A6" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M600 347H655" stroke="#3559A6" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M875 347H930" stroke="#3559A6" stroke-width="4" marker-end="url(#arrow)"/>
 
   <g>
-    <rect x="1185" y="252" width="110" height="118" rx="18" fill="#FFF" stroke="#D7C7A4"/>
-    <text x="1240" y="286" text-anchor="middle" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#7A5A10">Reports</text>
-    <text x="1240" y="320" text-anchor="middle" font-size="14" font-family="Arial, Helvetica, sans-serif" fill="#6B7280">model ranking</text>
-    <text x="1240" y="342" text-anchor="middle" font-size="14" font-family="Arial, Helvetica, sans-serif" fill="#6B7280">release gating</text>
+    <rect x="1180" y="284" width="120" height="126" rx="18" fill="#FFFFFF" stroke="#D7C7A4"/>
+    <text x="1240" y="322" text-anchor="middle" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#7A5A10">Comparison</text>
+    <text x="1240" y="348" text-anchor="middle" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#7A5A10">Reports</text>
+    <text x="1240" y="376" text-anchor="middle" font-size="14" font-family="Arial, Helvetica, sans-serif" fill="#6B7280">model ranking</text>
+    <text x="1240" y="398" text-anchor="middle" font-size="14" font-family="Arial, Helvetica, sans-serif" fill="#6B7280">release evidence</text>
   </g>
-  <path d="M1155 312H1185" stroke="#C98B25" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M1150 347H1180" stroke="#C98B25" stroke-width="4" marker-end="url(#arrow)"/>
 
-  <rect x="70" y="450" width="1260" height="250" rx="26" fill="#FFFFFF" stroke="#C9D6E3" stroke-width="2" stroke-dasharray="10 8"/>
-  <text x="120" y="492" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#14532D">
+  <rect x="70" y="490" width="1260" height="300" rx="26" fill="#FFFFFF" stroke="#C9D6E3" stroke-width="2" stroke-dasharray="10 8"/>
+  <text x="120" y="532" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#14532D">
     Online Improvement Loop
   </text>
-  <text x="1250" y="492" text-anchor="end" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#56756A">
-    Designed; not yet benchmarked
+  <text x="1250" y="532" text-anchor="end" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#56756A">
+    Implemented system scope; not benchmarked here
   </text>
-  <text x="120" y="522" font-size="16" font-family="Arial, Helvetica, sans-serif" fill="#56756A">
-    Goal: diagnose production-facing failures and feed them back into benchmark expansion
+  <text x="120" y="562" font-size="16" font-family="Arial, Helvetica, sans-serif" fill="#56756A">
+    Goal: diagnose production-facing failures and feed them back into benchmark growth
   </text>
 
   <g>
-    <rect x="130" y="560" width="250" height="96" rx="18" fill="url(#greenBox)" stroke="#56B88B"/>
-    <text x="255" y="600" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#136F46">Application Outputs</text>
-    <text x="255" y="627" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">customer summaries, user feedback,</text>
-    <text x="255" y="646" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">support escalations</text>
+    <rect x="110" y="610" width="260" height="112" rx="18" fill="url(#greenBox)" stroke="#56B88B"/>
+    <text x="240" y="654" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#136F46">Application Outputs</text>
+    <text x="240" y="682" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">customer summaries, user feedback,</text>
+    <text x="240" y="702" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">support escalations</text>
   </g>
 
   <g>
-    <rect x="445" y="560" width="250" height="96" rx="18" fill="url(#greenBox)" stroke="#56B88B"/>
-    <text x="570" y="600" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#136F46">Online Evaluation</text>
-    <text x="570" y="627" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">diagnose no-GT failures and cluster</text>
-    <text x="570" y="646" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">issues for benchmark expansion</text>
+    <rect x="435" y="610" width="260" height="112" rx="18" fill="url(#greenBox)" stroke="#56B88B"/>
+    <text x="565" y="654" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#136F46">Online Evaluation</text>
+    <text x="565" y="682" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">diagnose no-GT failures and cluster</text>
+    <text x="565" y="702" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">issues for benchmark expansion</text>
   </g>
 
   <g>
-    <rect x="760" y="560" width="250" height="96" rx="18" fill="url(#greenBox)" stroke="#56B88B"/>
-    <text x="885" y="600" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#136F46">Dataset Generator</text>
-    <text x="885" y="627" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">turn hard cases into new GT and</text>
-    <text x="885" y="646" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">refresh the offline regression suite</text>
+    <rect x="760" y="610" width="260" height="112" rx="18" fill="url(#greenBox)" stroke="#56B88B"/>
+    <text x="890" y="654" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#136F46">Dataset Generator</text>
+    <text x="890" y="682" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">turn hard cases into new GT and</text>
+    <text x="890" y="702" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">refresh the offline regression suite</text>
   </g>
 
-  <path d="M380 608H445" stroke="#178A57" stroke-width="4" marker-end="url(#arrowGreen)"/>
-  <path d="M695 608H760" stroke="#178A57" stroke-width="4" marker-end="url(#arrowGreen)"/>
-  <path d="M1010 608H1216V410" stroke="#178A57" stroke-width="4" fill="none" marker-end="url(#arrowGreen)"/>
-
+  <path d="M370 666H435" stroke="#178A57" stroke-width="4" marker-end="url(#arrowGreen)"/>
+  <path d="M695 666H760" stroke="#178A57" stroke-width="4" marker-end="url(#arrowGreen)"/>
+  <path d="M1020 666H1216V438" stroke="#178A57" stroke-width="4" fill="none" marker-end="url(#arrowGreen)"/>
 </svg>

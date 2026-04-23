@@ -4,6 +4,8 @@ This folder packages the focused `gpt-5.4` versus `gpt-4.1` comparison for the `
 
 The bundle includes the derived CSV and Markdown artifacts needed to inspect the result. The original run-summary JSON files stayed in the source execution workspace and are not redistributed here.
 
+This is a report-only bundle. The `22` `private_data` meetings included in the comparison are represented only through aggregate and meeting-level report rows inside the packaged CSV / Markdown outputs. No raw `private_data` transcripts, GT JSON, candidate summaries, or evaluation JSON are redistributed here or under [`meeting-summary/dataset/`](../dataset/).
+
 ## Included Artifacts
 
 - [meeting_notes_model_comparison_combined_20260422_134801.csv](meeting_notes_model_comparison_combined_20260422_134801.csv)

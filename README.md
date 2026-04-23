@@ -63,7 +63,7 @@ If you want the deployment-oriented follow-up added after the main benchmark, na
 
 - [`meeting-summary/gpt54_vs_gpt41_private_citycouncil_20260422/README.md`](meeting-summary/gpt54_vs_gpt41_private_citycouncil_20260422/README.md)
 
-That subdirectory is already organized in a practical order: top-line summary, per-slice tables, significance, analysis note, and run report.
+That subdirectory is already organized in a practical order: top-line summary, per-slice tables, significance, analysis note, and run report. It is a derived report bundle only; it does not publish the `22` `private_data` meetings as raw artifacts, and it does not add any `private_data` files under `meeting-summary/dataset/`.
 
 ## Data Boundary and Reproducibility Boundary
 
@@ -72,10 +72,11 @@ This distinction matters, because it is easy to confuse the benchmark universe d
 - The paper’s main benchmark contains `114` meetings.
 - The dataset split is `34 city_council + 22 private_data + 58 whitehouse_press_briefings`.
 - The raw public transcript / GT / candidate / evaluation artifacts included in this repo cover only `92` public meetings, namely `city_council + whitehouse_press_briefings`.
-- The raw `private_data` artifacts are intentionally excluded because they contain confidential enterprise data.
+- The `22` `private_data` meetings are not shared as raw artifacts anywhere in this repo because they contain confidential enterprise data.
 - As a result:
   - the aggregate CSV reports still include `private_data` rows;
-  - the packaged `meeting-summary/dataset/` tree includes only the public slices.
+  - the packaged `meeting-summary/dataset/` tree includes only the public slices;
+  - the `20260422` follow-up subdirectory contains derived CSV / Markdown reports only, not raw `private_data` transcript / GT / candidate / evaluation files.
 
 Two more boundaries are important:
 
@@ -115,7 +116,8 @@ meeting-summary/dataset/views/meeting_notes/evaluation/internal/<meeting_id>/off
 
 In practice:
 
-- `t_*` ids typically refer to `city_council` or `private_data` internal meeting ids.
+- In the packaged public `dataset/` tree, `t_*` ids refer to the public `city_council` meetings.
+- The `22` `private_data` meeting ids still appear in aggregate CSV / report rows, but their raw transcript / GT / candidate / evaluation files are intentionally absent from `meeting-summary/dataset/`.
 - `whpb_*` ids refer to `whitehouse_press_briefings`.
 - `ground_truth.json` is the structured GT artifact.
 - `baseline.md` is the candidate summary.

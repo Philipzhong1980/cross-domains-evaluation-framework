@@ -2,7 +2,7 @@ section,row_type,dataset_type,meeting_id,candidate_model,meeting_count,evaluator
 overall_by_model,overall_model,,,gpt-4.1,56,112,0.739,0.789,0.794,,,,,
 overall_by_model,overall_model,,,gpt-5.4,56,112,0.754,0.844,0.868,,,,,
 overall_by_model_dataset_type,overall_model_dataset_type,city_council,,gpt-4.1,34,68,0.745,0.781,0.781,,,,,
-overall_by_model_dataset_type,overall_model_dataset_type,city_council,,gpt-5.4,34,68,0.76,0.831,0.834,,,,,
+overall_by_model_dataset_type,overall_model_dataset_type,city_council,,gpt-5.4,34,68,0.76,0.830,0.834,,,,,
 overall_by_model_dataset_type,overall_model_dataset_type,private_data,,gpt-4.1,22,44,0.729,0.801,0.816,,,,,
 overall_by_model_dataset_type,overall_model_dataset_type,private_data,,gpt-5.4,22,44,0.745,0.865,0.92,,,,,
 detail,meeting_model,city_council,t_10062873984778850834470432363897468907,gpt-4.1,,2,0.569,0.788,0.659,"{""anthropic.claude-sonnet-4-20250514-v1:0"": 0.69, ""gpt-5-2025-08-07"": 0.448}","{""anthropic.claude-sonnet-4-20250514-v1:0"": 0.813, ""gpt-5-2025-08-07"": 0.764}","{""anthropic.claude-sonnet-4-20250514-v1:0"": 0.705, ""gpt-5-2025-08-07"": 0.614}",completed,/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/dataset/views/meeting_notes/evaluation/internal/t_10062873984778850834470432363897468907/offline/evaluation_report_standard_gpt-41.json
