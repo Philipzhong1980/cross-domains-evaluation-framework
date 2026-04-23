@@ -1,0 +1,137 @@
+{
+  "meeting_context": "White House press briefing imported from 20240111_press_2_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Trevor Hunnicutt",
+    "Nick Schifrin",
+    "Demetri",
+    "Charles Hutzler",
+    "Shaun Tandon",
+    "Morgan Chalfant",
+    "Kevin Collier"
+  ],
+  "topics": [
+    {
+      "topic": "The senior administration official is holding a background",
+      "points": [
+        {
+          "text": "The senior administration official is holding a background call on Taiwan issues in preparation for the upcoming elections.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the upcoming presidential",
+      "points": [
+        {
+          "text": "The senior administration official discusses the upcoming presidential and legislative elections in Taiwan, emphasizing the United States' support for Taiwan's democratic processes, opposition to outside interference, and commitment to maintaining its policy towards Taiwan regardless of the election outcome.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes the United States'",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes the United States' opposition to unilateral changes to the status quo, support for cross-Strait dialogue, and expectation of peaceful resolution of cross-Strait differences, while acknowledging that Beijing's response to the elections will determine whether it becomes a provocateur or not, and highlighting the critical importance of peace and stability in the Taiwan Strait for global countries and economies.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes the importance of",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes the importance of peace and stability in the Taiwan Strait for global economies, highlights the need for open communication with Beijing and Taiwan, and mentions plans for an unofficial delegation after the Taiwan election.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains the longstanding practice",
+      "points": [
+        {
+          "text": "The senior administration official explains the longstanding practice of sending unofficial delegations to Taiwan after elections and emphasizes the focus on peace, stability, and maintaining the status quo in communication with both Beijing and Taipei.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official expresses concerns about interference",
+      "points": [
+        {
+          "text": "The senior administration official expresses concerns about interference and coercion in Taiwan's democratic political processes, while emphasizing the expectation of a strong unofficial relationship with Taiwan across various dimensions.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official expresses confidence in Taiwan's",
+      "points": [
+        {
+          "text": "The senior administration official expresses confidence in Taiwan's democratic processes while acknowledging concerns about interference and coercion from Beijing and discussing the possibility of sending a delegation to Beijing after the election.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that the unofficial",
+      "points": [
+        {
+          "text": "The senior administration official explains that the unofficial delegation going to Taipei is meant to communicate the importance of a strong unofficial partnership, clarify the U.S. One China policy, and manage cross-Strait tensions, while also mentioning that the meeting with Liu Jianchao addressed PRC concerns about the election and the sensitive period ahead.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official confirms that the message",
+      "points": [
+        {
+          "text": "The senior administration official confirms that the message of not interfering in Taiwan's election has been consistently delivered to Beijing through various high-level engagements, including the Woodside summit, meetings with Wang Yi, and Ambassador Xie Feng.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges that China's actions",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges that China's actions in Taiwan's election are consistent with their past behavior, while also expressing the intention to continue trade relations with Taiwan regardless of the election outcome.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges the need for",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges the need for contingency planning and expresses that the context of Taiwan elections and cross-Strait issues is being framed incorrectly.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges that China has",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges that China has attempted to shape the information environment and put economic pressure on Taiwan, but suggests looking to Taiwan as the source for information on China's alleged information operations and election interference.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

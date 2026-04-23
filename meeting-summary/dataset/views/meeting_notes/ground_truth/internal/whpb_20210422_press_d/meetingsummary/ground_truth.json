@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20210422_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. PSAKI",
+    "Unidentified",
+    "ADMINISTRATOR MCCARTHY",
+    "SECRETARY KERRY"
+  ],
+  "topics": [
+    {
+      "topic": "National Climate Advisor Gina McCarthy and Special Presidential",
+      "points": [
+        {
+          "text": "National Climate Advisor Gina McCarthy and Special Presidential Envoy for Climate John Kerry are joining the Briefing Room for the second time to deliver short remarks and answer a few questions during the busy Climate Summit.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "National Climate Advisor Gina McCarthy discusses President Biden's",
+      "points": [
+        {
+          "text": "National Climate Advisor Gina McCarthy discusses President Biden's commitment to the Paris Agreement and the United States' goal to reduce greenhouse gas emissions by 50 to 52 percent below 2005 levels by 2030, highlighting the government's assessment of various sectors and the opportunities for clean energy, job creation, public health improvement, and environmental justice.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "National Climate Advisor Gina McCarthy emphasizes the economic",
+      "points": [
+        {
+          "text": "National Climate Advisor Gina McCarthy emphasizes the economic opportunities and job creation that come with tackling the climate crisis, highlighting President Biden's commitment to investing in infrastructure, innovation, and workers to reduce greenhouse gas emissions and promote environmental justice.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary John Kerry praises National Climate Advisor Gina",
+      "points": [
+        {
+          "text": "Secretary John Kerry praises National Climate Advisor Gina McCarthy and her team for their successful organization and coordination in preparing the Nationally Determined Contribution (NDC) for the climate summit, highlighting the importance of their efforts in restoring global credibility and emphasizing the significant progress made in mobilizing financial institutions towards achieving net-zero emissions.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Kerry discusses the progress made in mobilizing",
+      "points": [
+        {
+          "text": "Secretary Kerry discusses the progress made in mobilizing financial institutions and countries towards achieving net-zero emissions, emphasizing the importance of restoring America's credibility and raising global ambition in addressing the climate crisis.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Kerry discusses the feasibility of the climate",
+      "points": [
+        {
+          "text": "Secretary Kerry discusses the feasibility of the climate plan, stating that it can be executed through executive orders and emphasizes the importance of private sector involvement and global investment in order to ensure that future politicians do not undo the progress made.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Kerry discusses the potential for job growth",
+      "points": [
+        {
+          "text": "Secretary Kerry discusses the potential for job growth in the renewable energy sector and emphasizes the need for the United States to lead in the creation of new technologies and opportunities.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Kerry discusses the transition to renewable energy",
+      "points": [
+        {
+          "text": "Secretary Kerry discusses the transition to renewable energy as an investment in new, more efficient and cost-effective ways of delivering energy that will create employment opportunities and is driven by market forces rather than government direction.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Kerry emphasizes that the transition to renewable",
+      "points": [
+        {
+          "text": "Secretary Kerry emphasizes that the transition to renewable energy is driven by market forces, as evidenced by companies like Tesla and GM committing to producing electric vehicles, and believes that this market momentum will prevent any future president from reversing the progress made.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Kerry believes that the global transition to",
+      "points": [
+        {
+          "text": "Secretary Kerry believes that the global transition to renewable energy is necessary due to the increasing impact of climate change, and he hopes to find common ground with countries like Russia and Brazil in addressing emissions reduction.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Kerry expresses optimism about the ability of",
+      "points": [
+        {
+          "text": "Secretary Kerry expresses optimism about the ability of the United States to exceed emissions reduction targets through advancements in technology such as batteries, storage, green hydrogen, and carbon capture, citing the country's history of innovation and achievement.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Kerry expresses optimism about the United States'",
+      "points": [
+        {
+          "text": "Secretary Kerry expresses optimism about the United States' ability to exceed emissions reduction targets through advancements in technology and collaboration with other efforts around the world, particularly in the areas of batteries, storage, green hydrogen, and carbon capture.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Kerry acknowledges that while some may view",
+      "points": [
+        {
+          "text": "Secretary Kerry acknowledges that while some may view the emissions reduction targets and climate finance commitments as insufficient, he appreciates the passion and urgency expressed by those who believe more needs to be done, drawing parallels to past movements for change.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Kerry acknowledges the frustration and anger of",
+      "points": [
+        {
+          "text": "Secretary Kerry acknowledges the frustration and anger of young activists and believes that President Biden's actions, such as setting emissions reduction targets and getting nations invested, are a step forward in addressing climate change, even though more needs to be done.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript Secretary Kerry",
+      "points": [
+        {
+          "text": "In this section of the transcript, Secretary Kerry and Ms. Psaki have a brief exchange before Ms. Psaki mentions that she has one more item to discuss.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section Ms Psaki discusses the latest",
+      "points": [
+        {
+          "text": "In this section, Ms. Psaki discusses the latest unemployment numbers, confirms that tax increases on the wealthy will be included in the American Family Plan, mentions that President Biden will outline the details of the plan in his Joint Session Address to Congress, expresses openness to Republican lawmakers' slimmer infrastructure plan as a starting point for conversation, and states that President Biden is discussing with health and medical experts whether to extend the call for Americans to wear masks beyond 100 days.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section Ms Psaki defers to the",
+      "points": [
+        {
+          "text": "In this section, Ms. Psaki defers to the CDC to determine whether vaccinated Americans should continue wearing masks outdoors and expresses the administration's commitment to following and recommending their guidance.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Psaki declines to provide any information or",
+      "points": [
+        {
+          "text": "Ms. Psaki declines to provide any information or speculation on whether President Biden will make a formal announcement recognizing the Armenian genocide.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Psaki discusses the multiple pathways including executive",
+      "points": [
+        {
+          "text": "Ms. Psaki discusses the multiple pathways, including executive action and passing legislation, for different economic sectors to make adjustments and changes in order to reach the goal of reducing greenhouse gas emissions.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Psaki discusses how industries are already taking",
+      "points": [
+        {
+          "text": "Ms. Psaki discusses how industries are already taking steps towards investing in the future of electric vehicles and how the government can help ensure job creation and prepare and invest in industries for future opportunities.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Psaki explains that while there is a",
+      "points": [
+        {
+          "text": "Ms. Psaki explains that while there is a role for the private sector in investing in electric vehicle charging stations, the government's involvement is necessary to incentivize and ensure continued progress, create jobs, and invest in industries for future opportunities, while also addressing concerns about tax increases on high-income Americans and potential energy attacks by Russia on U.S. troops.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Psaki discusses the White House's strategy for",
+      "points": [
+        {
+          "text": "Ms. Psaki discusses the White House's strategy for raising money for developing nations through international climate finance, including the need to work with Congress to appropriate funds for the Green Climate Fund.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript Ms Psaki",
+      "points": [
+        {
+          "text": "In this section of the transcript, Ms. Psaki discusses the United States' concerns about the buildup of Russian troops along the border of Ukraine and emphasizes the importance of deescalating tensions through diplomatic conversations.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Psaki discusses President Biden's plans for his",
+      "points": [
+        {
+          "text": "Ms. Psaki discusses President Biden's plans for his upcoming Joint Address, which will focus on the American Families Plan, police reform, healthcare access, and other middle-class priorities, while acknowledging that it won't cover every issue.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden strongly supports D C statehood and",
+      "points": [
+        {
+          "text": "President Biden strongly supports D.C. statehood and will work with Congress to get it passed, as it violates two founding principles of the nation, and he also believes there are multiple pathways to meet climate goals prior to the Glasgow meeting in November.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter asks about the definition of the",
+      "points": [
+        {
+          "text": "The reporter asks about the definition of the $400,000 threshold for taxes and why it was important for President Biden to physically deliver his speech at the Capitol Building.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden recognizes the opportunity to speak directly",
+      "points": [
+        {
+          "text": "President Biden recognizes the opportunity to speak directly to the American people and work in partnership with Congress during his primetime address at the Capitol Building, taking into account security and COVID safety measures.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing White House Press Secretary",
+      "points": [
+        {
+          "text": "During a press briefing, White House Press Secretary Jen Psaki confirms that President Biden will address the American Families Plan and other important issues such as healthcare and police reforms in his upcoming Joint Address, while also highlighting his commitment to expanding healthcare access and tackling the ongoing health crisis, and mentions that the President spends his evenings and weekends with his family, including his grandchildren, and enjoys movies as well as having two beloved dogs.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki confirms that",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki confirms that while efforts have been made to vaccinate White House staff, not all members have been vaccinated yet, and precautions such as wearing N95 masks and limited meetings are in place to protect against COVID-19.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki discusses the",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki discusses the importance of China's involvement in addressing the climate crisis and reaffirms the United States' commitment to following through on its climate goals.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki discusses the",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki discusses the importance of China's involvement in addressing the climate crisis and reaffirms the United States' commitment to following through on its climate goals.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

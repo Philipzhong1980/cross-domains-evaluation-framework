@@ -1,0 +1,402 @@
+{
+  "result": {
+    "meeting_context": "This was a Rental Housing Committee meeting held virtually on November 14, 2022, covering consent calendar approval, an appeal hearing regarding rent concession regulations, monthly status reports, and community outreach planning. The committee addressed procedural matters, reviewed a landlord's appeal of a hearing officer's decision on base rent calculations, and received comprehensive presentations on program status and communications strategies.",
+    "participants": [
+      "Haynes-Livesay",
+      "Andrea",
+      "Greenawald",
+      "Rosas",
+      "Almond",
+      "Ramos",
+      "Teresa",
+      "Nas",
+      "Steve",
+      "Rondillan",
+      "Karen",
+      "Anky",
+      "Unidentified"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Setup and Roll Call",
+        "points": [
+          {
+            "speaker": "Haynes-Livesay",
+            "text": "Meeting called to order at 7:04 PM with virtual participation and public access via mountainview.ledgestar.com, YouTube, and Comcast Channel 26",
+            "source": "Haynes-Livesay : The meeting is called to order at seven O 4"
+          },
+          {
+            "speaker": "Andrea",
+            "text": "Roll call confirmed attendance of Greenawald, Rosas, Almond, Ramos, and Chair Haynes-Livesay, with Pardo Dezella absent",
+            "source": "Andrea : Committee member Pardo Dazella is not present at this time"
+          }
+        ]
+      },
+      {
+        "topic": "Consent Calendar Approval",
+        "points": [
+          {
+            "speaker": "Almond",
+            "text": "Motion approved minutes from October 17, 2022 RHC meeting, resolution to continue virtual meetings under AB 361, and quarterly financial expenditures through September 30, 2022",
+            "source": "Almond : I will move to approve the minutes of the RHC meeting October 17th, 2022"
+          },
+          {
+            "speaker": "Andrea",
+            "text": "Motion passed unanimously with all present members voting aye",
+            "source": "Andrea : Chair Haynes lives in motion, passes unanimously"
+          }
+        ]
+      },
+      {
+        "topic": "Public Comment Recognition",
+        "points": [
+          {
+            "speaker": "Teresa",
+            "text": "Teresa thanked Anke and RHC staff for responding to unit registration software inquiry and noted progress being made",
+            "source": "Teresa : First, I just wanted to say thank you to Anke and the staff and the RHC for getting back to me on the unit registration software"
+          }
+        ]
+      },
+      {
+        "topic": "Appeal Hearing Procedures",
+        "points": [
+          {
+            "speaker": "Haynes-Livesay",
+            "text": "Committee acting in quasi-judicial capacity to review appeal of petition 21220016 regarding downward rent adjustment based on unlawful rent related to concessions",
+            "source": "Haynes-Livesay : Now the Rental Housing Committee in hearing this appeal is acting in a quasi judicial fashion"
+          },
+          {
+            "speaker": "Nas",
+            "text": "Staff does not recommend de novo review as issues relate to application of law rather than contested facts, with existing record providing sufficient evidence",
+            "source": "Nas : So, as I mentioned, staff does not recommend a De Nova review"
+          }
+        ]
+      },
+      {
+        "topic": "Rent Concession Regulations Background",
+        "points": [
+          {
+            "speaker": "Nas",
+            "text": "Tenant filed petition for downward rent adjustment alleging annual general adjustments for 2021 and 2022 imposed on incorrect base rent that didn't account for one-month concession in second month",
+            "source": "Nas : Specifically, the tenant alleged that the annual general adjustments for 2021 and 2022 were imposed on the incorrect base rent"
+          },
+          {
+            "speaker": "Nas",
+            "text": "Hearing officer concluded tenant entitled to downward adjustment with correct base rent of $1416.25 accounting for one-month concession and refund of overpaid rent",
+            "source": "Nas : The hearing officer calculated that accounting for the one month concession, the correct base rent was $1416.25"
+          },
+          {
+            "speaker": "Nas",
+            "text": "Rent concession regulations apply to all tenancies commencing after October 19, 2015, with base rent calculated as average amount actually paid during initial term",
+            "source": "Nas : So just to review, those regulations apply to all tenancies commencing after October 19th, 2015"
+          }
+        ]
+      },
+      {
+        "topic": "Landlord Appeal Arguments",
+        "points": [
+          {
+            "speaker": "Steve",
+            "text": "Appellant argued regulations should not apply retroactively to concessions provided before September 1, 2022, comparing situation to making previously legal parking spots retroactively illegal",
+            "source": "Steve : Basically this decision to make it retroactive is tantamount to the city taking a parking spot that was legal to park in and then deciding a year later that it's illegal"
+          },
+          {
+            "speaker": "Steve",
+            "text": "Landlord stated tenant was charged $1545 every month with landlord paying one month, similar to other rental assistance programs",
+            "source": "Steve : With with regard to the calculation of the base rent, the tenant was charged the lease amount 1545 every month of the initial term"
+          }
+        ]
+      },
+      {
+        "topic": "Tenant Response",
+        "points": [
+          {
+            "speaker": "Rondillan",
+            "text": "Tenant moved in May 1, 2021 paying $1545 monthly with second month free, understanding base rent should reflect what was actually paid during first 12 months",
+            "source": "Rondillan : So as was mentioned before I I moved in on May 1st 2021 and right I was paying 1545 a month in rent"
+          },
+          {
+            "speaker": "Rondillan",
+            "text": "Tenant believed September 1st decision related to annual general adjustment increase to 5% rather than other regulatory changes",
+            "source": "Rondillan : And then the my understanding of the September 1st, the September 1st decision I thought was just about when the maybe there were two, but when the Aga, the annual general adjustment was going to increase to 5%"
+          }
+        ]
+      },
+      {
+        "topic": "Committee Questions on Regulations",
+        "points": [
+          {
+            "speaker": "Karen",
+            "text": "One-year lookback limitation adopted to address landlord concerns about concessions given years ago while clarifying existing law on base rent calculations",
+            "source": "Karen : So that was an effort to address concerns that there may have been misunderstandings about how the CSFRA treats base rent"
+          },
+          {
+            "speaker": "Ramos",
+            "text": "Vice Chair confirmed being swing vote for one-year lookback instead of full rollback to October 19, 2015 base date to avoid being too harsh on landlords",
+            "source": "Ramos : I think I was one of the swing votes that determined that we would have a one year look back instead of having it go all the way back"
+          },
+          {
+            "speaker": "Anky",
+            "text": "One-year limitation was specifically requested by landlords in meetings to diminish impacts, representing compromise agreed upon by Rental Housing Committee",
+            "source": "Anky : I remember it was specifically asked for by the landlords in one of their meetings to diminish the impacts on them"
+          }
+        ]
+      },
+      {
+        "topic": "Committee Deliberation on Appeal",
+        "points": [
+          {
+            "speaker": "Greenawald",
+            "text": "Committee member acknowledged appellant's retroactivity concerns while noting committee took four meetings to debate these complex issues",
+            "source": "Greenawald : I think framing it as like landlords are lucky that that they only have to roll it back a year is is that would be frustrating for me"
+          },
+          {
+            "speaker": "Haynes-Livesay",
+            "text": "Chair clarified committee worked within CSFRA constraints to provide relief, noting concern about potential four to seven years of devastating rent rollbacks",
+            "source": "Haynes-Livesay : I think there was a lot of concern that we would have four or six, seven years of rent rollbacks that would be just completely devastating"
+          },
+          {
+            "speaker": "Ramos",
+            "text": "Vice Chair expressed frustration that accommodations made for property owners were deemed insufficient, noting first-month free rent exception was brought back at their request",
+            "source": "Ramos : I personally, I we could have bypassed a lot of this by not having a free month rent and I know I was the one that brought that back"
+          }
+        ]
+      },
+      {
+        "topic": "Appeal Decision",
+        "points": [
+          {
+            "speaker": "Almond",
+            "text": "Committee member moved to accept tentative appeal decision, viewing case as test that establishes clear framework for future situations",
+            "source": "Almond : OK, I would like to suggest a motion to accept the tentative agreement"
+          },
+          {
+            "speaker": "Andrea",
+            "text": "Motion to accept tentative appeal decision passed unanimously with all present members voting aye",
+            "source": "Andrea : Motion passes unanimously"
+          }
+        ]
+      },
+      {
+        "topic": "October 2022 Status Report",
+        "points": [
+          {
+            "speaker": "Unidentified",
+            "text": "Program received 782 inquiries through October with 25% requiring bilingual Spanish services, held 10 workshops with 56 attendees and 17 office hours",
+            "source": "Unidentified : We had 782 inquiries made through the end of October and 25% of which are bilingual services"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Staff conducted 24 pop-ups and Eviction Help Center clinics connecting with 1,665 people in community outreach efforts",
+            "source": "Unidentified : We've held 24 Pop Ups and Eviction Help Center clinics with 1600 and 1065 people being connected"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Sent 354 targeted letters to tenants receiving termination notices and 22 email updates, with 45 mediations conducted through Mountain View programs",
+            "source": "Unidentified : Now for our up come for our termination notices, the we've sent out 354 targeted letters to tenants"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Fiscal year recorded 139 rent increase notices, 370 termination notices, 12 tenant petitions, and 3 households received tenant relocation assistance",
+            "source": "Unidentified : This fiscal year we've had 139 banks run increased notices and a total of 370 termination notices"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Market vacancy rate at 4.8% with average asking rent of $2,668, showing rent peak followed by decline reflecting Bay Area trends",
+            "source": "Unidentified : We are at 4.8% for vacancy rates this month"
+          }
+        ]
+      },
+      {
+        "topic": "Communications Plan Overview",
+        "points": [
+          {
+            "speaker": "Unidentified",
+            "text": "COVID-19 pandemic significantly transformed outreach efforts to focus on emergency eviction protections from March 2020 through fiscal year 2021-22",
+            "source": "Unidentified : There were significant external impacts on our outreach and education efforts, including the COVID-19 pandemic"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Eviction Help Center held 61 clinics from August 2021 through June 2022, reaching 832 total clients representing 343 individual tenant households",
+            "source": "Unidentified : We held 61 clinics from August 14th of 2021 through June 30th of 2022, reaching 832 total clients"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Individual tenant households served represented 40-45% of total households that applied for state rent relief program in Mountain View",
+            "source": "Unidentified : And those individual tenant households there that you see represent about 40 to 45% of the total number of households that applied for relief"
+          }
+        ]
+      },
+      {
+        "topic": "Outreach Activities and Results",
+        "points": [
+          {
+            "speaker": "Unidentified",
+            "text": "Staff conducted 18 pop-up events connecting with 830 community members, including Monster Bash (100), school district events (36), and food distributions (255)",
+            "source": "Unidentified : We held 18 pop up events and connected with at least 830 community members"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Held 25 virtual webinars reaching 157 community members with 12 webinars conducted in English and Spanish",
+            "source": "Unidentified : For workshops and trainings, we held 25 virtual webinars, trainings and community members, reaching a total of 157 community members"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Mailed 943 targeted informational packets to tenants and landlords after termination notice filings and sent three citywide postcards to 36,000 households",
+            "source": "Unidentified : Last year we sent out 943 targeted informational packets and we also sent out three postcards"
+          }
+        ]
+      },
+      {
+        "topic": "Future Communications Strategy",
+        "points": [
+          {
+            "speaker": "Unidentified",
+            "text": "Goal to increase community awareness with three objectives: develop consistent materials, increase engagement, and improve program efficacy and transparency",
+            "source": "Unidentified : So we have a goal for our communications plan to increase community awareness and understanding of the tenant protections"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Monthly status report will add registration compliance data, market rent by unit size, annual termination data, and mobile home data",
+            "source": "Unidentified : For the monthly status report, staff proposes adding the following data points based on RHC feedback"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Plan includes expanded targeted mailings for rent increases, termination notices, new property owners, and small landlord registration surveys",
+            "source": "Unidentified : We will also expand our distributed targeted mailings"
+          }
+        ]
+      },
+      {
+        "topic": "Portal and System Updates",
+        "points": [
+          {
+            "speaker": "Unidentified",
+            "text": "Bulk upload function for landlord registration will be available by mid to late December with public search option live by December 1st",
+            "source": "Unidentified : The bulk upload function that has been requested will be likely available by mid to late December"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Landlord petitions for capital improvement and joint petitions will be available by mid-January with simplified unit amendment process",
+            "source": "Unidentified : landlord petitions will be able to be filed for Mnoi petitions by mid January"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Database updates will address partially covered units requiring only owner and manager contact information updates, not rent information",
+            "source": "Unidentified : They will only now need to update the owner and manager contact information and not the unit rent information"
+          }
+        ]
+      },
+      {
+        "topic": "Specialized Outreach Initiatives",
+        "points": [
+          {
+            "speaker": "Unidentified",
+            "text": "Plans include realtor-specific training to address property owners not knowing about CSFRA when purchasing buildings, following other jurisdictions' effective practices",
+            "source": "Unidentified : And we'll be developing realtor specific training and materials so that we can start addressing the issue of property owners perhaps not knowing about the CSFRI"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Outreach will expand to Chinese-speaking community via Multicultural Engagement program and continue translated materials and web pages",
+            "source": "Unidentified : We'll be connecting with the Chinese speaking community via the Multicultural Engagement program"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Staff will distribute materials at high-touch locations like laundromats and grocery stores to reach vulnerable and hard-to-reach community members",
+            "source": "Unidentified : We'll be distributing materials within the community at high touch locations like laundromats and grocery stores"
+          }
+        ]
+      },
+      {
+        "topic": "Budget and Staffing Considerations",
+        "points": [
+          {
+            "speaker": "Anky",
+            "text": "ARPA funds received from City Council will address multicultural and language aspects of program, though not guaranteed for future years",
+            "source": "Anky : I I just wanted to add to the budget question that we also received our puff funds from City Council"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Communications plan operates within current staffing levels and approved budget, with one outreach specialist position not yet fully filled",
+            "source": "Unidentified : this plan takes into account those current staffing levels"
+          },
+          {
+            "speaker": "Unidentified",
+            "text": "Printed newsletter mailings cost approximately $10,000 to reach all covered tenants and landlords, with postcards being relatively low cost",
+            "source": "Unidentified : I think it's about, I haven't received the invoice for this current one but in the past it's been around $10,000"
+          }
+        ]
+      },
+      {
+        "topic": "Committee Feedback on Communications",
+        "points": [
+          {
+            "speaker": "Almond",
+            "text": "Committee member praised staff's comprehensive work depth and breadth, noting importance of looking forward and back to assess effectiveness",
+            "source": "Almond : I don't have, I don't have a question. I just am blown away by the amount of both depth and breadth of the work"
+          },
+          {
+            "speaker": "Ramos",
+            "text": "Vice Chair referenced UC Berkeley, Harvard, and Stanford study showing postcards most effective way to reach older, poorer, less educated, and foreign-born populations",
+            "source": "Ramos : And it was a study from UC Berkeley, Harvard and Stanford that actually studied how outreach was done"
+          },
+          {
+            "speaker": "Rosas",
+            "text": "Committee member testified to staff's effective community meeting participation with translations and praised their commitment despite late meeting hours",
+            "source": "Rosas : I was just wanted to give a testament to 'cause I actually have been in meetings where our staff has definitely been participant"
+          }
+        ]
+      },
+      {
+        "topic": "Upcoming Events and Programs",
+        "points": [
+          {
+            "speaker": "Andrea",
+            "text": "Housing and Eviction Help Center operates first and third Thursdays monthly at Mountain View Public Library second floor from 1-5 PM, offering both in-person and online access",
+            "source": "Andrea : So this is held every 1st and 3rd Thursday of each month"
+          },
+          {
+            "speaker": "Andrea",
+            "text": "Virtual office hours continue every Tuesday 10 AM-12 PM for one-on-one tenant-landlord assistance, with upcoming workshops on accessibility and mobile home regulations",
+            "source": "Andrea : So we continue to hold our virtual office hours every single Tuesday from 10:00 AM to 12:00 PM"
+          },
+          {
+            "speaker": "Andrea",
+            "text": "Staff participated in Dia de Muertos event at Monster Bash on October 29th, connecting with community through cultural celebration and resource sharing",
+            "source": "Andrea : And to end the meeting on a fun note, we just want to highlight the Dia de Muertos event that staff participated in"
+          }
+        ]
+      },
+      {
+        "topic": "Meeting Closure",
+        "points": [
+          {
+            "speaker": "Haynes-Livesay",
+            "text": "Chair adjourned meeting at 9:01 PM with next Rental Housing Committee meeting scheduled for Monday, December 5, 2022 at 7:00 PM",
+            "source": "Haynes-Livesay : The meeting is adjourned at 9 O 1:00 PM. The next Rental Housing Committee member is scheduled to be held on Monday, December 5th, 2022"
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Rental Housing Committee",
+        "text": "Committee will accept tentative appeal decision upholding hearing officer's determination on rent concession base rent calculation",
+        "source": "Almond : OK, I would like to suggest a motion to accept the tentative agreement"
+      }
+    ],
+    "metadata": {
+      "topicCount": 20,
+      "pointCount": 52,
+      "decisionCount": 1
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:49:24.719065+00:00"
+  }
+}

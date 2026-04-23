@@ -1,0 +1,483 @@
+{
+  "result": {
+    "total_aligned_gt": {
+      "meeting_context": "City of Mountain View Human Relations Commission met via video conference during a declared state of emergency. Commissioners approved prior minutes, received a detailed update on the Multicultural Engagement Program (MEP), finalized subcommittee memberships for the new work plan, and discussed administrative items including Form 700 filing requirements and virtual meeting status for upcoming meetings.",
+      "participants": [
+        "Annette Lin",
+        "Laurel James",
+        "Kevin Ball",
+        "Nirvana Nwokidu",
+        "Jill Rakestraw",
+        "Julie Solomon",
+        "IdaRose Sylvester",
+        "Lenka Wright",
+        "Nancy Ducos",
+        "Xavier Webb"
+      ],
+      "topics": [
+        {
+          "topic": "Multicultural Engagement Program update",
+          "points": [
+            {
+              "speaker": "Nancy Ducos",
+              "text": "The Multicultural Engagement Program, now within the City's Communications and Outreach division, provides translation of essential documents, interpretation at meetings, and multilingual outreach via events and WhatsApp/WeChat. The team has grown to seven staff from a small part-time group several years ago.",
+              "source": "Nancy Ducos : We became part of the Communication and Outreach division… The MEP support public access… translating essential documents, interpreting at community meetings… through the WhatsApp and WeChat… now we have a a team of seven…"
+            },
+            {
+              "speaker": "Nancy Ducos",
+              "text": "Last year, MEP translated approximately 288 documents and conducted about 89 virtual outreach activities, including time supporting engagement on WhatsApp and WeChat platforms used by community members.",
+              "source": "Nancy Ducos : …last year we had around 288 documents translated and around 89 virtual outreach activities including… WhatsApp… and the WeChat."
+            },
+            {
+              "speaker": "Nancy Ducos",
+              "text": "MEP ran a Spanish Language Civic Leadership Academy (18 participants during the pandemic) and launched the City's first Chinese Language Civic Leadership Academy with 17 participants and 100% retention, moving sessions in-person at participants' request to strengthen trust and engagement with local government.",
+              "source": "Nancy Ducos : …recruit 18 members of the Latino community… we did it through Zoom… then… Chinese… 17 participants and we have 100% retention… move some of the sessions in person…"
+            },
+            {
+              "speaker": "Nancy Ducos",
+              "text": "Graduates of the Spanish academy serve as community ambassadors who amplify City information; for example, ambassadors delivered 648 housing-related flyers door-to-door. MEP keeps alumni engaged and shares advisory body openings in appropriate languages to broaden participation.",
+              "source": "Nancy Ducos : …Ambassador program… they… deliver 648 Flyers regarding housing…"
+            },
+            {
+              "speaker": "Nancy Ducos",
+              "text": "To reduce digital barriers identified during the pandemic, MEP partnered with the Los Altos Mountain View Community Foundation to provide new laptops to Spanish academy participants and ambassadors lacking devices, and partnered with the Library to offer basic digital skills training.",
+              "source": "Nancy Ducos : …provide devices… partnership with the Los Altos Mountain View Community Foundation… provide brand new laptop… partnered with the library… offer classes…"
+            },
+            {
+              "speaker": "Nancy Ducos",
+              "text": "MEP plans the next Spanish Language Civic Leadership Academy for September–October 2023 and intends to hold the next Chinese Language Civic Leadership Academy in the following spring, aligning schedules with community preferences.",
+              "source": "Nancy Ducos : …for 2023… Spanish Leadership Academy… September, October and then for the Chinese Academy we like to do it in the spring…"
+            }
+          ]
+        },
+        {
+          "topic": "Language access and census data",
+          "points": [
+            {
+              "speaker": "Lenka Wright",
+              "text": "The City is developing a language access policy to guide which languages receive translation and interpretation. Current demand is highest for Spanish and Chinese, with other languages handled via a phone interpretation vendor as needed.",
+              "source": "Lenka Wright : …we are exploring the development of a language access policy…"
+            },
+            {
+              "speaker": "Lenka Wright",
+              "text": "Based on 2021 ACS estimates, 53% of Mountain View residents speak only English; 47% speak another language. Spanish speakers are 13.5% (~3,600 limited English); Asian/Pacific Island languages 19% (~5,700 limited English); other Indo-European languages 12.8% (~2,200 limited English).",
+              "source": "Lenka Wright : …only speaking English… about 53%… language other than English… nearly 47%… Spanish… 13.5%… English less than very well… about 3600… Asian Pacific Island languages… about 19%… about 5700… other Indo European… about 12.8… close to 2200…"
+            }
+          ]
+        },
+        {
+          "topic": "Civic leadership academy outcomes",
+          "points": [
+            {
+              "speaker": "Nancy Ducos",
+              "text": "Academy alumni are participating in civic roles: a former HRC member (Fernando), two members on the EPC, and a Chinese academy graduate appointed to the Performing Arts Committee. Alumni also formed or support groups such as the Community Action Team and a Solidarity Fund.",
+              "source": "Nancy Ducos : …Fernando that was here with you, the HRC… two members… EPC… a person… in the performing arts committee… Community Action Team… Members of the Solidarity Fund…"
+            }
+          ]
+        },
+        {
+          "topic": "Subcommittee appointments and structure",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "Council approved the HRC work plan with three subcommittees: Housing and Security Storytelling, Bystander Intervention Training, and Mental Health. Each subcommittee must have no more than three commissioners to avoid Brown Act quorum issues.",
+              "source": "Laurel James : …Council did approve the HRC's work plan… the three subcommittees… and… ensure that there are only three commissioners sitting on that subcommittee in order to avoid Brown Act issues…"
+            },
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "Commission requires minimum of four members present to meet quorum assuming seven total positions available.",
+              "source": "IdaRose Sylvester : I believe it's four, so the minimum to meet a quorum, assuming that the body has seven people or 7 openings"
+            }
+          ]
+        },
+        {
+          "topic": "Housing project follow-up activities",
+          "points": [
+            {
+              "speaker": "Julie Solomon",
+              "text": "Julie Solomon arranged to obtain a release form from one interviewee and contacted four residents who provided emails after the July event to determine whether they wish to share a story, seek support, or engage with the new housing insecurity storytelling subcommittee.",
+              "source": "Julie Solomon : …appointment with her tomorrow… sign a release form… I reached out to all four of them… find out… share a story… talk to someone… referral… make them aware… there is a new subcommittee…"
+            }
+          ]
+        },
+        {
+          "topic": "Administrative approvals and compliance updates",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "The Commission approved the September 1, 2022 regular meeting minutes by roll-call vote, with all commissioners present voting yes.",
+              "source": "Annette Lin : I'll go ahead and make a motion to approve the minutes"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "City Council designated HRC members as Form 700 filers. An initial filing covering 9/27/2021–9/27/2022 is due in October via NetFile, with annual filings each spring. Council plans to treat non-filing as unexcused absences; Laurel will confirm any additional penalties and exit-filing requirements.",
+              "source": "Laurel James : …added the HRC… required to file a Statement of economic Interest… due in October… Netfile… annual… Council will be amending city policy… unexcused absence… I will confirm… whether or not there are other penalties…"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Council extended the provision for virtual meetings in mid-September and will revisit the decision in mid-October. Laurel will notify commissioners whether the November HRC meeting will be held virtually or in person.",
+              "source": "Laurel James : …council did in mid-september extend the virtual meetings provision… will revisit it again in mid-october and I will let you know what their determination is…"
+            },
+            {
+              "speaker": "Annette Lin",
+              "text": "The meeting adjourned with the next regular HRC meeting scheduled for November 3, 2022 at 6:30 PM.",
+              "source": "Annette Lin : …I'll adjourn this meeting… next scheduled meeting… on November 3rd, 2022 at 6:30."
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Multicultural Engagement Program",
+          "text": "MEP will run the next Spanish Language Civic Leadership Academy in September–October 2023 and schedule the Chinese Language Civic Leadership Academy for the following spring.",
+          "source": "Nancy Ducos : …for 2023… Spanish Leadership Academy… September, October… for the Chinese Academy we like to do it in the spring."
+        },
+        {
+          "assignee": "City staff",
+          "text": "City staff will update the housing history project webpage by adding a video gallery, posting oral histories, and publishing event information and Q&A.",
+          "source": "Laurel James : …updates to the web page… adding a video gallery… adding the oral histories… making more information… available… city staff take care of that."
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will notify commissioners in October whether the November HRC meeting will be virtual or in person after Council's review.",
+          "source": "Laurel James : …will revisit it again in mid-october and I will let you know what their determination is…"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will contact subcommittees to schedule initial working meetings following this session.",
+          "source": "Annette Lin : …you'll be reaching out to the subcommittees…; Laurel James : That's correct."
+        },
+        {
+          "assignee": "All commissioners",
+          "text": "Form 700 disclosure forms must be filed by October deadline covering September 2021-2022 period with annual filing required thereafter.",
+          "source": "Laurel James : Forms 700 have to be filed annually. So this would be the first filing and then typically they're due in the spring"
+        }
+      ]
+    },
+    "single_aligned_gt": {
+      "topics": [
+        {
+          "topic": "Multicultural Engagement Program update",
+          "points": [
+            {
+              "speaker": "Nancy Ducos",
+              "text": "In the past year, MEP supported the Housing and Eviction Help Center and Rent Stabilization (translations, webinars, interpretation), Housing Element outreach, and HRC's housing history event. The team also translates City news releases and newsletters and provides interpretation for Council meetings.",
+              "source": "Nancy Ducos : We provided support… to the housing and eviction help centre and the rent stabilization program… provided simultaneous translation… very busy providing support to the housing element… translate news releases… provide interpretation for council meetings… translate the monthly economic development newsletter…",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Community events and resident services",
+          "points": [
+            {
+              "speaker": "Nancy Ducos",
+              "text": "MEP continues supporting the Eviction Help Center, providing language assistance since January for residents needing help understanding processes. The team also supports outreach for other initiatives and is refining targeted engagement to better align City programs with community needs.",
+              "source": "Nancy Ducos : …provided support at the Eviction Help Center… since January… providing language assistant… developing a plan to be more intentional about how we have reached two people…",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Nancy Ducos",
+              "text": "MEP is organizing a Día de los Muertos celebration on October 29, coinciding with the Monster Bash but highlighting their distinct cultural roots, while emphasizing respectful, culturally appropriate engagement.",
+              "source": "Nancy Ducos : …We are going to be celebrating this October 29 and it's at the same time that Monster Batch is happening… understanding that these two… celebration are very different and they have different roots…",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "LGBTQ community representation outreach",
+          "points": [
+            {
+              "speaker": "Julie Solomon",
+              "text": "Responding to MVPD's request, Julie Solomon will help identify a local LGBTQ community representative for the RIPA subcommittee after the Police Department clarifies the role's purpose, leveraging prior assessment contacts and Vice Chair Sylvester's connections.",
+              "source": "Julie Solomon : …Captain Canfield… was looking for a representative of the local LGBT community… I was happy to put out a message… but… understand what the community representative would be asked to do…; IdaRose Sylvester : …offer a small handful of potential people…",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting recognition and thanks",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "Annette Lin thanked Community Outreach Coordinator Nancy Ducos and Chief Communications Officer Lenka Wright for the Multicultural Engagement Program update and acknowledged Laurel James for procedural guidance and support during the meeting.",
+              "source": "Annette Lin : Thank you, Nancy…; Annette Lin : Thanks, Laurel, and thanks for all the reminders of what we need to do.",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting procedures and roll call",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "Meeting conducted virtually under California Government Code Section 54953 during declared state of emergency with all commissioners participating by video conference",
+              "source": "Annette Lin : during this declared state of emergency, this meeting will be conducted in accordance with California Government Code Section 54953, Section E",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Roll call confirmed attendance of Commissioners Ball, Nwokidu, Rakestraw, Solomon, Vice Chair Sylvester, and Chair Lin with Commissioner Webb arriving late",
+              "source": "Laurel James : Commissioner Webb will be late this evening",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Language access and census data",
+          "points": [
+            {
+              "speaker": "Nancy Ducos",
+              "text": "Program occasionally receives requests for Hindi and other languages related to housing issues, handled through contracted phone interpretation services",
+              "source": "Nancy Ducos : sometimes we do really have requests for people like Hindi or Modern other languages all related to housing",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Subcommittee appointments discussion",
+          "points": [
+            {
+              "speaker": "Kevin Ball",
+              "text": "Commissioner Ball withdrew interest from Housing and Security Storytelling subcommittee as departing member to simplify decision-making process",
+              "source": "Kevin Ball : I would happily withdraw my interest at this point to make the decision making here simpler",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Annette Lin",
+              "text": "Chair Lin announced resignation from HRC due to relocation to San Mateo at end of year despite term not expiring",
+              "source": "Annette Lin : even though my term is not up, I will unfortunately have to resign my my spot on the HRC because I'll be moving to San Mateo",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Julie Solomon",
+              "text": "Commissioner Solomon volunteered to focus remaining time on closing Discrimination and Inclusion housing project activities rather than joining new subcommittees",
+              "source": "Julie Solomon : I think that closing out some of the activities from the Discrimination and Inclusion and housing project, I think that would be a helpful use of my time",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Commission recruitment and transitions",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "Vice Chair Sylvester recruited two candidates who have applied for vacant HRC positions",
+              "source": "IdaRose Sylvester : I recruited 2 amazing candidates, both who I believe have applied",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Staff requested information from City Clerk's office about number of applications received for vacant commissioner positions",
+              "source": "Laurel James : I have asked the City Clerk's office if I can have the number of applications and if I'm able to share it with you",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting logistics and future plans",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "Celebration of service event scheduled for Monday at Shoreline Amphitheater with commissioner attendance planned",
+              "source": "IdaRose Sylvester : everyone aware of and going to the the little events on Monday, the celebration of service",
+              "from_gt": "gt2"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will ask the Communications team about hosting the project video on the City's YouTube channel and report back.",
+          "source": "Laurel James : That is a question for our communications team and I will post it to them.",
+          "from_gt": "gt1"
+        },
+        {
+          "assignee": "Julie Solomon",
+          "text": "Julie Solomon will contact four residents who provided emails after the July event to clarify interests and coordinate storytelling, referrals, or engagement with the new subcommittee.",
+          "source": "Julie Solomon : I reached out to all four of them… find out… share a story… talk to someone… referral… make them aware… there is a new subcommittee…",
+          "from_gt": "gt1"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will confirm Form 700 penalty and exit-filing requirements with the City Clerk/Attorney and follow up with commissioners.",
+          "source": "Laurel James : …run them by the City attorney and City Clerk's office and then circle back with you… I will confirm… whether or not there are other penalties.",
+          "from_gt": "gt1"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will clarify with the City Clerk whether an existing applicant pool can fill the soon-to-be-vacant HRC seat without reopening applications.",
+          "source": "Laurel James : That's a great question. I'm clarifying that now with the City Clerk's office.",
+          "from_gt": "gt1"
+        },
+        {
+          "assignee": "Commissioner Solomon",
+          "text": "Commissioner Solomon will focus remaining time on closing activities from Discrimination and Inclusion housing project.",
+          "source": "Julie Solomon : I think that closing out some of the activities from the Discrimination and Inclusion and housing project, I think that would be a helpful use of my time",
+          "from_gt": "gt2"
+        }
+      ]
+    },
+    "needreview_gt": [
+      {
+        "id": "review_001",
+        "item_type": "point",
+        "issue_type": "equivalence_unclear",
+        "gt1_point": {
+          "text": "Finalized subcommittee memberships: Mental Health—Nirvana Nwokidu, Jill Rakestraw, and Vice Chair IdaRose Sylvester; Bystander Intervention Training—Kevin Ball, Jill Rakestraw, and Xavier Webb; Housing and Security Storytelling—IdaRose Sylvester, Annette Lin, and Xavier Webb. Julie Solomon will close out prior housing project tasks.",
+          "source": "Annette Lin : …Mental Health Subcommittee… Makitu, Ray Straw and Vice Chair Sylvester… Bystander Training… Commissioner… Ball… and… Webb… housing and security storytelling… Vice Chair, Sylvester and me… Commissioner Solomon can wrap up…",
+          "speaker": "Annette Lin",
+          "location": "topics[3].points[1]"
+        },
+        "gt2_point": {
+          "text": "Mental Health Subcommittee assigned to Commissioners Nwokidu, Rakestraw, and Vice Chair Sylvester, all continuing members",
+          "source": "Laurel James : Mental Health Subcommittee, the interest is in Commissioners Noakito and Rick Straw and Vice Chair Sylvester, who will all be be continuing",
+          "speaker": "Laurel James",
+          "location": "topics[5].points[0]"
+        },
+        "question": "Are these describing the same subcommittee assignment announcement or different parts of the discussion? GT1 presents it as finalized assignments while GT2 presents it as interest/assignment. Should these be merged or kept separate?",
+        "merge_if_valid": "Merge into comprehensive subcommittee assignment summary if they describe the same announcement"
+      },
+      {
+        "id": "review_002",
+        "item_type": "point",
+        "issue_type": "equivalence_unclear",
+        "gt1_point": {
+          "text": "Departing commissioners will help launch subcommittee work while seats transition, with memberships revisited in January when new appointees are seated. If overall HRC membership declines, project scopes or workloads may be adjusted to balance capacity.",
+          "source": "Laurel James : …typically in January… revisiting of the subcommittee appointments… If there is a reduction in the number of total HRC members… opportunity to rebalance the workload or to revisit the scope…",
+          "speaker": "Laurel James",
+          "location": "topics[3].points[2]"
+        },
+        "gt2_point": null,
+        "question": "Is this a substantive policy point about subcommittee transitions that should be included, or administrative detail that might be less important? GT2 doesn't have equivalent content.",
+        "merge_if_valid": "Include in single_aligned_gt if transcript shows this was a substantive discussion point"
+      },
+      {
+        "id": "review_003",
+        "item_type": "point",
+        "issue_type": "equivalence_unclear",
+        "gt1_point": {
+          "text": "If applicant numbers are low, recruitment can occur year-round. A quorum of four is needed to hold HRC meetings (assuming seven seats). Laurel is seeking permission to share application counts with the Commission.",
+          "source": "Laurel James : …opportunity to… recruit… apply at any point…; IdaRose Sylvester : I believe it's four…; Laurel James : …I have asked the City Clerk's office if I can have the number of applications and if I'm able to share it…",
+          "speaker": "Laurel James",
+          "location": "topics[3].points[3]"
+        },
+        "gt2_point": null,
+        "question": "This combines multiple administrative topics. Should this be split or is it appropriately grouped? GT2 has some of these elements separately.",
+        "merge_if_valid": "Split into component parts and merge with corresponding GT2 elements where they exist"
+      },
+      {
+        "id": "review_004",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": {
+          "text": "If any of the four wish to record stories for public archiving, Julie will conduct interviews and explore transcription support through Michael Kahn's Stanford research assistant, Camila, who continues working on the project.",
+          "source": "Julie Solomon : …if they really are interested to share their story… be recorded… Camilla… research assistant to Michael Kahn from Stanford… I would be willing to do interviews…",
+          "speaker": "Julie Solomon",
+          "location": "topics[4].points[1]"
+        },
+        "gt2_point": null,
+        "question": "Is this a substantive follow-up action or administrative detail? GT2 doesn't capture this specific transcription/Stanford connection.",
+        "merge_if_valid": "Include in single_aligned_gt if transcript confirms this was discussed as a concrete next step"
+      },
+      {
+        "id": "review_005",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": {
+          "text": "City staff will enhance the project webpage by adding a video gallery, publishing oral histories for public access, and posting event information and Q&A. Laurel will consult Communications about hosting the video on the City's YouTube channel.",
+          "source": "Laurel James : …updates to the web page… adding a video gallery… adding the oral histories… making more information… available… city staff take care of that. / That is a question for our communications team and I will post it to them.",
+          "speaker": "Laurel James",
+          "location": "topics[4].points[2]"
+        },
+        "gt2_point": {
+          "text": "Website updates planned including video gallery addition, oral histories upload, and expanded information about community event",
+          "source": "Laurel James : adding a video gallery, eventually adding the oral histories and or videos that are available and meant to be shared more publicly",
+          "speaker": "Laurel James",
+          "location": "topics[7].points[2]"
+        },
+        "question": "GT1 includes YouTube consultation detail that GT2 doesn't have. Are these the same discussion or different parts? Should the YouTube detail be included?",
+        "merge_if_valid": "Merge with GT1's more complete version including YouTube consultation if they describe the same discussion"
+      },
+      {
+        "id": "review_006",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": {
+          "text": "The agenda was reordered to hear the Multicultural Engagement Program informational update earlier in the meeting so staff could depart sooner; no action was taken on the item.",
+          "source": "Annette Lin : …we're moving Section 6.1… Multicultural Engagement Program informational update… No action will be taken on this item…",
+          "speaker": "Annette Lin",
+          "location": "topics[6].points[1]"
+        },
+        "gt2_point": null,
+        "question": "Is this procedural detail important enough to include or is it administrative noise? GT2 doesn't capture this agenda reordering.",
+        "merge_if_valid": "Include in single_aligned_gt if this was a notable procedural decision worth documenting"
+      },
+      {
+        "id": "review_007",
+        "item_type": "decision",
+        "issue_type": "assignee_conflict",
+        "gt1_point": {
+          "text": "Mental Health Subcommittee will begin meeting with three continuing commissioners to develop mental health initiatives",
+          "source": "Laurel James : Mental Health Subcommittee, the interest is in Commissioners Noakito and Rick Straw and Vice Chair Sylvester, who will all be be continuing",
+          "assignee": "Mental Health Subcommittee (Commissioners Nwokidu, Rakestraw, Vice Chair Sylvester)",
+          "location": "decisions[0]"
+        },
+        "gt2_point": null,
+        "question": "GT2 has this as a decision with specific assignee format, but GT1 doesn't have equivalent decision. Should this be included as a decision or just as a point about assignments?",
+        "merge_if_valid": "Include as decision if transcript shows this was framed as a formal decision/action item"
+      },
+      {
+        "id": "review_008",
+        "item_type": "decision",
+        "issue_type": "assignee_conflict",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "Bystander Intervention Training Subcommittee will commence work with one departing and two continuing commissioners",
+          "source": "Laurel James : Bystander Intervention Training has interest from Commissioners Ball, Rick Straw, and Webb",
+          "assignee": "Bystander Intervention Training Subcommittee (Commissioners Ball, Rakestraw, Webb)",
+          "location": "decisions[1]"
+        },
+        "question": "GT2 has this as a decision but GT1 doesn't have equivalent decision format. Should this be treated as a decision or just assignment discussion?",
+        "merge_if_valid": "Include as decision if transcript shows this was framed as a formal decision/action item"
+      },
+      {
+        "id": "review_009",
+        "item_type": "decision",
+        "issue_type": "assignee_conflict",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "Housing and Security Storytelling Subcommittee will start with one departing and two continuing commissioners until new appointments in January",
+          "source": "Laurel James : perhaps it makes sense, Chair Lynn, for you to serve on the Housing and Security Subcommittee until such a time as your term ends",
+          "assignee": "Housing and Security Storytelling Subcommittee (Chair Lin, Vice Chair Sylvester, Commissioner Webb)",
+          "location": "decisions[2]"
+        },
+        "question": "GT2 has this as a decision but GT1 doesn't have equivalent decision format. Should this be treated as a decision or just assignment discussion?",
+        "merge_if_valid": "Include as decision if transcript shows this was framed as a formal decision/action item"
+      }
+    ],
+    "merge_stats": {
+      "total_aligned_points": 15,
+      "total_aligned_decisions": 5,
+      "single_aligned_points_from_gt1": 6,
+      "single_aligned_points_from_gt2": 8,
+      "single_aligned_decisions_from_gt1": 4,
+      "single_aligned_decisions_from_gt2": 1,
+      "points_need_review": 6,
+      "decisions_need_review": 3,
+      "total_output_points": 35,
+      "total_output_decisions": 13,
+      "confidence_level": "medium",
+      "notes": "Good alignment on core MEP content and administrative items. Main uncertainties around subcommittee assignment formatting (points vs decisions), some unique procedural details, and housing project follow-up specifics. Most conflicts are about presentation format rather than factual disagreements."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_alignment/generation_alignment",
+    "prompt_version": "v3",
+    "prompt_fingerprint": "fae28f5dd5207c57cdcd5bc1a3c29bc286c4fd8b12a9eae99e41969f0bebb744",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:10:50.590987+00:00"
+  }
+}

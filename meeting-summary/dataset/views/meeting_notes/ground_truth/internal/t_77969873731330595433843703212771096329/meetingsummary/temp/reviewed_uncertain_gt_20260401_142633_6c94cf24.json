@@ -1,0 +1,94 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Narcan/Naloxone Placement in Schools",
+          "points": [
+            {
+              "speaker": "Canfield",
+              "text": "SRO program proactively initiated placement of naloxone (Narcan) in all schools from elementary through high school during county-wide shortage",
+              "source": "Canfield : So just to add to that, it was the SRR program that initiated proactively getting Narcan into the schools. And so that's from the high school, middle school into the elementary school especially during a shortage county wide.",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        },
+        {
+          "topic": "Vaping Device Disposal",
+          "points": [
+            {
+              "speaker": "Unidentified 2",
+              "text": "Of roughly 200 seized vaping devices, approximately 50 were donated to Stanford for research; the remainder were kept as evidence per MVPD protocols and subsequently destroyed if not needed",
+              "source": "Unidentified 2 : We talked about the vaping devices and you said 50th of the 200 were donated to Stanford... What happened to the other hundred and fifty... Canfield : Subsequently destroyed once we're done if they're not needed for a case.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "PSAB Staff",
+          "text": "Staff will clearly name all subcommittees in work plan report during October meeting subcommittee appointments",
+          "source": "Rampart : And that would be a perfect time to, in that report, to be clear about the names of all the subcommittees.",
+          "validation_note": "validated_unique"
+        }
+      ]
+    },
+    "rejected_items": [
+      {
+        "id": "review_003",
+        "item_type": "point",
+        "original_point": {
+          "text": "Board members requested clearer formal naming of subcommittees in work plan, particularly regarding traffic stop/RIPA subcommittee designation",
+          "source": "Unidentified 1 : So there's our request to clearly name those in the current work plan and to just clarify that information.",
+          "speaker": "Unidentified 1"
+        },
+        "reason": "redundant",
+        "explanation": "This point is redundant with the decision already validated about staff clearly naming subcommittees. The transcript shows this was a request that led to Rampart's commitment about clarifying subcommittee names in the October report. The substance is already captured in the decision item."
+      }
+    ],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "modify",
+        "reasoning": "GT1 and GT2 describe the same Narcan initiative but with different focus and attribution. GT2 provides cleaner, more accurate information with correct speaker attribution. The vaping device disposal is a separate topic that should be kept as its own point.",
+        "transcript_evidence": [
+          "Canfield : So just to add to that, it was the SRR program that initiated proactively getting Narcan into the schools. And so that's from the high school, middle school into the elementary school especially during a shortage county wide.",
+          "Unidentified 2 : We talked about the vaping devices and you said 50th of the 200 were donated to Stanford... What happened to the other hundred and fifty... Canfield : Subsequently destroyed once we're done if they're not needed for a case."
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "merge",
+        "reasoning": "Transcript clearly shows Rampart (staff member) making the commitment about clarifying subcommittee names in the October report. The assignee 'PSAB Staff' is correct as this is a staff responsibility, not a board member responsibility.",
+        "transcript_evidence": [
+          "Rampart : And that would be a perfect time to, in that report, to be clear about the names of all the subcommittees."
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "exclude",
+        "reasoning": "This point is redundant with the decision already validated about staff clearly naming subcommittees. The request mentioned here is what prompted the staff commitment that's already captured in the decision item.",
+        "transcript_evidence": [
+          "Unidentified 1 : So there's our request to clearly name those in the current work plan and to just clarify that information.",
+          "Rampart : And that would be a perfect time to, in that report, to be clear about the names of all the subcommittees."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 3,
+      "merged": 1,
+      "excluded": 1,
+      "modified": 1,
+      "confidence": "High confidence in validation. Clear transcript evidence supports all decisions. Narcan initiative was correctly identified as same event with GT2 providing better attribution. Staff assignee for subcommittee naming was confirmed. Board request point was appropriately excluded as redundant with validated decision."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:26:33.561650+00:00"
+  }
+}

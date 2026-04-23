@@ -1,0 +1,359 @@
+{
+  "result": {
+    "additionalProperties": false,
+    "merged_gt": {
+      "meeting_context": "The Council Neighborhoods Committee held a fully virtual neighborhood meeting focused on mobile home park issues, emergency preparedness, rent stabilization, and community Q&A. City staff provided program updates (CERT, MHRSO), addressed internet, utilities, traffic, and cannabis questions, and outlined follow-up actions and resources for residents.",
+      "participants": [
+        "Anna Reynoso",
+        "Pat Showalter",
+        "Elena Garcia",
+        "Robert Maitland",
+        "Anky van Deursen",
+        "Dawn Cameron",
+        "John Marchant",
+        "Alison Hicks",
+        "Karen Tiedemann",
+        "Martin Eichner",
+        "Lorenzo Lopez",
+        "Michael Canfield",
+        "Danielle Lee",
+        "Micaela Hellman-Tincher",
+        "Audrey Seymour Ramberg",
+        "Lisa Aui",
+        "Ria Hutabarat Lo",
+        "Gloria Mungo",
+        "Unidentified 1",
+        "Unidentifed 2"
+      ],
+      "topics": [
+        {
+          "topic": "Virtual meeting logistics and access",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Pat Showalter",
+              "text": "The meeting was conducted fully virtually in accordance with California Government Code Section 54953(e), with public observation via the city webcast and Spanish interpretation available. Committee members attended by video conference, and there was no physical meeting location.",
+              "source": "Pat Showalter : This meeting will be conducted in accordance with California Government Code Section 54, 953 E as authorized by resolution.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Anna Reynoso",
+              "text": "Attendees remained muted and submitted questions through the Zoom Q&A. Phone-only participants could press *9 to request unmuting for live questions. Pre-submitted questions were addressed first, followed by live Q&A taken from the Q&A box.",
+              "source": "Anna Reynoso : The participants this evening are going to be remain muted... later on during the live questions you can press * nine to ask your question and we will unmute you.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Community Emergency Response Team Program",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Robert Maitland",
+              "text": "The City's CERT program trains volunteers in disaster preparedness and response. Mountain View has 18 recognized neighborhood CERT groups and runs academies, refreshers, drills, and exercises. Upcoming opportunities include a November drill, a January skills day, and the next Academy in March.",
+              "source": "Robert Maitland : Our city of Mountain View has 18 recognize certain neighbourhood groups... If you want to be part of that next Cert Academy that we've got coming up in March, reach out to me...",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Mobile Home Rent Stabilization Ordinance",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Anky van Deursen",
+              "text": "The Mobile Home Rent Stabilization Ordinance took effect October 28 last year to stabilize rents, provide eviction protections for mobile home tenants, and ensure a fair rate of return for park owners and landlords.",
+              "source": "Anky van Deursen : A lot of things went into effect on October the 28 last year and the purpose is to stabilise rents to provide eviction protections... and to ensure a fair rate of return...",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Anky van Deursen",
+              "text": "MHRSO covers space rents for mobile home owners and applies to renters who lease both the space and the home. Program support is available every other Thursday at the Public Library and weekly at 298 Escuela Ave, with phone, email, and website resources.",
+              "source": "Anky van Deursen : The coverage is for both... Mobile home owners that rent the mobile home space... and it's also applicable for mobile home renters... We also have regular weekly office hours at our office on 298 Escuela Ave.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Anky van Deursen",
+              "text": "Annual General Adjustments are tied to regional CPI with a 2% floor and 5% cap; due to higher inflation, the RHC set the AGA at 5% this year. Proposals to change CPI alignment or require landlord hardship proof are policy questions for elected officials and not on staff's work plan.",
+              "source": "Anky van Deursen : ...AGA is dependent on the CPI... cannot be lower than 2% and it cannot be higher than 5%... the Rental Housing Committee had to set the Aga at 5%... those are policies questions... considered by the elected body.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Karen Tiedemann",
+              "text": "Under MHRSO, park owners may petition for individual rent adjustments to maintain a fair return. Petitions are heard by a hearing officer, and if operating income falls below the pre-ordinance level, a rent increase may be granted to restore a fair return.",
+              "source": "Karen Tiedemann : ...there is a provision for property owners... to petition for an individual rent adjustment... if the park owner is not maintaining the same operating income... a rent increase could be granted...",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Internet and Utility Service Issues",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Dawn Cameron",
+              "text": "For New Frontier Mobile Home Park internet, the city found no AT&T excavation permit application on file and is reaching out to AT&T to facilitate a submittal. Permit processing can proceed once an application is received.",
+              "source": "Dawn Cameron : ...there is no application on file right now from AT&T... We are now reaching out to AT&T to ask them about this and see if there is something we can do to help them submit their permit.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Dawn Cameron",
+              "text": "A Ridge Wireless tower at Sunset Estates operates under a private agreement. Sharing service between parks would require a private arrangement among the parks and the provider; residents should discuss options with park management.",
+              "source": "Dawn Cameron : ...this is a private agreement... if there is interest in both parks sharing... it would have to be a private arrangement made between the parks and Ridge Wireless.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Dawn Cameron",
+              "text": "Direct PG&E service changes must be arranged between park ownership and PG&E, which is regulated by the CPUC. The city cannot require service changes but will issue and expedite right-of-way permits if PG&E proposes work. Park management should contact PG&E to explore options.",
+              "source": "Dawn Cameron : PG&E service is an arrangement between PG&E and the property owners... They are regulated through the California Public Utilities Commission... We... issue permits... we would naturally work with them... but it really does have to be something that PG&E initiates.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Anna Reynoso",
+              "text": "Staff will research funding options related to addressing internet issues raised during the meeting and will post follow-up information on the city website for residents.",
+              "source": "Anna Reynoso : ...I'll do some more research with the rest of the team and we'll definitely make sure to post that on our website as well.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Traffic Management and Enforcement",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "John Marchant",
+              "text": "Live Nation contracts professional traffic and parking management for concerts, adjusting staffing by expected attendance and coordinating with Police on incidents. Early-season issues were addressed. After the season, the city will debrief with partners and explore measures such as incentives for earlier arrivals.",
+              "source": "John Marchant : Live Nation does hire a professional traffic and parking management service... At the end of this concert season... we will do a post season wrap up... and see if there's any other ways that we can help traffic...",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Lorenzo Lopez",
+              "text": "On Sylvan Ave, a prior NTMP process yielded only 50% support for speed humps (below the 67% threshold), so they were not installed. Residents can reinitiate the NTMP process; currently no speed hump project is in the works.",
+              "source": "Lorenzo Lopez : ...speed humps did not qualify. At that time you need to have 67% in favor... it was at 50%... They would need to... follow that neighborhood traffic management process... there is nothing in the works right now.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Dawn Cameron",
+              "text": "Caltrans plans to repave El Camino Real next summer in Mountain View and Palo Alto. In coordination with the city, the project will add bicycle and pedestrian improvements, including bike lanes or buffered/protected bikeways where feasible, enabled by removing on-street parking.",
+              "source": "Dawn Cameron : ...Caltrans will be coming in in the next summer... to add in bicycle and pedestrian improvements... One of the key... is to add bike lanes... to create a more bicycle friendly facility... remove all the on street parking from El Camino Real.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Lorenzo Lopez",
+              "text": "The city will inspect the reported Sullivan/237 area for faded striping and missing signage and consider enhancements; Police will handle enforcement. Specific times/locations from residents will help target patrols by the traffic enforcement team.",
+              "source": "Lorenzo Lopez : ...we can go out to this site and look at if there's any striping enhancements we can do... We could also look at some signage... and then as far as the enforcement goes... I'll hand that over to the Police Department.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "El Camino Real safety and bikeways",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Lorenzo Lopez",
+              "text": "For the Sahara Mobile Park driveway on El Camino, an upcoming striping project may shift travel lanes toward the median, improving turns. Because El Camino is Caltrans right-of-way, the city will investigate further and coordinate with Caltrans on feasible safety measures.",
+              "source": "Lorenzo Lopez : ...upcoming project will change the striping... this is Caltrans right of way... It will require further investigation in the field and then contacting Caltrans.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Cannabis Regulations and Enforcement",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Michael Canfield",
+              "text": "In Mountain View, outdoor cannabis cultivation is prohibited; indoor cultivation in a home is not a criminal offense. Public smoking or vaping cannabis is illegal. The city's smoking ordinance also prohibits smoking in multi-family residential units; nuisance rules may apply in mobile home parks.",
+              "source": "Michael Canfield : ...cannabis cannot be planted outside... Inside a one of the homes would be not a criminal violation... It's not lawful to walk down the street and smoke cannabis or to vape cannabis.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Audrey Seymour Ramberg",
+              "text": "City smoking ordinance prohibits smoking tobacco products inside multi-family residential units, which would apply to cannabis as well.",
+              "source": "Audrey Seymour Ramberg : I would add that the city has a a a smoking ordinance that relates to multi family residential properties where smoking is prohibited inside units",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Mobile Home Residents Rights and Protections",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Martin Eichner",
+              "text": "Under California's Mobilehome Residency Law, homeowners may organize and meet with management (with 30 days' written notice), use the community room for political meetings, and display signs with limits. Enforcement often requires court action; a new state Mobilehome Residency Protection Program can accept complaints. MHRSO adds eviction protections, but it does not explicitly address harassment.",
+              "source": "Martin Eichner : ...the state law... guarantees the right of mobile home owners to meet with the park management... upon written 30 days written notice... enforcement mechanism is not great... new program called the Mobile Home Residency Protection Program...",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Martin Eichner",
+              "text": "Mobile home owners have right to form nonprofit corporation and negotiate with park owner for purchase if park is for sale.",
+              "source": "Martin Eichner : Under the mobile home residency law there is a if the park is for sale the the residents or their homeowners have a right to form a nonprofit corporation and to bargain with it park owner",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "City Services and Community Support",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Micaela Hellman-Tincher",
+              "text": "The city supports CSA and other nonprofits via annual City Manager grants and biennial CDBG funding. CSA received significant city funding for pandemic rent relief and administers the City's Guaranteed Basic Income pilot. The next grant cycle opens in December; Rebuilding Together will be invited to apply.",
+              "source": "Micaela Hellman-Tincher : ...We provide grants through an annual process... and... CDBG... We are actually just about to do our annual grant cycle again this December...",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Ria Hutabarat Lo",
+              "text": "Through Safe Routes to School, the city delivered bicycle safety training to 3,200 students in the last six months. A free bicycle 'circus' and repair event is scheduled October 29 at Rengstorff Park, 10 AM–2 PM, with first-come, first-served bike repairs.",
+              "source": "Ria Hutabarat Lo : ...we're doing training at all of the schools... we've delivered training to 3200 students... we have a a bicycle circus... October 29th... at Ringstorf Park between 10:00 and 2:00... free bike repair...",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Audrey Seymour Ramberg",
+              "text": "City partners with CSA through contracts for rent relief during pandemic and administering Guaranteed Basic Income pilot program.",
+              "source": "Audrey Seymour Ramberg : They received significant funding from the City of Mountain View to support rent relief to residents during the pandemic, and they are also our contract partner to administer the City's Guaranteed Basic Income pilot program.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting Closure and Recognition",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Pat Showalter",
+              "text": "Chair Showalter thanked staff and participants, encouraged residents to report concerns via Ask Mountain View on the city website, and adjourned the meeting. Vice Mayor Hicks offered closing remarks, and Anna Reynoso thanked interpreter Elena Garcia for providing Spanish interpretation.",
+              "source": "Pat Showalter : ...I just want to thank everybody again for taking part... please let the city know... ask. Mountain View is one of the easiest... And the meeting is adjourned.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Danielle Lee",
+          "text": "Danielle Lee will research constraints and options for installing solar on mobile homes and follow up with the questioners via email.",
+          "source": "Danielle Lee : I'd be happy to commit to following up and researching this question further, and I'll provide my e-mail address into the chat.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "John Marchant",
+          "text": "John Marchant will conduct post-season debrief with Police, Live Nation and parking management to address traffic concerns for next concert season.",
+          "source": "John Marchant : At the end of this concert season preparing for next, we will do a post season wrap up with Police Live Nation, their their management, their parking management service",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Lorenzo Lopez",
+          "text": "Lorenzo Lopez will investigate Sullivan/237 area for striping enhancements and signage improvements, while Police will handle enforcement of traffic violations.",
+          "source": "Lorenzo Lopez : we can go out to this site and look at if there's any striping enhancements we can do. Maybe the striping is faded. We could also look at some signage",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Michael Canfield",
+          "text": "Michael Canfield will direct traffic enforcement team to examine Sylvan Ave during peak hours for specific violations.",
+          "source": "Michael Canfield : I will circle back with our traffic enforcement team and Sergeant Goff and make sure that that Sylvan Ave. and the the the roadways during traffic hours, the High Peak traffic hours are examined and enforced",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Dawn Cameron",
+          "text": "Dawn Cameron will contact AT&T about New Frontier Mobile Home Park internet service and assist with any required excavation permit submission.",
+          "source": "Dawn Cameron : We are now reaching out to AT&T to ask them about this and see if there is something we can do to help them submit their permit.",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "John Marchant",
+          "text": "John Marchant will reconvene the North Bayshore stakeholder group prior to the next concert season to discuss concert traffic issues.",
+          "source": "John Marchant : ...we can look at bringing that back prior to the next concert season and engaging that group once again that we can have a conversation.",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "Lorenzo Lopez",
+          "text": "Lorenzo Lopez will revisit the Sahara Mobile Park driveway safety on El Camino and coordinate with Caltrans on feasible improvements.",
+          "source": "Lorenzo Lopez : ...it is something that we would have to go back out and really determine what's out there... and then contacting Caltrans.",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "Micaela Hellman-Tincher",
+          "text": "Micaela Hellman-Tincher will share Rebuilding Together's grant application information and encourage them to apply in December.",
+          "source": "Micaela Hellman-Tincher : ...I'll be sharing with them the information about how to apply.",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "Anna Reynoso",
+          "text": "Anna Reynoso will research funding options to address internet issues and post follow-up information on the city website.",
+          "source": "Anna Reynoso : ...I'll do some more research with the rest of the team and we'll definitely make sure to post that on our website as well.",
+          "original_priority": "p3",
+          "dedup_note": "from_p3_unique"
+        }
+      ]
+    },
+    "merge_statistics": {
+      "total_p1_items": 29,
+      "total_p2_items": 12,
+      "total_p3_items": 2,
+      "final_items": 35,
+      "duplicates_removed": 8,
+      "deduplication_details": {
+        "p2_skipped": [
+          {
+            "item_type": "decision",
+            "text": "Lorenzo Lopez will inspect the Sullivan/237 area for faded striping and missing signage and consider enhancements; Police will handle enforcement.",
+            "source": "Lorenzo Lopez : We... can go out to this site and look at if there's any striping enhancements we can do... We could also look at some signage... and then as far as the enforcement goes... I'll hand that over to the Police Department.",
+            "assignee": "Lorenzo Lopez",
+            "reason": "duplicate_with_p1: same_assignee_same_action (Sullivan/237 area striping and signage inspection)"
+          }
+        ],
+        "p3_skipped": [
+          {
+            "speaker": "Dawn Cameron",
+            "text": "Dawn Cameron will reach out to AT&T to inquire about permit requirements for Internet service at New Frontier Mobile Home Park.",
+            "source": "Dawn Cameron : We are now reaching out to AT&T to ask them about this and see if there is something we can do to help them submit their permit.",
+            "reason": "duplicate_with_p2: same_assignee_same_action (AT&T contact for New Frontier internet permit)"
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_final_merge/generation_final_merge",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "96d6eff54eb8b4ced496aeb8e349890a5e5d3f8bdf8dd6229ebee2e637c5f8c8",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:39:09.700485+00:00"
+  }
+}

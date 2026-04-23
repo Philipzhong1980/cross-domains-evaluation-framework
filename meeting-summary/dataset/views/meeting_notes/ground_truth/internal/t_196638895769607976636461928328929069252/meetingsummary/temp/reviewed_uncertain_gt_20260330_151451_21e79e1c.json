@@ -1,0 +1,48 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Minutes Approval and Correction",
+          "points": [
+            {
+              "speaker": "Sukanya Kumar and Noelle Magner",
+              "text": "Sukanya Kumar noted the minutes incorrectly listed 'committee member' instead of 'vice chair' in all places. Noelle Magner confirmed it should read 'Vice Chair' and stated she will contact the City Clerk's office to update the document and bring a revised version to the next meeting for approval.",
+              "source": "Sukanya Kumar : I did notice that in the minutes it does say committee member in all places. I don't know if it's routine to say vice chair or because there is chair Donahue, but then committee member, is that a correction or that's how it's supposed to be? | Noelle Magner : It should read Vice Chair. Let me contact our City Clerk's office and I can go ahead and have that updated and I'll do a revised version of this and bring it to the next meeting.",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Both GT1 and GT2 points describe the same discussion sequence about correcting the minutes. GT1 captures Sukanya Kumar's observation about the error, while GT2 captures Noelle Magner's response and commitment to fix it. These are complementary parts of the same conversation that should be merged to provide complete context.",
+        "transcript_evidence": [
+          "Sukanya Kumar : I did notice that in the minutes it does say committee member in all places. I don't know if it's routine to say vice chair or because there is chair Donahue, but then committee member, is that a correction or that's how it's supposed to be?",
+          "Noelle Magner : It should read Vice Chair.",
+          "Noelle Magner : Let me contact our City Clerk's office and I can go ahead and have that updated and I'll do a revised version of this and bring it to the next meeting."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 1,
+      "merged": 1,
+      "excluded": 0,
+      "modified": 0,
+      "confidence": "High confidence - clear transcript evidence shows both points are part of the same sequential discussion about minutes correction, with GT1 capturing the problem identification and GT2 capturing the solution commitment."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-30T07:14:51.923948+00:00"
+  }
+}

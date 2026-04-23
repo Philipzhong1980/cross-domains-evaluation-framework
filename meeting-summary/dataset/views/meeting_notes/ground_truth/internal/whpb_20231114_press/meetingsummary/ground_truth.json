@@ -1,0 +1,321 @@
+{
+  "meeting_context": "White House press briefing imported from 20231114_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MR. SULLIVAN"
+  ],
+  "topics": [
+    {
+      "topic": "The speaker highlights the progress made in rebuilding",
+      "points": [
+        {
+          "text": "The speaker highlights the progress made in rebuilding America through the Bipartisan Infrastructure Law, including launching infrastructure projects, providing high-speed internet access to low-income households, improving roads and bridges, investing in clean energy, and creating millions of jobs.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden is engaging in high level diplomacy",
+      "points": [
+        {
+          "text": "President Biden is engaging in high-level diplomacy, including hosting President Joko Widodo of Indonesia and preparing for a summit with President Xi of China, to strengthen alliances, deepen partnerships, and discuss key issues such as clean energy transition, critical minerals, and managing competition responsibly.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden has been actively engaging in high",
+      "points": [
+        {
+          "text": "President Biden has been actively engaging in high-level diplomacy, strengthening alliances and partnerships through hosting bilateral meetings with various world leaders, launching initiatives like AUKUS, upgrading relations with Vietnam, and taking steps to protect national security while also seeking specific outcomes from his upcoming meeting with President Xi of China.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript Mr Sullivan",
+      "points": [
+        {
+          "text": "In this section of the transcript, Mr. Sullivan discusses President Biden's upcoming meeting with President Xi of China, as well as his participation in APEC Economic Leaders' Week and efforts to address the Middle East crisis, including hostage situations and humanitarian assistance.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States has communicated with the Israeli",
+      "points": [
+        {
+          "text": "The United States has communicated with the Israeli government about the importance of protecting hospitals in Gaza, and while the Israeli government has expressed a shared view on this matter and offered to provide fuel to hospitals, there is still a need to ensure safe evacuation routes for patients and ongoing communication with hospital staff.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is engaged in ongoing discussions",
+      "points": [
+        {
+          "text": "The United States is engaged in ongoing discussions with Qatar and Israel to negotiate the release of hostages and emphasizes the importance of de-escalation and stability in the broader Middle East to President Xi during his upcoming trip.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States acknowledges open source reporting about",
+      "points": [
+        {
+          "text": "The United States acknowledges open-source reporting about Hamas using hospitals and civilian infrastructure for military purposes, but emphasizes the complexity and burden faced by Israel in confronting a terrorist organization while also protecting innocent civilians receiving medical care.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States has limited visibility into the",
+      "points": [
+        {
+          "text": "The United States has limited visibility into the whereabouts and condition of the hostages in Gaza, but there is information suggesting that a substantial number of hostages, including Americans, could potentially be part of a hostage release.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden administration is actively working with both",
+      "points": [
+        {
+          "text": "The Biden administration is actively working with both Republicans and Democrats in the House and Senate to secure funding for Israel, Ukraine, the Indo-Pacific, and the border, and remains confident in obtaining a strong bipartisan majority to support it.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden administration is emphasizing the importance of",
+      "points": [
+        {
+          "text": "The Biden administration is emphasizing the importance of maintaining military-to-military communication with China to reduce mistakes, avoid escalation, and manage competition responsibly.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden administration aims to establish a basis",
+      "points": [
+        {
+          "text": "The Biden administration aims to establish a basis for future relations with China and prioritize protecting American interests while managing the complex and competitive relationship through direct communication and diplomacy.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden administration is committed to protecting American",
+      "points": [
+        {
+          "text": "The Biden administration is committed to protecting American forces in response to attacks by Iranian proxies and acknowledges that the window for fully funding Ukraine's defense needs is closing.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden administration's latest assessment is that China",
+      "points": [
+        {
+          "text": "The Biden administration's latest assessment is that China has not provided weapons to Russia for the war in Ukraine, and they believe longer humanitarian pauses may be necessary in Gaza beyond the current four hours a day.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden administration believes that longer humanitarian pauses",
+      "points": [
+        {
+          "text": "The Biden administration believes that longer humanitarian pauses, lasting days instead of hours, should be implemented in Gaza to achieve safe passage and the movement of humanitarian aid, and they are actively working on securing a hostage release.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Mr Sullivan defends the",
+      "points": [
+        {
+          "text": "During a press briefing, Mr. Sullivan defends the credibility of the Biden administration's information on Gaza, stating that they provide accurate information when available and update it if new information arises, rejecting claims of spreading misinformation.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Sullivan states that he is not able",
+      "points": [
+        {
+          "text": "Mr. Sullivan states that he is not able to make a legal determination on whether or not Israel is abiding by the laws of war, but reiterates the Biden administration's clear policy that the IDF has a responsibility to separate terrorists from civilians and protect civilian lives.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House National Security Advisor Jake Sullivan confirms",
+      "points": [
+        {
+          "text": "White House National Security Advisor Jake Sullivan confirms that the US government was informed about and received a readout of Governor Gavin Newsom's meeting with President Xi, which was fully coordinated between the governor's office and the US State Department, and discusses the outcomes of that conversation with Senator Schumer.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House National Security Advisor Jake Sullivan confirms",
+      "points": [
+        {
+          "text": "White House National Security Advisor Jake Sullivan confirms that the Department of Defense will provide details about the military equipment being given to Israel and its usage, including interceptors for Iron Dome, artillery ammunition, and precision-guided munitions.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House National Security Advisor Jake Sullivan confirms",
+      "points": [
+        {
+          "text": "White House National Security Advisor Jake Sullivan confirms that the Department of Defense will disclose information about the military equipment provided to Israel, including interceptors for Iron Dome, artillery ammunition, and precision-guided munitions.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden is planning to engage with President",
+      "points": [
+        {
+          "text": "President Biden is planning to engage with President Widodo on various issues, including the conflict in Gaza, while acknowledging their differing perspectives and aiming to elevate the U.S.-Indonesia bilateral relationship.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript Mr Sullivan",
+      "points": [
+        {
+          "text": "In this section of the transcript, Mr. Sullivan addresses questions about the preparations made in San Francisco for President Biden and President Xi's meeting, expresses pride in the United States' economic record, rejects the suggestion that impressing China is more important than the American people, and declines to provide further information on intelligence matters regarding Hamas tunnels and the conflict in the Middle East.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the press briefing Karine Jean Pierre deflects",
+      "points": [
+        {
+          "text": "During the press briefing, Karine Jean-Pierre deflects questions about the Supreme Court's Code of Ethics, a security incident involving the Secret Service, and the potential declassification of intelligence on Hamas activities.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre expresses concern about the increase",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre expresses concern about the increase in crime nationwide and highlights the actions taken by President Biden, including the passage of the American Rescue Plan and the proposal for a Safer America Plan, to provide funding for police officers and ensure community safety.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre states that they will allow",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre states that they will allow negotiations to continue and will stay in close contact with Democratic leaders in both the House and Senate to determine the best path forward for the American people, as per President Biden's instructions.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre discusses the importance of funding",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre discusses the importance of funding Ukraine and Israel, emphasizes the need to avoid a government shutdown, and defers questions about city crime near the President's family to the Secret Service.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre discusses the President's personal conversations",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre discusses the President's personal conversations, regular communication with Mayor Bowser about important issues in D.C., and the administration's efforts to address crime with Republicans.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre refuses to be interrupted and",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre refuses to be interrupted and continues discussing the American Rescue Plan and other important issues.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre remains determined to continue discussing",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre remains determined to continue discussing the American Rescue Plan and other important issues, refusing to be interrupted.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre declines to comment on Meta's",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre declines to comment on Meta's new policy regarding advertisers' disclosure of artificial intelligence and other digital tools, stating that she will only discuss the President's comprehensive AI executive order.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre declines to comment on social",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre declines to comment on social media platforms' preparation for potential AI-generated misinformation during the upcoming election season, stating that she will only focus on the President's comprehensive executive order on artificial intelligence.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre declines to comment on the",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre declines to comment on the House Oversight Committee's subpoena for former White House Counsel Dana Remus and the issue of Democrats' disagreements on Israel, but emphasizes that the President supports Israel's right to defend itself and combat terrorism.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

@@ -1,0 +1,49 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Communications Subcommittee - Community Outreach and Friendly Visitors Program",
+          "points": [
+            {
+              "speaker": "Ish Sinha",
+              "text": "Ish Sinha proposed a vetted \"friendly visitors\" volunteer program in which seniors (and potentially younger residents) visit homebound or lonely individuals, including across language and cultural groups, to reduce isolation and support mental health through regular interpersonal interaction, noting that loneliness affects mental health and can lead to Alzheimer's.",
+              "source": "Ish Sinha : ... we should have a friendly visitors program ... volunteers can go communicate with them ... old people who are homebound ... their loneliness increases. It affects their mental health also ... Loneliness is one of the things it does affect people and can lead to Alzheimer",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "modify",
+        "reasoning": "After examining the transcript, both GT1 and GT2 points are part of the same continuous discussion by Ish Sinha about loneliness and the friendly visitors program. GT1 captures the program proposal while GT2 captures the health rationale. These are not separate points but rather complementary aspects of the same proposal. The transcript shows Ish presenting both the program idea and the health justification in one cohesive argument. They should be merged into a single comprehensive point that includes both the program proposal and the health impacts that motivate it.",
+        "transcript_evidence": [
+          "Ish Sinha : Now I had a suggestion that we should have a friendly visitors program where seniors of different nationalities visit their own people from their own or otherwise also",
+          "Ish Sinha : People, old people who are homebound, they don't even get an opportunity of interacting with anyone and their loneliness increases. It affects their mental health also",
+          "Ish Sinha : Loneliness is one of the things it does affect people and can lead to Alzheimer",
+          "Ish Sinha : So I think we should look in that direction also of a program called friendly visitors program, something of the sort, you know, the people got to be vetted"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 1,
+      "merged": 0,
+      "excluded": 0,
+      "modified": 1,
+      "confidence": "High confidence - the transcript clearly shows both points are part of one continuous discussion by Ish Sinha presenting a friendly visitors program proposal with health justification. The evidence is unambiguous and supports merging these complementary aspects into a single comprehensive point."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:19:35.546001+00:00"
+  }
+}

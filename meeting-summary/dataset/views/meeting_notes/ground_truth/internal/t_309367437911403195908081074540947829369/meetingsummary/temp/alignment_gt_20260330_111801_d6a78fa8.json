@@ -1,0 +1,241 @@
+{
+  "result": {
+    "total_aligned_gt": {
+      "meeting_context": "Council Policy and Procedures Committee met on December 15 via video conference under the state of emergency. The agenda focused on amendments to Council Policy K2/Code of Conduct (Form 700 compliance and application deadlines), a 2023 work plan update, and a request to clarify processes for private developers using public land.",
+      "participants": [
+        "Lisa Matichak",
+        "Kimberly Thomas",
+        "Alison Hicks",
+        "Lucas Ramirez",
+        "Heather Glaser",
+        "Kimbra McCarthy",
+        "England"
+      ],
+      "topics": [
+        {
+          "topic": "Form 700 Filing Requirements and Enforcement",
+          "points": [
+            {
+              "speaker": "Heather Glaser",
+              "text": "Staff proposed amending the Code of Conduct and Council Policy K2 to suspend advisory body members who fail to file Form 700 until a proper filing is submitted, with any missed meetings during suspension counted as unexcused.",
+              "source": "Heather Glaser : Basically what we recommended is outlined an attachment to and that would suspend a member's participation on the body to which they're appointed until a proper filing is made"
+            },
+            {
+              "speaker": "Kimbra McCarthy",
+              "text": "Design Review Committee faces challenges with Form 700 requirements as architects may be reluctant to file, potentially requiring structural changes to the commission.",
+              "source": "Kimbra McCarthy : So I can say that we have one smaller Commission in particular that we may have challenges with with Form 7 hundreds in the future at the DRC"
+            }
+          ]
+        },
+        {
+          "topic": "Application Deadline Modifications",
+          "points": [
+            {
+              "speaker": "Heather Glaser",
+              "text": "To address varying term expirations and practical constraints, staff recommended removing prescriptive month-based timelines from Policy K2 procedures and adding language setting application deadlines as near as practicable to the interview date to ensure packets can be compiled reliably.",
+              "source": "Heather Glaser : What I could recommend to the body is that, you know we can add some language to the policy that basically dictates that we would set the deadline as near as practicable to the interview date"
+            }
+          ]
+        },
+        {
+          "topic": "Absence Determination Procedures",
+          "points": [
+            {
+              "speaker": "Heather Glaser",
+              "text": "Policy provides that advisory bodies determine whether absences are excused or unexcused by general consent or majority vote, with the chair proposing a status in consultation with the staff liaison for inclusion in minutes. For City Council, excused absences are determined by the mayor under the City Charter.",
+              "source": "Heather Glaser : But for the part that talks about general consent by the body, it does say that the advisory body chair, in consultation with the staff liaison, would propose whether or not an absence was excused or unexcused"
+            }
+          ]
+        },
+        {
+          "topic": "Work Plan Updates and Future Items",
+          "points": [
+            {
+              "speaker": "Kimberly Thomas",
+              "text": "Staff reported multiple work plan items completed. For 2023, two items are slated: Council Policy A2 minor cleanup in coordination with Finance, and further modifications to Council Policy A15 (Shoreline ticket policy) to be developed by Community Services, anticipated for spring.",
+              "source": "Kimberly Thomas : You have two items that would be beyond this update that is also noted, which would be Council policy A2 to look at some minor level cleanup items that would be in conjunction with our finance team working on that"
+            }
+          ]
+        },
+        {
+          "topic": "Use of Public Land Process Clarification",
+          "points": [
+            {
+              "speaker": "Kimbra McCarthy",
+              "text": "In response to a request to clarify processes for private developers seeking to use public land, the City Manager agreed to prepare an off-agenda memo for the Council outlining current decision pathways, with potential future discussion on whether to codify a policy and the appropriate forum.",
+              "source": "Kimbra McCarthy : So I think it's absolutely doable for us to prepare at least for now an off agenda memo for council just so that you all can understand right now just the context of of decision making"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting Closure",
+          "points": [
+            {
+              "speaker": "Lisa Matichak",
+              "text": "The chair adjourned the meeting at 4:17 PM and thanked participants.",
+              "source": "Lisa Matichak : Then we will adjourn the meeting at 4:17. Thank you all very much and good meeting"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "City Manager",
+          "text": "Prepare an off-agenda memo to the City Council explaining current processes for private developers proposing to use public land in projects.",
+          "source": "Kimbra McCarthy : So I think it's absolutely doable for us to prepare at least for now an off agenda memo for council just so that you all can understand right now just the context of of decision making"
+        }
+      ]
+    },
+    "single_aligned_gt": {
+      "topics": [
+        {
+          "topic": "Meeting Procedures and Roll Call",
+          "points": [
+            {
+              "speaker": "Lisa Matichak",
+              "text": "Meeting called to order at 3:34 PM with all committee members present via video conference during declared state of emergency.",
+              "source": "Lisa Matichak : So let's call the meeting to order at 3:34",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Public Comments on Advisory Body Issues",
+          "points": [
+            {
+              "speaker": "England",
+              "text": "England raised concerns about Advisory Body Handbook inconsistencies regarding non-resident membership requirements and requested path forward for previously raised issues.",
+              "source": "England : The one that is particularly interesting at the moment is the Advisory Body Handbook update, which has I I need to check that again, but last time I checked it had not been updated for the PSAB",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "England",
+              "text": "England identified residency requirement inconsistencies in Advisory Body Handbook, noting some committees allow one non-resident member while others are unclear.",
+              "source": "England : It's not consistent as far as whether members can be non residents or not. The Performing Arts committee, Senior advisory Committee and visual Arts Committee. Also, one member can be a non resident and none of the others say you know either way",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Form 700 Filing Requirements and Enforcement",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Ramirez emphasized importance of Form 700 compliance for identifying financial conflicts of interest, particularly when DRC members work with developers appearing before the commission.",
+              "source": "Lucas Ramirez : We have an architect who has worked with the developer, you know, on a routine matter and has accepted compensation from them. That's really important for us to know",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Kimbra McCarthy",
+              "text": "Form 700 filing requirements are mandated by state law regardless of city policy, with city attorney determining which boards and commissions must file.",
+              "source": "Kimbra McCarthy : It is set by by law and the city Attorney's office has advised specifically on which boards and commissions do need to be filing them",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Holiday Wishes",
+          "points": [
+            {
+              "speaker": "Kimberly Thomas",
+              "text": "Staff extended holiday greetings to committee members at meeting conclusion.",
+              "source": "Kimberly Thomas : Happy holidays",
+              "from_gt": "gt2"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "needreview_gt": [
+      {
+        "id": "review_001",
+        "item_type": "point",
+        "issue_type": "equivalence_unclear",
+        "gt1_point": {
+          "text": "Committee approved the September 28, 2022 meeting minutes with a unanimous vote following a motion by Lucas Ramirez and second by Alison Hicks. No committee member or public raised substantive questions regarding the minutes before the vote.",
+          "source": "Lisa Matichak : Yes, that passes unanimously.",
+          "speaker": "Lisa Matichak",
+          "location": "topics[0].points[0]"
+        },
+        "gt2_point": {
+          "text": "Committee unanimously approved September 28th, 2022 meeting minutes.",
+          "source": "Lisa Matichak : Yes, that passes unanimously",
+          "speaker": "Lucas Ramirez",
+          "location": "topics[0].points[1]"
+        },
+        "question": "Who made the motion and second for the September 28 minutes approval? GT1 says Lucas Ramirez motioned and Alison Hicks seconded, but GT2 attributes the approval statement to Lucas Ramirez.",
+        "merge_if_valid": "Use GT1 version if it accurately captures the motion/second details, otherwise use GT2's simpler version"
+      },
+      {
+        "id": "review_002",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": {
+          "text": "The committee advanced staff's recommendations, moving to approve the Form 700 suspension policy and the application deadline language changes. Alison Hicks expressed concern about potential DRC impacts and voiced mixed support; roll call responses were inconsistent, but discussion indicates majority support to forward changes to Council.",
+          "source": "Lucas Ramirez : Well, I'm I'm happy to move the staff recommendation and include the revisions that were just read into the record.",
+          "speaker": "Lucas Ramirez",
+          "location": "topics[1].points[2]"
+        },
+        "gt2_point": null,
+        "question": "Did Alison Hicks express concerns about DRC impacts and were there inconsistent roll call responses? This detailed procedural information only appears in GT1.",
+        "merge_if_valid": "Include if transcript confirms Alison Hicks' concerns and roll call inconsistencies"
+      },
+      {
+        "id": "review_003",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": {
+          "text": "A public commenter highlighted that the Advisory Body Handbook (late 2021) includes PSAB but is inconsistent on whether non-residents may serve on various committees. The chair advised submitting an email to the City Council so the City Clerk can provide a clarifying response.",
+          "source": "Lisa Matichak : I do still think sending an e-mail Mr. England is the right way to go because then our City Clerk can answer your question regarding, I think, the the handbook.",
+          "speaker": "Lisa Matichak",
+          "location": "topics[6].points[0]"
+        },
+        "gt2_point": null,
+        "question": "Did Lisa Matichak specifically recommend that England email the City Council for City Clerk clarification? GT1 has this specific procedural guidance that GT2 doesn't capture.",
+        "merge_if_valid": "Include if transcript confirms Lisa Matichak's specific recommendation about emailing City Council"
+      },
+      {
+        "id": "review_004",
+        "item_type": "decision",
+        "issue_type": "assignee_conflict",
+        "gt1_point": {
+          "text": "Revise Council Policy K2 to remove month-based timelines and add application deadlines set near interview dates, and forward amended policy (including Form 700 suspension provision) to the City Council.",
+          "source": "Lucas Ramirez : Well, I'm I'm happy to move the staff recommendation and include the revisions that were just read into the record.",
+          "assignee": "City Clerk's Office",
+          "location": "decisions[0]"
+        },
+        "gt2_point": {
+          "text": "Committee approved amendments to Council Code of Conduct and Policy K2 including Form 700 filing enforcement and application deadline flexibility modifications.",
+          "source": "Lucas Ramirez : Well, I'm I'm happy to move the staff recommendation and include the revisions that were just read into the record",
+          "assignee": "Committee",
+          "location": "decisions[0]"
+        },
+        "question": "Who is responsible for implementing the Policy K2 amendments? GT1 assigns to 'City Clerk's Office' while GT2 assigns to 'Committee'. This affects accountability for the action.",
+        "merge_if_valid": "Use correct assignee based on transcript - likely City Clerk's Office for policy revisions, Committee for approval"
+      }
+    ],
+    "merge_stats": {
+      "total_aligned_points": 6,
+      "total_aligned_decisions": 1,
+      "single_aligned_points_from_gt1": 0,
+      "single_aligned_points_from_gt2": 6,
+      "single_aligned_decisions_from_gt1": 0,
+      "single_aligned_decisions_from_gt2": 0,
+      "points_need_review": 3,
+      "decisions_need_review": 1,
+      "total_output_points": 15,
+      "total_output_decisions": 2,
+      "confidence_level": "medium",
+      "notes": "Good consensus on core policy discussions and procedural matters. Main uncertainties involve procedural details (motion/second attribution), specific participant concerns, and decision assignee responsibilities. GT2 provided more detailed public comment coverage while GT1 had more procedural specifics."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_alignment/generation_alignment",
+    "prompt_version": "v3",
+    "prompt_fingerprint": "fae28f5dd5207c57cdcd5bc1a3c29bc286c4fd8b12a9eae99e41969f0bebb744",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-30T03:18:01.034652+00:00"
+  }
+}

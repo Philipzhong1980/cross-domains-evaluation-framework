@@ -1,0 +1,117 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Virtual meeting conduct and participation",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "The meeting was conducted virtually under California Government Code 54953(e) during the declared state of emergency, with all commissioners participating by videoconference. Public comments were accepted via Zoom, and any emails received by 5:00 PM were forwarded to the commission for review.",
+              "source": "IdaRose Sylvester : During this declared state of emergency, this meeting will be conducted in accordance with California Government Code Section 54953 E",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "Meeting called to order at 6:33 PM on December 1st, 2022, with three commissioners departing and three new commissioners joining in 2023.",
+              "source": "IdaRose Sylvester : I call this meeting to order at 0633 on December 1st, 2022",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting administration and minutes approval",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "The commission approved the minutes of the November 3, 2022 regular meeting following a motion by Commissioner Nwokidu and a second by Commissioner Ball; a roll call vote recorded unanimous ayes.",
+              "source": "IdaRose Sylvester : I guess thank you approved motion a motion from Nirvana to approve the minutes",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting closure and recognition",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "The meeting was adjourned with holiday well-wishes. The next regular HRC meeting is scheduled for January 5, 2023, at 6:30 PM on Zoom, prior to the February return to in-person meetings.",
+              "source": "IdaRose Sylvester : This meeting is adjourned to the next regular meeting of the HRC Commission scheduled for January 5th, 2023 at 6:30 PM on Zoom",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "Commissioner farewells and recognition",
+          "points": [
+            {
+              "speaker": "Annette",
+              "text": "Former Chair Lynn expressed honor serving as chair and appreciation for thoughtful farewell card from commissioners.",
+              "source": "Annette : Last meeting was my last meeting chairing. And got to say goodbye to the commissioners and Laurel who was able to attend then",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Kevin Ball",
+              "text": "Ball emphasized Mountain View's strong sense of local community compared to other Bay Area cities, crediting HRC members for contributing to city's livability.",
+              "source": "Kevin Ball : I think the people who choose to do HRC are are part of that and I appreciate all of you and the time and energy and and care that you've put into making this a city that is great to live in",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Julie Solomon",
+              "text": "Solomon credited HRC participation with significantly increasing her sense of community and belonging in Mountain View over six years of service.",
+              "source": "Julie Solomon : And it really has been just really far exceeded my expectations at so many levels",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Xavier Webb",
+              "text": "Webb thanked departing commissioners for mentoring new members and creating foundation for future service to Mountain View community.",
+              "source": "Xavier Webb : You guys were so kind and so thoughtful and so giving of yourselves to helping us to become better partners in this process",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "City Clerk's Office",
+          "text": "City Clerk's Office will send Brown Act training invitations within the next few weeks for January 2023 evening virtual sessions.",
+          "source": "Laurel James : the City Clerk's Office will send out invitations to all of you and who are going to be attending the training in the next few weeks",
+          "from_gt": "gt1",
+          "validation_note": "modified"
+        },
+        {
+          "assignee": "Human Relations Commission",
+          "text": "The commission will review and update subcommittee assignments at the January 2023 meeting.",
+          "source": "IdaRose Sylvester : in January at that meeting, we will have a chance to review subcommittee assignments and people switch out and can switch out or join",
+          "from_gt": "gt1",
+          "validation_note": "modified"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 8,
+      "kept": 5,
+      "modified": 3,
+      "dropped": 0,
+      "from_gt1_kept": 4,
+      "from_gt2_kept": 4
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:26:15.989102+00:00"
+  }
+}

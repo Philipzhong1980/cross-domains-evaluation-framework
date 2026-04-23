@@ -1,0 +1,76 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Sally Lieber recognition and service",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Lieber supported local gun safety ordinances and state actions to restrict assault weapons and non-serialized firearms, encourage safe storage, and limit firearm marketing to children. She championed climate action, helped establish the SF Bay Restoration Authority, supported Proposition 1 on reproductive freedom, and advanced programs aiding vulnerable residents, including Elevate MV and ARPA-funded services.",
+              "source": "Lucas Ramirez : ...supported the City's adoption of local gun safety ordinances... further restricting assault weapons and non serialized firearms... advocating for safe storage... limiting the marketing... support of climate action... pass the law to create the San Francisco Bay Restoration Authority... championed women's personal reproductive freedom via support of California's Proposition One... launch of Elevate MV... allocation of American Rescue Plan Act funds...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Outgoing mayor 2022 achievements",
+          "points": [
+            {
+              "speaker": "Alison Hicks",
+              "text": "Ramirez prioritized community support and economic recovery: allocating ARPA funds to vulnerable residents, advancing the Crestview Hotel affordable housing project, supporting the Safe Parking program, launching the Elevate MV guaranteed basic income pilot, advocating reproductive rights, and supporting the Castro Street Pedestrian Mall and the City's Economic Vitality strategy.",
+              "source": "Alison Hicks : ...helped allocate federal American Rescue Plan Act funds to the most vulnerable... continued efforts to develop the Crestview Hotel as affordable housing... supported the city's continued implementation of the safe Parking program, launched the Elevate Mountain View Guaranteed Basic Income Pilot... supported and assisted small businesses... establishing a Castro Street Pedestrian Mall... Economic Vitality strategy...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Reflecting on the role, Ramirez emphasized that a mayor's primary power is to convene stakeholders rather than unilaterally set policy, and that effectively leveraging convening authority can create a lasting and meaningful impact.",
+              "source": "Lucas Ramirez : The power of the mayor is to convene... the mayor is not empowered to achieve policy goals, not unilaterally at least... leveraging this great and subtle power will leave behind a legacy of lasting and profound impact.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Incoming leadership priorities",
+          "points": [
+            {
+              "speaker": "Pat Showalter",
+              "text": "Vice Mayor Showalter emphasized maintaining council civility, robust community involvement, and regional collaboration. Policy priorities include responsible housing growth, pedestrian and bicycle-friendly infrastructure, reducing greenhouse gas emissions, adapting to climate impacts with sea level rise protection and recycled water policies, and supporting vulnerable community members.",
+              "source": "Pat Showalter : ...long standing tradition of civility... a great deal of community involvement... provide the policy behind city services... responsible viewpoint for increased housing... pedestrian and bicycle friendly infrastructure... reduce our greenhouse gas emissions, adapting to the new climate realities with our sea level rise protection program and our recycled water policies... support the most vulnerable members of our community.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Ellen Kamei",
+              "text": "Council Member Kamei's second-term focus includes creating more housing opportunities (including for the missing middle and multigenerational households), improving transportation and bike/ped connectivity, advancing environmental sustainability and climate action, aiding small businesses, developing a displacement strategy, and following up on middle-income housing in upcoming goal setting.",
+              "source": "Ellen Kamei : ...Creating more housing opportunities... for our moderate income households and our missing middle. Developing transportation, bicycle and pedestrian infrastructure... environmental sustainability and addressing climate change... aid our small businesses, help our most vulnerable through our upcoming displacement strategy and middle income housing, report back and tackle long standing issues in our goal setting process.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 4,
+      "kept": 4,
+      "modified": 0,
+      "dropped": 0,
+      "from_gt1_kept": 4,
+      "from_gt2_kept": 0
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:33:26.017906+00:00"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Meeting Minutes Approval",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Committee approved the September 28, 2022 meeting minutes with a unanimous vote following a motion by Lucas Ramirez and second by Alison Hicks.",
+              "source": "Lucas Ramirez : I'm happy to move to approve the Minutes.",
+              "validation_note": "refined"
+            }
+          ]
+        },
+        {
+          "topic": "Council Policy K2 Amendments",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Committee approved amendments to Council Policy K2 including Form 700 filing enforcement and application deadline flexibility modifications.",
+              "source": "Lucas Ramirez : Well, I'm I'm happy to move the staff recommendation and include the revisions that were just read into the record.",
+              "validation_note": "refined"
+            }
+          ]
+        },
+        {
+          "topic": "Public Comments and Advisory Body Handbook",
+          "points": [
+            {
+              "speaker": "Lisa Matichak",
+              "text": "Chair advised England to submit an email to the City Council so the City Clerk can provide clarifying response regarding Advisory Body Handbook inconsistencies on non-resident membership.",
+              "source": "Lisa Matichak : I do still think sending an e-mail Mr. England is the right way to go because then our City Clerk can answer your question regarding, I think, the the handbook.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Staff",
+          "text": "Revise Council Policy K2 to remove month-based timelines and add application deadlines set near interview dates, and forward amended policy (including Form 700 suspension provision) to the City Council.",
+          "source": "Lucas Ramirez : Well, I'm I'm happy to move the staff recommendation and include the revisions that were just read into the record.",
+          "validation_note": "refined"
+        }
+      ]
+    },
+    "rejected_items": [
+      {
+        "id": "review_002",
+        "item_type": "point",
+        "original_point": {
+          "text": "The committee advanced staff's recommendations, moving to approve the Form 700 suspension policy and the application deadline language changes. Alison Hicks expressed concern about potential DRC impacts and voiced mixed support; roll call responses were inconsistent, but discussion indicates majority support to forward changes to Council.",
+          "source": "Lucas Ramirez : Well, I'm I'm happy to move the staff recommendation and include the revisions that were just read into the record.",
+          "speaker": "Lucas Ramirez"
+        },
+        "reason": "no_evidence",
+        "explanation": "Transcript shows Alison Hicks expressed concerns about DRC impacts but ultimately voted yes after clarification that Form 700 requirements are already law. There is no evidence of 'inconsistent roll call responses' - the roll call was clear with all members voting yes. The claim about 'mixed support' and 'inconsistent responses' is not supported by transcript evidence."
+      }
+    ],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "modify",
+        "reasoning": "GT1 contains accurate procedural details about motion and second, but includes unnecessary detail about 'no substantive questions'. GT2 has incorrect speaker attribution. The motion was made by Lucas Ramirez and seconded by Alison Hicks as confirmed by transcript.",
+        "transcript_evidence": [
+          "Lucas Ramirez : I'm happy to move to approve the Minutes.",
+          "Alison Hicks : 2nd.",
+          "Lisa Matichak : Yes, that passes unanimously."
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "exclude",
+        "reasoning": "The transcript does not support claims about 'inconsistent roll call responses' or Alison Hicks having 'mixed support'. While Hicks did express concerns about DRC impacts, she ultimately voted yes after clarification. The roll call was clear and consistent with all members voting yes.",
+        "transcript_evidence": [
+          "Alison Hicks : So I think I'm not going to be supporting it until it's more worked out with the DRC",
+          "Alison Hicks : In that case, I'll vote for this, but I will be.",
+          "Kimberly Thomas : I'm sorry, committee member Hicks, committee member Ramirez, chair Manichek.",
+          "Lisa Matichak : Yes, thank you."
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "merge",
+        "reasoning": "Transcript confirms Lisa Matichak specifically recommended that England email the City Council for City Clerk clarification regarding the Advisory Body Handbook. This is accurate procedural guidance that was provided.",
+        "transcript_evidence": [
+          "Lisa Matichak : I do still think sending an e-mail Mr. England is the right way to go because then our City Clerk can answer your question regarding, I think, the the handbook."
+        ]
+      },
+      {
+        "id": "review_004",
+        "decision": "modify",
+        "reasoning": "The transcript does not explicitly assign implementation responsibility to either 'City Clerk's Office' or 'Committee'. The motion was to approve staff recommendations, which implies staff implementation. The assignee should be 'Staff' as the general implementer of approved policy changes.",
+        "transcript_evidence": [
+          "Lucas Ramirez : Well, I'm I'm happy to move the staff recommendation and include the revisions that were just read into the record."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 4,
+      "merged": 1,
+      "excluded": 1,
+      "modified": 2,
+      "confidence": "High confidence in validation decisions. Transcript evidence clearly supports or contradicts each reviewed item. The exclusion of review_002 is based on clear lack of evidence for claimed 'inconsistent roll call responses' and 'mixed support' characterizations."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-30T03:18:21.032543+00:00"
+  }
+}

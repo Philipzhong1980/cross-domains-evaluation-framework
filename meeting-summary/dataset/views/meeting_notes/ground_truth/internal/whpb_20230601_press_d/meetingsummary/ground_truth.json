@@ -1,0 +1,165 @@
+{
+  "meeting_context": "White House press briefing imported from 20230601_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Jennifer",
+    "Unidentified",
+    "Robbie",
+    "Daphne",
+    "Simon"
+  ],
+  "topics": [
+    {
+      "topic": "The senior administration official discusses the outbreak of",
+      "points": [
+        {
+          "text": "The senior administration official discusses the outbreak of fighting between the Sudanese Armed Forces and the paramilitary Rapid Support Forces, which ended negotiations for civilian rule and undermined the Sudanese revolution.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the ongoing conflict",
+      "points": [
+        {
+          "text": "The senior administration official discusses the ongoing conflict in Sudan, including ceasefire violations, violence against civilians, displacement of people, and the United States' actions to hold the parties accountable through sanctions on affiliated companies.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses specific companies and",
+      "points": [
+        {
+          "text": "The senior administration official discusses specific companies and individuals in Sudan that are involved in the production of weapons and vehicles for the SAF, as well as the United States' actions to hold them accountable through sanctions and visa restrictions.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the imposition of",
+      "points": [
+        {
+          "text": "The senior administration official discusses the imposition of sanctions as a result of President Biden's commitment to end the fighting in Sudan and hold accountable those involved in the destruction of the country and obstruction of civilian transition.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that President Biden",
+      "points": [
+        {
+          "text": "The senior administration official explains that President Biden has given himself the authority to impose sanctions in order to address violence, hold people accountable, and push for negotiations to resume the civilian transition in Sudan, stating that these sanctions were already being considered before the formal announcement of pulling out of negotiations.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that the goal",
+      "points": [
+        {
+          "text": "The senior administration official explains that the goal of imposing sanctions is to hold people accountable for the violence and destruction in Sudan, and the level at which these sanctions will be waived depends on the parties' engagement in the conflict.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the goal of",
+      "points": [
+        {
+          "text": "The senior administration official discusses the goal of imposing sanctions to change the behavior of the parties involved in the conflict in Sudan, with a focus on access to funds and weapons, in order to bring about a ceasefire and meet the aspirations of the Sudanese people for a democratic transition.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official declines to comment on",
+      "points": [
+        {
+          "text": "The senior administration official declines to comment on whether Hemedti and Burhan are included in the visa restriction decision and suggests contacting the State Department for further information.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the importance of",
+      "points": [
+        {
+          "text": "The senior administration official discusses the importance of tightening sanctions on certain groups to prevent them from perpetuating the conflict, while also mentioning the possibility of future sanctions and declines to comment on individuals affected by visa restrictions.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that when imposing",
+      "points": [
+        {
+          "text": "The senior administration official explains that when imposing sanctions, they work with Treasury and diplomats to ensure compliance, including engaging with other countries if sanctioned companies operate or have financial flows there.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that elements of",
+      "points": [
+        {
+          "text": "The senior administration official explains that elements of the former Bashir regime, who have violated US laws multiple times and pose a negative influence on resolving the conflict, have been included in visa sanctions.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes the importance of",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes the importance of coordination with international partners, including the Saudis, in resolving the conflict in Sudan and expresses the belief that the sanctions imposed will have a meaningful impact on both sides.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official highlights the significance of",
+      "points": [
+        {
+          "text": "The senior administration official highlights the significance of the sanctions imposed on Sudan, stating that they aim to restrict access to weapons and resources for the parties involved in the conflict and hopes that compliance with ceasefire agreements will determine the effectiveness of these measures, while also emphasizing the importance of collaboration with international partners and organizations such as the African Union in resolving the devastating conflict.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges that there have",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges that there have been serious violations on both sides of the conflict in Sudan, leading to the imposition of sanctions on companies affiliated with both parties.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes the importance of",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes the importance of diplomacy in addressing the conflict in Sudan, including silencing the guns, providing humanitarian assistance, and restoring civilian rule.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

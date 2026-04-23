@@ -1,0 +1,176 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Castro Street pedestrian mall and arts activation",
+          "points": [
+            {
+              "speaker": "Clifford Bryant",
+              "text": "Committee members encouraged leveraging pedestrianization to inject public art into the downtown experience, including storefront activations, pop-ups during holidays, kid-friendly installations, and collaborating with the Downtown Committee, Chamber, and BIA to revitalize vacant storefronts and promote arts programming and visibility on Castro Street.",
+              "source": "Clifford Bryant : I see that as a tremendous opportunity for us to introduce art into the public mindset... with the interest of the Downtown Committee and revitalizing Castro... Either be on display, be galleries, be studios, be it participation from for kids",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "CIP public art projects status updates",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Pyramid Park is complete and was dedicated in September. Committee feedback highlighted art visibility and integration concerns, suggesting mid-project artist check-ins, considering artist selection later, and site visits. Staff will engage Public Works and explore field trips to improve siting and coordination.",
+              "source": "John Lang : I'm hearing there's a great opportunity to... have a better understanding of the process... maybe it's worth doing a field trip... I'm going to flag that as a follow up on that item.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Public art strategy framework and timeline",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Proposed strategies and initiatives include refining policies (e.g., fee for private art, donations, maintenance, K5 alignment), encouraging art appreciation and placekeeping, artistic wayfinding, establishing a public art fund and pursuing grants, improving jury process and outreach, and creating a comprehensive, publicly accessible art inventory (e.g., app, map, or book).",
+              "source": "John Lang : These are the strategies... develop a fee for private art... refine K5... incorporate art... to improve wayfinding... develop a public art fund... be more proactive about securing art grants... improve the jury process... develop comprehensive, public and publicly accessible art inventory.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Committee guidance emphasized integrating diversity as a lens across goals and updating the vision language to reflect Mountain View's diversity explicitly, and broadening partnerships language to include schools and other organizations that align with arts for exhibitions and collaboration.",
+              "source": "John Lang : We can definitely change that... creation of public art enriches Mountain View's diverse, innovative and creative culture... maybe softening that language... exploring those kinds of partnerships... instead of being so specific about art organizations.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Artist support and community activation proposals",
+          "points": [
+            {
+              "speaker": "Toni Hsu",
+              "text": "Members proposed boosting local artist exposure and sales through microgrants, temporary exhibits, art walks, leveraging city events (e.g., Art & Wine, Taste of Mountain View), and encouraging retail/gallery displays and directories, while recognizing the city's role is to advocate, partner with Chamber/BIA, and avoid over-formalizing private exhibition arrangements.",
+              "source": "Toni Hsu : ... the city can help... create A pathway for those artists... a directory of stores... but I don't think it's like a program for the city to run... the city can help with some... marketing... pathway for those artists.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "Pyramid Park project feedback",
+          "points": [
+            {
+              "speaker": "Clifford Bryant",
+              "text": "Pyramid Park exceeded expectations in size with beautifully designed children's playground featuring metal canopy casting shaded light",
+              "source": "Clifford Bryant : One, the park is immense. I was really surprised because we've seen these little things, little bitty things like Amora Park etcetera kind of been shoehorned in while the the Pyramid Park is is just I I was blown away with how the size of it and also the beauty of the children's playground I thought was beautifully done with the canopy, the metal canopy casting kind of a shaded light on on the ground, just beautifully done.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Clifford Bryant",
+              "text": "Mobile sculpture was less colorful than expected and got lost visually due to shininess blending with basketball court poles in bright light",
+              "source": "Clifford Bryant : I was a little bit disappointed with the public art, specifically the the mobile I for some reason I thought it was going to be more colourful than it turned out to be and that may have just been stuck in my mind and maybe miss misrepresenting it or miss not remembering correctly. But when I saw it and then saw where it was placed with the basketball courts, suddenly the the shininess of the basketball poles and the shininess of the sculpture caused it all kind of to me, the sculpture to get lost.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Jesse Cupp",
+              "text": "Bee and butterfly sculpture placement resulted in bees being visible only from 5 feet of park due to positioning at edge near row houses, limiting visibility",
+              "source": "Jesse Cupp : The way it was positioned, the bees are visible for like 5 feet of the park. You have to stand behind the sculpture. It's like right at the edge of the park. So it's basically just visible to people who live in those houses back there.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Clifford Bryant",
+              "text": "Committee proposes moving artist selection process from beginning to after park construction completion to better understand physical environment and improve art placement decisions",
+              "source": "Clifford Bryant : So my thought was what would should we think about moving the process not at the beginning, but at the end. Once the park is defined, we kind of know what it's going to be like. We know what the beautiful play equipment is going to be like. It's been selected and that we now then and introduce into that environment pieces that would complement it.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Artist support and exhibition opportunities",
+          "points": [
+            {
+              "speaker": "Don Whitebread",
+              "text": "Mountain View needs more venues for local artists to show work, as many have space and materials but lack exhibition opportunities, with most commissioned artists coming from outside Mountain View",
+              "source": "Don Whitebread : I think if we really want to encourage the grander artistic future of Mountain View, I don't know what it looks like, but it would be nice if we provided more venues for the people that are creating art along with, you know, putting up big art. You know the the art that we're commissioning is from people at the the top of the art pyramid. The real professionals, and that's most of them, aren't from Mountain View.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Regina Sakols",
+              "text": "City needs affordable studio spaces for artists, noting other cities like Palo Alto, Belmont, Redwood City, and San Carlos have established studio space programs",
+              "source": "Regina Sakols : Well, I think I agree with that and but I also think that we need studio spaces that are, you know, affordable.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Toni Hsu",
+              "text": "Committee should think beyond traditional gallery spaces and explore innovative exhibition methods including internet-based or temporary outdoor installations to serve more artists",
+              "source": "Toni Hsu : What if we think differently and maybe there is a way or mechanism where we can't, where 1000 artists can show their art, right? Like, again, I'm making this up, but maybe it's somehow through the Internet.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "VAC",
+          "text": "Approved September 14, 2022 meeting minutes by roll-call vote.",
+          "source": "Jesse Cupp : All right, motion passes.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Notify VAC of the pedestrian mall ad hoc subcommittee's next (anticipated November) meeting and share prior meeting notes and GAIL's report.",
+          "source": "John Lang : ... happy to share after this meeting what was talked about at the first meeting... the second meeting was intended to focus on... Gail's... report... anticipated to be in November.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Add a November VAC agenda item to develop official recommendations for the pedestrian mall design guidelines and coordinate VAC representation.",
+          "source": "John Lang : Yes, I can certainly work to get that agenda... for that conversation to have...",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Invite Public Works staff to future VAC meetings and explore site visits to improve art siting and coordination.",
+          "source": "John Lang : ... worth doing a field trip... I think it's certainly worth... to get our public work teammates back coming to these meetings on a regular basis... engage in the conversation.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Return with the Rengstorff Park maintenance/tennis buildings mural concept after resolving artist contract insurance requirements.",
+          "source": "John Lang : ... we need to resolve some insurance requirements... intent is... to come back to... understand what the vision of that mural would look like...",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 13,
+      "kept": 11,
+      "modified": 2,
+      "dropped": 0,
+      "from_gt1_kept": 7,
+      "from_gt2_kept": 6
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-27T02:34:42.643148+00:00"
+  }
+}

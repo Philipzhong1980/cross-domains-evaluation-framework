@@ -1,0 +1,239 @@
+{
+  "meeting_context": "The Visual Arts Committee met to approve prior minutes, identify future agenda topics, review capital project statuses, select 2023\u20132024 Center for the Performing Arts (CPA) gallery artists, and receive a Public Works presentation on the Transit Center Grade Separation project and related public art opportunities. The committee also discussed stipend policy thresholds, public inquiry handling, and closed with recognition and holiday wishes.",
+  "participants": [
+    "John Lang",
+    "Jesse Cupp",
+    "Clifford Bryant",
+    "Susi Merhar",
+    "Regina Sakols",
+    "Don Whitebread",
+    "Toot Too Thomson",
+    "Bruce England",
+    "Joy Houghton",
+    "Jim Lightbody",
+    "Robert Gonzales"
+  ],
+  "topics": [
+    {
+      "topic": "Meeting administration and minutes approval",
+      "points": [
+        {
+          "text": "Vice Chair Hsu reported an excused absence for this meeting. The committee proceeded with roll call and attendance confirmation before moving to agenda items.",
+          "source": "John Lang : the vice chair has informed me she was not going to be able to make this evening, so this will be an excused absence",
+          "speaker": "John Lang",
+          "id": "t_001_p_001"
+        },
+        {
+          "text": "The committee approved the minutes from the November 9, 2022 meeting with no corrections, following a motion and roll call vote, and proceeded to subsequent agenda items.",
+          "source": "Jesse Cupp : The minutes for the November 9th, 2022 meeting have been delivered... There are no corrections or additions... The motion is in order to approve these Minutes",
+          "speaker": "Jesse Cupp",
+          "id": "t_001_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Future agenda topics and process improvements",
+      "points": [
+        {
+          "text": "Staff coordinated with Community Services on the city's biodiversity strategy and will bring back options for integrating public art into landscaping as the strategy advances. The effort is in research phase and consultants have the K5 policy for context.",
+          "source": "John Lang : The biodiversity strategy is really looking... where this becomes very important to the VAC... how art could actually be incorporated into landscaping... It's still very much in its... background doing research... We did provide the K5 policy to the consultant team",
+          "speaker": "John Lang",
+          "id": "t_002_p_001"
+        },
+        {
+          "text": "Members cited difficulties with the CaF\u00c9 submission platform and suggested alternatives (e.g., SlideRoom) or accepting multiple platforms. Staff will agendize a future discussion on platform options for calls for artists.",
+          "source": "John Lang : So if I may interject... let's bring back a conversation and discussion on the platform as a future agenda item",
+          "speaker": "John Lang",
+          "id": "t_002_p_002"
+        },
+        {
+          "text": "Members requested including the original call language in future review packets to compare with submissions and ensure regional scope compliance. A pilot program to encourage displays by young artists, in coordination with schools, was proposed for a future agenda.",
+          "source": "Regina Sakols : it could be maybe good if you had a package next time like we have the original call... and... use another platform... Also... interest for call like a call for young artists",
+          "speaker": "Regina Sakols",
+          "id": "t_002_p_003"
+        },
+        {
+          "text": "Committee member requested discussion on artist touchpoint strategies and call for artists process improvements",
+          "source": "Susi Merhar : I actually looked at my notes from last meeting and I think our discussion last time made it clear to me that maybe it would be good if we would",
+          "speaker": "Susi Merhar",
+          "id": "t_002_p_004"
+        },
+        {
+          "text": "Committee member proposed future agenda item for call for young artists program to display student artwork",
+          "source": "Toot Too Thomson : I actually talked to my son's middle school art, art, art teacher",
+          "speaker": "Toot Too Thomson",
+          "id": "t_002_p_005"
+        }
+      ]
+    },
+    {
+      "topic": "Capital project status updates",
+      "points": [
+        {
+          "text": "There are no substantial changes since the last meeting for CIP art projects. Updated insurance documents were received for the Rengstorff Park Maintenance Building murals, allowing agreements to proceed; artists are Fernanda and Haroma. Design concepts will return after agreements.",
+          "source": "John Lang : Really, there's no substantial change since your last meeting... we did get some updated insurance... for the artist for Rankstorff Park maintenance... That'll allow us to execute the agreements... we do intend to bring... what they're thinking about as a design concept",
+          "speaker": "John Lang",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "CPA gallery selection and scheduling",
+      "points": [
+        {
+          "text": "The 2023\u20132024 CPA call received 63 responses. The call modeled the 2019 approach, limited to the nine Bay Area counties with no theme. Staff verified heavier tile works fit CPA hanging systems. Scoring summaries (averages/medians/ranges) were reviewed with the committee.",
+          "source": "John Lang : We had 63 responses... the call was to reflect the 9 county Bay Area region... The call did specify it would be a limited period art display... The artist was kind enough to provide me the weights... They will work with our hanging systems",
+          "speaker": "John Lang",
+          "id": "t_004_p_001"
+        },
+        {
+          "text": "The committee voted to select eight primary artists and three alternates for the 2023\u20132024 CPA exhibits, increasing from six. Staff will work with the CPA to schedule shorter display windows if needed to accommodate the expanded roster.",
+          "source": "Jesse Cupp : I think it's probably fair... decide now... We could just have an extra alternate... I like 8... I'm comfortable with the plan... we should probably get back to this current discussion",
+          "speaker": "Jesse Cupp",
+          "id": "t_004_p_002"
+        },
+        {
+          "text": "Process guidance clarified that blank CaF\u00c9 scores are treated as null (not zero) and do not lower averages; members should use a score of \"1\" to reflect the lowest rating in future to ensure intended weighting.",
+          "source": "John Lang : if you left it blank, it does not actually lower the score... it's the average of however many people scored it... Jesse Cupp : Yeah, you should mark it as one next time if you want to give it the lowest possible score",
+          "speaker": "John Lang",
+          "id": "t_004_p_003"
+        },
+        {
+          "text": "Committee member clarified that blank scores were intended as zeros, not null values in evaluation system",
+          "source": "Toot Too Thomson : Because I only scored like maybe 11 or 12 artists I left majority of them blank",
+          "speaker": "Toot Too Thomson",
+          "id": "t_004_p_004"
+        }
+      ]
+    },
+    {
+      "topic": "Transit center grade separation art opportunities",
+      "points": [
+        {
+          "text": "The grade separation project includes: a vehicle ramp from West Evelyn to Shoreline; a shared-use path under Evelyn/Shoreline; closure of Castro's at-grade rail crossing with new pedestrian/bike undercrossings and concourse; and new pickup/drop-off on Central. Final design completes July 2024; construction July 2024\u2013December 2026.",
+          "source": "Joy Houghton : The project proposes... new vehicle ramp from West Evelyn Ave. connecting to Shoreline Blvd... a shared use path underneath Evelyn Ave. and Shoreline Blvd... closure of the AT grade vehicle crossing... final designed phase... completed in July of 2024... Construction... July of 2024 and last through December of 2026",
+          "speaker": "Joy Houghton",
+          "id": "t_005_p_001"
+        },
+        {
+          "text": "Multiple opportunities identified for public art integration including tunnel walls, ceilings, and floors, lighting features, concourse treatments, railings, signage/wayfinding, and landscaping to create a strong sense of place.",
+          "source": "Joy Houghton : There are many opportunities... through Surface... Lighting, landscaping, signage and wayfinding... walls... flooring... ceiling... lighting",
+          "speaker": "Joy Houghton",
+          "id": "t_005_p_002"
+        },
+        {
+          "text": "K5 policy applies; with a total project over $90M, the visual arts component caps at $400,000. Staff discussed shortlisting 2\u20134 artists and offering stipends (historically $2\u20135K) for renderings, noting this adds roughly two months and an extra VAC cycle.",
+          "source": "Robert Gonzales : This project has a total budget of over $90,000,000... I believe the policy caps out the artist's... at 400,000... John Lang : Historically... stipends... between 1000 and $5000... it has added... basically two months",
+          "speaker": "Robert Gonzales",
+          "id": "t_005_p_003"
+        },
+        {
+          "text": "Currently about 104 trains cross Castro Street daily, with about one minute gate downtime per train. This is anticipated to rise with Caltrain electrification and could reach roughly 398 trains per day by 2040 with Caltrain and high-speed rail service.",
+          "source": "Joy Houghton : Currently, about 104 trains cross Castro Street... about a minute of gate downtime... anticipated to increase... anticipated to increase in 20, 40 to 398 trains trains per day",
+          "speaker": "Joy Houghton",
+          "id": "t_005_p_004"
+        },
+        {
+          "text": "Urban design guidelines aim to ensure undercrossings are safe, comfortable, and attractive. Art integration opportunities include tunnel walls, ceilings, and floors, lighting features, concourse treatments, railings, signage/wayfinding, and landscaping to create a strong sense of place.",
+          "source": "Jesse Cupp : we made sure that we provided sufficient budget and concepts that would support an undercrossing that would be safe... comfortable and... attractive... Joy Houghton : There are many opportunities... through Surface... Lighting, landscaping, signage and wayfinding... walls... flooring... ceiling... lighting",
+          "speaker": "Jim Lightbody",
+          "id": "t_005_p_005"
+        },
+        {
+          "text": "Engagement plan: a community update will be held in January to gather input on architectural elements. Staff will return to the VAC early next year with public art location recommendations and to initiate the artist call, then brief Council and select an artist in spring.",
+          "source": "Joy Houghton : meet with the community in January... seek input on architectural elements... return to the Visual Art Committee early next year... initiate the call for artists... After receiving input... go to Council... in spring staff will return to select an artist",
+          "speaker": "Joy Houghton",
+          "id": "t_005_p_006"
+        },
+        {
+          "text": "Design milestones may limit options as plans advance (targeting 65% design mid-year). The City will likely be responsible for maintaining the undercrossings; materials should be durable and graffiti-resistant. Staff will pursue cost sharing with Caltrain, though contributions are uncertain.",
+          "source": "Jim Lightbody : they're currently aiming for middle of the year to complete the 65% design... most likely this is going to be the city's responsibility to maintain this under crossing... Robert Gonzales : cost sharing is... high in our list of asks",
+          "speaker": "Jim Lightbody",
+          "id": "t_005_p_007"
+        }
+      ]
+    },
+    {
+      "topic": "Public inquiry handling guidance",
+      "points": [
+        {
+          "text": "VAC members should forward public inquiries about city art policies or VAC positions to staff. Staff will coordinate with the clerk's office on appropriate responses and advise if committee members should reply directly.",
+          "source": "John Lang : if you do receive inquiries from members of the public... forward that to me... I will do the initial interaction and then work with the clerk's office... whether you can respond directly",
+          "speaker": "John Lang",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Artist stipend policy discussion",
+      "points": [
+        {
+          "text": "Historical precedent: VAC provided stipends to refine proposals on larger projects\u2014Fire Station #5 ($500 stipend), Community Center remodel ($5,000), and Rengstorff Aquatic Center ($1,000)\u2014typically when a single art piece exceeded about $60,000.",
+          "source": "John Lang : there were three projects... Fire Station #5... $500 stipend... Community Center... $5000 stipend... Rank Star Aquatic Center... $1000 stipend... when... a single art piece that's in excess of $60,000",
+          "speaker": "John Lang",
+          "id": "t_007_p_001"
+        },
+        {
+          "text": "Provisional direction: use $60,000 as a threshold to trigger a committee discussion on offering stipends, generally favoring stipends for higher-cost or less-defined proposals, with flexibility to waive when scope is clear; staff will refine timing with Public Works and consider K5 inflation adjustments.",
+          "source": "Jesse Cupp : I think 60,000 is a good number... a threshold where we will... do a stipend unless the majority votes otherwise... John Lang : let me go back to the public works folks... I am a little sensitive to adding more time... stipends... should be... aligned with K5",
+          "speaker": "Jesse Cupp",
+          "id": "t_007_p_002"
+        },
+        {
+          "text": "Committee member expressed preference for holistic approach to artist engagement rather than deciding stipend threshold in isolation",
+          "source": "Susi Merhar : I I feel like I'm a little bit uneasy to decide this personally, kind of in a vacuum",
+          "speaker": "Susi Merhar",
+          "id": "t_007_p_003"
+        },
+        {
+          "text": "Committee member advocated for default stipend approach above threshold with option to waive, noting improved quality from artist stipends",
+          "source": "Clifford Bryant : I would go with an idea that we are going to give a stipend in order to finalize the final design",
+          "speaker": "Clifford Bryant",
+          "id": "t_007_p_004"
+        }
+      ]
+    },
+    {
+      "topic": "Meeting closure and recognition",
+      "points": [
+        {
+          "text": "John Lang thanked the committee for their contributions throughout the year and extended holiday and new year wishes. Committee members reciprocated thanks and greetings before adjourning.",
+          "source": "John Lang : I want to thank the VAC committee this year... have a lovely holiday... and... wonderful new year",
+          "speaker": "John Lang",
+          "id": "t_008_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "text": "Increase CPA gallery selections to eight artists with three alternates for 2023\u20132024 and coordinate scheduling/agreements accordingly.",
+      "source": "Regina Sakols : I do a motion to have eight artists show... with three alternates",
+      "assignee": "City staff",
+      "id": "d_001"
+    },
+    {
+      "text": "Agendize a future discussion on artist submission platforms (e.g., CaF\u00c9 alternatives) for a VAC meeting.",
+      "source": "John Lang : let's bring back a conversation and discussion on the platform as a future agenda item",
+      "assignee": "John Lang",
+      "id": "d_002"
+    },
+    {
+      "text": "Add a youth artists display program concept as a future VAC agenda topic for discussion.",
+      "source": "John Lang : yes, put that as a topic",
+      "assignee": "John Lang",
+      "id": "d_003"
+    },
+    {
+      "text": "Staff will coordinate with Public Works team on stipend timing and return with refined threshold policy incorporating $60,000 trigger for stipend discussion",
+      "source": "John Lang : So let me go back to the public works folks and just try and understand from a timing frame",
+      "assignee": "John Lang",
+      "id": "d_004"
+    }
+  ],
+  "metadata": {
+    "topicCount": 8,
+    "pointCount": 25,
+    "decisionCount": 4
+  }
+}

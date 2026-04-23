@@ -1,0 +1,380 @@
+{
+  "result": {
+    "total_aligned_gt": {
+      "meeting_context": "Regular meeting of the Downtown Committee for Mountain View, California (Nov 1) covering approval of minutes, upcoming agenda planning, development and policy updates, Castro Street pedestrian mall transition, vacancy analysis, public safety efforts, community events, and meeting logistics. The committee also adopted the AB 361 remote meeting resolution and the 2023 meeting schedule.",
+      "participants": [
+        "Mike Kasperzak",
+        "John Lang",
+        "Eric Cormier",
+        "Marina Marina Keith",
+        "Maria Lange",
+        "David Lin",
+        "Jamil Shaikh",
+        "Merry Yen",
+        "Pamela Baird",
+        "Edgar Maravilla",
+        "Kira Pascoe",
+        "Maureen Grzn-Pieracci",
+        "Matthew Atkins",
+        "Marina Keith"
+      ],
+      "topics": [
+        {
+          "topic": "October minutes approval",
+          "points": [
+            {
+              "speaker": "Mike Kasperzak",
+              "text": "The committee approved the October meeting minutes by roll call vote, with no questions or comments raised during discussion, establishing the prior meeting's record as official.",
+              "source": "Mike Kasperzak : We have a quorum moving on item number three. The minutes, approval and minutes were sent out for the October meeting"
+            }
+          ]
+        },
+        {
+          "topic": "Upcoming agenda planning and timelines",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Busking and music in downtown will be addressed in the new year (not this fiscal year); a general maintenance and cleanliness update is planned for the next meeting; and the Castro Bikeway feasibility study is scheduled for February.",
+              "source": "John Lang : We'll be tackling busking and music actually in the new year... General maintenance and cleanliness. I am hoping to have an update for the committee next meeting and then... the bikeway feasibility is scheduled for February."
+            }
+          ]
+        },
+        {
+          "topic": "Storm drain oil disposal incident",
+          "points": [
+            {
+              "speaker": "Marina Marina Keith",
+              "text": "A hot dog vendor dumped cooking oil into a storm drain near Castro Street; her business recorded video sent to the fire department for investigation, and she will share the footage with Eric Cormier for follow-up.",
+              "source": "Marina Marina Keith : this past weekend we noticed that they're dumping their oil into the storm drain. We have it on camera and we forwarded it to the to the fire department"
+            }
+          ]
+        },
+        {
+          "topic": "Downtown development and planning updates",
+          "points": [
+            {
+              "speaker": "Edgar Maravilla",
+              "text": "A new restaurant, Limon, is planned at 800 California Street (intersection of California and Castro). Tenant improvement permits were submitted to the Building Division and are in plan check.",
+              "source": "Edgar Maravilla : one at 800 California St. which is going to be here at the intersection of California and Castro. It's a new restaurant going in there. The name of that restaurant is Limon"
+            },
+            {
+              "speaker": "Edgar Maravilla",
+              "text": "Facade updates have been submitted for 372 Castro Street (law offices building) and a corner building spanning addresses 707–737, with proposed substantial exterior design improvements under review.",
+              "source": "Edgar Maravilla : another improvement or goal currently submitted is a a facade update for 372 Castro, which is this building here. Where is the law office are located"
+            },
+            {
+              "speaker": "Edgar Maravilla",
+              "text": "Staff will present an ordinance to the Environmental Planning Commission to cap downtown office space, responding to AB 2097's removal of parking minimums in January; if recommended, it goes to Council and could remain in effect for up to two years.",
+              "source": "Edgar Maravilla : our planning manager, Eric is working or I should say finish a staff report that will be going tomorrow to the Environmental Planning Commission. And that is pertaining to setting a cap on office space in the downtown"
+            }
+          ]
+        },
+        {
+          "topic": "Castro Street pedestrian mall transition",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Council adopted the pedestrian mall ordinance for the 100–300 blocks of Castro Street on October 25; it takes effect in 30 days. No claims or objections were filed at the October 11 hearing.",
+              "source": "John Lang : 25th City Council did adopt an ordinance to enact the pedestrian malls. This was basically the final action. Basically the ordinance becomes effective within 30 days"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Final adoption of the 2023 Business Improvement Assessment District is scheduled for November 15, following the initial noticing meeting in October.",
+              "source": "John Lang : We will be having the second reading of the Business Improvement Assessment District for November 15th"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Because design guidelines and a functional plan are not yet ready, staff is asking Council (on consent) to extend the Castro Streets program through 2023 to allow continued operations during the transition, after which the program will be rescinded.",
+              "source": "John Lang : we're taking this action to keep Castro Streets in place through 2023. And this is just a transition period"
+            }
+          ]
+        },
+        {
+          "topic": "Vacancy analysis and potential policy tools",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "An inventory found 19 ground-floor vacancies on Castro Street, with three in permitting, two in ownership change, and two with letters of interest, implying 12 likely to remain. Ten non-ground-floor vacancies were counted (an undercount); the 400 block has the most vacancies.",
+              "source": "John Lang : of the ground floor vacancies, there's 19 vacant units that are basically facing the street that would be retail opportunities. Three of those are basically going through permit processes"
+            }
+          ]
+        },
+        {
+          "topic": "Public safety and ambassador program",
+          "points": [
+            {
+              "speaker": "Matthew Atkins",
+              "text": "The volunteer ambassador program, enhanced lighting, and landscaping changes produced a significant decrease in auto burglaries and overall downtown crime. MVPD will staff officers, CSOs, and volunteers during the holiday season to maintain high visibility and deter crime.",
+              "source": "Matthew Atkins : There was a downtown ambassador program that was put together Also during that time there was an increase in working on the lighting, increasing the lighting and and some of the landscaping"
+            },
+            {
+              "speaker": "Matthew Atkins",
+              "text": "MVPD's approach to unhoused individuals uses a Community Service Outreach Officer and a Behavioral Services Unit to connect people with services and housing; the public is encouraged to report non-emergency concerns via the police non-emergency line or online reporting.",
+              "source": "Matthew Atkins : We have a community service outreach officer, Officer McPherson who is amazing with getting outreach and in working with individuals whether or not it's substance or housing"
+            }
+          ]
+        },
+        {
+          "topic": "Traffic signal reactivation and safety outreach",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Villa Street signals are being reactivated in phases with posted signage and monitoring by transportation engineers, due to learned pedestrian behavior and some near misses. The long-term goal is signalized intersections now, with eventual mid-block crossings within pedestrian mall sections in future years.",
+              "source": "John Lang : The light just got turned on at the second intersection today. So and we'll we'll tackle the next intersection after we get through kind of the assessment of this next intersection"
+            }
+          ]
+        },
+        {
+          "topic": "Community events and holiday programming",
+          "points": [
+            {
+              "speaker": "Maureen Grzn-Pieracci",
+              "text": "The downtown tree lighting is Monday, December 5 at 5:30 PM, with the stage moved onto Castro at Mercy to improve viewing. Castro will close from California to Church (maintaining Kaiser access); 'Holidays Around the World' and community performances will return.",
+              "source": "Maureen Grzn-Pieracci : In four weeks we have our tree lighting downtown and so that'll be on Monday, December 5th, 530 start time"
+            }
+          ]
+        },
+        {
+          "topic": "Committee membership update",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Member Gupta is expected to voluntarily resign due to time conflicts after multiple absences; Council will hold interviews on November 21 to fill vacancies and reappointments.",
+              "source": "John Lang : We are in contact with Mr. Gupta about this and it looks like it will be a voluntary resignation. There's some time conflicts with this meeting time now"
+            }
+          ]
+        },
+        {
+          "topic": "2023 meeting schedule",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "The committee adopted the 2023 schedule: first Tuesdays at 10:00 AM on Feb 7, Mar 7, Apr 4, May 2, Jun 6, Sep 5, Oct 3, Nov 7, and Dec 5, with no meetings in Jan, Jul, or Aug; Lang will confirm virtual meeting allowances and amend if needed.",
+              "source": "John Lang : So the meeting dates would be February 7th, March 7th, April 4th, May 2nd, June 6th, September 5th, October 3rd, November 7th and December 5th"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "John Lang",
+          "text": "John Lang will provide update on general maintenance and cleanliness for next committee meeting",
+          "source": "John Lang : General maintenance and cleanliness. I am hoping to have an update for the committee next meeting"
+        },
+        {
+          "assignee": "Marina Marina Keith",
+          "text": "Marina will share video evidence of oil dumping with Eric Cormier for additional follow-up",
+          "source": "Eric Cormier : just offline, Marina, if you could contact me as well on that so I can get some of that information as well"
+        },
+        {
+          "assignee": "Mountain View Police Department",
+          "text": "MVPD will staff officers, CSOs, and volunteers in the downtown area during the holiday season.",
+          "source": "Matthew Atkins : what we are going to be doing is also into the going into the holiday season is, is staffing officers and Csos and and really any new volunteers doing the program going forward"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "John Lang will consult the City Clerk and Attorney on virtual meeting allowances and return next meeting with any needed schedule amendments.",
+          "source": "John Lang : I'm happy to follow up with the clerk and bring this back at the next committee if we need to amend or append the action taken"
+        }
+      ]
+    },
+    "single_aligned_gt": {
+      "topics": [
+        {
+          "topic": "Downtown development and planning updates",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "For the Robert Green Hope Street hotel, the planning entitlement expires November 27; without a building entitlement by then, the applicant must refile. Maravilla added the proposed office cap won't affect entitled projects, though a resubmittal could face Precise Plan updates.",
+              "source": "John Lang : ...planning entitlement does expire November 27th. If they don't secure their building entitlement, they will need to refile... / Edgar Maravilla : ...this new proposed cap on office space would not impact projects that are entitled... they may get caught up in the downtown Precise Plan phase one update...",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Edgar Maravilla",
+              "text": "Three facade improvements (#9, #11, and #12) were removed from the list",
+              "source": "Edgar Maravilla : the changes that that happened on the facade improvements were #9, #11 and formally number 12 were removed from the list",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Castro Street pedestrian mall transition",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Staff is working to declutter Castro Street by removing tents and coordinating with businesses to collect broken or worn items as part of ongoing cleaning activities.",
+              "source": "John Lang : ...decluttering Castro a little bit. We've meant tents going away. We've been working with businesses to pick up some of the items... So we're trying to do some cleaning activity...",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Vacancy analysis and potential policy tools",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Council will reopen the Downtown Precise Plan to review allowed uses and is considering 'carrots and sticks' such as vacancy registration or a vacancy tax, as part of the economic vitality strategy to address long-term vacancies.",
+              "source": "John Lang : ...the Precise plan is going to be opened up again... ability to implement policies to maybe incentivize property owners... carrots and sticks... as part of the economic vitality strategy is a vacancy tax or some vacancy registration.",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Retail support and incentives agenda item",
+          "points": [
+            {
+              "speaker": "Mike Kasperzak",
+              "text": "After discussion about high tenant improvement costs and retail attrition, the chair directed staff to add a future agenda item on economic incentives, including possible retail grant programs, to encourage brick‑and‑mortar retail downtown.",
+              "source": "Mike Kasperzak : ...perhaps John, to add to the sort of list of things is a discussion of possible economic incentives including but not limited to like retail grant programs... we'll put that on the list...",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Eric Cormier",
+              "text": "Retail businesses face challenges with tenant improvement costs, unlike office and industrial spaces",
+              "source": "Eric Cormier : Traditionally for retail businesses, the business owner is responsible for fronting the money for the build out the tenant improvements and that's not the case in office and industrial",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Pamela Baird",
+              "text": "Committee discussed potential retail grant programs and economic incentives to support downtown businesses",
+              "source": "Pamela Baird : I don't know if we have any of the redevelopment, not redevelopment, but the economic incentives from the federal government if that could be considered",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Pamela Baird",
+              "text": "Jennings Building kitchen store represents loss of potential large retail footprint downtown",
+              "source": "Pamela Baird : the Jennings Lock Museum building, Jennings Building that was recently permitted to have the kitchen store, you dessert story and that's one of the few large footprints in terms of potential retail",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Retail spaces have automatic incentive to stay retail due to no parking in lieu fee requirement",
+              "source": "John Lang : in theory it is cheaper to be retail because when you are retail, you don't have to pay the parking in lieu fee",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Community events and holiday programming",
+          "points": [
+            {
+              "speaker": "Kira Pascoe",
+              "text": "Retailers and service businesses are engaging to tell their stories during events, and the DBA will encourage extended hours and promotions around the tree lighting to drive dining and shopping before and after the ceremony.",
+              "source": "Kira Pascoe : ...the merchants who are coming... It is retailers and services... tell the community your story... / Kira Pascoe : ...downtown businesses are planning to extend hours or have things happening as well...",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Maureen Grzn-Pieracci",
+              "text": "Holiday décor will include lighted elements in the 400–500 block medians and wreaths on alley archways (with past theft limiting replacements). Street tree lights are currently on and intended to remain on; no holiday pole banners are planned.",
+              "source": "Maureen Grzn-Pieracci : ...light up Penguins... 400 and 500 block... large wreaths... those alleyways... quite a few of them were stolen... / John Lang : They're, they're on. / Maureen Grzn-Pieracci : ...no [holiday] Pennant banners... over the 10,000 mark... bid process...",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Maureen Grzn-Pieracci",
+              "text": "2023 recreation plans include Arbor Day on March 11 at Pioneer Park with interactive elements; KidStock on third Saturdays May–July; Concerts on the Plaza every Friday June–September (larger bands first Fridays); summer outdoor movie nights; National Night Out potentially downtown; and the biannual Multicultural Festival returning in 2024.",
+              "source": "Maureen Grzn-Pieracci : ...return of Arbor Day... March 11th in Pioneer Park... interactive... KidStock... 3rd Saturday... May, June and July... Concerts on the Plaza... every Friday, June through September... summer outdoor movie night series... National Night Out returning potentially downtown... biannual... scheduled... 2024...",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Kira Pascoe",
+              "text": "Upcoming DBA/community events include a Meet the Business Owners night at Monte Carlo on November 2 (6–8 PM) and the Taste of Mountain View on November 9, which has slower ticket sales than last time; holiday promotions like a Santa‑thon and 'Elf on a Shelf' are planned.",
+              "source": "Marina Keith : ...at the Monte Carlo... from 6:00 to 8:00 tomorrow night. / Kira Pascoe : ...the taste of Mountain View... Sales are not quite as high as they were... we are not sold out quite yet... / Kira Pascoe : ...looking at some kind of Santa thon... Elf on a Shelf...",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Pamela Baird",
+              "text": "The Mountain View Historical Association will conduct a downtown walking tour on Sunday, November 27 at 2:00 PM, meeting in front of the train station; there will be no tour in December.",
+              "source": "Pamela Baird : ...walking tour on Sunday, November 27th at 2:00 PM and meet in front of the train station... we will not have a tour in December.",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Maureen Grzn-Pieracci",
+              "text": "Spring Parade discontinued due to pedestrian mall, exploring alternative spring celebration options",
+              "source": "Maureen Grzn-Pieracci : So we're still looking at ways that we can continue the spirit of a spring celebration",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Remote meetings and 2023 schedule",
+          "points": [
+            {
+              "speaker": "Mike Kasperzak",
+              "text": "The committee readopted the AB 361 resolution to continue meeting virtually; staff noted Council may return to in-person meetings early next year, with hybrid formats under consideration, and the committee intends to meet virtually as long as permitted.",
+              "source": "Mike Kasperzak : ...we do... need to re adopt the resolution... we still need to re adopt the resolution... / Mike Kasperzak : ...that motion passes... / John Lang : ...Council would be going back in person at the beginning of the year... considering hybrid meetings...",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting closure and recognition",
+          "points": [
+            {
+              "speaker": "Mike Kasperzak",
+              "text": "The chair encouraged participation in upcoming events and extended early Thanksgiving wishes before adjourning the meeting until December.",
+              "source": "Mike Kasperzak : ...we will stand adjourned until December... hope you all have a happy Thanksgiving... And we are adjourned.",
+              "from_gt": "gt1"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "John Lang",
+          "text": "John Lang will add a future agenda item on economic incentives, including possible retail grant programs, to support downtown retail.",
+          "source": "Mike Kasperzak : ...add to the sort of list of things is a discussion of possible economic incentives including... retail grant programs... we'll put that on the list...",
+          "from_gt": "gt1"
+        },
+        {
+          "assignee": "Committee",
+          "text": "Committee adopted 2023 meeting schedule with 9 meetings on first Tuesday at 10 AM, excluding January, July, and August",
+          "source": "Pamela Baird : So I propose that we follow the recommendation in 7.2",
+          "from_gt": "gt2"
+        }
+      ]
+    },
+    "needreview_gt": [
+      {
+        "id": "review_001",
+        "item_type": "decision",
+        "issue_type": "source_mismatch",
+        "gt1_point": {
+          "text": "Edgar Maravilla will provide an update on the business status at 845 Villa Street via John Lang to the committee.",
+          "source": "Edgar Maravilla : ...I can definitely provide an update to John and he can send it out to everyone...",
+          "assignee": "Edgar Maravilla",
+          "location": "decisions[1]"
+        },
+        "gt2_point": {
+          "text": "Edgar will provide update on 845 Bella Street business status to John for distribution to committee",
+          "source": "Edgar Maravilla : I can definitely provide an update to John and he can send it out to everyone or or I think that'll be quicker than waiting till next month",
+          "assignee": "Edgar Maravilla",
+          "location": "decisions[2]"
+        },
+        "question": "Is the address 845 Villa Street or 845 Bella Street? Which source citation is more accurate?",
+        "merge_if_valid": "Use the correct street address from transcript verification"
+      }
+    ],
+    "merge_stats": {
+      "total_aligned_points": 11,
+      "total_aligned_decisions": 4,
+      "single_aligned_points_from_gt1": 8,
+      "single_aligned_points_from_gt2": 6,
+      "single_aligned_decisions_from_gt1": 1,
+      "single_aligned_decisions_from_gt2": 1,
+      "points_need_review": 0,
+      "decisions_need_review": 1,
+      "total_output_points": 25,
+      "total_output_decisions": 6,
+      "confidence_level": "high",
+      "notes": "High-quality merge with strong consensus between GTs. Only one minor address discrepancy requiring transcript verification. Most points showed clear semantic equivalence or were obviously high-quality unique content."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_alignment/generation_alignment",
+    "prompt_version": "v3",
+    "prompt_fingerprint": "fae28f5dd5207c57cdcd5bc1a3c29bc286c4fd8b12a9eae99e41969f0bebb744",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:16:23.365950+00:00"
+  }
+}

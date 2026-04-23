@@ -1,0 +1,157 @@
+{
+  "meeting_context": "White House press briefing imported from 20231215_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MR. KIRBY",
+    "MODERATOR",
+    "Aamer",
+    "Steve Holland",
+    "Gabe",
+    "Felicia",
+    "Chris",
+    "Selina",
+    "Aurelia"
+  ],
+  "topics": [
+    {
+      "topic": "During his meetings in Israel Jake Sullivan welcomed",
+      "points": [
+        {
+          "text": "During his meetings in Israel, Jake Sullivan welcomed Prime Minister Netanyahu's decision to open up the Kerem Shalom crossing for inspections and received news from the government of Israel that they had decided to open up Kerem Shalom for direct delivery of humanitarian assistance to the Palestinian people in Gaza, which is seen as a significant step forward and will make a big difference in the lives and livelihoods of those in need.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The conversation between Jake Sullivan and Prime Minister",
+      "points": [
+        {
+          "text": "The conversation between Jake Sullivan and Prime Minister Netanyahu included discussions about post-conflict Gaza, the role of the Palestinian Authority, and the need for Israel to scale back its operations in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US is discussing with Israel the need",
+      "points": [
+        {
+          "text": "The US is discussing with Israel the need for transitioning from high-intensity military operations to more targeted and precise operations in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S expresses sadness and acknowledges the",
+      "points": [
+        {
+          "text": "The U.S. expresses sadness and acknowledges the tragic mistake made by the IDF in mistakenly killing three hostages during a raid in Gaza, while refraining from making a broad judgment on Israel's ability to conduct more targeted and precise operations.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S is refraining from making a",
+      "points": [
+        {
+          "text": "The U.S. is refraining from making a broad judgment on Israel's ability to conduct more targeted operations and is mourning with the families of the three hostages killed in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S condemns the Houthi attacks on",
+      "points": [
+        {
+          "text": "The U.S. condemns the Houthi attacks on commercial shipping in the Red Sea and is working to strengthen existing maritime forces and establish a task force to ensure the safety of international commerce and navigation.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S expresses condolences for the death",
+      "points": [
+        {
+          "text": "The U.S. expresses condolences for the death of a photographer from Al Jazeera and states that they have no evidence that journalists are being deliberately targeted in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S emphasizes the need for more",
+      "points": [
+        {
+          "text": "The U.S. emphasizes the need for more specific information before making a judgement on the purpose and targeting of airstrikes in Gaza, while urging Israel to be precise and cautious to avoid harming innocent civilians, including journalists.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S acknowledges the importance of transitioning",
+      "points": [
+        {
+          "text": "The U.S. acknowledges the importance of transitioning to lower-intensity operations in Gaza but does not provide specific details or a timeline, while expressing condolences for the death of a journalist from Al Jazeera.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden administration expects all countries receiving military",
+      "points": [
+        {
+          "text": "The Biden administration expects all countries receiving military assistance, including Israel, to use it in compliance with international humanitarian law and the laws of war, but does not currently plan to put conditions on military aid to Israel despite the President's criticism of indiscriminate bombing, instead urging Israel to be precise and careful in their operations and continuing to discuss additional steps they can take to reduce civilian harm.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden administration does not plan to put",
+      "points": [
+        {
+          "text": "The Biden administration does not plan to put conditions on military aid to Israel, despite the President's criticism of indiscriminate bombing, but instead urges Israel to be precise and careful in their operations and continues to discuss additional steps to reduce civilian harm.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Aurelia asks why the United States did not",
+      "points": [
+        {
+          "text": "Aurelia asks why the United States did not join other Western nations in urging Israel to take action against violence by Israeli settlers and questions if there is a plan to increase pressure on the Israeli government.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Aurelia asks why the United States did not",
+      "points": [
+        {
+          "text": "Aurelia asks why the United States did not join other Western nations in urging Israel to take action against violence by Israeli settlers and questions if there is a plan to increase pressure on the Israeli government.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States has expressed clear concerns about",
+      "points": [
+        {
+          "text": "The United States has expressed clear concerns about the violence caused by Israeli settlers in the West Bank and has been discussing it publicly and privately with Israeli counterparts, including implementing visa bans on settlers involved in the violence.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

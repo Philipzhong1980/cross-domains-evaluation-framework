@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20240109_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MR. KIRBY",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "In this section of the transcript Ms Jean",
+      "points": [
+        {
+          "text": "In this section of the transcript, Ms. Jean-Pierre discusses the severe weather warnings and impacts across the country, encourages Americans to stay vigilant and download the FEMA app for real-time weather alerts, and provides an update on the President's upcoming trip to Allentown, Pennsylvania to discuss the positive effects of Bidenomics on communities.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre introduces Admiral John Kirby to",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre introduces Admiral John Kirby to discuss the international response to declassified information on Russia's use of North Korean munitions.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral John Kirby announces that Russia has used",
+      "points": [
+        {
+          "text": "Admiral John Kirby announces that Russia has used North Korean ballistic missiles against Ukraine, leading to condemnation from 47 countries and a demand for Russia to be held accountable for violating international obligations.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden was informed today by the Chief",
+      "points": [
+        {
+          "text": "President Biden was informed today by the Chief of Staff that Defense Secretary Austin had been hospitalized for some time and was diagnosed with prostate cancer, with the President not being informed until this morning.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House was not informed when Defense",
+      "points": [
+        {
+          "text": "The White House was not informed when Defense Secretary Austin transferred authority to his Deputy Secretary while being hospitalized, prompting a need to review the notification process for such delegations.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Chief of Staff has issued a memo",
+      "points": [
+        {
+          "text": "The Chief of Staff has issued a memo requesting Cabinet agencies to submit their existing protocols for a delegation of authority and directing interim robust protocols while reviewing the current procedures, in response to the need for improved notification processes highlighted by Defense Secretary Austin's hospitalization.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre acknowledges Defense Secretary",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre acknowledges Defense Secretary Austin's statement taking responsibility for the situation and expresses hope for his full recovery and return to the Pentagon.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre expresses confidence in",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre expresses confidence in Defense Secretary Austin and acknowledges the Pentagon's review of the communication process regarding his prostate cancer diagnosis and procedure.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre and Pentagon spokesperson",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre and Pentagon spokesperson Kirby express their well wishes for Defense Secretary Austin regarding his prostate cancer diagnosis, emphasizing the importance of early screening.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre and Pentagon spokesperson",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre and Pentagon spokesperson Kirby confirm that Defense Secretary Austin's prostate cancer diagnosis was made in early December, with the President expressing his well wishes for a speedy recovery and affirming his intention to keep Austin in his position for the remainder of his term.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Pentagon spokesperson Kirby explains that there is",
+      "points": [
+        {
+          "text": "The Pentagon spokesperson Kirby explains that there is a delegation of authority process in place, and in the hypothetical scenario of a national security emergency, Deputy Secretary Kathleen Hicks would have been capable of acting as the Acting Secretary of Defense.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Pentagon spokesperson states that while Secretary Austin",
+      "points": [
+        {
+          "text": "The Pentagon spokesperson states that while Secretary Austin should have the right to some privacy, as a public figure and Senate-confirmed official, there is an added burden to be transparent about personal situations that may affect the administration of duties.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Pentagon spokesperson acknowledges that it was not",
+      "points": [
+        {
+          "text": "The Pentagon spokesperson acknowledges that it was not ideal for the President to learn about Secretary Austin's medical situation a month after the diagnosis and states that both the President and the Department of Defense are taking steps to ensure better communication and transparency in the future.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Pentagon spokesperson defends President Biden's ability to",
+      "points": [
+        {
+          "text": "The Pentagon spokesperson defends President Biden's ability to command and control military forces despite not being immediately aware of Secretary Austin's hospitalization.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Pentagon spokesperson provides a timeline of events",
+      "points": [
+        {
+          "text": "The Pentagon spokesperson provides a timeline of events, highlighting President Biden's involvement and decision-making process regarding the situation in the Middle East and the joint statement on Houthi attacks, while also mentioning Secretary Austin's absence at a principals committee meeting on Haiti.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Pentagon spokesperson acknowledges the challenge to credibility",
+      "points": [
+        {
+          "text": "The Pentagon spokesperson acknowledges the challenge to credibility caused by the lack of transparency and notification process regarding the situation in the Middle East, but emphasizes Secretary Austin's exceptional leadership and continued support from the Commander-in-Chief.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Pentagon spokesperson acknowledges that if the administration",
+      "points": [
+        {
+          "text": "The Pentagon spokesperson acknowledges that if the administration had intentionally kept the Defense Secretary's health a secret, it would raise concerns about potential future secrecy regarding President Biden's health, but asserts that this is not what happened in this case.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Pentagon spokesperson acknowledges that they would like",
+      "points": [
+        {
+          "text": "The Pentagon spokesperson acknowledges that they would like to learn more about the information flow process regarding the Defense Secretary's health, but they are not at liberty to disclose any details or clarify why the information was not relayed.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The journalist asks if there were any tangible",
+      "points": [
+        {
+          "text": "The journalist asks if there were any tangible results from Secretary Blinken's meetings in Israel, citing limited information provided in the readouts, and mentions the high death toll in Israel, questioning if any tangible results were achieved during the visit.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson acknowledges questions about Secretary Blinken's trip",
+      "points": [
+        {
+          "text": "The spokesperson acknowledges questions about Secretary Blinken's trip and the administration's stance on a ceasefire in Israel, expresses concern about China's actions towards Taiwan, discusses the government of Burundi's hateful statements towards gay people, defends the protection of journalists in conflict zones, and addresses questions about Secretary Austin's medical procedure and potential consequences for officials who did not report his condition.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson acknowledges questions about Secretary Blinken's trip",
+      "points": [
+        {
+          "text": "The spokesperson acknowledges questions about Secretary Blinken's trip, the administration's stance on a ceasefire in Israel, China's actions towards Taiwan, the government of Burundi's hateful statements towards gay people, defends the protection of journalists in conflict zones, and addresses questions about Secretary Austin's medical procedure and potential consequences for officials who did not report his condition.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson addresses questions about Secretary Austin's failure",
+      "points": [
+        {
+          "text": "The spokesperson addresses questions about Secretary Austin's failure to notify the White House of his medical procedure and potential violations of existing procedures, as well as the Pentagon's review of Elon Musk's security clearance and the U.S.'s belief in the importance of diplomatic resolutions with Hezbollah.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to comment on President Trump's",
+      "points": [
+        {
+          "text": "The spokesperson declines to comment on President Trump's assertion of immunity from prosecution, citing an ongoing case and the White House's policy of not commenting on ongoing legal cases.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson declines to comment on",
+      "points": [
+        {
+          "text": "The White House spokesperson declines to comment on former President Trump's statement about hoping for an economic downturn, emphasizing the success of Bidenomics and the duty of a Commander-in-Chief to prioritize the American people.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre declines to provide",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre declines to provide specific details regarding the timeline and individuals who informed National Security Advisor Jake Sullivan about Secretary Austin's hospitalization, but confirms that the President was informed thereafter.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre declines to provide",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre declines to provide specific details about the conversation between President Biden and Secretary Austin, but confirms that the President wishes Secretary Austin a speedy recovery and supports his agenda.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre expresses optimism for",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre expresses optimism for reaching a bipartisan agreement on border security and highlights President Biden's commitment to addressing the issue through comprehensive immigration legislation.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre expresses confidence in",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre expresses confidence in the FAA's priority of ensuring the safety of Americans and believes that it is safe to fly, while acknowledging the need for enhanced inspections and investigations into the grounded Boeing aircraft.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre discusses the need",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre discusses the need for a review of the Pentagon's process and protocols regarding Secretary Austin's hospitalization and emphasizes the importance of preventing such incidents in the future.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre discusses the need",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre discusses the need for a review of the Pentagon's process and protocols regarding Secretary Austin's hospitalization and emphasizes the importance of preventing such incidents in the future, while also addressing questions about the President's communication with his Cabinet members and concerns about the economy.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre addresses questions about",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre addresses questions about Secretary Austin's hospitalization, stating that he has taken full responsibility and emphasizing the need for a review of the Pentagon's protocols, while also discussing the distinction between official and campaign events and criticizing House Republicans for their impeachment hearing against Mayorkas.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

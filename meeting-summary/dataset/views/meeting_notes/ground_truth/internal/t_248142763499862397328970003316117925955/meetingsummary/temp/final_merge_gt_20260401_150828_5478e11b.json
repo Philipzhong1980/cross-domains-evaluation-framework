@@ -1,0 +1,316 @@
+{
+  "result": {
+    "merged_gt": {
+      "meeting_context": "The Mountain View Human Relations Commission held a virtual meeting expected to be its last remote session, welcoming three new commissioners and reviewing the FY2022–23 work plan. Commissioners received subcommittee updates, assigned new members to committees, scheduled the housing storytelling event, and elected the 2023 Chair and Vice Chair. Staff also outlined upcoming compliance requirements and the return to in-person meetings in February.",
+      "participants": [
+        "Ida Rose Sylvester",
+        "Laurel James",
+        "Jocelyn Baird",
+        "Nirvana Nwokido",
+        "Eric Poicon",
+        "Molly Smith",
+        "Xavier Webb"
+      ],
+      "topics": [
+        {
+          "topic": "Membership changes and introductions",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "Commissioner Raigstraw resigned from the Human Relations Commission effective immediately and would not be joining the meeting.",
+              "source": "Laurel James : I received a notice from Commissioner Raigstraw this evening that she'll be resigning from the HRC effective immediately.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Ida Rose Sylvester",
+              "text": "Three new commissioners joined: Jocelyn Baird, Molly Smith, and Eric Poicon, representing the greatest number of new HRC members seated at a single meeting.",
+              "source": "Ida Rose Sylvester : It's also extremely exciting to welcome our new members Jocelyn, Molly and Eric Poicon. Today I believe the greatest number of new HRC members we've ever sat at a single meeting",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting format transition",
+          "topic_merge_note": "normalized_from: ['Meeting format transition', 'Meeting format and public participation']",
+          "points": [
+            {
+              "speaker": "Ida Rose Sylvester",
+              "text": "This meeting was conducted virtually and is expected to be the last remote session after three years of virtual meetings.",
+              "source": "Ida Rose Sylvester : what is our last virtual meeting unless something has changed and it's like, Oh yeah, you never know. But it theoretically our last virtual meeting after three years",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "The next HRC meeting will be held in person at City Hall on Thursday, February 2, 2023 at 6:30 PM in the Plaza Conference Room.",
+              "source": "Laurel James : the next HRC meeting will not be virtual. It will be in person at City Hall on, I believe it's Thursday, February the 2nd at 6:30 PM",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Ida Rose Sylvester",
+              "text": "No public comments were received for this meeting; staff reported no emails by the 5:00 PM deadline, and there were no members of the public present on the webinar during the oral communications period.",
+              "source": "Ida Rose Sylvester : Any emails received by 5:00 PM today were forwarded to the Commission and I believe there were none.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Approval of prior meeting minutes",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Ida Rose Sylvester",
+              "text": "The Commission approved the December 1, 2022 regular meeting minutes following a motion by Commissioner Nwokido, second by Commissioner Webb, and unanimous roll call vote.",
+              "source": "Ida Rose Sylvester : The minutes from the December 1st, 2022 Meet regular meeting have been delivered to Commissioner, Commission members.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "FY2022–23 work plan status",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "Laurel James reviewed the FY2022–23 work plan (July 1, 2022 to June 30, 2023). Ongoing items include HRC participation in the annual Spring Family Parade (expected April; date forthcoming) and attendance at Council Neighborhoods Committee meetings, with spring dates to be shared when available.",
+              "source": "Laurel James : That event will be upcoming in April. Once there's a date available, I will let you know when to expect to attend that event.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "She noted the Commission received the Multicultural Engagement Program update in the fall and an update on the CDBG and HOME funding request process, which will begin at the next HRC meeting.",
+              "source": "Laurel James : We also received and update on the CDBG and home funding request process for this year which will begin at the next HRC meeting.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Housing insecurity storytelling event",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "The housing insecurity storytelling event is scheduled for May 25, 2023 at the Mountain View Community Center in the Redwood Room.",
+              "source": "Laurel James : The event related to this Housing and Security Project Storytelling project is currently scheduled for May 25th, 2023 and it will be held at the Mountain View Community Center in the Redwood room",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Ida Rose Sylvester",
+              "text": "Ida Rose Sylvester outlined a two-part format: mixed roundtable discussions including unhoused and housed participants without identifying housing status, followed by testimonials and Q&A from unstably housed speakers. The subcommittee has worked with Reach Potential Movement and plans additional partner outreach.",
+              "source": "Ida Rose Sylvester : We will potentially mix our unhoused people... in tables like round tables... And then the second part of the event would be a chance for people for the unstably house to get up and talk about their experiences.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Mental health dialogue planning",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "The mental health community dialogue is tentatively scheduled for late June 2023, although no specific date has been selected yet.",
+              "source": "Laurel James : the event is tentatively scheduled for late June 2023, although no date has been selected yet",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Nirvana Nwokido",
+              "text": "Nirvana Nwokido reported two subcommittee meetings have explored panels, presenters, and personal testimonies, plus compiling local resources and partnering with organizations. She emphasized destigmatizing mental health and noted there is no city funding for the effort.",
+              "source": "Nirvana Nwokido : So the city does not have any kind of funding for for this. But it's something that we feel is very critical... we want to bring this to our community and come up with ways to provide some kind of safe place.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Subcommittee membership assignments",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "Final subcommittee assignments were made: Housing & Security—Ida Rose Sylvester, Xavier Webb, Eric Poicon; Mental Health—Ida Rose Sylvester, Nirvana Nwokido, Molly Smith; Bystander Intervention—Xavier Webb, Jocelyn Baird, Eric Poicon.",
+              "source": "Laurel James : our Bystander Intervention Subcommittee would be comprised of Commissioners Webb, Baird and Poicon, and the Mental Health Subcommittee would include yourself, Vice Chair Sylvester, Commissioner Wilkidu, and Commissioner Smith. And then Housing and Security would be comprised of you, Vice Chair Sylvester, Commissioner Webb and Commissioner Poicon",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Bystander intervention training planning",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "The bystander intervention training project, requested by the Council's Race, Equity and Inclusion Subcommittee and carried over from FY2021–22, is in progress. Following turnover, Commissioner Xavier Webb is the current subcommittee member, and additional seats were open prior to new assignments.",
+              "source": "Laurel James : Currently, I believe the only member of that subcommittee is Commissioner Webb, as the other two members... are no longer in the HRC, and this is a item that was carried forward from the Fiscal Year 21 to 22 plan.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Xavier Webb",
+              "text": "Xavier Webb said the subcommittee will leverage established external curricula and resources rather than creating training from scratch, using notes from prior commissioners and developing outreach to adapt offerings for the community.",
+              "source": "Xavier Webb : We're definitely not recreating the wheel. What we were discussing before was other organizations that have already done this and we were looking into what they were doing or the cost of those.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Leadership elections",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "Ida Rose Sylvester was unanimously elected as HRC Chair for 2023.",
+              "source": "Laurel James : So we'll be voting on whether or not to elect her as chair of the HRC",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Nirvana Nwokido was unanimously elected as HRC Vice Chair for 2023.",
+              "source": "Laurel James : for the election of the Vice Chair, we will be voting on the nomination of Commissioner Volkito",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Administrative requirements",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "Staff reminded commissioners to attend the mid-January Brown Act refresher training and complete Form 700 filings via the City's Netfile system (emails from Netfile are legitimate city communications).",
+              "source": "Laurel James : This is a reminder that the City Clerk's Office has sent you invitation for Brown Act Refresher training for mid January, so please don't forget to attend. It's critical for maintaining the public trust",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting closure and recognition",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Xavier Webb",
+              "text": "Xavier Webb thanked new commissioners for their enthusiasm and expressed excitement about their potential community impact.",
+              "source": "Xavier Webb : I'm very, very excited to have our new commissioners on board. You all seem very enthusiastic and that's what keeps this Commission alive is enthusiastic individuals who want to make a difference",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Ida Rose Sylvester",
+              "text": "Chair Sylvester thanked commissioners for their trust in electing her and expressed anticipation for chairing in-person meetings.",
+              "source": "Ida Rose Sylvester : Thank you all for intrusting in me to keep sitting in this well, actually no longer in this seat. It will be an honor to actually chair in person",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Housing and Security Subcommittee (Sylvester, Webb, Poicon)",
+          "text": "Membership set as Ida Rose Sylvester, Xavier Webb, and Eric Poicon through June 2023 or project completion.",
+          "source": "Laurel James : Housing and Security would be comprised of you, Vice Chair Sylvester, Commissioner Webb and Commissioner Poicon",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Mental Health Subcommittee (Sylvester, Nwokido, Smith)",
+          "text": "Membership set as Ida Rose Sylvester, Nirvana Nwokido, and Molly Smith through June 2023 or project completion.",
+          "source": "Laurel James : The Mental Health Subcommittee would include yourself, Vice Chair Sylvester, Commissioner Wilkidu, and Commissioner Smith",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Bystander Intervention Subcommittee (Webb, Baird, Poicon)",
+          "text": "Membership set as Xavier Webb, Jocelyn Baird, and Eric Poicon through June 2023 or project completion.",
+          "source": "Laurel James : our Bystander Intervention Subcommittee would be comprised of Commissioners Webb, Baird and Poicon",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Ida Rose Sylvester",
+          "text": "Elected HRC Chair for 2023, responsible for meeting agendas and facilitation.",
+          "source": "Laurel James : So we'll be voting on whether or not to elect her as chair of the HRC",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Nirvana Nwokido",
+          "text": "Elected HRC Vice Chair for 2023, to support the Chair and serve in their absence.",
+          "source": "Laurel James : for the election of the Vice Chair, we will be voting on the nomination of Commissioner Volkito",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Provide commissioners the Spring Family Parade date once finalized (event anticipated in April).",
+          "source": "Laurel James : That event will be upcoming in April. Once there's a date available, I will let you know when to expect to attend that event.",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Share the spring Council Neighborhoods Committee meeting schedule with commissioners when available.",
+          "source": "Laurel James : Once I have the Spring Meeting scheduled... I will provide it to you so that you can make plans accordingly.",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "All Commissioners",
+          "text": "All commissioners must attend Brown Act Refresher training scheduled for mid-January and complete Form 700 filings via the City's Netfile system (emails from Netfile are legitimate). Staff offered to verify any messages if needed.",
+          "source": "Laurel James : This is a reminder that the City Clerk's Office has sent you invitation for Brown Act Refresher training for mid January, so please don't forget to attend... for those of you who have not yet filed your Form 700 because you are new commissioners, you will receive an e-mail from a platform called Netfile... That is not spam.",
+          "original_priority": "p3",
+          "dedup_note": "partial_overlap_complementary"
+        },
+        {
+          "assignee": "All Commissioners",
+          "text": "Next meeting will be held in person at City Hall Plaza Conference Room (2nd floor) on Thursday, February 2nd, 2023 at 6:30 PM.",
+          "source": "Laurel James : the next HRC meeting will not be virtual. It will be in person at City Hall on, I believe it's Thursday, February the 2nd at 6:30 PM... We will be meeting in the Plaza conference room, which is on the 2nd floor of City Hall.",
+          "original_priority": "p3",
+          "dedup_note": "partial_overlap_complementary"
+        }
+      ]
+    },
+    "merge_statistics": {
+      "total_p1_items": 12,
+      "total_p2_items": 11,
+      "total_p3_items": 2,
+      "final_items": 23,
+      "duplicates_removed": 2,
+      "deduplication_details": {
+        "p2_skipped": [
+          {
+            "item_type": "decision",
+            "text": "Hold the housing insecurity storytelling event on May 25, 2023 at the Mountain View Community Center (Redwood Room).",
+            "source": "Laurel James : The event related to this Housing and Security Project Storytelling project is currently scheduled for May 25th, 2023 and it will be held at the Mountain View Community Center in the Redwood room.",
+            "assignee": "Housing and Security Subcommittee",
+            "reason": "duplicate_with_p1: same_source_paraphrase (May 25, 2023 at Mountain View Community Center Redwood Room)"
+          }
+        ],
+        "p3_skipped": []
+      }
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_final_merge/generation_final_merge",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "96d6eff54eb8b4ced496aeb8e349890a5e5d3f8bdf8dd6229ebee2e637c5f8c8",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:08:28.149439+00:00"
+  }
+}

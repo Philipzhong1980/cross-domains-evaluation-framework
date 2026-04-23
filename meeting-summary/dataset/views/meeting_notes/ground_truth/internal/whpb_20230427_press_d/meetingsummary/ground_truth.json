@@ -1,0 +1,315 @@
+{
+  "meeting_context": "White House press briefing imported from 20230427_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Jennifer and Kylie",
+    "Vivian",
+    "Zeke",
+    "Unidentified",
+    "Mike"
+  ],
+  "topics": [
+    {
+      "topic": "The call will discuss new sanctions issued by",
+      "points": [
+        {
+          "text": "The call will discuss new sanctions issued by the Biden-Harris administration to hold accountable those engaged in hostage-taking and wrongful detention of Americans, with two senior administration officials providing a preview of the sanctions and how they support the administration's efforts.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss how the Biden",
+      "points": [
+        {
+          "text": "The senior administration officials discuss how the Biden-Harris administration is using authorities and tools to hold accountable those responsible for wrongful detention and hostage-taking of Americans.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the four categories",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the four categories they focus on to address wrongful detention and hostage-taking, including resolving current cases, warning people about the risks, and strengthening the global norm against wrongful detention.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the importance of",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the importance of punishing and deterring those who engage in wrongful detention and hostage-taking, highlighting President Biden's Executive Order 14078 that provides new tools to impose costs on the culprits.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials announce the implementation of",
+      "points": [
+        {
+          "text": "The senior administration officials announce the implementation of sanctions against individuals in Russia and Iran who have wrongfully detained or held Americans hostage for political leverage or concessions.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials announce the implementation of",
+      "points": [
+        {
+          "text": "The senior administration officials announce the implementation of sanctions against Russia's Federal Security Service (FSB) for their involvement in the wrongful detention of U.S. nationals abroad.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Senior administration officials announce the implementation of sanctions",
+      "points": [
+        {
+          "text": "Senior administration officials announce the implementation of sanctions against Russia's FSB and Iran's IRGC-IO for their involvement in the wrongful detention of U.S. nationals abroad.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials announce the imposition of",
+      "points": [
+        {
+          "text": "The senior administration officials announce the imposition of sanctions against the IRGC-IO and its leaders for their involvement in wrongfully detaining U.S. nationals and their support of human rights abuses, including torture, at Evin Prison.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials announce the imposition of",
+      "points": [
+        {
+          "text": "The senior administration officials announce the imposition of sanctions against the IRGC-IO and its leaders for their involvement in wrongfully detaining U.S. nationals and their support of human rights abuses, with a commitment to secure the release of Americans held hostage or wrongfully detained.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials announce the use of",
+      "points": [
+        {
+          "text": "The senior administration officials announce the use of expanded tools, including financial sanctions and visa restrictions, to promote accountability for those involved in wrongfully detaining U.S. nationals abroad and serve as a warning to potential wrongdoers.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials highlight the use of",
+      "points": [
+        {
+          "text": "The senior administration officials highlight the use of expanded tools, such as financial sanctions and visa restrictions, to promote accountability for wrongfully detaining U.S. nationals abroad and emphasize the importance of the Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act in addressing this issue.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials highlight the importance of",
+      "points": [
+        {
+          "text": "The senior administration officials highlight the importance of the Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act and emphasize that Bob's legacy will never be forgotten.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporters ask about the practical implications of",
+      "points": [
+        {
+          "text": "The reporters ask about the practical implications of the sanctions on the organizations and how effective they will be in deterring future hostage-taking.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials explain that the sanctions",
+      "points": [
+        {
+          "text": "The senior administration officials explain that the sanctions are part of a comprehensive approach to hold bad actors accountable for their involvement in appalling activities, and they believe that these sanctions will deter future hostage-taking by freezing assets and denying access to the global financial system.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials agree that the sanctions",
+      "points": [
+        {
+          "text": "The senior administration officials agree that the sanctions are a comprehensive approach to hold bad actors accountable and believe they will deter future hostage-taking.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials explain that while diplomacy",
+      "points": [
+        {
+          "text": "The senior administration officials explain that while diplomacy typically involves incentives, in cases of wrongfully detaining or taking hostage Americans, negative consequences are necessary to hold bad actors accountable.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials explain that actors who",
+      "points": [
+        {
+          "text": "The senior administration officials explain that actors who engage in wrongful detentions of U.S. nationals should not be immune from sanctions, even if they are already sanctioned for other bad behavior such as human rights abuses or corruption.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials explain that imposing sanctions",
+      "points": [
+        {
+          "text": "The senior administration officials explain that imposing sanctions on organizations responsible for wrongful detentions of U.S. nationals is an important step to deter such behavior and emphasize the need for accountability.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the possibility of",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the possibility of lifting sanctions as part of negotiations or trade to bring Americans home.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the individuals associated",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the individuals associated with the IRGC-IO who are being sanctioned for their involvement in wrongful detention activities, suppression of civil society, arranging logistics for prisoners, counter espionage operations, assassination plots, and other activities.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the use of",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the use of sanctions as a tool to bring about positive behavior change and their commitment to using all available methods to bring Americans home from wrongful detention.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the use of",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the use of sanctions as a new tool to bring Americans home from wrongful detention and their commitment to imposing consequences on bad actors who have a history of doing this.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the preview of",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the preview of sanctions with relevant families and explain that meeting with the President is not a determinant of effort or result in bringing Americans held abroad home.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The unidentified individual asks about the progress on",
+      "points": [
+        {
+          "text": "The unidentified individual asks about the progress on Mark Fogel's case, why he is not considered wrongfully detained, if they are in touch with his family, complaints about certain hostages receiving more attention than others, particularly those held in Iran, and if there has been any contact between the President and Evan Gershkovich's family.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President spoke with the Gershkovich family and",
+      "points": [
+        {
+          "text": "The President spoke with the Gershkovich family and assured them that their advocacy for their loved ones is heard and prioritized, even when there isn't a presidential meeting, through frequent meetings with senior officials at the White House and State Department to keep families informed.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes that the wrongful",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes that the wrongful detention designation is not the determining factor for receiving senior attention, highlighting the White House and State Department's engagement with the Fogel family and their formal request for Fogel's release on humanitarian grounds to the Embassy Moscow.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Senior administration officials discuss their engagement with the",
+      "points": [
+        {
+          "text": "Senior administration officials discuss their engagement with the Fogel family and their ongoing efforts to secure Mark Fogel's humanitarian release, while also mentioning a visit with the Gershkovich family.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Senior administration officials discuss their ongoing efforts to",
+      "points": [
+        {
+          "text": "Senior administration officials discuss their ongoing efforts to support and secure the release of hostages and wrongful detainees, including their engagement with the families and the possible connection between Evan Gershkovich's detention by the Russians and the decision to announce sanctions.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Senior administration officials discuss the ongoing efforts to",
+      "points": [
+        {
+          "text": "Senior administration officials discuss the ongoing efforts to support and secure the release of hostages and wrongful detainees, highlighting the reinforcement of unacceptable behavior through the detention of Evan Gershkovich and the connection between this detention and the decision to announce sanctions.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Senior administration officials discuss efforts to resolve cases",
+      "points": [
+        {
+          "text": "Senior administration officials discuss efforts to resolve cases of wrongful detention and announce sanctions as a means to punish those engaging in such behavior.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

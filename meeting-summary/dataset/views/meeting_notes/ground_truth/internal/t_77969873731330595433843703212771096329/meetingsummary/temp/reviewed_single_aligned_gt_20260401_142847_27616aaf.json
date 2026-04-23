@@ -1,0 +1,254 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Youth Services Unit structure and values",
+          "points": [
+            {
+              "speaker": "David Shen",
+              "text": "David Shen introduced himself as new Youth Services Unit Sergeant, replacing Scott Thomas in March, overseeing unit with three SROs and program coordinator Liz Mendez",
+              "source": "David Shen : Just to introduce myself real quick. My name is David Shen. I'm a Sergeant for the Youth Services unit, so if you knew Scott Thomas, I am the new Scott Thomas",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "David Shen",
+              "text": "Unit's primary goal is reducing referrals to criminal justice system by looking beyond immediate arrests and citations to address root problems through relationships and programming",
+              "source": "David Shen : And one of our greatest goals within the Youth Services unit is we want to reduce our referrals to the criminal justice system.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Dreams and Futures program success",
+          "points": [
+            {
+              "speaker": "David Shen",
+              "text": "Unit launched new ROAR mentoring program at Graham Middle School with 30 participants, using exemplary students as mentors for at-risk youth",
+              "source": "David Shen : Roar Mentoring, which again is a pelmentary program that we've actually rolled out to our at Graham Middle School in the first year for the last school year for 2020, 2023.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Arrest details and restorative justice",
+          "points": [
+            {
+              "speaker": "David Shen",
+              "text": "Unit practices restorative justice by counseling youth to understand impact of actions and referring them to optional programming rather than immediate arrests or citations",
+              "source": "David Shen : We go in with the mindset of if a youth does something, let's say for instance gets in a fight right, we want to make sure we go in with the counseling mindset to help the youth understand what they did",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Vaping and substance abuse prevention",
+          "points": [
+            {
+              "speaker": "David Shen",
+              "text": "Unit partnered with Stanford Reach Lab to develop harm reduction curriculum for cannabis and nicotine use, moving beyond traditional DARE approach",
+              "source": "David Shen : So we've partnered with them to have continuing conversations in regards to youth substance abuse, specifically surrounding the new and trending issue of nicotine or cannabis use",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Canfield",
+              "text": "Narcan is available in all schools from elementary through high school, with SRO program proactively securing supplies during county-wide shortage",
+              "source": "Canfield : So just to add to that, it was the SRR program that initiated proactively getting Narcan into the schools. And so that's from the high school, middle school into the elementary school especially during a shortage county wide.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "David Shen",
+              "text": "Unit conducted 8 vaping education presentations to 350 attendees across middle and elementary schools addressing nationwide trend",
+              "source": "David Shen : Vaping education. We did a total of approximately about 8 presentations to 350 attendees across our middle school and elementary schools.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Data collection improvements and future goals",
+          "points": [
+            {
+              "speaker": "David Shen",
+              "text": "SROs began trauma-informed practices training in collaboration with Mountain View High School to access teacher training methods",
+              "source": "David Shen : So we've actually collaborated with our local high school, Mountain View High, so our SRO's can actually get access to some of the training that that the teachers use.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Community partnerships and outreach",
+          "points": [
+            {
+              "speaker": "David Shen",
+              "text": "Unit partnered with Prognia organization to facilitate comfortable interactions between law enforcement and neurodiverse community members through interactive demonstrations",
+              "source": "David Shen : We've done events with prognia Scroll down a little bit here, which is an organization that helps the newer diverse community interact comfortably with members of law enforcement.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "David Shen",
+              "text": "SROs regularly attend monthly Challenge Team meetings to listen to school and community input, with recent panel featuring student perspectives on current stressors",
+              "source": "David Shen : This last challenge team meeting was especially eye opening because it had a panel of Mount View, Los Altos High students come and really talk about what their current stressors are",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "David Shen",
+              "text": "Unit partnered with Safe Routes to Schools for bike safety presentations and provided essential bike helmets to families and youth in need",
+              "source": "David Shen : So we've partnered with them to provide bike safety and enforcement presentations and at the same time we've also been able to provide essential bike helmets to those families and those youths in need.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Program expansion and staffing considerations",
+          "points": [
+            {
+              "speaker": "Canfield",
+              "text": "Chief Canfield indicated no immediate need for additional SRO positions but suggested developing internal collateral assignment program to train future SROs",
+              "source": "Canfield : I feel like now a more realistic approach that would get us kind of not just more bang for our buck with people, you know SRO's, but future SRO's being developed is to look at developing an internal program",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Public comment on gun violence case",
+          "points": [
+            {
+              "speaker": "Margaret Petros",
+              "text": "Mountain View Police Department performed excellent work making quick arrest and retrieving the gun using smart tactic of claiming they found suspect's lost dog",
+              "source": "Margaret Petros : I think, we think the Mountain View Police Department did an excellent job. They were there. There were many officers who worked hard to very quickly make an arrest and they lured the suspect in by saying they found the lost dog that the family had.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting administration",
+          "points": [
+            {
+              "speaker": "Unidentified 1",
+              "text": "The meeting adjourned at 9:00 PM after completing agenda items, including administrative actions, the YSU annual report discussion, and the mental health crisis response update.",
+              "source": "Unidentified 1 : We will now move on to the final item of tonight's agenda... This meeting is adjourned at 9:00 exactly PM.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Youth Services Unit",
+          "text": "Unit will implement improved data collection and outcome reporting system including automatic classification of visits and better tracking of seized items",
+          "source": "David Shen : But also one of our main things is we want to improve our data collection and outcome reporting",
+          "from_gt": "gt2",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Youth Services Unit",
+          "text": "Unit will establish formal quarterly meetings with schools and regular surveys to gather collaborative feedback for program improvement",
+          "source": "David Shen : When we talk about things like the more formal quarterly meetings with our schools and our school administrators with the surveys that we want to push out",
+          "from_gt": "gt2",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [
+      {
+        "item_type": "point",
+        "original_text": "Planned improvements include strengthening data collection (automated visit classifications; tracking searches/seizures), expanding vaping/substance education (more parent‑facing, harm‑reduction with Stanford), continuing bicycle safety, and adding training (trauma‑informed practices, CPTED, active‑shooter, threat assessment). Quarterly school meetings and surveys will be formalized for feedback.",
+        "original_source": "David Shen : We want to improve our data collection and outcome reporting... keeping track of what are we seizing better... increase vaping and substance education... parent facing... bicycle safety... training on trending issues... trauma informed practices... CPTED... student threat assessment... more formal quarterly meetings with our schools and... surveys.",
+        "original_speaker": "David Shen",
+        "from_gt": "gt1",
+        "reason": "too_vague",
+        "explanation": "This point is an overly broad summary that combines multiple separate topics and future plans without specific commitments or concrete details. While the transcript mentions these topics, they are discussed as general areas of interest rather than specific actionable plans. The point lacks the specificity required for extraction criteria.",
+        "transcript_evidence": [
+          "David Shen : But also one of our main things is we want to improve our data collection and outcome reporting",
+          "David Shen : We want to make sure that we have increased vaping and substance education and prevention",
+          "David Shen : bicycle safety pretty self-explanatory",
+          "David Shen : continue training on trending issues"
+        ]
+      },
+      {
+        "item_type": "point",
+        "original_text": "High school presence was significantly lower than middle/elementary outside summer programming, driven by program focus rather than community feedback. The unit can offer parent trainings in Spanish (a Spanish‑speaking officer is available) and plans to involve more non‑SRO officers, including female officers, in mentoring and attend NASRO to share/learn best practices.",
+        "original_source": "David Shen : ...our presence at the high school has been significantly less... not so much any specific feedback... we have the capability of offering them in Spanish... include female officers... we hope to go to what's called NASRO... to impart what we're doing.",
+        "original_speaker": "David Shen",
+        "from_gt": "gt1",
+        "reason": "too_vague",
+        "explanation": "This point combines multiple separate observations and vague future possibilities without concrete commitments or specific plans. While the transcript confirms reduced high school presence and mentions Spanish capability, the point lacks the specificity and actionable content required for extraction criteria.",
+        "transcript_evidence": [
+          "David Shen : anecdotally, I can tell you our presence at the high school has been significantly less than our presence at middle school or elementary school",
+          "David Shen : we have the capability of offering them in Spanish",
+          "David Shen : we hope to go to what's called NASRO"
+        ]
+      },
+      {
+        "item_type": "point",
+        "original_text": "A community representative asked who now staffs the SRO subcommittee following personnel changes. Staff later clarified that the SRO subcommittee completed its work, with future SRO reporting delivered annually by the Youth Services Unit to the board.",
+        "original_source": "Rampart2 : ...we know that the SRO subcommittee was managed by Melvin before his departure... who will be handling those duties... Rampart : There is not an SRO subcommittee... work plan item... completed... creation of an annual report, which is staffed by members of our Youth Services Unit.",
+        "original_speaker": "Rampart2",
+        "from_gt": "gt1",
+        "reason": "criteria_not_met",
+        "explanation": "This point describes procedural Q&A about committee structure rather than outcome-contributing content. While factually accurate, it doesn't meet extraction criteria as it's administrative process information rather than substantive program content, decisions, or outcomes.",
+        "transcript_evidence": [
+          "Rampart2 : we know that the SRO subcommittee was managed by Melvin before his departure... who will be handling those duties",
+          "Rampart : There is not an SRO subcommittee... work plan item... completed... creation of an annual report, which is staffed by members of our Youth Services Unit"
+        ]
+      },
+      {
+        "item_type": "point",
+        "original_text": "A public commenter objected to unannounced SRO campus visits as counter to prior expectations, alleged a student fired a bean‑bag shotgun as a serious safety issue, and echoed the need for demographic data on officer contacts and home‑visit follow‑ups.",
+        "original_source": "Tim MacKenzie : ...proactive visits... unannounced... seems kind of counter... absolutely unacceptable that there was a student firing a bean bag shotgun... and I want to echo... importance of collecting demographic information for the students that officers follow up with at home.",
+        "original_speaker": "Tim MacKenzie",
+        "from_gt": "gt1",
+        "reason": "criteria_not_met",
+        "explanation": "This point summarizes public comment opinions and concerns rather than factual program content or decisions. While the transcript confirms these comments were made, public commentary doesn't meet extraction criteria for outcome-contributing points unless it contains concrete factual information.",
+        "transcript_evidence": [
+          "Tim MacKenzie : So the proactive visits as they're referred to in in where there's just meet and greets on campus that were unannounced. That seems kind of counter to things that have been discussed in the past",
+          "Tim MacKenzie : it's absolutely unacceptable that there was a student firing a bean bag shotgun",
+          "Tim MacKenzie : And I want to echo what what I heard one of the board members say earlier about the importance of collecting demographic information"
+        ]
+      },
+      {
+        "item_type": "point",
+        "original_text": "A board member relayed Member Ayer's position to limit SRO campus presence to structured, purpose‑driven visits, while also urging continued outreach to identify and support under‑resourced students who may need services most.",
+        "original_source": "Frank : ...as you guys consider your activity on campus that is proactive or not structured... when you go to campus it should be for a reason and that it should be structured... also ask that you... interact with students so that you can see those kids and give them those resources.",
+        "original_speaker": "Frank",
+        "from_gt": "gt1",
+        "reason": "criteria_not_met",
+        "explanation": "This point relays board member opinions and suggestions rather than factual program content, decisions, or outcomes. While the transcript confirms these comments were made, board member commentary doesn't meet extraction criteria unless it contains concrete decisions or factual information.",
+        "transcript_evidence": [
+          "Frank : I am making this comment on behalf of my friend, Member IR, who is not here, but I'm sure she would want to say it, which is as you guys consider your activity on campus that is proactive or not structured... when you go to campus it should be for a reason and that it should be structured",
+          "Frank : I would also ask that you consider that... interact with students so that you can see those kids and and give them those resources"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 15,
+      "kept": 11,
+      "modified": 0,
+      "dropped": 5,
+      "from_gt1_kept": 1,
+      "from_gt2_kept": 10
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:28:47.341400+00:00"
+  }
+}

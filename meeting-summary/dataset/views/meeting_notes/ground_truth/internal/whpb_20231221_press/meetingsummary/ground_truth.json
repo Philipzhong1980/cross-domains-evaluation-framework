@@ -1,0 +1,321 @@
+{
+  "meeting_context": "White House press briefing imported from 20231221_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "MR. KIRBY",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "The spokesperson expresses condolences for the shooting at",
+      "points": [
+        {
+          "text": "The spokesperson expresses condolences for the shooting at Charles University in Prague, offers prayers for the victims' families, and states that the United States is ready to provide support as needed.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson highlights the progress made by the",
+      "points": [
+        {
+          "text": "The spokesperson highlights the progress made by the Biden-Harris administration in areas such as lowering prescription drug costs, expanding health insurance coverage, creating jobs, cracking down on price gouging, and leading on climate action.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden spoke with President L pez Obrador",
+      "points": [
+        {
+          "text": "President Biden spoke with President López Obrador of Mexico to discuss the need for additional enforcement actions to manage migratory flows and reopen key ports of entry, and has tasked Secretary Blinken, Secretary Mayorkas, and Advisor Sherwood-Randall to travel to Mexico for further discussions on addressing current border challenges.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States acknowledges the immense suffering and",
+      "points": [
+        {
+          "text": "The United States acknowledges the immense suffering and humanitarian crisis in Gaza and is working closely with Israeli counterparts to address the challenges of delivering aid in a safe and secure manner in a war zone.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker notes that more aid trucks have",
+      "points": [
+        {
+          "text": "The speaker notes that more aid trucks have been able to enter Gaza through the Kerem Shalom crossing compared to the Rafah crossing, indicating the positive impact of Kerem Shalom in facilitating aid delivery.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses various factors that contribute to",
+      "points": [
+        {
+          "text": "The speaker discusses various factors that contribute to the challenges in delivering aid to Gaza, including the fighting, inspection regime, and availability of assistance, while also acknowledging Israel's role in the inspection regime and their recognition of the need to transition to a lower-intensity conflict.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges that the decision and timeline",
+      "points": [
+        {
+          "text": "The speaker acknowledges that the decision and timeline for transitioning to lower-intensity operations in Gaza is ultimately up to Israel, but emphasizes the importance of moving towards a transition in the near future.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The focus of the conversation between the President",
+      "points": [
+        {
+          "text": "The focus of the conversation between the President and AMLO was primarily on the migratory flow and the pressure being put on the southern border, with discussions about resourcing and funding for border security measures, as well as addressing the root causes of migration.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The transcript discusses the Biden administration's efforts to",
+      "points": [
+        {
+          "text": "The transcript discusses the Biden administration's efforts to address the humanitarian crisis in Gaza, their visit to Mexico to address migratory flows, and their approach to foreign policy achievements.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The transcript discusses the administration's efforts to address",
+      "points": [
+        {
+          "text": "The transcript discusses the administration's efforts to address the humanitarian crisis in Gaza, potential tensions within the administration regarding a U.N. Security Council resolution, and the importance of addressing the humanitarian situation while working towards a two-state solution.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson states that they still need a",
+      "points": [
+        {
+          "text": "The spokesperson states that they still need a supplemental request to support Ukraine and that it is too soon to say whether seized Russian assets will be used for that purpose, while also mentioning the need to hold Russia accountable for the destruction and loss of life in Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson reassures that efforts are ongoing to",
+      "points": [
+        {
+          "text": "The spokesperson reassures that efforts are ongoing to support Palestinian civilians and facilitate their return home, while also emphasizing the importance of alliances and partnerships in U.S. foreign policy.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a call between President Obrador and President",
+      "points": [
+        {
+          "text": "During a call between President Obrador and President Biden, they expressed shared concerns about the increase in migratory flow at the border and discussed potential measures, such as checkpoints and the presence of Mexican Armed Forces, to slow down the process.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the call the discussion included addressing the",
+      "points": [
+        {
+          "text": "During the call, the discussion included addressing the root causes of migration, a topic that previous and current administrations have attempted to tackle.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The administration acknowledges the recent spike in migration",
+      "points": [
+        {
+          "text": "The administration acknowledges the recent spike in migration flows at the border and discusses their efforts to address the root causes of migration through partnerships with neighboring nations and immigration policy reform.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The transcript discusses concerns about the safety of",
+      "points": [
+        {
+          "text": "The transcript discusses concerns about the safety of Paul Whelan, potential efforts to secure his release, and President Biden's involvement in negotiations at the U.N. Security Council and immigration policy.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The section of the transcript discusses concerns about",
+      "points": [
+        {
+          "text": "The section of the transcript discusses concerns about court dates being given for 2031 and concludes with holiday greetings.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The section of the transcript discusses the President's",
+      "points": [
+        {
+          "text": "The section of the transcript discusses the President's engagement with the American people through press conferences and his recent interactions with the press during his travels.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson highlights the President's recent engagement with",
+      "points": [
+        {
+          "text": "The spokesperson highlights the President's recent engagement with the press through statements, gaggles, and press conferences, emphasizing his efforts to communicate directly with the American people.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes that the President has taken",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes that the President has taken various actions to address the situation at the border, including requesting emergency funds, engaging in diplomatic conversations with leaders in the region, and increasing Border Patrol personnel, but highlights the need for additional funding and a bipartisan agreement from Congress to further address border security.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson acknowledges the need for",
+      "points": [
+        {
+          "text": "The White House spokesperson acknowledges the need for policy discussions and negotiations with Republicans regarding immigration and border security but emphasizes the importance of not disclosing specific details publicly.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson emphasizes the importance of",
+      "points": [
+        {
+          "text": "The White House spokesperson emphasizes the importance of bipartisan agreement and taking action on important priorities for the American people, while also denouncing violent rhetoric and stating that there are no current plans for the President's activities on the third anniversary of the January 6th attack on the Capitol.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is emphasizing the importance of",
+      "points": [
+        {
+          "text": "The White House is emphasizing the importance of ensuring access to RSV vaccines and continuing conversations with manufacturers to meet the demand, while also considering raising tariffs on Chinese electric vehicles and other related products.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is conducting a strategic and",
+      "points": [
+        {
+          "text": "The White House is conducting a strategic and deliberate review of the Section 301 tariffs on Chinese products, without providing a specific timeline for any updates or changes.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is optimistic about the improving",
+      "points": [
+        {
+          "text": "The White House is optimistic about the improving consumer sentiment and decreasing inflation, indicating a positive outlook on the economy.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is acknowledging that they are",
+      "points": [
+        {
+          "text": "The White House is acknowledging that they are running out of aid to support Ukraine and are requesting additional aid to replenish their stocks.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is requesting emergency funding and",
+      "points": [
+        {
+          "text": "The White House is requesting emergency funding and a supplemental aid to ensure Ukraine's ability to fight for their democracy.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter asks if the administration has a",
+      "points": [
+        {
+          "text": "The reporter asks if the administration has a response to Angola leaving OPEC and if it was discussed during President Biden's meeting with Angola's president.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson states that the US is not",
+      "points": [
+        {
+          "text": "The spokesperson states that the US is not a member of OPEC+ and cannot speak to Angola's decision to leave, but does not confirm whether it was discussed during President Biden's meeting with Angola's president.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson states that the US is not",
+      "points": [
+        {
+          "text": "The spokesperson states that the US is not a member of OPEC+ and cannot provide information on Angola's decision to leave, but does not confirm if it was discussed during President Biden's meeting with Angola's president.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson concludes the press briefing by wishing",
+      "points": [
+        {
+          "text": "The spokesperson concludes the press briefing by wishing the reporters happy holidays and a happy new year.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

@@ -1,0 +1,119 @@
+### Overview
+  MS. Jean-Pierre and Admiral John Kirby lead a wide-ranging briefing that opens with the administration touting a record 20 million ACA enrollments and policy wins from the Inflation Reduction Act, and then shifts to national security and domestic governance issues. Admiral Kirby details a complex Houthi attack in the Red Sea, praises coalition defenses under Operation Prosperity Guardian, announces sanctions and U.N. engagement, and repeatedly warns the Houthis they will 'bear the consequences' if attacks continue while declining to preview military options; he also addresses questions about U.S.-Israel communications, reported violence in the West Bank, and concerns about North Korea–Russia links. Reporters press Kirby and the White House on Secretary Austin's recent hospitalization and the timing and flow of information, and Kirby confirms the administration only learned of his hospitalization on Thursday and that subsequent Pentagon disclosures cited prostate-surgery complications. MS. Jean-Pierre fields a second half of questions covering U.S. responses to violence in Ecuador, migration and local impacts in New York, the President's phone call with Speaker Johnson, Hunter Biden's private-citizen congressional appearance, budget and continuing-resolution risks, the Chief of Staff's delegation-of-authority memo and Mitch Landrieu's transition, protections for election workers, U.S.-China military talks, supply-chain risks from Red Sea disruptions, and other domestic issues; the White House largely defers operational and legal specifics to the Pentagon, DOJ, State Department, or relevant agencies while reiterating commitments to protect navigation, democratic institutions, and public safety.
+  
+  ### Detailed Summary
+  #### ACA enrollment milestone
+  MS. Jean-Pierre highlights President Biden announcing a record 20 million Americans enrolled through the Affordable Care Act, and she connects that milestone to policy wins from the Inflation Reduction Act. She frames the results — capped insulin, Medicare negotiation of drug prices, and average savings — as concrete benefits for families. The administration presents this as evidence of progress on lowering costs and expanding access.
+- MS. Jean-Pierre says President Biden announced 20 million Americans enrolled in ACA coverage, calling it a record-breaking milestone.
+- MS. Jean-Pierre says the Inflation Reduction Act enabled a $35 insulin cap for seniors and allowed Medicare to negotiate prescription prices.
+- MS. Jean-Pierre says millions of Americans saved an average of $800 per year on health insurance as a result of administration policies.
+#### Tyre Nichols anniversary and DOJ guidance
+  MS. Jean-Pierre marks the one-year anniversary of Tyre Nichols's murder, noting Vice President Harris's attendance at the memorial and the administration's focus on policing reform. She reports that the Department of Justice issued a new guide to help states and localities ensure accountability for specialized crime units, and reiterates calls for Congress to pass the George Floyd Justice in Policing Act. The administration frames the guide as building on prior federal policing reforms and as part of efforts to prevent similar tragedies.
+- MS. Jean-Pierre says the DOJ issued a new guide for states and localities to strengthen accountability of specialized crime units.
+- MS. Jean-Pierre says Vice President Harris traveled to Memphis for Tyre Nichols's memorial and emphasized the right to public safety.
+- MS. Jean-Pierre says the administration is urging Congress to pass the George Floyd Justice in Policing Act to advance accountability and transparency.
+#### Red Sea Houthi attack
+  Admiral John Kirby reports Iran-aligned Houthi forces launched a complex attack using drones, anti-ship cruise missiles, and a ballistic missile into the Red Sea, endangering military and commercial vessels. He credits naval personnel aboard U.S. and allied ships with defending vessels successfully, and emphasizes that attacks threatened lives and freedom of navigation. The administration frames the attacks as unlawful, reckless, and escalatory and explains they necessitated a multinational response.
+- Admiral Kirby says Iran-backed Houthis launched a complex attack into the Red Sea using one-way drones, anti-ship cruise missiles, and an anti-ship ballistic missile.
+- Admiral Kirby says U.S. and U.K. naval personnel aboard the USS Dwight D. Eisenhower and several destroyers successfully defended vessels with no reported injuries or damage.
+- Admiral Kirby says the attacks posed a direct threat to lives, freedom of navigation, and global trade in a critical waterway.
+#### Operation Prosperity Guardian
+  Admiral Kirby describes the multinational naval response, Operation Prosperity Guardian, which the U.S. leads with more than 20 countries to protect international commerce and counter Houthi attacks. He notes coordinated sanctions against facilitators and ongoing U.N. Security Council efforts to pass a resolution demanding the Houthis cease attacks and protect navigational rights. The administration offers coalition action as the primary means to secure shipping lanes and warn of consequences if attacks continue.
+- Admiral Kirby says the United States built a naval coalition of more than 20 countries under Operation Prosperity Guardian to protect international commerce.
+- Admiral Kirby says the U.S. has issued new sanctions on individuals and entities facilitating Houthi attacks.
+- Admiral Kirby says U.S. diplomats are working with U.N. Security Council members on a resolution that demands the Houthis cease attacks and supports unimpeded transit passage.
+#### Deterrence and potential strikes
+  During questioning, Admiral Kirby declines to speculate on potential future strikes but repeatedly warns the Houthis that they will 'bear the consequences' if attacks continue. He emphasizes that the most effective way to avoid escalation is for the Houthis to stop attacking and that current coalition defenses are successfully intercepting threats. The administration underscores consultation with allies on any next steps while avoiding public operational previews.
+- Admiral Kirby says he will not speculate about potential future military operations and will not 'telegraph punches.'
+- Admiral Kirby says the best solution to avoid escalation is for the Houthis to stop the attacks and that they will 'bear the consequences' for failing to do so.
+- Admiral Kirby says coalition forces have been successful at intercepting Houthi weapons and protecting shipping during Operation Prosperity Guardian.
+#### U.S.-Israel communications
+  Reporters ask about President Biden's phone contact frequency with Prime Minister Netanyahu amid the Israel–Gaza conflict; Admiral Kirby stresses that gaps in phone calls do not indicate deteriorating relations. He highlights Secretary Blinken's repeated regional trips and describes the U.S.-Israel relationship as 'very, very tight' while acknowledging inevitable policy differences. The administration emphasizes sustained diplomatic engagement through on-the-ground visits and interlocutors.
+- Admiral Kirby says the number of days since the last presidential phone call should not be read as a reflection of the strength of the U.S.-Israel relationship.
+- Admiral Kirby says Secretary Blinken is in the region and has visited Israel multiple times since October 7th.
+- Admiral Kirby says the United States and Israel have a strong and long-standing relationship despite occasional policy disagreements.
+#### West Bank shooting report
+  When asked about AP-obtained footage of possible Israeli soldiers shooting Palestinians, Admiral Kirby says it is the first he has heard of the report and that he will take the question back for further awareness. He reiterates the administration's broader concern about violence in the West Bank, particularly violence by extremist settlers, and states such violence needs to stop. The administration does not provide an immediate assessment pending further review.
+- Admiral Kirby says the AP video report is the first he is hearing and that he cannot speak with granularity without taking the question back.
+- Admiral Kirby says the President has long expressed concerns about violence in the West Bank, including that perpetrated by extreme settlers.
+- Admiral Kirby says that violence in the West Bank needs to stop.
+#### Secretary Austin hospitalization transparency
+  Multiple reporters press Admiral Kirby on when the administration learned Secretary Austin was hospitalized and whether the Pentagon provided timely information; Kirby says officials did not learn of the hospitalization until Thursday and did not know details of his condition initially. He confirms the Pentagon later disclosed complications from prostate surgery and that prostate cancer was revealed subsequently, and he defers operational or process critiques to the Pentagon. The administration indicates it actively sought information and is reviewing internal information flow but declines further characterization.
+- Admiral Kirby says the administration did not know Secretary Austin was in the hospital until Thursday afternoon and did not initially have details on his condition.
+- Admiral Kirby says the Pentagon later announced Secretary Austin's hospitalization stemmed from complications from prostate surgery and that prostate cancer was revealed later.
+- Admiral Kirby says the White House and National Security Council proactively sought to understand Secretary Austin's condition and that the Pentagon should speak to its information-flow process.
+#### Ecuador security and U.S. support
+  Reporters ask about U.S. support for Ecuador amid a surge in gang violence and states of emergency; Admiral Kirby says the U.S. condemns recent attacks, is monitoring the situation, and is committed to helping bolster security and prosperity. He rules out U.S. military troops, but indicates the U.S. is willing to discuss investigative or other non-military assistance. The administration urges Americans in Ecuador to remain vigilant and follow State Department guidance.
+- Admiral Kirby says the United States strongly condemns recent violent attacks in Ecuador and is committed to supporting Ecuadorian security and prosperity.
+- Admiral Kirby says the U.S. is not planning to deploy military troops to Ecuador and would instead consider cooperation such as investigative assistance.
+- Admiral Kirby says Americans in Ecuador should stay vigilant, avoid volatile areas, and use State Department alerts and embassy resources.
+#### North Korea, Russia, and Hamas weapons question
+  A reporter asks whether North Korea provided weapons to Hamas; Admiral Kirby says he has no verified information connecting North Korea militarily to Hamas and will not speculate. He reiterates existing concerns about Russia's relationship with North Korea, noting Russia has bought North Korean ballistic missiles and artillery that have been used in Ukraine. The administration says it is watching any DPRK-Russia cooperation closely.
+- Admiral Kirby says he has no verified information that North Korea provided weapons to Hamas and declines to confirm such a link.
+- Admiral Kirby says Russia has procured North Korean ballistic missiles and artillery, which have benefited Russia militarily in Ukraine.
+- Admiral Kirby says the United States is closely monitoring ties between Russia and the DPRK for potential regional impacts.
+#### Journalists, civilian harm, and ICJ matter
+  Reporters press on journalist deaths and civilian harm in Gaza; Admiral Kirby emphasizes that journalists and civilians should not be targeted and that the U.S. will continue raising concerns with Israeli counterparts. He notes the administration authorized a U.N.-led assessment on civilian returns to northern Gaza and reiterates the U.S. view that the South Africa ICJ case is without merit and counterproductive. The administration indicates ongoing diplomatic engagement to address protections for civilians and journalists.
+- Admiral Kirby says journalists have a right to report and should not be targeted, and that the U.S. urges their protection.
+- Admiral Kirby says the administration authorized a U.N.-led assessment to determine whether civilians can return to northern Gaza.
+- Admiral Kirby says the U.S. finds the South Africa case at the ICJ without merit and regards it as counterproductive.
+#### Houthi designation review
+  Reporters question whether removing the Houthis from the Foreign Terrorist Organization list was a mistake given recent attacks; Admiral Kirby notes an ongoing review of that designation and declines to pre-judge its outcome. He reiterates that the administration's current focus is on countering attacks on commercial shipping and defending maritime traffic. The administration emphasizes measures in place to protect shipping while the review continues.
+- Admiral Kirby says the administration is conducting a review of the Houthi designation and will not comment in advance on its findings.
+- Admiral Kirby says the current priority is preventing attacks on commercial shipping and defending maritime traffic in the Red Sea.
+- Admiral Kirby says the Houthis have choices to make and will 'bear the consequences' for continued attacks.
+#### President-Speaker Johnson phone call
+  MS. Jean-Pierre confirms President Biden spoke by phone with Speaker Johnson earlier in the day to discuss urgent matters but provides no details on the substance. She says the President chose a phone call as the most expedient way to connect and that the White House commonly keeps such conversations private. Reporters ask whether the call moved talks on supplemental funding or whether the Speaker requested executive action on the border; Jean-Pierre has no further details to share.
+- MS. Jean-Pierre confirms President Biden and Speaker Johnson spoke directly by phone earlier in the day.
+- MS. Jean-Pierre says the President believed a call was the most expedient option but declines to provide details of the conversation.
+- MS. Jean-Pierre says she has no additional details about whether the Speaker requested executive action to shut down the border.
+#### Hunter Biden congressional appearance
+  Reporters ask whether the White House was informed in advance about Hunter Biden's appearance before the House Oversight Committee; MS. Jean-Pierre reiterates that Hunter Biden is a private citizen who makes his own decisions and refers further questions to his representatives. She declines to provide additional information about private family communications and emphasizes the distinction between the President's official duties and his son's private actions. The White House does not disclose any prior notification.
+- MS. Jean-Pierre says Hunter Biden is a private citizen who makes his own decisions and that the White House refers questions to his representatives.
+- MS. Jean-Pierre says she has nothing to share about whether the White House was informed in advance of Hunter Biden's congressional appearance.
+- MS. Jean-Pierre reiterates the separation between the President's official role and his son's private actions.
+#### New York migrants and local impacts
+  Reporters raise a local issue where migrants were temporarily relocated to a high school in New York City; MS. Jean-Pierre says the city informed the federal government and that migrants have since returned to Floyd Bennett Field, and she refers operational questions to New York City. She frames the broader issue as part of a longstanding, multi-decade immigration challenge the President has sought to address with comprehensive legislation. The White House positions federal and local roles as distinct on implementation details.
+- MS. Jean-Pierre says New York City temporarily relocated migrants to a nearby high school as a precaution and that migrants have since returned to Floyd Bennett Field.
+- MS. Jean-Pierre says local operational decisions are the responsibility of New York City and refers detailed questions to municipal officials.
+- MS. Jean-Pierre says President Biden put forward comprehensive immigration legislation on his first day and is working on border issues while House Republicans obstruct progress.
+#### Government funding and CR concerns
+  Reporters ask about the possibility of another continuing resolution (CR) and a potential partial shutdown; MS. Jean-Pierre criticizes House Republicans for delaying and says kicking the can down the road harms Americans. She urges Congress to keep the government open and notes the White House does not want to see short-term funding band-aids. The administration frames the issue as Congress's responsibility to do its job.
+- MS. Jean-Pierre says another CR and short-term funding punts are not the way Congress should operate and that Republicans are 'kicking the can down the road.'
+- MS. Jean-Pierre says keeping the government open is a basic congressional responsibility and that failure to do so harms American families.
+- MS. Jean-Pierre says the White House prefers bipartisan solutions and will not prescribe specific congressional tactics from the briefing room.
+#### Chief of Staff memo and Mitch Landrieu transition
+  MS. Jean-Pierre explains a Chief of Staff memo asking Cabinet agencies to prepare delegation-of-authority memos for January 12th, and she confirms Mitch Landrieu is leaving the administration. She says Natalie Quillian, Deputy Chief of Staff, will take over Landrieu's portfolio covering implementation of major legislation. The White House frames the transition as managed and notes agencies will respond to the Chief of Staff's request.
+- MS. Jean-Pierre says the Chief of Staff circulated a memo asking Cabinet agencies to prepare delegation-of-authority memos for submission by January 12th.
+- MS. Jean-Pierre says Mitch Landrieu is leaving the administration and that Deputy Chief of Staff Natalie Quillian will assume his portfolio.
+- MS. Jean-Pierre says agencies will respond to the Chief of Staff and that the transition is underway.
+#### Protection of election workers
+  In response to reports of threats and violence against election workers, MS. Jean-Pierre highlights the Justice Department's Election Threats Task Force and recent DOJ reporting on enforcement efforts. She calls threats to election workers unacceptable and says the administration will use available tools to protect voting and those who administer elections. The White House underscores ongoing DOJ investigations and enforcement as mechanisms to deter intimidation.
+- MS. Jean-Pierre says the DOJ created the Election Threats Task Force in June 2021 to investigate and prosecute threats against election workers.
+- MS. Jean-Pierre says the DOJ recently released information about civil rights, criminal, and national security efforts to enforce protections against voter intimidation.
+- MS. Jean-Pierre says any threats of violence toward election workers are unacceptable and the administration will use every tool to protect the right to vote.
+#### U.S.-China military talks follow-up
+  A reporter asks whether the President is satisfied with recent U.S.-China military-to-military talks; MS. Jean-Pierre says diplomacy with China is ongoing, highlights recent engagement on fentanyl and other issues, and declines to provide a personal assessment from the President. The administration emphasizes continued diplomatic channels and cabinet-level interactions as part of managing the bilateral relationship. No new outcomes are announced from the briefing room.
+- MS. Jean-Pierre says the administration continues diplomatic engagement with China on a range of issues, including fentanyl and security dialogues.
+- MS. Jean-Pierre says Cabinet secretaries and White House officials continue to hold diplomatic conversations with Chinese counterparts.
+- MS. Jean-Pierre declines to provide the President's personal assessment of the talks from the briefing room.
+#### Supply chains and Red Sea risks
+  Reporters ask about potential supply-chain disruption from Red Sea attacks; MS. Jean-Pierre and Admiral Kirby stress the Red Sea's importance to global trade and say the Department of Transportation is coordinating with shippers and stakeholders. The administration points to Operation Prosperity Guardian and coalition efforts to keep navigation open and says it is monitoring economic impacts. No immediate major disruptions are reported, and the U.S. says it is taking steps to mitigate risks.
+- MS. Jean-Pierre says the Red Sea is critical for transportation of oil, grain, and consumer goods and that the administration is taking the threat seriously.
+- MS. Jean-Pierre says the Department of Transportation is in close communication with ocean shippers and industry to monitor and mitigate potential supply chain impacts.
+- Admiral Kirby says Operation Prosperity Guardian and coalition defenses are intended to ensure freedom of navigation and protect the maritime economy.
+#### Mexico cooperation on migration
+  MS. Jean-Pierre reiterates recent diplomatic discussions with Mexican counterparts involving Secretary Blinken, Secretary Mayorkas, and others and says the conversations are ongoing and productive. She credits Mexico with taking steps that have helped reduce migrant movements and frames Mexico as a partner on migration and fentanyl interdiction. The administration expresses appreciation for continued bilateral cooperation while work continues.
+- MS. Jean-Pierre says U.S. officials met with Mexican counterparts during the holidays and that diplomatic discussions on migration and fentanyl continue.
+- MS. Jean-Pierre says the President of Mexico has taken steps that have contributed to a decrease in some migration flows.
+- MS. Jean-Pierre says the United States values Mexico as a partner on migration and narcotics enforcement.
+#### Social Security Administration funding issue
+  MS. Jean-Pierre notes the President requested a 10 percent funding increase for the Social Security Administration to improve staffing and technology and to address issues like overpayments. She frames the request as part of the administration's commitment to protecting Social Security, Medicare, and Medicaid. The briefing room refers specific program questions to the Social Security Administration itself.
+- MS. Jean-Pierre says the President requested a 10 percent increase in funding for the Social Security Administration to improve customer service and determination services.
+- MS. Jean-Pierre says the administration is committed to protecting Social Security, Medicare, and Medicaid.
+- MS. Jean-Pierre refers detailed operational questions about overpayments to the Social Security Administration.
+#### Presidential health and immunity questions
+  Reporters ask about the President's next physical and about presidential immunity in the abstract; MS. Jean-Pierre says she has no schedule to share about the President's next physical and pledges transparency when appropriate. On legal questions related to presidential immunity and ongoing cases, she declines to comment and refers inquiries to the Department of Justice to avoid affecting legal proceedings. The White House avoids weighing in on ongoing judicial matters.
+- MS. Jean-Pierre says she has no information to share about the President's next physical and that the White House will be transparent when that occurs.
+- MS. Jean-Pierre declines to comment on legal questions about presidential immunity and refers such matters to the Department of Justice.
+- MS. Jean-Pierre cautions against commenting on ongoing legal cases from the briefing room.

@@ -1,0 +1,231 @@
+{
+  "meeting_context": "The Performing Arts Committee corrected and approved prior meeting minutes, received a status update on the Mountain View Film Festival subcommittee, and conducted Peninsula Youth Theatre's annual review. The meeting covered PYT financial reporting, program recovery after COVID impacts, grants and reserve funding, future booking exploration for the center, staff announcements, and the next meeting's home company presentations.",
+  "participants": [
+    "Sukanya Kumar",
+    "Noelle Magner",
+    "John Marchant",
+    "John McAlister",
+    "Theresa Yvonne",
+    "Yao",
+    "Carol Donahue",
+    "Connor Day"
+  ],
+  "topics": [
+    {
+      "topic": "Minutes correction and approval",
+      "points": [
+        {
+          "text": "Noelle Magner said the prior minutes should identify Sukanya Kumar as Vice Chair rather than committee member and said she would work with the City Clerk to bring back a revised version.",
+          "source": "Noelle Magner: It should read Vice Chair. ... I'll do a revised version of this and bring it to the next meeting.",
+          "speaker": "Noelle Magner",
+          "id": "t_001_p_001"
+        },
+        {
+          "text": "After confirming there was no public comment, the committee approved the prior minutes with the Vice Chair correction. John McAlister made the motion, Sukanya Kumar seconded, Kumar and Yao voted yes, and McAlister abstained because he had not attended the earlier meeting.",
+          "source": "John McAlister: I make a motion that we approve the Minutes. ... Sukanya Kumar: I second that. ... John McAlister: Since I wasn't there, I'll abstain. ... Yao: Yes.",
+          "speaker": "John McAlister",
+          "id": "t_001_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Film Festival subcommittee status",
+      "points": [
+        {
+          "text": "Sukanya Kumar said the Film Festival subcommittee had met with Chair Donahue and Theresa Yvonne, had an approximate timeline in mind, and was still working through dates and scope before returning with a full report at the next PAC meeting.",
+          "source": "Sukanya Kumar: We had a meeting with Chair Donahue as well as Teresa about the potential for the Film Festival. We have approximate timeline in place ... But we are not ready yet to present the summary of a report ... so we will do that in the next pack meeting.",
+          "speaker": "Sukanya Kumar",
+          "id": "t_002_p_001"
+        },
+        {
+          "text": "Theresa Yvonne said she would prepare a detailed budget showing what the first successful film festival cost and estimated costs for the proposed new event so the committee could judge next steps.",
+          "source": "Theresa Yvonne: I will be putting together a very detailed budget of what was spent on the first Film Festival ... and estimated costs for the one that's being planned right now.",
+          "speaker": "Theresa Yvonne",
+          "id": "t_002_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "PYT financial review",
+      "points": [
+        {
+          "text": "Theresa Yvonne clarified that the $73,816 total included a $9,910 facility use fee paid by patrons, and that Peninsula Youth Theatre itself paid $63,906.88 in rent and facility fees.",
+          "source": "Theresa Yvonne: the 73,816 ... is our total revenues. What Peninsula Youth Theater paid was minus the facility use fee ... 63,906 and $0.88.",
+          "speaker": "Theresa Yvonne",
+          "id": "t_003_p_001"
+        },
+        {
+          "text": "Magner explained that the spreadsheet abbreviations referred to venue spaces such as mainstage, second stage, park stage, and rehearsal stage, and that the listed codes represented different charge categories used by the city.",
+          "source": "Noelle Magner: Ms. stands for our mainstage ... SSS stands for our second stage ... APS stands for Park stage, Rs stands for our rehearsal stage. ... those are the different charges that the company ... is charged for having production in our building.",
+          "speaker": "Noelle Magner",
+          "id": "t_003_p_002"
+        },
+        {
+          "text": "Staff said the spreadsheet did not include broader overhead such as utilities and janitorial costs, while some labor charges such as the house manager were billed according to the city's fee schedule.",
+          "source": "Theresa Yvonne: as far as our utility bill, our janitorial ... that is not in this spreadsheet. ... Noelle Magner: our labor expenses ... it's cost plus 20% that's in our master fee schedule.",
+          "speaker": "Theresa Yvonne",
+          "id": "t_003_p_003"
+        },
+        {
+          "text": "John Marchant said he and Theresa Yvonne would revise the financial document to look more like a typical spreadsheet and would bring updated versions for future home company reviews, including an updated PYT version.",
+          "source": "John Marchant: Theresa and I are going to be modifying this so that it looks more similar to a typical financial spreadsheet. ... in the next performing arts committee meeting, you'll be seeing a different version of this ... and we will update this one as well.",
+          "speaker": "John Marchant",
+          "id": "t_003_p_004"
+        }
+      ]
+    },
+    {
+      "topic": "PYT programs and recovery",
+      "points": [
+        {
+          "text": "Connor Day said COVID continued to affect PYT outreach, but in-person classes and rehearsals had returned and the School Play in a Box program restarted at about eight schools last season and at Bub Elementary plus 14 other schools this fall.",
+          "source": "Connor Day: our programs but especially our outreach programs unfortunately continued to be affected by COVID ... we were still able to start and restart programs at about 8 schools last season ... We're restarting a program at Bub Elementary ... we actually have 14 other schools that we're serving this fall.",
+          "speaker": "Connor Day",
+          "id": "t_004_p_001"
+        },
+        {
+          "text": "Day said the current year's seven Stories on Stage school titles were completely sold out to schools, with participation from Mountain View and nearby cities including Cupertino, Sunnyvale, and Los Altos.",
+          "source": "Connor Day: all seven of our titles for this year at least the school shows are completely sold out to schools. ... we have multiple schools from the Mountain View area ... Cupertino and Sunnyvale and Los Altos.",
+          "speaker": "Connor Day",
+          "id": "t_004_p_002"
+        },
+        {
+          "text": "PYT's Theatre in the Park camps fully returned in summer 2022 and served about 600 campers, roughly 80% of 2019 attendance and above staff's expectations.",
+          "source": "Connor Day: overall throughout 2022 we ended up serving about 600 campers which was about 80% of our 2019 attendance ... we were expecting about half capacity.",
+          "speaker": "Connor Day",
+          "id": "t_004_p_003"
+        },
+        {
+          "text": "For audiences, masks were recommended but not required, while masks were still required for rehearsals in the studio.",
+          "source": "Connor Day: currently for audiences we are recommending but not requiring masks to attend shows. We are still requiring masking inside our studio for rehearsals.",
+          "speaker": "Connor Day",
+          "id": "t_004_p_004"
+        },
+        {
+          "text": "Day said mainstage attendance had recovered strongly: Descendants drew the biggest post-pandemic crowds until Frozen surpassed it; school shows for All Together Now and Descendants were canceled because of low interest, Fiddler held two student group performances, and SpongeBob had already sold 791 student group seats.",
+          "source": "Connor Day: Descendants ... drew the largest crowds ... Frozen surpassed our descendants ticket sales ... we chose to cancel our school shows for All Together Now and Descendants due to low interest ... Fiddler ... two shows for groups of 98 and 78 ... we've already sold 791 ... seats for SpongeBob.",
+          "speaker": "Connor Day",
+          "id": "t_004_p_005"
+        }
+      ]
+    },
+    {
+      "topic": "PYT funding and challenges",
+      "points": [
+        {
+          "text": "Day said the committee had been given PYT's completed 2019 and 2020 Form 990s, that 2021 taxes were still being finalized, that both PPP loans had been forgiven, and that an unused SBA loan of about $300,000 was still being held as reserve while being repaid slowly.",
+          "source": "Connor Day: our last two completed 990s from 2020 and 2019 ... our 2021 taxes are still being finalized ... we now have had our second [PPP loan] forgiven ... It was about $300,000 ... sitting as our cushion in the bank.",
+          "speaker": "Connor Day",
+          "id": "t_005_p_001"
+        },
+        {
+          "text": "Day said PYT had continued grant support from organizations including Kiwanis and Packard, and identified the state Performing Arts Grant Program as a new funding source.",
+          "source": "Connor Day: support that we've received from a lot of local organizations including Kiwanis ... including Packard ... The performing arts grant program ... was a new one time program from the state. ... technically that was a new funder.",
+          "speaker": "Connor Day",
+          "id": "t_005_p_002"
+        },
+        {
+          "text": "Day said the biggest challenges for the coming year were rebuilding Stories on Stage audiences and rebuilding technical and seasonal staffing after pandemic disruptions, while also documenting volunteer labor to judge long-term sustainability.",
+          "source": "Connor Day: I think rebuilding our audiences especially for SOS ... another piece is that we lost a lot of connections to folks who had worked for us to do technical work ... I'm also working to better document that labor ... and see how much money we're saving.",
+          "speaker": "Connor Day",
+          "id": "t_005_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Booking exploration and staff updates",
+      "points": [
+        {
+          "text": "John McAlister asked that the committee begin exploring how the center might book outside acts and requested background information on major industry events and available artists as PAC considers the center's future direction.",
+          "source": "John McAlister: we need to be able to see if we can book acts ... I'd like to be able to explore the ability that our Executive Director would look into possibly attending one of these events ... and come back to us and say here's something to consider.",
+          "speaker": "John McAlister",
+          "id": "t_006_p_001"
+        },
+        {
+          "text": "Theresa Yvonne said the main conferences were APAP in New York and Western Arts Alliance in the western region, and said WAA was likely the more relevant event for the center's size.",
+          "source": "Theresa Yvonne: The largest one is the APAP conference ... in New York ... The smaller conference is called the Western Arts Alliance ... it's not necessary that for the size of our house that we would necessarily go to the New York conference.",
+          "speaker": "Theresa Yvonne",
+          "id": "t_006_p_002"
+        },
+        {
+          "text": "Yvonne said she could contact agents to learn which artists were touring and what their fee ranges looked like, and bring that preliminary information back to the committee.",
+          "source": "Theresa Yvonne: I can bring back more information for the committee ... I can't contact an agent and find out like who's back out ... and then you have a range of what their fee would be.",
+          "speaker": "Theresa Yvonne",
+          "id": "t_006_p_003"
+        },
+        {
+          "text": "Yvonne announced that the National Arts and Humanities Proclamation would go to City Council the following Tuesday and said she would confirm the agenda timing and send it to the group.",
+          "source": "Theresa Yvonne: The National Arts and Humanities Proclamation will go to council next Tuesday ... let me double check the agenda and then I can send that out to the group.",
+          "speaker": "Theresa Yvonne",
+          "id": "t_006_p_004"
+        },
+        {
+          "text": "Carol Donahue thanked the city for the recent volunteer appreciation event and said it had been a useful opportunity to meet members of other committees and think about collaboration opportunities.",
+          "source": "Carol Donahue: I'd like to thank the city for its volunteer appreciation event ... it was a great way to catch up with people ... and kind of get an idea of what's out there and what collaboration opportunities might exist.",
+          "speaker": "Carol Donahue",
+          "id": "t_006_p_005"
+        }
+      ]
+    },
+    {
+      "topic": "Next meeting and adjournment",
+      "points": [
+        {
+          "text": "The next Performing Arts Committee meeting was scheduled for November 16, 2022 at 6:15 PM by video conference, with additional home company presentations including TheatreWorks and Upstage.",
+          "source": "Carol Donahue: the next performing Arts meeting committee meeting will be held on November 16th, 2022 at 6:15 PM video conference ... Theresa Yvonne: We'll have Theater Works and Upstage next month.",
+          "speaker": "Carol Donahue",
+          "id": "t_007_p_001"
+        },
+        {
+          "text": "Chair Donahue adjourned the October 19, 2022 meeting at 7:14 PM.",
+          "source": "Carol Donahue: I adjourn the ... October 19th, 2022 Performing Arts ... meeting at ... 7:14 PM.",
+          "speaker": "Carol Donahue",
+          "id": "t_007_p_002"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "text": "Correct the prior minutes to identify Sukanya Kumar as Vice Chair and bring back a revised version.",
+      "source": "Noelle Magner: It should read Vice Chair. ... I'll do a revised version of this and bring it to the next meeting.",
+      "assignee": "Noelle Magner",
+      "id": "d_001"
+    },
+    {
+      "text": "Approve the prior meeting minutes with the Vice Chair correction.",
+      "source": "John McAlister: I make a motion that we approve the Minutes. ... Sukanya Kumar: I second that. ... Yao: Yes.",
+      "assignee": "Committee",
+      "id": "d_002"
+    },
+    {
+      "text": "Prepare a detailed historical and projected Film Festival budget for the committee's review.",
+      "source": "Theresa Yvonne: I will be putting together a very detailed budget of what was spent on the first Film Festival ... and estimated costs for the one that's being planned right now.",
+      "assignee": "Theresa Yvonne",
+      "id": "d_003"
+    },
+    {
+      "text": "Revise the PAC home company financial spreadsheet format and bring updated versions to a future meeting.",
+      "source": "John Marchant: Theresa and I are going to be modifying this so that it looks more similar to a typical financial spreadsheet.",
+      "assignee": "Theresa Yvonne and John Marchant",
+      "id": "d_004"
+    },
+    {
+      "text": "Gather preliminary booking information from agents on available artists and fee ranges for the committee.",
+      "source": "Theresa Yvonne: I can bring back more information for the committee ... I could reach out to an agent ... and then you have a range of what their fee would be.",
+      "assignee": "Theresa Yvonne",
+      "id": "d_005"
+    },
+    {
+      "text": "Confirm the City Council agenda timing for the proclamation and email it to the committee.",
+      "source": "Theresa Yvonne: let me double check the agenda and then I can send that out to the group.",
+      "assignee": "Theresa Yvonne",
+      "id": "d_006"
+    }
+  ],
+  "metadata": {
+    "topicCount": 7,
+    "pointCount": 23,
+    "decisionCount": 6
+  }
+}

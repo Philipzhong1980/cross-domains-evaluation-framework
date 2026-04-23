@@ -1,0 +1,235 @@
+{
+  "meeting_context": "White House press briefing imported from 20231112_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Unidentified",
+    "Patsy",
+    "Danny Kemp",
+    "Chris",
+    "Trevor Hunnicutt"
+  ],
+  "topics": [
+    {
+      "topic": "Senior administration officials are previewing the bilateral meeting",
+      "points": [
+        {
+          "text": "Senior administration officials are previewing the bilateral meeting between President Biden and President Widodo of Indonesia, which will take place before the APEC summit.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Senior administration officials are highlighting the significance of",
+      "points": [
+        {
+          "text": "Senior administration officials are highlighting the significance of President Biden's upcoming meeting with President Widodo of Indonesia, as they plan to discuss foreign policy, national security, and Indonesia's perspectives on critical issues such as the South China Sea and engagement with China and ASEAN.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials emphasize the importance of",
+      "points": [
+        {
+          "text": "The senior administration officials emphasize the importance of discussing Indonesia's perspectives on the Middle East conflict and seeking their assistance in playing a larger role in addressing the issue.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss Indonesia's desire to",
+      "points": [
+        {
+          "text": "The senior administration officials discuss Indonesia's desire to advance in technology and manufacturing, as well as their collaboration on climate change, educational initiatives, and deepening Indonesia's critical role.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the upcoming meeting",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the upcoming meeting between the President and the Indonesian President, highlighting their warm relationship and the importance of Indonesia's role in ASEAN.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The upcoming visit between the President and the",
+      "points": [
+        {
+          "text": "The upcoming visit between the President and the Indonesian President will mark a significant milestone in their diplomatic relations as they announce a Comprehensive Strategic Partnership, further strengthening their engagement in Southeast Asia.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The upcoming visit between the Presidents will focus",
+      "points": [
+        {
+          "text": "The upcoming visit between the Presidents will focus on bolstering ASEAN centrality, cooperating on critical minerals and diversifying Indonesia's semiconductor ecosystem, combatting the climate crisis, strengthening defense cooperation and cybersecurity partnerships.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The upcoming visit between the Presidents will include",
+      "points": [
+        {
+          "text": "The upcoming visit between the Presidents will include initiatives in the people-to-people space, such as a satellite program with Georgetown University School of Foreign Service in Jakarta and partnership to restore Indonesia's National Museum, aiming to strengthen cooperation and alignment between the two countries.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The officials discuss the expectation of substantial progress",
+      "points": [
+        {
+          "text": "The officials discuss the expectation of substantial progress in growing the defense relationship between the United States and Indonesia, including expanded exercises, deeper trainings in cybersecurity cooperation and combating WMD, and a broader expansion of everyday nuts and bolts that make up the defense relationship.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The officials discuss the importance of enhancing Indonesia's",
+      "points": [
+        {
+          "text": "The officials discuss the importance of enhancing Indonesia's military capabilities in terms of maritime surveillance and defense procurement, while highlighting the United States' commitment to supporting the growing defense relationship between the two countries.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The officials discuss how the United States' practical",
+      "points": [
+        {
+          "text": "The officials discuss how the United States' practical engagements in the Indo-Pacific have alleviated Indonesia's ambivalence and their concerns about Chinese activities in the South China Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges the importance of",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges the importance of Indonesia's views and values on the war in Gaza and states that the President will listen carefully to President Widodo's perspectives after his discussions with Arab and Middle East leaders.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes the importance of",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes the importance of Indonesia's involvement in the Indo-Pacific region and their potential partnership in various areas, including addressing the war in Gaza and collaborating on long-term goals and objectives.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Both sides need to communicate their expectations and",
+      "points": [
+        {
+          "text": "Both sides need to communicate their expectations and ambitions in order to move forward with their potential partnership.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the importance of",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the importance of a work plan to move forward on a potential critical minerals agreement, emphasizing the need for high labor and environmental standards, and highlight the broad government support for the initiative with deep contacts and engagements with Indonesia.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the call Danny Kemp asks if he",
+      "points": [
+        {
+          "text": "During the call, Danny Kemp asks if he can be heard.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Danny Kemp asks about Indonesia's potential larger role",
+      "points": [
+        {
+          "text": "Danny Kemp asks about Indonesia's potential larger role in the Middle East and the Senior Administration Official acknowledges its significance as the largest Islamic state and expresses support for Indonesia's practical engagements in global issues.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Senior Administration Official highlights the importance of",
+      "points": [
+        {
+          "text": "The Senior Administration Official highlights the importance of building stronger partnerships with allies and partners in the Indo-Pacific and Europe, reaffirming common approaches to shared challenges and opportunities, in order to present a united front with President Xi during the upcoming meeting at APEC.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Senior Administration Official emphasizes the importance of",
+      "points": [
+        {
+          "text": "The Senior Administration Official emphasizes the importance of building stronger partnerships with allies and partners in the Indo-Pacific, particularly in Southeast Asia, as part of their preparatory work for the upcoming meeting at APEC.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Trevor Hunnicutt asks if the topic of Myanmar",
+      "points": [
+        {
+          "text": "Trevor Hunnicutt asks if the topic of Myanmar and its deteriorating situation will be discussed between the two leaders, and what role ASEAN can play in addressing it.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is concerned about the deteriorating",
+      "points": [
+        {
+          "text": "The United States is concerned about the deteriorating situation in Myanmar and is supportive of ASEAN's efforts to address it, with Indonesia playing a crucial role in ASEAN's approach to Myanmar.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The call is on background attributed to senior",
+      "points": [
+        {
+          "text": "The call is on background, attributed to \"senior administration officials,\" and is under embargo until 5:00 a.m. Monday morning.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

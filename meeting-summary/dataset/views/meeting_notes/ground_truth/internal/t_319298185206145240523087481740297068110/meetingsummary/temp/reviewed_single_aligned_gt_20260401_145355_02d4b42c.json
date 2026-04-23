@@ -1,0 +1,112 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "2023–2031 Housing Element status and continuance",
+          "points": [
+            {
+              "speaker": "Stephanie",
+              "text": "Stephanie explained there is no objective measurement for adequate translation; staff will document translation efforts to date, ensure materials are translated and available earlier for upcoming phases, and continue an open dialogue with HCD about whether opportunities for non-English speakers remain a concern.",
+              "source": "Stephanie : I don't think that there is an objective measurement… making sure that we're clear with HCD… about how we have made attempts… and for the next phases… keeping that in mind… keeping that conversation open with them",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Eric Anderson",
+              "text": "Eric Anderson clarified HCD seeks findings showing nothing prevents residential use on non-vacant sites rather than proof or guarantees. Staff is developing the analysis and findings, and will continue engaging Spanish-speaking advocacy organizations with meetings timed for productivity once draft revisions are more concrete.",
+              "source": "Eric Anderson : The evidence that non vacant sites will can accommodate residential uses… is not a proof… We're just making sure that there's nothing that's going to keep it from happening… we've met with a couple of the Spanish speaking advocacy organizations… looking at ways of making sure that they're as productive as they can be",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Eric Anderson",
+              "text": "HCD review process integrates public comments for statutory compliance, with ongoing opportunities for input through outreach, state-required draft publishing, and pre-EPC publication requirements.",
+              "source": "Eric Anderson : So the the HCD process is really one of being. Kind of a. Sort of a judge, right, in this, in this process… Taking public. Comment at the same. Time that they're reviewing our draft for statutory compliance… there's a process whereby… we're getting comments. From HCD… there. Have been lots of opportunities to integrate public input",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Eric Anderson",
+              "text": "Staff has plan to address Farella Braun & Martel letter concerns and will work on analysis to verify statutory compliance, with HCD clarifying evidence requirement is not proof or guarantee but ensuring no barriers to residential development.",
+              "source": "Eric Anderson : Yeah, I there is a plan of attack. I think we, you know we discussed it in in a lot of detail… the HCD was really clear about you know the the findings and the the evidence that non vacant sites will can accommodate residential uses. Is not a. It's not a proof. That they're looking for. It's not a guarantee",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "Leadership elections and transition",
+          "points": [
+            {
+              "speaker": "Nunez",
+              "text": "Commissioner Nunez nominated Vice Chair Yen for chair position, which Yen accepted.",
+              "source": "Nunez : I would like to nominate Vice Chair again… Yen: I am willing and honored by the nomination",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting closure and recognition",
+          "points": [
+            {
+              "speaker": "Cranston",
+              "text": "Chair Cranston adjourned the Environmental Planning Commission meeting of January 4 at 7:38 PM.",
+              "source": "Cranston : And we will adjourn the Environmental Planning Commission meeting of January 4th at 7:38 PM.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Haymeyer",
+              "text": "Commissioner Haymeyer thanked Chair Cranston for serving two difficult years conducting meetings from home and expressed appreciation for leadership experience.",
+              "source": "Haymeyer : You have served not one but two difficult years and doing it all from your home… We really appreciate your service and it's just been such a great, such a great experience to have you as our chair not once but twice",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Yen",
+              "text": "Chair-elect Yen thanked Cranston for excellent leadership over past two years and committed to serving commission well.",
+              "source": "Yen : Thank you very much for leading us so well these past two years… I will do my best to serve you all well",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Dempsey",
+              "text": "Vice Chair-elect Dempsey expressed gratitude to Cranston for teaching and leadership throughout his EPC tenure.",
+              "source": "Dempsey : you've been the chair for as long as I've been on EPC and I have learned a ton from you… So I just want to say thank you",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Eric Anderson",
+          "text": "Eric Anderson will send emails to commissioners for chamber familiarization visits in groups of three or less before February 1st return.",
+          "source": "Eric Anderson : I am going to send out emails. As soon as I log off right now… We have to do. This in groups of three or less",
+          "from_gt": "gt2",
+          "validation_note": "modified"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 10,
+      "kept": 2,
+      "modified": 8,
+      "dropped": 0,
+      "from_gt1_kept": 3,
+      "from_gt2_kept": 7
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:53:55.268770+00:00"
+  }
+}

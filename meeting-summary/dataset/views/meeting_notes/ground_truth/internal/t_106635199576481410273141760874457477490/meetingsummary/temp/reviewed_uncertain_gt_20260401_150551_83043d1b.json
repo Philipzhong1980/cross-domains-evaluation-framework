@@ -1,0 +1,133 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Monthly Status Report - September 2022",
+          "points": [
+            {
+              "speaker": "Patricia Henslow",
+              "text": "Staff issued 18 email updates reaching 913 subscribers per email and will start outreach via Mountain View Voice for the Housing and Eviction Help Center. Mediation remains strong with 47 mediations/conciliations and 36 resolved. Staff observed an uptick in failure-to-pay notices and will analyze new versus repeat cases next month.",
+              "source": "Patricia Henslow : We've had 18 e-mail updates for reach of 913 e-mail subscribers per e-mail... will begin starting our Mountain View Voice outreach... We've had 47 mediations and conciliations so far 36 of those have been resolved... We've seen a slight uptick in failure to pay rent notices... we will next month.",
+              "validation_note": "validated_unique"
+            },
+            {
+              "speaker": "Patricia Henslow",
+              "text": "Year-to-date notices: 136 rent increase notices, 278 termination notices, 0 tenant buyouts, and 0 additional occupant notices. No new properties have entered redevelopment this calendar year; two households received assistance as carryovers from prior year actions. Nine tenant petitions were filed (4 unlawful rent, 5 tenant hardship).",
+              "source": "Patricia Henslow : We've received 136 banks rent increases notices, 278 termination notices, 0 tenant buyouts and zero additional occupant notices... two households have received assistance and that those two households are carryovers from prior calendar year redevelopment actions... We've had nine tenant petitions... four for unlawful rent and five for tenant hardship.",
+              "validation_note": "refined"
+            }
+          ]
+        },
+        {
+          "topic": "Committee Appreciation and Meeting Closure",
+          "points": [
+            {
+              "speaker": "Almond",
+              "text": "Almond thanked the City for volunteer appreciation benefits and described attending a Shoreline concert with VIP amenities, noting an intention to send a thank-you letter. The meeting adjourned at 8:57 PM, with the next RHC meeting scheduled for Monday, November 14, 2022, at 7:00 PM.",
+              "source": "Almond : I felt very appreciated and I'm going to send a letter to the city and thank them. Nicole Haynes : the meeting is adjourned at 8:57 PM... next Rental Housing committee meeting is scheduled to be held on Monday, November 14th, 2022 at 7:00 PM.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Rental Housing Committee",
+          "text": "Approved consent calendar items 3.1 and 3.3 covering September meeting minutes and CSFRA regulation amendments by unanimous vote.",
+          "source": "Unidentified 1 : The motion passes unanimously",
+          "validation_note": "validated_unique"
+        },
+        {
+          "assignee": "Rental Housing Committee",
+          "text": "Authorized continued virtual meetings pursuant to Government Code Section 54953 by four votes to one.",
+          "source": "Unidentified 1 : Motion passes four votes to 1",
+          "validation_note": "validated_unique"
+        },
+        {
+          "assignee": "Rental Housing Committee",
+          "text": "Adopted amendments to CSFRA Chapter 5 and MHRSO Chapter 6 hearing procedures to add compliance hearing processes and 30-day notice prior to rent restoration. Vote passed 4 ayes, 1 abstention.",
+          "source": "Nicole Haynes : a motion to approve should include... adopt the amendment to the CSFRA Regulation Chapter 5... and... MHRSO Regulations Chapter 6... Unidentified 1 : The motion passes four votes and one abstention.",
+          "validation_note": "merged_conflict"
+        }
+      ]
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Transcript clearly confirms Patricia Henslow provided all the specific details mentioned: 18 email updates, 913 subscribers, Mountain View Voice outreach plans, 47 mediations with 36 resolved, and uptick in failure-to-pay notices with analysis planned for next month.",
+        "transcript_evidence": [
+          "Patricia Henslow : We've had 18 e-mail updates for reach of 913 e-mail subscribers per e-mail",
+          "Patricia Henslow : And we'll we will begin starting our Mountain View Voice outreach",
+          "Patricia Henslow : We've had 47 mediations and conciliations so far 36 of those have been resolved",
+          "Patricia Henslow : We've seen a slight uptick in failure to pay rent notices",
+          "Patricia Henslow : And next month we'll have data that looks at which one of those are new, new eviction notices that we're receiving versus which ones are repeats"
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "modify",
+        "reasoning": "Transcript confirms the statistical data but shows a minor discrepancy - Patricia said 'banks rent increases notices' which appears to be a transcription error for 'rent increase notices'. The numbers and other details are accurately supported.",
+        "transcript_evidence": [
+          "Patricia Henslow : We've received 136 banks rent increases notices, 278 termination notices, 0 tenant buyouts and zero additional occupant notices",
+          "Patricia Henslow : No units have gone into redevelopment. So properties have gone into redevelopment and two households have received assistance and that those two households are carryovers from prior fiscal from prior calendar year redevelopment actions",
+          "Patricia Henslow : We have have had nine tenant petitions so far this fiscal year",
+          "Patricia Henslow : And we've had four for unlawful rent and five for tenant hardship"
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "merge",
+        "reasoning": "Transcript confirms Almond's appreciation comments about feeling appreciated and intention to send a thank-you letter to the city. Meeting adjournment time and next meeting details are also confirmed by Nicole Haynes.",
+        "transcript_evidence": [
+          "Almond : So anyway, I felt very appreciated and I'm going to send a letter to the city and thank them",
+          "Nicole Haynes : With that, the meeting is adjourned at 8:57 PM",
+          "Nicole Haynes : The next Rental Housing committee meeting is scheduled to be held on Monday, November 14th, 2022 at 7:00 PM"
+        ]
+      },
+      {
+        "id": "review_004",
+        "decision": "merge",
+        "reasoning": "Both GT versions have identical content and source. The assignee conflict is between 'Rental Housing Committee' vs 'Committee'. Transcript shows this is the Rental Housing Committee making the decision, so the more specific designation is appropriate.",
+        "transcript_evidence": [
+          "Unidentified 1 : The motion passes unanimously"
+        ]
+      },
+      {
+        "id": "review_005",
+        "decision": "merge",
+        "reasoning": "Both GT versions have identical content and source. The assignee should be 'Rental Housing Committee' as the more specific and accurate designation for this body making the decision.",
+        "transcript_evidence": [
+          "Unidentified 1 : Motion passes four votes to 1"
+        ]
+      },
+      {
+        "id": "review_006",
+        "decision": "merge",
+        "reasoning": "The GT1 version provides more complete details about the amendments (compliance hearing processes and 30-day notice) which are supported by the transcript discussion. The assignee should be 'Rental Housing Committee' as the specific body making this decision.",
+        "transcript_evidence": [
+          "Nicole Haynes : So a motion to approve should include reading the titles of the items which are to adopt the amendment to the CSFRA Regulation Chapter 5 Hearing Procedure",
+          "Nicole Haynes : and to adopt amendments to MHRSO Regulations Chapter 6 Hearing Procedure",
+          "Unidentified 1 : Thank you the The motion passes four votes and one abstention"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 6,
+      "merged": 5,
+      "excluded": 0,
+      "modified": 1,
+      "confidence": "High confidence in validation. All items had clear transcript evidence supporting the facts. One minor correction made to clarify 'rent increase notices' terminology. All assignee conflicts resolved in favor of the more specific 'Rental Housing Committee' designation."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:05:51.702128+00:00"
+  }
+}

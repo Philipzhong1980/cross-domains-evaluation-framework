@@ -1,0 +1,88 @@
+{
+  "result": {
+    "rejected_items": [
+      {
+        "id": "review_002",
+        "item_type": "decision",
+        "original_point": {
+          "text": "Yen was elected and will serve as EPC Chair for 2023; public comment was offered and no speakers came forward.",
+          "assignee": "Yen",
+          "source": "Cranston : Everyone congratulations new chair yen and New Vice Chair Dempsey."
+        },
+        "reason": "extraction_criteria_not_met",
+        "explanation": "While Yen accepted the nomination and will serve as Chair, this is an election outcome rather than a decision with future commitments. The transcript shows Yen accepting the role ('I am willing and honored by the nomination') but doesn't contain specific commitments or actions that Yen will take as Chair. Elections are procedural outcomes, not actionable decisions requiring tracking."
+      },
+      {
+        "id": "review_003",
+        "item_type": "decision",
+        "original_point": {
+          "text": "Dempsey was elected and will serve as EPC Vice Chair for 2023; no public comments were received.",
+          "assignee": "Dempsey",
+          "source": "Whitehall : Motion carries."
+        },
+        "reason": "extraction_criteria_not_met",
+        "explanation": "Similar to review_002, this is an election outcome rather than a decision with actionable commitments. The transcript shows Dempsey accepting the role ('I would happily accept') but doesn't contain specific commitments or actions that Dempsey will take as Vice Chair. Elections are procedural outcomes that don't require decision tracking."
+      }
+    ],
+    "validated_gt": {
+      "topics": [],
+      "decisions": [
+        {
+          "assignee": "EPC",
+          "text": "EPC voted unanimously to continue the 2023-2031 Housing Element item to a future date pending staff revisions responsive to HCD comments.",
+          "source": "Whitehall : Motion carries unanimously.",
+          "validation_note": "validated_unique"
+        }
+      ]
+    },
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "The transcript clearly shows this was a formal EPC decision with unanimous vote. Clark made the motion to 'continue this item as recommended by staff', Nunez seconded, and after discussion and public comment, the EPC voted unanimously. This is a legitimate decision assigned to the EPC as a body since they collectively voted to continue the item.",
+        "transcript_evidence": [
+          "Clark: yeah, so based on information that staff. Clark: Shared, I know that. Clark: We continue this item. Clark: As recommended by staff.",
+          "Nunez: I second that nomination.",
+          "Whitehall: Motion carries unanimously."
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "exclude",
+        "reasoning": "While Yen was elected Chair, this is a procedural election outcome rather than a decision with actionable commitments. The transcript shows the nomination and acceptance process, but doesn't contain specific decisions or commitments that Yen will make as Chair. Elections don't meet the extraction criteria for decisions requiring tracking.",
+        "transcript_evidence": [
+          "Nunez: I would like to nominate Vice Chair again.",
+          "Yen: Thank you, Chair Crinston. Yen: I am willing and honored by the nomination.",
+          "Whitehall: And chair Cranston motion carries.",
+          "Cranston: Everyone congratulations new chair yen and New Vice Chair Dempsey."
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "exclude",
+        "reasoning": "Similar to review_002, this is a procedural election outcome rather than an actionable decision. The transcript shows Dempsey accepting the Vice Chair nomination, but doesn't contain specific commitments or actions he will take in the role. Elections are procedural outcomes that don't require decision tracking.",
+        "transcript_evidence": [
+          "Yen: Yes, I happily oh, can you hear me happily nominate Hank, Commissioner Dempsey",
+          "Dempsey: I would happily accept.",
+          "Whitehall: Motion carries.",
+          "Cranston: Everyone congratulations new chair yen and New Vice Chair Dempsey."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 3,
+      "merged": 1,
+      "excluded": 2,
+      "modified": 0,
+      "confidence": "High confidence in validation decisions. Clear transcript evidence supports the EPC housing element continuance as a legitimate decision requiring tracking, while the officer elections are procedural outcomes without actionable commitments that would warrant decision tracking."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:53:33.513779+00:00"
+  }
+}

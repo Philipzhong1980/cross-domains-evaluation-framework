@@ -1,0 +1,321 @@
+{
+  "meeting_context": "White House press briefing imported from 20230329_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "MR. KIRBY",
+    "Unidentified"
+  ],
+  "topics": [
+    {
+      "topic": "The First Lady will travel to Nashville to",
+      "points": [
+        {
+          "text": "The First Lady will travel to Nashville to attend a candlelight vigil for the victims of the Covenant School shooting, while the FDA has approved over-the-counter use of Narcan, a form of naloxone, to help reverse opioid overdoses, and Vice President Harris has announced nearly $1 billion in support for women empowerment in Africa.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Vice President Harris emphasized the significance of investing",
+      "points": [
+        {
+          "text": "Vice President Harris emphasized the significance of investing in innovation and entrepreneurship in Africa to stimulate global growth, while also addressing the transatlantic slave trade's brutality and legacy during her visit to Cape Coast Castle.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker announces a bilateral meeting with the",
+      "points": [
+        {
+          "text": "The speaker announces a bilateral meeting with the president of Argentina and hands over the podium to Admiral Kirby.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby announces that the United States is",
+      "points": [
+        {
+          "text": "Admiral Kirby announces that the United States is investing $690 million in promoting democracy abroad, focusing on supporting free media, combating corruption, defending human rights activists, ensuring fair elections, and advancing technology for democracy.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby discusses the importance of upholding democratic",
+      "points": [
+        {
+          "text": "Admiral Kirby discusses the importance of upholding democratic values in the region and around the world, reaffirms the United States' longstanding unofficial relationship with Taiwan, and urges China not to use Taiwan President Tsai Ing-wen's transit through the United States as a pretext for aggressive activity.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the phone call between Jake",
+      "points": [
+        {
+          "text": "The speaker discusses the phone call between Jake Sullivan and his counterpart regarding the transit issue, but the details of the call were not made public, and multiple diplomatic discussions have taken place with Beijing about the transit.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes that there is no reason",
+      "points": [
+        {
+          "text": "The speaker emphasizes that there is no reason for Beijing to react harshly or differently to the transit issue, as it is a common occurrence and other presidents of Taiwan have transited the United States before.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the hope that all democracies",
+      "points": [
+        {
+          "text": "The speaker discusses the hope that all democracies will follow suit in enhancing transparency and accountability, and mentions that Prime Minister Netanyahu's statement shows a willingness to compromise and respect for President Biden.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the hope for a normal",
+      "points": [
+        {
+          "text": "The speaker discusses the hope for a normal and uneventful transit by President Tsai Ing-wen to Taiwan, while also addressing concerns about potential reactions from China and national security concerns regarding apps owned by ByteDance.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker expresses concerns about a specific app",
+      "points": [
+        {
+          "text": "The speaker expresses concerns about a specific app on government phones and mentions that the President has banned it, without providing further details.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the importance of decisions made",
+      "points": [
+        {
+          "text": "The speaker discusses the importance of decisions made in Israel being in line with a broad base of public support and emphasizes the shared democratic principles between the US and Israel.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the criteria for issuing invitations",
+      "points": [
+        {
+          "text": "The speaker discusses the criteria for issuing invitations based on progress towards basic human and civil rights and freedom of the press, but states they are not aware of a specific report or comments made by Senator Cruz regarding investigating the Vice President of Argentina.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges Pakistan's decision not to participate",
+      "points": [
+        {
+          "text": "The speaker acknowledges Pakistan's decision not to participate in the Summit of Democracy, but states that it will not affect the willingness of the US to continue working with Pakistan on mutual security concerns.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The question is raised about Pakistan providing weapons",
+      "points": [
+        {
+          "text": "The question is raised about Pakistan providing weapons to Ukraine, and concerns are expressed about the US offering a reputational boost to participating countries in the democracy summit without knowing if they fully embrace democracy.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges criticisms about India's democratic practices",
+      "points": [
+        {
+          "text": "The speaker acknowledges criticisms about India's democratic practices but emphasizes that the purpose of the democracy summit is to have meaningful discussions on strengthening democracies worldwide, rather than focusing on building reputations or popularity.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes that the purpose of the",
+      "points": [
+        {
+          "text": "The speaker emphasizes that the purpose of the democracy summit is to have meaningful discussions and work towards improving democracies worldwide, regardless of past commitments or criticisms.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker affirms that the President's remarks on",
+      "points": [
+        {
+          "text": "The speaker affirms that the President's remarks on Israel and the potential conversation with President Xi are consistent with urging compromise and keeping lines of communication open.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker expresses condolences for the tragic fire",
+      "points": [
+        {
+          "text": "The speaker expresses condolences for the tragic fire in Mexico and emphasizes President Biden's efforts to create safer and more humane immigration policies while urging Congress to act on immigration reforms.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker is asked about allegations of misconduct",
+      "points": [
+        {
+          "text": "The speaker is asked about allegations of misconduct and potential harassment of journalists by the IRS, and he refers the questioner to the IRS for more information.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges President Biden's clear stance on",
+      "points": [
+        {
+          "text": "The speaker acknowledges President Biden's clear stance on the dangers of fentanyl and opioids from China and emphasizes his commitment to finding innovative solutions to address the challenges.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The question raised is whether allowing fire victims",
+      "points": [
+        {
+          "text": "The question raised is whether allowing fire victims from the migrant camp to enter the U.S. illegally and receive emergency medical care risks incentivizing similar behavior in the future.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The section of the transcript discusses the United",
+      "points": [
+        {
+          "text": "The section of the transcript discusses the United States' efforts to provide emergency medical care to fire victims from a migrant camp, while also addressing concerns about tensions between the United States and China.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The section of the transcript concludes with a",
+      "points": [
+        {
+          "text": "The section of the transcript concludes with a statement about Speaker McCarthy's schedule and agenda, indicating that it is up to his office to address any plans or actions related to the transit.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House emphasizes the need for House",
+      "points": [
+        {
+          "text": "The White House emphasizes the need for House Republicans to produce a budget before any meeting on the debt limit can take place, while also urging them to promptly address the issue of the default threat.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson emphasizes that it is",
+      "points": [
+        {
+          "text": "The White House spokesperson emphasizes that it is unacceptable for Republicans to claim that nothing can be done about the circulation of semi-automatic weapons, highlighting the need for legislation to ban assault weapons and address gun violence.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson reiterates that while President",
+      "points": [
+        {
+          "text": "The White House spokesperson reiterates that while President Biden has taken executive actions to address gun violence, the need for federal legislation, such as an assault weapons ban, is crucial and emphasizes that the Department of Justice will determine the legal authority to close the gun show loophole.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson acknowledges that disagreements with",
+      "points": [
+        {
+          "text": "The White House spokesperson acknowledges that disagreements with elected officials and partners are common, but defers to the Office of the Director of National Intelligence (ODNI) regarding a specific topic.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson expresses condolences for the",
+      "points": [
+        {
+          "text": "The White House spokesperson expresses condolences for the tragic loss of life in the Mexican detention center fire, states that they have been in touch with Mexican officials and an investigation is ongoing, but declines to comment further or confirm if President Biden has spoken with President López Obrador.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson acknowledges glitches in the",
+      "points": [
+        {
+          "text": "The White House spokesperson acknowledges glitches in the CBP One app and expresses the administration's commitment to fixing them to make it easier for migrants to apply and go through the asylum process, while also highlighting the success of their policies in reducing unlawful migration from certain countries.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House acknowledges the glitches in the",
+      "points": [
+        {
+          "text": "The White House acknowledges the glitches in the CBP One app, expresses a commitment to improving it, and defends the effectiveness of their policies in reducing unlawful migration.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden administration supports the Senate's repeal of",
+      "points": [
+        {
+          "text": "The Biden administration supports the Senate's repeal of the 2002 and 1991 AUMF, urges the House to quickly pass it, and believes that repealing these authorizations would not impact current military or counterterrorism operations.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

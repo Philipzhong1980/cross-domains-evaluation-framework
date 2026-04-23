@@ -1,0 +1,201 @@
+{
+  "meeting_context": "White House press briefing imported from 20210415_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Unidentified",
+    "Dina Temple-Raston"
+  ],
+  "topics": [
+    {
+      "topic": "The senior administration official discusses the United States'",
+      "points": [
+        {
+          "text": "The senior administration official discusses the United States' intention to maintain a stable and predictable relationship with Russia while also imposing costs on Russian government actions that harm American sovereignty, including responses to the poisoning of Aleksey Navalny, the cyber intrusion of SolarWinds, and interference in the 2020 election.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official announces additional actions taken",
+      "points": [
+        {
+          "text": "The senior administration official announces additional actions taken by the United States in response to Russian government and intelligence services targeting American sovereignty, including formally naming the Russian Foreign Intelligence Service as the perpetrator of the SolarWinds cyber espionage campaign.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States has formally attributed the SolarWinds",
+      "points": [
+        {
+          "text": "The United States has formally attributed the SolarWinds cyber espionage campaign to the Russian Foreign Intelligence Service, known as the SVR, and President Biden has signed a new sanctions executive order to respond to and deter Russia's harmful foreign activities, including prohibiting U.S. financial institutions from participating in the primary market for certain Russian bonds.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The new executive order includes the designation of",
+      "points": [
+        {
+          "text": "The new executive order includes the designation of six Russian companies supporting cyber programs, additional authorities to impose consequences for harmful foreign activities, and sanctions on entities involved in attempts to influence the 2020 U.S. presidential election and delegitimize democratic electoral processes.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is imposing sanctions on individuals",
+      "points": [
+        {
+          "text": "The United States is imposing sanctions on individuals and entities associated with Russia's occupation and repression in Crimea, expelling Russian officials from their Washington, D.C., diplomatic mission, strengthening cybersecurity partnerships with allies, and expressing concern over reports of Russian intelligence officers encouraging Taliban attacks on U.S. and coalition personnel in Afghanistan.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes the importance of",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes the importance of protecting U.S. military personnel and expresses a desire for a stable and predictable relationship with Russia, proposing a summit meeting between President Biden and President Putin to discuss the full range of issues in their relationship.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials explain that the US",
+      "points": [
+        {
+          "text": "The senior administration officials explain that the US is imposing sanctions on Russia's sovereign debt market as a proportionate response to actions by President Putin that have targeted American sovereignty, with the intention of creating a negative feedback loop that raises Russia's borrowing costs and weakens its currency, while emphasizing the desire for a stable and predictable relationship with Russia.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US has officially attributed the SolarWinds hack",
+      "points": [
+        {
+          "text": "The US has officially attributed the SolarWinds hack to the Russian Foreign Intelligence Service (SVR) and will impose consequences on the perpetrators, while also emphasizing the importance of a secure and reliable Internet.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US government is attributing the SolarWinds hack",
+      "points": [
+        {
+          "text": "The US government is attributing the SolarWinds hack to the Russian Foreign Intelligence Service (SVR), designating six Russian technology companies for their support of the cyber program, warning about the risks of using technology supplied by companies with ties to Russia, and considering further action to protect the communications and technology supply chain.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is taking steps to strengthen",
+      "points": [
+        {
+          "text": "The United States is taking steps to strengthen cybersecurity and promote responsible state behavior in cyberspace, including providing training on attributing cyber incidents and planning a cyber exercise with allies.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials addressed questions regarding the",
+      "points": [
+        {
+          "text": "The senior administration officials addressed questions regarding the delay in the Treasury financial impacts, the selection process for expelling Russians, and clarified that the actions taken are in response to cyber intrusions and election interference, not specifically tied to the reports of bounties on killing Americans or coalition troops.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Russian intelligence officers were found to have encouraged",
+      "points": [
+        {
+          "text": "Russian intelligence officers were found to have encouraged Taliban attacks on U.S. and coalition personnel through financial incentives, leading to the expulsion of 10 Russian individuals for their inconsistent behavior.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials explain that the sovereign",
+      "points": [
+        {
+          "text": "The senior administration officials explain that the sovereign debt prohibitions on Russia will take effect on June 14th to allow financial institutions time to adjust and minimize spillovers to the US or global financial markets, with the intention of imposing costs on the Russian government while limiting their ability to fund themselves.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The officials explain that removing U S investors",
+      "points": [
+        {
+          "text": "The officials explain that removing U.S. investors from Russia's sovereign debt market triggers a negative feedback loop, leading to higher borrowing costs, capital flight, weakened currency, and potential impacts on Russia's growth and inflation rates.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The officials decline to speculate on potential changes",
+      "points": [
+        {
+          "text": "The officials decline to speculate on potential changes in the federal government's software procurement and emphasize that the responses to Russia are proportionate and measured, with no intention to escalate.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is closely monitoring Russia's response",
+      "points": [
+        {
+          "text": "The United States is closely monitoring Russia's response and aims to de-escalate the situation while also focusing on rapidly modernizing federal cybersecurity in light of the SolarWinds incident.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The upcoming executive order will establish standards for",
+      "points": [
+        {
+          "text": "The upcoming executive order will establish standards for software procurement by the U.S. government, aiming to improve cybersecurity and counter malicious cyber activity globally.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The unidentified person questions the justification for a",
+      "points": [
+        {
+          "text": "The unidentified person questions the justification for a strong response to the SolarWinds attack, comparing it to cyber espionage activities conducted by the U.S. and its allies.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official highlights the three core",
+      "points": [
+        {
+          "text": "The senior administration official highlights the three core reasons for the strong response to the SolarWinds attack, including the national security and public safety concern, the speed at which an actor can disrupt a network, and the burden placed on private-sector victims.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

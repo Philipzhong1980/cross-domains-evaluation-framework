@@ -1,0 +1,326 @@
+{
+  "meeting_context": "White House press briefing imported from 20230320_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MR. SUDEIKIS",
+    "MR. GOLDSTEIN",
+    "MS. WADDINGHAM",
+    "MR. LANCE",
+    "MR. KIRBY",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "Multiple people greet Ms Jean Pierre and express",
+      "points": [
+        {
+          "text": "Multiple people greet Ms. Jean-Pierre and express their presence, with one person specifically stating that they are there for her.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre dismisses someone named Karine and",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre dismisses someone named Karine and refuses to entertain their request, accusing them of discrimination.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre dismisses someone named Karine and",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre dismisses someone named Karine and refuses to entertain their request, while others accuse her of being rude and disrespecting the First Amendment.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Ms Jean Pierre addresses",
+      "points": [
+        {
+          "text": "During a press briefing, Ms. Jean-Pierre addresses disruptions and apologizes for the behavior while transitioning to discussing soccer or football.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Jason Sudeikis who plays",
+      "points": [
+        {
+          "text": "During a press briefing, Jason Sudeikis, who plays Coach Lasso on the show \"Ted Lasso,\" speaks at the White House about the importance of mental health and encourages people to check in with each other and ask for help when needed.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jason Sudeikis thanks the White House for having",
+      "points": [
+        {
+          "text": "Jason Sudeikis thanks the White House for having them and expresses gratitude before leaving, while also being asked if he would do a Biden impression.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jason Sudeikis declines to do a Joe Biden",
+      "points": [
+        {
+          "text": "Jason Sudeikis declines to do a Joe Biden impression, stating that they have the real one now and jokingly mentioning that he would need fake teeth and more confidence to pull it off, while expressing uncertainty about doing better than 20th.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a briefing someone addresses the issue of",
+      "points": [
+        {
+          "text": "During a briefing, someone addresses the issue of discrimination in the briefing room and expresses concern about certain individuals being targeted based on their questions.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the briefing someone accuses discrimination against them",
+      "points": [
+        {
+          "text": "During the briefing, someone accuses discrimination against them and others, but is interrupted and told they have a choice.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the briefing someone protests against perceived discrimination",
+      "points": [
+        {
+          "text": "During the briefing, someone protests against perceived discrimination, but is interrupted and reminded of the choice they have.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the briefing a person named Simon interrupts",
+      "points": [
+        {
+          "text": "During the briefing, a person named Simon interrupts and expresses frustration about being ignored and discriminated against while others in the press corps receive more attention.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the briefing a person named Simon expresses",
+      "points": [
+        {
+          "text": "During the briefing, a person named Simon expresses frustration about being ignored and discriminated against while others in the press corps receive more attention, but is interrupted and told to bring up the issue afterwards, prompting a reminder from Ms. Jean-Pierre about the need for decorum and respect in the White House Press Briefing Room.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the briefing Ms Jean Pierre expresses her",
+      "points": [
+        {
+          "text": "During the briefing, Ms. Jean-Pierre expresses her disapproval of disrespectful behavior and discrimination, offers to end the briefing, but decides to continue with the next guest, John Kirby, who discusses President Xi's visit to Moscow and emphasizes the importance of respecting guests and allowing questions from all reporters.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "John Kirby discusses the importance of ending the",
+      "points": [
+        {
+          "text": "John Kirby discusses the importance of ending the war in Ukraine by urging President Xi to advocate for the withdrawal of Russian forces from Ukrainian territory and to press President Putin on respecting Ukraine's sovereignty and territorial integrity, while also providing updates on the recent understandings reached between Israel and the Palestinian Authority.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript John Kirby",
+      "points": [
+        {
+          "text": "In this section of the transcript, John Kirby discusses the recent meetings aimed at deescalating tensions and reducing violence, President Biden's call with Prime Minister Netanyahu emphasizing the need for collaborative steps to enhance security coordination and maintain a two-state solution, the recovery of Jeff Woodke, an American citizen held hostage in Africa for over six years, and the 20th anniversary of Operation Iraqi Freedom with a commitment to supporting military personnel and their families.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson discusses the extension of the grain",
+      "points": [
+        {
+          "text": "The spokesperson discusses the extension of the grain deal with Russia, expresses gratitude for the shipments of corn to countries suffering from food insecurity, emphasizes the importance of keeping lines of communication open with China amid high tensions, and states that China providing lethal weapons to Russia would be inconsistent with their stated goals.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson discusses the importance of revitalizing alliances",
+      "points": [
+        {
+          "text": "The spokesperson discusses the importance of revitalizing alliances and partnerships to advance foreign policy goals and preserve national security interests, while addressing concerns about China's potential aid to Russia and the vandalism at the Indian consulate in San Francisco.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson cannot confirm reports of the U",
+      "points": [
+        {
+          "text": "The spokesperson cannot confirm reports of the U.S. providing intelligence to India to repel a Chinese incursion, does not have insights into China's potential aid to Russia, and states it is too soon to observe any changes in the Saudi Arabia-Iran relationship following the Chinese-brokered rapprochement.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes the importance of Ukraine being",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes the importance of Ukraine being involved in any negotiations and expresses concern that a ceasefire without Ukrainian involvement would freeze the current situation, which includes Russian-occupied territory in Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson is asked about the level of",
+      "points": [
+        {
+          "text": "The spokesperson is asked about the level of concern regarding China's increasing global influence.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes that the United States is",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes that the United States is focused on advancing its own foreign policy goals and maintaining alliances, rather than countering or obstructing China's increasing global influence.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson highlights the United States' unique power",
+      "points": [
+        {
+          "text": "The spokesperson highlights the United States' unique power of convening leadership and contrasts it with Russia and China's lack of a similar network of friends and partners.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript the spokesperson",
+      "points": [
+        {
+          "text": "In this section of the transcript, the spokesperson discusses President Biden's upcoming trip to Canada and highlights the strong and productive relationship between President Biden and Prime Minister Trudeau.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to comment on ongoing investigations",
+      "points": [
+        {
+          "text": "The spokesperson declines to comment on ongoing investigations and emphasizes the President's focus on the American people's priorities and willingness to work with Republicans in a bipartisan manner.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to comment on concerns about",
+      "points": [
+        {
+          "text": "The spokesperson declines to comment on concerns about potential violence and any conversations with Warren Buffett regarding the banking crisis.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson discusses the President's actions to strengthen",
+      "points": [
+        {
+          "text": "The spokesperson discusses the President's actions to strengthen the banking system, hold bank managers accountable, and ensure that taxpayers' money is not at risk, emphasizing the administration's commitment to public confidence in the banking system.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes the importance of holding senior",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes the importance of holding senior bank executives accountable, taking necessary actions to ensure public confidence in the banking system, and urging Congress to continue taking further measures.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes that while the administration can",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes that while the administration can take action without Congress, regulators will continue to reverse deregulation and Congress needs to do its part, and also expresses confidence in Jerome Powell's stewardship of events.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to provide information on various",
+      "points": [
+        {
+          "text": "The spokesperson declines to provide information on various reports and questions, including preparations for protests, the Cuban baseball defector, the Economic Report of the President, and state leaders campaigning for abortion access amendments.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript the spokesperson",
+      "points": [
+        {
+          "text": "In this section of the transcript, the spokesperson reaffirms the President's commitment to protecting women's rights to healthcare and supporting legislation that expands abortion access, while also addressing concerns about the Texas case on mifepristone and highlighting the President's actions and investments in environmental conservation.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson states that they cannot speak to",
+      "points": [
+        {
+          "text": "The spokesperson states that they cannot speak to the actions or statements of the former President during his rally in Waco, Texas and mentions that they are not tracking any security concerns related to the event.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

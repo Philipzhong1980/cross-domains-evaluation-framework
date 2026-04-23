@@ -1,0 +1,330 @@
+{
+  "meeting_context": "White House press briefing imported from 20210521_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "ACTING ADMINISTRATOR SLAVITT",
+    "DR. WALENSKY",
+    "DR. FAUCI",
+    "DR. MURTHY",
+    "MODERATOR",
+    "Victoria Knight",
+    "Steve Portnoy",
+    "Peter Sullivan",
+    "Jeremy Diamond",
+    "Maureen Groppe",
+    "Tommy Christopher",
+    "Meg Tirrell"
+  ],
+  "topics": [
+    {
+      "topic": "Scores of businesses and organizations are volunteering their",
+      "points": [
+        {
+          "text": "Scores of businesses and organizations are volunteering their services to assist with the vaccination efforts and help the American people get vaccinated.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dating apps like Bumble Tinder Hinge Match OkCupid",
+      "points": [
+        {
+          "text": "Dating apps like Bumble, Tinder, Hinge, Match, OkCupid, BLK, Chispa, Plenty of Fish, and Badoo are introducing features to encourage vaccinations and help people meet others who have been vaccinated against COVID-19.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Acting Administrator highlights the success of the",
+      "points": [
+        {
+          "text": "The Acting Administrator highlights the success of the vaccination efforts with over 125 million Americans fully vaccinated, emphasizes the importance of continuing vaccinations to further reduce cases and future waves, and announces new incentives such as free rides to vaccination sites and benefits to social life.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The CDC reported a decrease in new COVID",
+      "points": [
+        {
+          "text": "The CDC reported a decrease in new COVID-19 cases, hospital admissions, and daily deaths, with the seven-day average of cases per day being the lowest since June 18th, 2020.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The CDC reports significant decreases in COVID 19",
+      "points": [
+        {
+          "text": "The CDC reports significant decreases in COVID-19 cases at the county level, with a 20 percent decrease in the seven-day average of cases across the country and an increasing number of counties moving to low or moderate transmission categories.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The CDC uses data on cases and county",
+      "points": [
+        {
+          "text": "The CDC uses data on cases and county transmission to identify areas of concern for outbreaks and to understand the local burden of infection.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky highlights the decreasing burden of disease",
+      "points": [
+        {
+          "text": "Dr. Walensky highlights the decreasing burden of disease in areas with high or moderate transmission, attributing it to increasing vaccination rates and encourages those who are not yet vaccinated to get their shots.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci emphasizes the real world effectiveness of",
+      "points": [
+        {
+          "text": "Dr. Fauci emphasizes the real-world effectiveness of the COVID-19 vaccine, citing data from a CDC study showing a 94 percent effectiveness against symptomatic disease among healthcare personnel.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci highlights a recent study from the",
+      "points": [
+        {
+          "text": "Dr. Fauci highlights a recent study from the New England Journal of Medicine that shows the incidence of SARS-CoV-2 infection in nursing home residents, comparing those who are vaccinated and unvaccinated.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci presents data from a study showing",
+      "points": [
+        {
+          "text": "Dr. Fauci presents data from a study showing that among vaccinated nursing home residents, there was a low infection rate of 1 percent within 0 to 14 days of the second dose and a significantly lower rate of 0.3 percent after 14 days, with 80 percent of cases being asymptomatic.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci presents data showing that the J",
+      "points": [
+        {
+          "text": "Dr. Fauci presents data showing that the J&J vaccine has a 93 percent efficacy in preventing hospitalizations 14 days after vaccination, and a 100 percent efficacy after at least 28 days.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci presents data showing that the J",
+      "points": [
+        {
+          "text": "Dr. Fauci presents data showing that the J&J vaccine has a high efficacy in preventing hospitalizations and deaths, emphasizing the importance of getting vaccinated to protect oneself and others.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Murthy highlights the importance of addressing access",
+      "points": [
+        {
+          "text": "Dr. Murthy highlights the importance of addressing access barriers to vaccination, such as lack of time, information, and eligibility awareness, as well as the potential role of employers in increasing vaccination rates and closing the equity gap.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Murthy emphasizes the importance of addressing access",
+      "points": [
+        {
+          "text": "Dr. Murthy emphasizes the importance of addressing access barriers to vaccination, such as concerns about missing work, and highlights the role of businesses and community organizations in increasing vaccination rates and spreading awareness.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Victoria Knight from Kaiser asks Dr Walensky if",
+      "points": [
+        {
+          "text": "Victoria Knight from Kaiser asks Dr. Walensky if the CDC will update their dashboard daily with state-by-state race and ethnicity data and what they plan to do about the high percentage of missing data on race and ethnicity.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky acknowledges that the CDC updates their",
+      "points": [
+        {
+          "text": "Dr. Walensky acknowledges that the CDC updates their website weekly with state-by-state race and ethnicity data, and they are actively working with states to improve access and accuracy of this data.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci and Dr Walensky acknowledge that it",
+      "points": [
+        {
+          "text": "Dr. Fauci and Dr. Walensky acknowledge that it is understandable for people to still have fears and be hesitant to adjust to the new guidelines, even if they have been fully vaccinated, as they have been following certain behaviors for a long time and it will take time for everyone to get used to the idea of not wearing masks.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci and Dr Walensky understand that people",
+      "points": [
+        {
+          "text": "Dr. Fauci and Dr. Walensky understand that people may still be hesitant to adjust to the new guidelines and not wear masks, even if they have been fully vaccinated, as it will take time for everyone to get used to this change after following certain behaviors for a long time.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The vaccine lottery incentive programs implemented by some",
+      "points": [
+        {
+          "text": "The vaccine lottery incentive programs implemented by some states have been effective in increasing vaccination rates among individuals who are not opposed to getting vaccinated but have not prioritized it due to other factors in their lives.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The lotteries implemented by some states to incentivize",
+      "points": [
+        {
+          "text": "The lotteries implemented by some states to incentivize vaccination have been successful in increasing vaccination rates, according to Acting Administrator Slavitt.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jeremy Diamond asks about how the declining deaths",
+      "points": [
+        {
+          "text": "Jeremy Diamond asks about how the declining deaths and cases will affect people's decision to get vaccinated and for an update on the doses planned to be sent abroad.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Murthy emphasizes that although there have been",
+      "points": [
+        {
+          "text": "Dr. Murthy emphasizes that although there have been improvements in COVID-19 cases, hospitalizations, and deaths due to vaccination, it is crucial for more people to get fully vaccinated in order to sustain the decline and avoid future infections.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Murthy emphasizes the importance of continuing vaccinations",
+      "points": [
+        {
+          "text": "Dr. Murthy emphasizes the importance of continuing vaccinations and not letting our guard down, while Acting Administrator Slavitt discusses the commitment to send 80 million doses of vaccines overseas and the status of FDA approval for AstraZeneca doses.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Acting Administrator Slavitt emphasizes that decisions regarding vaccines",
+      "points": [
+        {
+          "text": "Acting Administrator Slavitt emphasizes that decisions regarding vaccines are based solely on science, public health, and equity.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Acting Administrator Slavitt discusses the White House's involvement",
+      "points": [
+        {
+          "text": "Acting Administrator Slavitt discusses the White House's involvement in dating app initiatives as a way to address people's desire to return to normal life safely and combat loneliness.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Tommy Christopher raises concerns about the backlash and",
+      "points": [
+        {
+          "text": "Tommy Christopher raises concerns about the backlash and aggression faced by restaurant workers enforcing mask mandates in states that have not dropped them.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Tommy Christopher raises concerns about the aggression faced",
+      "points": [
+        {
+          "text": "Tommy Christopher raises concerns about the aggression faced by restaurant workers enforcing mask mandates, including a friend who was threatened with being fired for asking a customer to wear a mask.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Meg Tirrell asks what Dr Murthy would like",
+      "points": [
+        {
+          "text": "Meg Tirrell asks what Dr. Murthy would like to see in terms of employers offering on-site vaccination clinics and what barriers exist for employers to be able to do so.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Acting Administrator Slavitt discusses how employers are creating",
+      "points": [
+        {
+          "text": "Acting Administrator Slavitt discusses how employers are creating on-site and near-site vaccination clinics through partnerships with pharmacies and states, and the government is helping to match up employers with service providers.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Employers are encouraged to create on site and",
+      "points": [
+        {
+          "text": "Employers are encouraged to create on-site and near-site vaccination clinics to improve vaccine access, build confidence, and motivate employees to get vaccinated, with the government providing support and resources through programs like the COVID-19 Community Corps.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci discusses the concern for immunosuppressed individuals",
+      "points": [
+        {
+          "text": "Dr. Fauci discusses the concern for immunosuppressed individuals and the ongoing study on the best approach to provide additional protection or therapy through methods such as boosters, monoclonal antibodies, and direct-acting antiviral agents.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

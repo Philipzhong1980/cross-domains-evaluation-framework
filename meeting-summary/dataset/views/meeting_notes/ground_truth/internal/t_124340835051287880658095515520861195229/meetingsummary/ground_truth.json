@@ -1,0 +1,111 @@
+{
+  "meeting_context": "Regular Rental Housing Committee meeting held on January 9, 2023 by video conference. The committee completed roll call, approved a consent calendar item authorizing continued virtual meetings under AB 361, received no public comments, heard Chair Haines-Livesay announce that the end-of-January meeting would be her last because she would no longer meet the residency requirement in February, and discussed a possible scheduling conflict for the next meeting.",
+  "participants": [
+    "Haines-Livesay",
+    "Andrea Kennedy",
+    "Rosas",
+    "Almond",
+    "Ramos",
+    "Anky van Deursen"
+  ],
+  "topics": [
+    {
+      "topic": "Roll Call and Attendance Status",
+      "points": [
+        {
+          "text": "Andrea Kennedy conducted roll call. Grunwald and Pardo Dazella were absent, while Rosas, Almond, Ramos, and Chair Haines-Livesay were present.",
+          "source": "Andrea Kennedy: We will begin with a committee member Grunwald, who is absent. Andrea Kennedy: Next we will call on committee member Pardo Dazella, who is also absent. Andrea Kennedy: Now we have committee member Rosas. Andrea Kennedy: Committee member Almond. Andrea Kennedy: Vice Chair Ramos. Andrea Kennedy: And Chair Haynes, thank you.",
+          "speaker": "Andrea Kennedy",
+          "id": "t_001_p_001"
+        },
+        {
+          "text": "Haines-Livesay called the meeting to order at 7:02 PM and noted that all committee members would participate by video conference, with public viewing available through Legistar, YouTube, and Comcast Channel 26.",
+          "source": "Haines-Livesay: All members of the Rental Housing Committee will participate in the meeting by video conference with no physical meeting location. Haines-Livesay: Members of the public wishing to observe the meeting live may do so at mountainview.legistar.com, on YouTube, at mountainview.gov/youtube, and on Comcast Channel 26. Haines-Livesay: The meeting is called to order at 7 O 2:00 PM.",
+          "speaker": "Haines-Livesay",
+          "id": "t_001_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Consent Calendar Approval",
+      "points": [
+        {
+          "text": "No committee member pulled the consent calendar item for discussion, and no public comments were received on the item.",
+          "source": "Haines-Livesay: Would any member of the committee like to pull an item OK? Haines-Livesay: I'm not seeing any hands now. Haines-Livesay: Would any member of the public on the line like to provide comment on this item? Haines-Livesay: OK, not seeing any public comment?",
+          "speaker": "Haines-Livesay",
+          "id": "t_002_p_001"
+        },
+        {
+          "text": "The committee unanimously approved the consent calendar item adopting a resolution to continue virtual meetings pursuant to Brown Act provisions as amended by AB 361.",
+          "source": "Almond: I'll make a motion to adopt A resolution to continue virtual meetings pursuant to Brown Act provisions as amended by AB 361. Ramos: I'll second it. Andrea Kennedy: Motion passes unanimously.",
+          "speaker": "Andrea Kennedy",
+          "id": "t_002_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Oral Communications and Chair Announcement",
+      "points": [
+        {
+          "text": "No public comments were received during oral communications on non-agenda items.",
+          "source": "Haines-Livesay: Would any member of the public on the line like to provide comment on non agenda items? Haines-Livesay: I'm not seeing any public comment now.",
+          "speaker": "Haines-Livesay",
+          "id": "t_003_p_001"
+        },
+        {
+          "text": "Chair Haines-Livesay announced that the end-of-January meeting would be her last because she would no longer meet the residency requirement in February.",
+          "source": "Haines-Livesay: I just wanted to let the committee and the public know that regretfully, next meeting, the meeting at the end of January will be my last meeting because I will have to step down and February I won't meet the residency test.",
+          "speaker": "Haines-Livesay",
+          "id": "t_003_p_002"
+        },
+        {
+          "text": "Committee members responded with appreciation and regret at Haines-Livesay's departure, including comments from Rosas, Anky van Deursen, Almond, and Ramos.",
+          "source": "Rosas: We'll miss you. Anky van Deursen: Wonderful to have you as a chair. Almond: I enjoyed serving with you when I was chair and you were vice chair. Ramos: I don't want you to leave.",
+          "speaker": "Committee Members",
+          "id": "t_003_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "January Meeting Scheduling Conflict",
+      "points": [
+        {
+          "text": "In response to a question about the next meeting date, Anky van Deursen said she would poll committee members because City Council had scheduled an extra meeting on January 30, creating a possible conflict with the Rental Housing Committee meeting.",
+          "source": "Almond: Do we have a new meeting date for end of January? Anky van Deursen: I will pull all the Rental Housing Committee members separately to see if the date needs to be changed. Anky van Deursen: It seems like the City Council just planned an extra meeting for January 30, which is the same date as we have a Rental Housing Committee meeting.",
+          "speaker": "Anky van Deursen",
+          "id": "t_004_p_001"
+        },
+        {
+          "text": "Haines-Livesay said the next Rental Housing Committee meeting was tentatively set for Monday, January 30 at 7:00 PM, but that the date remained to be determined.",
+          "source": "Haines-Livesay: This Rental housing committee meeting is scheduled to be held maybe on Monday, January 30th at 7:00 PM or maybe a different day. Haines-Livesay: TBA on that.",
+          "speaker": "Haines-Livesay",
+          "id": "t_004_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Meeting Adjournment",
+      "points": [
+        {
+          "text": "The meeting adjourned at 7:08 PM.",
+          "source": "Haines-Livesay: The meeting is adjourned at 7 O 8:00 PM.",
+          "speaker": "Haines-Livesay",
+          "id": "t_005_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "text": "The committee unanimously adopted a resolution to continue virtual meetings pursuant to Brown Act provisions as amended by AB 361.",
+      "source": "Almond: I'll make a motion to adopt A resolution to continue virtual meetings pursuant to Brown Act provisions as amended by AB 361. Ramos: I'll second it. Andrea Kennedy: Motion passes unanimously.",
+      "assignee": "Rental Housing Committee",
+      "id": "d_001"
+    }
+  ],
+  "metadata": {
+    "topicCount": 5,
+    "pointCount": 10,
+    "decisionCount": 1
+  }
+}

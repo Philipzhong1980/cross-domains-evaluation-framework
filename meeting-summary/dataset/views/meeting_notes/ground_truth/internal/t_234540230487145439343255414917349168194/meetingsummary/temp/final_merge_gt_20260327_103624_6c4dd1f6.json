@@ -1,0 +1,426 @@
+{
+  "result": {
+    "additionalProperties": false,
+    "merged_gt": {
+      "meeting_context": "City of Mountain View Visual Arts Committee met to approve minutes, review upcoming agenda topics, hear CIP public art project updates, discuss the draft public art strategy, decide on the 2023 CPA Call for Artists approach, authorize virtual meetings, and adopt the 2023 meeting schedule. Extensive discussion covered Castro Street pedestrian mall arts integration and artist support ideas.",
+      "participants": [
+        "John Lang",
+        "Jesse Cupp",
+        "Clifford Bryant",
+        "Regina Skalos",
+        "Toot Too Thomson",
+        "Don Whitebread",
+        "Toni Hsu",
+        "Susie Merrar"
+      ],
+      "topics": [
+        {
+          "topic": "Meeting administration and roll call",
+          "topic_merge_note": "normalized_from: ['Meeting administration and roll call', 'Meeting Administration']",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Susie Merrar notified staff in advance that she would be traveling and was recorded as an excused absence for this meeting.",
+              "source": "John Lang : Susie did contact me in advance of the meeting. Let me know she is out travelling. This will be an excused absence.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Jesse Cupp",
+              "text": "Minutes from the September 14, 2022 meeting were approved by roll-call vote without noted corrections or additions.",
+              "source": "Jesse Cupp : All right, motion passes.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "No members of the public attended the meeting to offer comments during the public communications item, so the committee moved on without public input.",
+              "source": "John Lang : At the present time we do not have any members of the public joining, so we can move on.",
+              "original_priority": "p3",
+              "dedup_note": "from_p3_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Future agenda items and K5 policy refinement",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Staff will return in November with more work on the public art strategy, including continuing discussion tonight, and plans to invite Bruce England next meeting to discuss art placement and landscaping integrations. The committee will also continue exploring placemaking opportunities tied to pedestrian and capital programs.",
+              "source": "John Lang : I do plan to bring back Bruce next meeting to talk about art placement landscaping integrations … we'll bring that back further November. … continuing to explore placemaking opportunities regarding the pedestrian … capital improvement programs.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Jesse Cupp",
+              "text": "Jesse Cupp proposed updating the K5 policy by working backward from real CIP projects to ensure desired projects (e.g., bike infrastructure, McKelvey Ballpark) clearly qualify for public art, adjusting specific language where past interpretations excluded projects the committee believes should qualify.",
+              "source": "Jesse Cupp : I think we need to go back at some point and update the K5 … work backwards from real CIP projects … what language do we need to include to make sure that it's public art … McKelvey Ballpark … didn't qualify.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Castro Street pedestrian mall updates",
+          "topic_merge_note": "normalized_from: ['Castro Street pedestrian mall updates', 'Castro Street pedestrian mall and arts activation', 'Castro Street Pedestrianization']",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "City Council approved resolutions to permanently close Castro Street, with final ordinance adoption slated for October 25, and established an interim CIP budget for ADA and other improvements. An ad hoc subcommittee (Hicks, Lieber, Madachek) will develop design guidelines, including wayfinding and art, with a meeting anticipated in November.",
+              "source": "John Lang : City Council did approve resolutions to permanently close Castro Street … adopting the ordinance … October 25 … developed a CIP budget … An ad hoc committee … looking at design standards … wayfinding, incorporation of art … meeting is anticipated to be in November.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Staff will notify the committee once the pedestrian mall ad hoc meeting is scheduled (anticipated November), share notes from the first meeting and GAIL's report, and add a November VAC agenda item to develop official recommendations that the chair can present to the subcommittee.",
+              "source": "John Lang : I would also be happy to share after this meeting what was talked about at the first meeting … the second meeting focus … Gail's report … I can certainly work to get that agenda … for that conversation to have.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Clifford Bryant",
+              "text": "Committee members encouraged leveraging pedestrianization to inject public art into the downtown experience, including storefront activations, pop-ups during holidays, kid-friendly installations, and collaborating with the Downtown Committee, Chamber, and BIA to revitalize vacant storefronts and promote arts programming and visibility on Castro Street.",
+              "source": "Clifford Bryant : I see that as a tremendous opportunity for us to introduce art into the public mindset... with the interest of the Downtown Committee and revitalizing Castro... Either be on display, be galleries, be studios, be it participation from for kids",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "CIP public art projects status updates",
+          "topic_merge_note": "normalized_from: ['CIP public art projects status updates', 'Park Updates']",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Rengstorff Park Aquatic Center is approximately 25% complete and on track to open in late fall 2023. The project's artist is coordinating with the design team, and work is progressing smoothly.",
+              "source": "John Lang : On Rangstorf Park Aquatic Center, the project is approximately 25% complete and is on track actually to open late fall 2023 … the artist has been coordinating with the design team.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Fayette Park's construction has commenced. No additional significant updates were provided at this time beyond the start of construction.",
+              "source": "John Lang : The Fayette Park construction just started on the project. At this point, there's no significant update other than the project is now under construction.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Rengstorff Park maintenance and tennis buildings design is wrapping up with a bid expected before year-end. Artist contracting is delayed due to insurance requirements; staff intends to return to VAC with the proposed mural concept after contracts are resolved.",
+              "source": "John Lang : Rangsdorf park maintenance and tennis buildings … expect that bid to go out before end of this year … working through some insurance impediments … intent is … to come back to kind of understand what the vision of that mural would look like.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Pyramid Park is complete and was dedicated in September. Committee feedback highlighted art visibility and integration concerns, suggesting mid-project artist check-ins, considering artist selection later, and site visits. Staff will engage Public Works and explore field trips to improve siting and coordination.",
+              "source": "John Lang : I'm hearing there's a great opportunity to... have a better understanding of the process... maybe it's worth doing a field trip... I'm going to flag that as a follow up on that item.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Public art strategy framework and timeline",
+          "topic_merge_note": "normalized_from: ['Public art strategy framework and timeline', 'Public Art Strategy']",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Staff presented a public art strategy framework: vision to create diverse public art enriching Mountain View's innovative, creative culture and vibrancy, supporting local artists, and transforming Mountain View into an arts hub; goals identified earlier include building community, placemaking, reflecting heritage, and economic development.",
+              "source": "John Lang : This was the vision statement … the creation of … diverse public art … enhances the vibrancy of our community, supports local artists … Public art goals … building community, Placemaking, reflecting heritage and economic development.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "The committee aligned on a five-year strategy horizon with measurable goals and a formal review at five years to assess progress and potentially extend or evolve the plan, accompanied by a staged work plan prioritizing near-term and longer-term initiatives.",
+              "source": "John Lang : My inclination is five years … after five years, there should be a review … what does success look like … then we can put the measures to it and kind of build a work plan around that.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Proposed strategies and initiatives include refining policies (e.g., fee for private art, donations, maintenance, K5 alignment), encouraging art appreciation and placekeeping, artistic wayfinding, establishing a public art fund and pursuing grants, improving jury process and outreach, and creating a comprehensive, publicly accessible art inventory (e.g., app, map, or book).",
+              "source": "John Lang : These are the strategies... develop a fee for private art... refine K5... incorporate art... to improve wayfinding... develop a public art fund... be more proactive about securing art grants... improve the jury process... develop comprehensive, public and publicly accessible art inventory.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Committee guidance emphasized integrating diversity as a lens across goals and updating the vision language to reflect Mountain View's diversity explicitly, and broadening partnerships language to include schools and other organizations that align with arts for exhibitions and collaboration.",
+              "source": "John Lang : We can definitely change that... creation of public art enriches Mountain View's diverse, innovative and creative culture... maybe softening that language... exploring those kinds of partnerships... instead of being so specific about art organizations.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Toni Hsu",
+              "text": "Toni Hsu emphasized strategy timeframe should be five years with specific measurable goals and review process, as longer timeframes change language and goal specificity",
+              "source": "Toni Hsu : Are we, are we thinking this is a five year strategy or 10 year strategy because for me that depending on that timeline it changes to your point, it changes kind of the goals and like the language, right. Because for example for five years I would want to see I think some of those initiatives be a little more specific and pointed since we our goal is five years",
+              "original_priority": "p3",
+              "dedup_note": "partial_overlap_complementary"
+            }
+          ]
+        },
+        {
+          "topic": "CPA Call for Artists 2023 approach",
+          "topic_merge_note": "normalized_from: ['CPA Call for Artists 2023 approach', 'CPA Call for Artists']",
+          "points": [
+            {
+              "speaker": "Toni Hsu",
+              "text": "The committee agreed to issue an open-theme 2023 Center for Performing Arts Call for Artists to maximize participation and focus on quality, noting past narrow themes depressed submissions. The open call will favor larger two-dimensional works suitable for the venue's walls.",
+              "source": "Toni Hsu : I prefer not to have a theme … it's going to make it a lot easier for people to submit their work … just attract as many artists as we can … make it easy for them.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Operational plan: publish the call in late October on CaFE, target November selection and agreements by January 1, selecting at least six artists (ideally eight plus alternates) for 6–8 week exhibits; mirror prior Bay Area geographic scope and include a note about the public art strategy in the announcement.",
+              "source": "John Lang : I do look to issue a call here in the month of late October … be done in November with some artist agreements in place beginning of January 1 … ideally we need at least 6 but it's better to have two alternates … publish it … on cafe.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Jesse Cupp",
+              "text": "Jesse Cupp noted environmental theme had highest participation rate while disability theme had low participation with most artists not submitting theme-related work",
+              "source": "Jesse Cupp : In my opinion, I think the environmental team won probably had the most highest rate of participation from the artists home and the global community one. Those were pretty good and the disability one really good intentions, but I think it kind of bombed to be honest because most artists just didn't submit work related to the theme.",
+              "original_priority": "p3",
+              "dedup_note": "from_p3_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Artist support and community activation proposals",
+          "topic_merge_note": "normalized_from: ['Artist support and community activation proposals', 'Artist support and exhibition opportunities']",
+          "points": [
+            {
+              "speaker": "Toni Hsu",
+              "text": "Members proposed boosting local artist exposure and sales through microgrants, temporary exhibits, art walks, leveraging city events (e.g., Art & Wine, Taste of Mountain View), and encouraging retail/gallery displays and directories, while recognizing the city's role is to advocate, partner with Chamber/BIA, and avoid over-formalizing private exhibition arrangements.",
+              "source": "Toni Hsu : ... the city can help... create A pathway for those artists... a directory of stores... but I don't think it's like a program for the city to run... the city can help with some... marketing... pathway for those artists.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Don Whitebread",
+              "text": "Mountain View needs more venues for local artists to show work, as many have space and materials but lack exhibition opportunities, with most commissioned artists coming from outside Mountain View",
+              "source": "Don Whitebread : I think if we really want to encourage the grander artistic future of Mountain View, I don't know what it looks like, but it would be nice if we provided more venues for the people that are creating art along with, you know, putting up big art. You know the the art that we're commissioning is from people at the the top of the art pyramid. The real professionals, and that's most of them, aren't from Mountain View.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Regina Sakols",
+              "text": "City needs affordable studio spaces for artists, noting other cities like Palo Alto, Belmont, Redwood City, and San Carlos have established studio space programs",
+              "source": "Regina Sakols : Well, I think I agree with that and but I also think that we need studio spaces that are, you know, affordable.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Toni Hsu",
+              "text": "Committee should think beyond traditional gallery spaces and explore innovative exhibition methods including internet-based or temporary outdoor installations to serve more artists",
+              "source": "Toni Hsu : What if we think differently and maybe there is a way or mechanism where we can't, where 1000 artists can show their art, right? Like, again, I'm making this up, but maybe it's somehow through the Internet.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Pyramid Park project feedback",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Clifford Bryant",
+              "text": "Pyramid Park exceeded expectations in size with beautifully designed children's playground featuring metal canopy casting shaded light",
+              "source": "Clifford Bryant : One, the park is immense. I was really surprised because we've seen these little things, little bitty things like Amora Park etcetera kind of been shoehorned in while the the Pyramid Park is is just I I was blown away with how the size of it and also the beauty of the children's playground I thought was beautifully done with the canopy, the metal canopy casting kind of a shaded light on on the ground, just beautifully done.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Clifford Bryant",
+              "text": "Mobile sculpture was less colorful than expected and got lost visually due to shininess blending with basketball court poles in bright light",
+              "source": "Clifford Bryant : I was a little bit disappointed with the public art, specifically the the mobile I for some reason I thought it was going to be more colourful than it turned out to be and that may have just been stuck in my mind and maybe miss misrepresenting it or miss not remembering correctly. But when I saw it and then saw where it was placed with the basketball courts, suddenly the the shininess of the basketball poles and the shininess of the sculpture caused it all kind of to me, the sculpture to get lost.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Jesse Cupp",
+              "text": "Bee and butterfly sculpture placement resulted in bees being visible only from 5 feet of park due to positioning at edge near row houses, limiting visibility",
+              "source": "Jesse Cupp : The way it was positioned, the bees are visible for like 5 feet of the park. You have to stand behind the sculpture. It's like right at the edge of the park. So it's basically just visible to people who live in those houses back there.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Clifford Bryant",
+              "text": "Committee proposes moving artist selection process from beginning to after park construction completion to better understand physical environment and improve art placement decisions",
+              "source": "Clifford Bryant : So my thought was what would should we think about moving the process not at the beginning, but at the end. Once the park is defined, we kind of know what it's going to be like. We know what the beautiful play equipment is going to be like. It's been selected and that we now then and introduce into that environment pieces that would complement it.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Virtual meetings authorization (AB 361)",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Jesse Cupp",
+              "text": "To preserve flexibility if Council returns to in-person meetings, the committee approved a resolution authorizing continued virtual meetings pursuant to AB 361 for November, following discussion of current Council virtual status through November 1.",
+              "source": "Jesse Cupp : … move to adopt A resolution … authorizing virtual meetings pursuant to AB361 … to keep our options open and continue to meet virtually even if council decides differently.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "2023 VAC meeting schedule adoption",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Jesse Cupp",
+              "text": "The committee adopted its 2023 schedule: second Wednesdays at 6:00 PM on Feb 8, Mar 8, Apr 12, May 10, Jun 14, Sep 13, Oct 11, Nov 8, and Dec 13, with no meetings planned for January, July, or August.",
+              "source": "Jesse Cupp : … proposed schedule. Second Wednesday of the following months, 6:00 PM … February 8th … March 8th … April 12th … May 10th … June 14th … September 13th … October 11th … November 8th December 13th. No meetings … January, July or August.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting closure and appreciation",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "John Lang thanked the committee for their ongoing work and the constructive discussion on the public art strategy, and confirmed he will follow up regarding the pedestrian mall and the Council ad hoc subcommittee information.",
+              "source": "John Lang : … expressed my appreciation and thanks … really appreciate the feedback this evening … I'll certainly follow up with all of you on that … the ad hoc committee … discussion.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "VAC",
+          "text": "Adopted resolution authorizing virtual meetings pursuant to AB 361 for November.",
+          "source": "Jesse Cupp : … move to adopt A resolution … authorizing virtual meetings pursuant to AB361 …",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "VAC",
+          "text": "Adopted 2023 meeting schedule (second Wednesdays at 6:00 PM on Feb 8, Mar 8, Apr 12, May 10, Jun 14, Sep 13, Oct 11, Nov 8, Dec 13; no meetings in Jan, Jul, Aug).",
+          "source": "Jesse Cupp : … proposed schedule … Second Wednesday … February 8th … December 13th. No meetings … January, July or August.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Invite Bruce England to the November meeting to discuss art placement and landscaping integrations.",
+          "source": "John Lang : I do plan to bring back Bruce next meeting to talk about … placement landscaping integrations … bring that back further November.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Issue an open-theme 2023 CPA Call for Artists in late October, select in November, finalize agreements by January 1, using prior Bay Area scope and referencing the public art strategy.",
+          "source": "John Lang : … issue a call … late October … be done in November with some artist agreements in place beginning of January 1 … publish it … on cafe.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Notify VAC of the pedestrian mall ad hoc subcommittee's next (anticipated November) meeting and share prior meeting notes and GAIL's report.",
+          "source": "John Lang : ... happy to share after this meeting what was talked about at the first meeting... the second meeting was intended to focus on... Gail's... report... anticipated to be in November.",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Add a November VAC agenda item to develop official recommendations for the pedestrian mall design guidelines and coordinate VAC representation.",
+          "source": "John Lang : Yes, I can certainly work to get that agenda... for that conversation to have...",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Invite Public Works staff to future VAC meetings and explore site visits to improve art siting and coordination.",
+          "source": "John Lang : ... worth doing a field trip... I think it's certainly worth... to get our public work teammates back coming to these meetings on a regular basis... engage in the conversation.",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Return with the Rengstorff Park maintenance/tennis buildings mural concept after resolving artist contract insurance requirements.",
+          "source": "John Lang : ... we need to resolve some insurance requirements... intent is... to come back to... understand what the vision of that mural would look like...",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "Committee",
+          "text": "Committee will develop series of recommendations at next meeting to present to Castro Street ad hoc committee representing VAC's official position",
+          "source": "Clifford Bryant : The way so would it then be good for us at our next meeting to come up with a series of recommendations that we would vote on to present to that group? So it kind of gives off official should we say official stamp from us and then have Jesse kind of follow up when they meet to kind of represent, you know to have a face there to to to to to represent us with that",
+          "original_priority": "p3",
+          "dedup_note": "from_p3_unique"
+        }
+      ]
+    },
+    "merge_statistics": {
+      "total_p1_items": 18,
+      "total_p2_items": 15,
+      "total_p3_items": 8,
+      "final_items": 35,
+      "duplicates_removed": 6,
+      "deduplication_details": {
+        "p2_skipped": [
+          {
+            "item_type": "decision",
+            "text": "Approved September 14, 2022 meeting minutes by roll-call vote.",
+            "source": "Jesse Cupp : All right, motion passes.",
+            "assignee": "VAC",
+            "reason": "duplicate_with_p1: same_source_exact_match (identical decision text and source)"
+          }
+        ],
+        "p3_skipped": [
+          {
+            "speaker": "Jesse Cupp",
+            "text": "September 14, 2022 meeting minutes were approved by roll-call vote without noted corrections or additions, concluding the Item 3 minutes approval segment.",
+            "source": "Jesse Cupp : All right, motion passes.",
+            "reason": "duplicate_with_p1: same_source_paraphrase (same meeting minutes approval with identical source)"
+          },
+          {
+            "speaker": "Clifford Bryant",
+            "text": "Clifford Bryant noted Castro Street pedestrianization presents tremendous opportunity to introduce public art and inject concept into public mindset with available funding and Downtown Committee interest",
+            "source": "Clifford Bryant : I see that as a tremendous opportunity for us to introduce art into the public mindset, both with the money that's going to be available in that area with plus the interest of the Downtown Committee and revitalizing Castro.",
+            "reason": "duplicate_with_p2: same_speaker_same_topic_core_content (Castro Street art opportunity with Downtown Committee)"
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Pyramid Park had dedication ceremony in September which committee members attended",
+            "source": "John Lang : And then Pyramid Park did have its dedication in September, which I know a few members were able to attend.",
+            "reason": "duplicate_with_p2: same_topic_entity_match (Pyramid Park September dedication covered in P2 detailed feedback)"
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Three strategic approaches identified: develop/augment/refine city policies, create more public art opportunities through partnerships, pursue new collaborations with artists and arts organizations",
+            "source": "John Lang : So one strategy that is going to be deployed is to develop or augment or even refine city policies. So what do I mean by this? Develop a fee for private art. That's a new policy. So develop a new policy. Augment some existing policy, maybe the city's donation policy. Be more reflective of arts, or refine the K5 policy, which was noted earlier.",
+            "reason": "duplicate_with_p2: same_speaker_same_topic_core_content (policy strategies covered in P2 detailed initiatives)"
+          },
+          {
+            "speaker": "John Lang",
+            "text": "John Lang explained annual CPA artist call returns after COVID hiatus, seeking 6-8 artists for year-long exhibitions with 6-8 week individual displays, requiring resume and 10 art piece examples",
+            "source": "John Lang : So every year there historically has been a call for artists and this is for artists to exhibit in the CPA for a year. So artists will exhibit anywhere from 6 to 8 weeks in the CPA.",
+            "reason": "duplicate_with_p1: same_topic_entity_match (CPA call operational details covered in P1)"
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_final_merge/generation_final_merge",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "96d6eff54eb8b4ced496aeb8e349890a5e5d3f8bdf8dd6229ebee2e637c5f8c8",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-27T02:36:24.948690+00:00"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "result": {
+    "meeting_context": "This was a Mountain View Environmental Planning Commission meeting focused on administrative matters including minutes approval, housing element continuance, and annual officer elections. The commission addressed procedural items and received updates on housing element revisions needed based on HCD feedback.",
+    "participants": [
+      "Cranston",
+      "Whitehall",
+      "Clark",
+      "Dempsey",
+      "Gutierrez",
+      "Haymeyer",
+      "Nunez",
+      "Yen",
+      "Eric Anderson",
+      "Allie Saperman",
+      "Kevin Ma",
+      "David Watson",
+      "Stephanie",
+      "Sandy"
+    ],
+    "topics": [
+      {
+        "topic": "Minutes Approval Process",
+        "points": [
+          {
+            "speaker": "Whitehall",
+            "text": "Commission unanimously approved December 7th, 2022 meeting minutes with all seven commissioners voting aye.",
+            "source": "Whitehall : Motion carries unanimously"
+          }
+        ]
+      },
+      {
+        "topic": "Housing Element Continuance Decision",
+        "points": [
+          {
+            "speaker": "Eric Anderson",
+            "text": "Staff met with HCD today and received substantive additional comments requiring recategorizing pipeline versus inventory sites, additional findings, more programs, and enhanced non-English speaker outreach opportunities.",
+            "source": "Eric Anderson : Staff met with HCD staff earlier today. And they provided additional. Substantive. Comments including recategorizing sites"
+          },
+          {
+            "speaker": "Eric Anderson",
+            "text": "Staff recommends EPC not act on current draft until necessary changes are made, with revised draft to be posted publicly and new hearing scheduled later.",
+            "source": "Eric Anderson : Based on this, staff is not recommending that the EPC. Act on the draft. Until the necessary. Changes are made a revised draft"
+          },
+          {
+            "speaker": "Allie Saperman",
+            "text": "Housing Action Coalition stated current housing element lacks evidence-based analysis for non-vacant sites and encouraged city to identify more sites in inventory, particularly noting 1500 units counted in past cycle.",
+            "source": "Allie Saperman : There is a number of non vacant sites that are listed in the pipeline site inventory, but it's there's has not been an evidence based analysis"
+          },
+          {
+            "speaker": "Kevin Ma",
+            "text": "League of Women Voters expressed concerns about vague programs, unclear city commitments, late fair housing timeline, low density church sites, and insufficient detail on ADU fee structure and displacement programs.",
+            "source": "Kevin Ma : We are remain concerned about the vagueness of the programs in the draft as presented in December"
+          },
+          {
+            "speaker": "Eric Anderson",
+            "text": "HCD review process integrates public comments for statutory compliance, with ongoing opportunities for input through outreach, state-required draft publishing, and pre-EPC publication requirements.",
+            "source": "Eric Anderson : So the the HCD process is really one of being. Kind of a. Sort of a judge, right, in this, in this process"
+          },
+          {
+            "speaker": "Eric Anderson",
+            "text": "Staff has plan to address Farella Braun & Martel letter concerns and will work on analysis to verify statutory compliance, with HCD clarifying evidence requirement is not proof or guarantee but ensuring no barriers to residential development.",
+            "source": "Eric Anderson : Yeah, I there is a plan of attack. I think we, you know we discussed it in in a lot of detail"
+          },
+          {
+            "speaker": "Eric Anderson",
+            "text": "Staff targeting end of March for council adoption to meet grant application deadlines, though timeline depends on required analysis complexity.",
+            "source": "Eric Anderson : You know some of these grants that we want to make sure that we're getting start to, you know, the application dates and things like that start. Around the end of March"
+          },
+          {
+            "speaker": "Whitehall",
+            "text": "Commission unanimously approved motion to continue housing element item to future date.",
+            "source": "Whitehall : Motion carries unanimously"
+          }
+        ]
+      },
+      {
+        "topic": "Officer Elections for 2023",
+        "points": [
+          {
+            "speaker": "Nunez",
+            "text": "Commissioner Nunez nominated Vice Chair Yen for chair position, which Yen accepted.",
+            "source": "Nunez : I would like to nominate Vice Chair again"
+          },
+          {
+            "speaker": "Yen",
+            "text": "Yen nominated Commissioner Dempsey for vice chair position, which Dempsey accepted.",
+            "source": "Yen : Yes, I happily oh, can you hear me happily nominate Hank, Commissioner Dempsey"
+          },
+          {
+            "speaker": "Whitehall",
+            "text": "Commission unanimously elected Yen as chair and Dempsey as vice chair for 2023.",
+            "source": "Whitehall : Motion carries"
+          }
+        ]
+      },
+      {
+        "topic": "Meeting Schedule and Logistics",
+        "points": [
+          {
+            "speaker": "Eric Anderson",
+            "text": "January 18th meeting cancelled with no items scheduled, next meeting tentatively February 1st featuring affordable housing project on Terra Bella.",
+            "source": "Eric Anderson : Yeah. So we actually. Don't have anything scheduled. For the 18th, so enjoy your Martin Luther King weekend"
+          },
+          {
+            "speaker": "Eric Anderson",
+            "text": "Commission scheduled to return to chambers February 1st with staff arranging pre-meeting chamber familiarization visits in groups of three or less.",
+            "source": "Eric Anderson : We are scheduled to return to the Chambers on February 1st, so that will be exciting"
+          }
+        ]
+      },
+      {
+        "topic": "Meeting Closure and Recognition",
+        "points": [
+          {
+            "speaker": "Haymeyer",
+            "text": "Commissioner Haymeyer thanked Chair Cranston for serving two difficult years conducting meetings from home and expressed appreciation for leadership experience.",
+            "source": "Haymeyer : You have served not one but two difficult years and doing it all from your home"
+          },
+          {
+            "speaker": "Yen",
+            "text": "Chair-elect Yen thanked Cranston for excellent leadership over past two years and committed to serving commission well.",
+            "source": "Yen : Thank you very much for leading us so well these past two years"
+          },
+          {
+            "speaker": "Dempsey",
+            "text": "Vice Chair-elect Dempsey expressed gratitude to Cranston for teaching and leadership throughout his EPC tenure.",
+            "source": "Dempsey : you've been the chair for as long as I've been on EPC and I have learned a ton from you"
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Staff",
+        "text": "Staff will revise housing element draft based on HCD comments, post publicly, and schedule new hearing at future date.",
+        "source": "Eric Anderson : Based on this, staff is not recommending that the EPC. Act on the draft. Until the necessary. Changes are made a revised draft. Will be posted"
+      },
+      {
+        "assignee": "Eric Anderson",
+        "text": "Eric Anderson will send emails to commissioners for chamber familiarization visits in groups of three or less before February 1st return.",
+        "source": "Eric Anderson : I am going to send out emails. As soon as I log off right now"
+      }
+    ],
+    "metadata": {
+      "topicCount": 5,
+      "pointCount": 17,
+      "decisionCount": 2
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:51:09.061889+00:00"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "339 Franklin Street project overview",
+          "points": [
+            {
+              "speaker": "Ella Carraccian",
+              "text": "Staff explained the heritage tree straddling the property line has narrow-angle crotches and lean that create substantial breakage risk, and foundation work would cause nearly 50% root loss, increasing instability. Removal is necessary to avoid damage to adjacent homes and to allow construction to proceed safely.",
+              "source": "Ella Carraccian : ...the tree has kind of like 2 narrow angle crutches near the ground level that are at substantial risk for breakage... foundation construction as a result of this project would result in nearly 50% root loss resulting in an increased tree instability which is kind of like dangerous for both neighbours.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Ella Carraccian",
+              "text": "A condition of approval requires the applicant to remove or modify existing balconies so they do not exceed 150 square feet before submitting to the Building Department, should the project be approved.",
+              "source": "Ella Carraccian : ...one of the conditions... that the applicant is subject to before submission to building department... is to remove or kind of like modify the existing balconies and to not exceed 150 square feet under project site proposal.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Ella Carraccian",
+              "text": "Project complies with P19 Downtown Precise Plan development standards including building height, FAR, setbacks and open space requirements.",
+              "source": "Ella Carraccian : And the project also complies with development and standards, including building hide, FAR setbacks and open space of the downtown.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "W El Camino Real extension request",
+          "points": [
+            {
+              "speaker": "Brittany Whitehill",
+              "text": "Project found consistent with El Camino Real Precise Plan and categorically exempt from CEQA under Section 15332 infill development guidelines.",
+              "source": "Brittany Whitehill : Site staff has found that the proposed vesting tentative map extension is consistent with the El Camino real precise plan and mixed-use corridor general planned land use designation as well as the subdivision map.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Steve Saray",
+              "text": "Extension needed to complete construction documents and obtain building permits for Lux Larva development project.",
+              "source": "Steve Saray : But as Brittany mentioned, we're just requesting for a one year extension and so we can get our construction documents and permits in place.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Stephanie Williams",
+          "text": "Stephanie Williams approved the consent calendar item at 2134 Old Middlefield Way; appealable within 10 calendar days.",
+          "source": "Stephanie Williams : I will go ahead and approve the consent calendar and this item is appealable to the City Council within 10 calendar days.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 6,
+      "kept": 6,
+      "modified": 0,
+      "dropped": 0,
+      "from_gt1_kept": 3,
+      "from_gt2_kept": 3
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-26T07:19:50.522077+00:00"
+  }
+}

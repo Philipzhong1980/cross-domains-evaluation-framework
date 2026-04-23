@@ -1,0 +1,208 @@
+{
+  "meeting_context": "White House press briefing imported from 20230528_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "WHITE HOUSE OFFICIAL",
+    "Zeke Miller",
+    "Jim Tankersley",
+    "Emma Dumain",
+    "Trevor Hunnicutt",
+    "Jeff Stein",
+    "Elizabeth Schulze",
+    "Jennifer Haberkorn",
+    "WHITE HOUSE OFFICIA"
+  ],
+  "topics": [
+    {
+      "topic": "The moderator announces that the call is on",
+      "points": [
+        {
+          "text": "The moderator announces that the call is on background as \"White House officials\" and will be embargoed until the end of the call, also mentioning that a document sourced from a \"White House source\" will be sent to those who have RSVP'd for the call.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House officials discuss the positive aspects",
+      "points": [
+        {
+          "text": "The White House officials discuss the positive aspects of the announced deal, which protects economic gains, legislative accomplishments, and addresses extreme demands.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House officials discuss the two year",
+      "points": [
+        {
+          "text": "The White House officials discuss the two-year appropriations agreement that keeps non-defense spending roughly flat with 2023 levels in 2024 and increases non-defense and defense spending levels by 1 percent in 2025.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House officials discuss the appropriations agreement",
+      "points": [
+        {
+          "text": "The White House officials discuss the appropriations agreement that protects non-defense spending, funds veterans medical care and defense at the President's budget levels, and ensures that no one loses healthcare or experiences an increase in poverty.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The transcript discusses the changes made to Medicaid",
+      "points": [
+        {
+          "text": "The transcript discusses the changes made to Medicaid, SNAP, and TANF in the appropriations agreement, including exemptions for vulnerable individuals, temporary changes to SNAP work requirements, and the preservation of state flexibilities in TANF.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President's team fought to ensure that vulnerable",
+      "points": [
+        {
+          "text": "The President's team fought to ensure that vulnerable children receiving support through TANF would not lose access to that support, making reforms consistent with the President's principles while maintaining states' abilities to continue supporting vulnerable children and families.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House officials state that the agreement",
+      "points": [
+        {
+          "text": "The White House officials state that the agreement reached protects the President's historic climate law, safeguards environmental protections, and includes measures to accelerate construction projects while maintaining the substantive scope of the National Environmental Policy Act.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House officials highlight that the agreement",
+      "points": [
+        {
+          "text": "The White House officials highlight that the agreement will facilitate the construction of clean energy infrastructure, such as solar, wind, EV chargers, and transmission, while also improving government operations to harness the tailwind for clean energy.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House officials clarify that the 80",
+      "points": [
+        {
+          "text": "The White House officials clarify that the $80 billion appropriation for the IRS in the Inflation Reduction Act was a 10-year appropriation, not an annual one, and that the remaining funds will still be available to be spent over the next several years, potentially requiring additional funding in the future, while also mentioning that there is no current score for discretionary savings but it is expected to be around $1 trillion or higher.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jim Tankersley asks two questions regarding the CR",
+      "points": [
+        {
+          "text": "Jim Tankersley asks two questions regarding the CR enforcement mechanism and the specifics of where the IRS money will be allocated from.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The agreement includes a backstop that incentivizes the",
+      "points": [
+        {
+          "text": "The agreement includes a backstop that incentivizes the passing of bills by slightly lowering non-defense and defense levels if the 12 bills are not passed by the end of the calendar year, and regarding the IRS funding, it is not anticipated that any changes will be needed in the near term as the structure of the funding allows for investment in enforcement to crack down on tax evasion.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The energy provisions in the bill include changes",
+      "points": [
+        {
+          "text": "The energy provisions in the bill include changes to the environmental review process for infrastructure projects, with a focus on better coordination and efficiency, separate from the FAST-41 Act.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The energy provisions in the bill aim to",
+      "points": [
+        {
+          "text": "The energy provisions in the bill aim to improve the efficiency of the environmental review process for infrastructure projects, with specific deadlines of one to two years for studying and assessing the environmental impact of less and more complex projects respectively, which would significantly expedite the buildout of transmission lines.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The energy provisions in the bill aim to",
+      "points": [
+        {
+          "text": "The energy provisions in the bill aim to expedite the buildout of infrastructure projects by reducing the time it takes for environmental reviews, including solar and offshore wind projects, and making it easier for complementary clean energy projects, such as electric charger stations, to have more efficient reviews.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The agreement recognizes the importance of building out",
+      "points": [
+        {
+          "text": "The agreement recognizes the importance of building out transmission infrastructure to accelerate clean energy while also improving the reliability and resilience of the grid, directing the Federal Energy Regulatory Commission to prioritize this opportunity.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House officials confirm that the waiver",
+      "points": [
+        {
+          "text": "The White House officials confirm that the waiver authority for building transmission infrastructure and improving grid reliability will be in effect for the next two years before it sunsets.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House official acknowledges that there has",
+      "points": [
+        {
+          "text": "The White House official acknowledges that there has been a lower increase in non-defense funding due to a divided government, but expresses the ongoing priority to fight for higher funding in the future.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The debt limit suspension will be in effect",
+      "points": [
+        {
+          "text": "The debt limit suspension will be in effect until January 1st, 2025, providing a significant accomplishment by removing the threat of default and benefiting the economy.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House official explains the changes to",
+      "points": [
+        {
+          "text": "The White House official explains the changes to TANF and SNAP policies in the bill, stating that the work requirements for both programs would remain relatively unchanged and that the amendments made in the bill would have less severe consequences compared to previous proposals.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

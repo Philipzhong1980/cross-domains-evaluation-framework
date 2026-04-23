@@ -1,0 +1,321 @@
+{
+  "meeting_context": "White House press briefing imported from 20231204_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MR. SULLIVAN"
+  ],
+  "topics": [
+    {
+      "topic": "The administration highlights the positive impact of the",
+      "points": [
+        {
+          "text": "The administration highlights the positive impact of the Bipartisan Safer Communities Act in reducing gun violence and announces the Environmental Protection Agency's final standards to reduce methane emissions, while National Security Advisor Jake Sullivan discusses foreign policy news, including the urgent need to support Ukraine's defense.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "National Security Advisor Jake Sullivan discusses ongoing efforts",
+      "points": [
+        {
+          "text": "National Security Advisor Jake Sullivan discusses ongoing efforts to address the hostage situation in Israel, provide humanitarian assistance to Gaza, and respond to attacks on commercial vessels in the Southern Red Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "National Security Advisor Jake Sullivan discusses ongoing efforts",
+      "points": [
+        {
+          "text": "National Security Advisor Jake Sullivan discusses ongoing efforts to address the hostage situation in Israel, provide humanitarian assistance to Gaza, respond to attacks on commercial vessels in the Southern Red Sea, request congressional action to procure weapons and equipment for Ukraine, and highlight the Biden administration's leadership in addressing the climate crisis.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is engaging in consultations with",
+      "points": [
+        {
+          "text": "The United States is engaging in consultations with partners and allies to determine appropriate next steps, including the possibility of setting up a maritime task force to ensure safe passage of ships in the Red Sea region following the attacks on commercial vessels by the Houthis, who are believed to be supplied weapons by Iran.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is consulting with allies and",
+      "points": [
+        {
+          "text": "The United States is consulting with allies and partners to determine a response to the attacks on commercial vessels in the Red Sea region, emphasizing the need for international cooperation in addressing the issue of Iranian-enabled attacks by Shia militia groups and the emerging challenge posed by the Houthis.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is discussing with allies the",
+      "points": [
+        {
+          "text": "The United States is discussing with allies the response to attacks on commercial vessels in the Red Sea region, focusing on international cooperation to address Iranian-enabled attacks by Shia militia groups and the emerging challenge from the Houthis.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges that it is too soon",
+      "points": [
+        {
+          "text": "The speaker acknowledges that it is too soon to make a comprehensive judgment on whether the Israelis are doing enough to limit civilian casualties in the fighting in Gaza, but mentions ongoing discussions with Israeli counterparts about targeting Hamas and protecting civilians, as well as efforts to provide humanitarian assistance to those affected.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker believes that any member of Congress",
+      "points": [
+        {
+          "text": "The speaker believes that any member of Congress who does not support funding for Ukraine is effectively aiding Putin and that the same principle applies to funding for Taiwan and assistance to Israel.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the importance of funding for",
+      "points": [
+        {
+          "text": "The speaker discusses the importance of funding for Ukraine, assistance to Israel, and the need for Israel to minimize harm to civilians in its military operations.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses ongoing discussions about securing the",
+      "points": [
+        {
+          "text": "The speaker discusses ongoing discussions about securing the release of American hostages and refrains from offering a qualitative assessment of Israel's military operations but states that Israel has identified a specific area and coordinated with notifications for people to leave before commencing military operations.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the importance of giving civilians",
+      "points": [
+        {
+          "text": "The speaker emphasizes the importance of giving civilians time and opportunity to leave before commencing military operations and reiterates the US's stance on protecting civilians and respecting the laws of war, while refraining from making a precise comparison between different areas of Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The question asks about the points of leverage",
+      "points": [
+        {
+          "text": "The question asks about the points of leverage and pressure available to get back to a situation where hostages can be released and a pause can be implemented.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Vice President had private diplomatic discussions about",
+      "points": [
+        {
+          "text": "The Vice President had private diplomatic discussions about the future with Arab leaders during her trip to the region, and Israel is insisting that Hamas release civilian women as part of the hostage negotiations before discussing additional categories of hostages.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Vice President wanted Phil to brief them",
+      "points": [
+        {
+          "text": "The Vice President wanted Phil to brief them on her meetings in Dubai so that they would be fully informed, and there was a question about Spanish officers being investigated for leaking secrets to the U.S.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter asked about the type and quantity",
+      "points": [
+        {
+          "text": "The reporter asked about the type and quantity of weapons the U.S. is sending to Israel since the October 7th attacks, and Mr. Sullivan referred them to the Defense Department for precise information.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Sullivan is asked about post conflict Gaza",
+      "points": [
+        {
+          "text": "Mr. Sullivan is asked about post-conflict Gaza planning and whether there will be buy-in from Arab country partners on refugee resettlement, as well as if the President is personally getting involved with calls to those on the Hill regarding Ukraine aid.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President has been personally involved in speaking",
+      "points": [
+        {
+          "text": "The President has been personally involved in speaking to leaders on the Hill regarding the supplemental and will continue to do so as necessary, particularly on national security priorities, while Mr. Sullivan seeks clarification on the question about refugee resettlement.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Sullivan states that there are no ongoing",
+      "points": [
+        {
+          "text": "Mr. Sullivan states that there are no ongoing discussions with countries about resettling Palestinians from Gaza to other countries at this time.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Sullivan emphasizes the need for Congress to",
+      "points": [
+        {
+          "text": "Mr. Sullivan emphasizes the need for Congress to provide funding in order to continue supporting Ukraine with weapons, as there is no alternative plan if the funding is not approved.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan discusses the monitoring of weapons usage",
+      "points": [
+        {
+          "text": "Jake Sullivan discusses the monitoring of weapons usage by the United States and Israel, along with their disagreement on a ceasefire and their shared vision for peace and prosperity in the region.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan confirms that aid has been able",
+      "points": [
+        {
+          "text": "Jake Sullivan confirms that aid has been able to get into Gaza since Friday and discusses plans to increase the flow of aid, as well as the ongoing discussions with other countries about creating a task force to enhance maritime security in the Red Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker avoids discussing the collapse of border",
+      "points": [
+        {
+          "text": "The speaker avoids discussing the collapse of border talks and defers to congressional members and senators for further details.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the importance of getting the",
+      "points": [
+        {
+          "text": "The speaker emphasizes the importance of getting the supplemental done for national security and urges Congress to take action, while also addressing concerns about the safety of journalists in the Israel-Hamas conflict.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the importance of protecting journalists",
+      "points": [
+        {
+          "text": "The speaker emphasizes the importance of protecting journalists and ensuring their ability to report on the ground, while also stating that voting should be made easier for Americans without any obstacles.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker declines to discuss specific state processes",
+      "points": [
+        {
+          "text": "The speaker declines to discuss specific state processes for voting and emphasizes that she will not negotiate or provide details on policy provisions being discussed in the Senate, while also mentioning the President's engagement with members and leaders on the Hill.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes that supporting Ukraine in their",
+      "points": [
+        {
+          "text": "The speaker emphasizes that supporting Ukraine in their fight against tyranny is the right thing to do and rejects the characterization that the White House is desperate for Ukraine aid, while also highlighting the President's commitment to comprehensive immigration reform and criticizing Congress for failing to act on border security.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the increase in antisemitism and",
+      "points": [
+        {
+          "text": "The speaker acknowledges the increase in antisemitism and expresses the administration's commitment to protecting the Jewish community during the holiday season.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker avoids answering questions about the President's",
+      "points": [
+        {
+          "text": "The speaker avoids answering questions about the President's stance on immigration and Ukraine aid, emphasizing his commitment to humane immigration policies and protecting American borders.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker avoids providing specific information on domestic",
+      "points": [
+        {
+          "text": "The speaker avoids providing specific information on domestic surveillance and online censorship, directing the questioner to check with the team and referring them to the White House Counsel's Office.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker avoids giving specific information on the",
+      "points": [
+        {
+          "text": "The speaker avoids giving specific information on the President and his son's business relationship, redirecting the questioner to check with the team and referring them to the White House Counsel's Office.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker deflects a question about whether the",
+      "points": [
+        {
+          "text": "The speaker deflects a question about whether the President accepted payment from Hunter Biden's business and suggests contacting the White House Counsel's Office for further information.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

@@ -1,0 +1,183 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Upcoming agenda planning and holiday activities",
+          "points": [
+            {
+              "speaker": "David Lin",
+              "text": "David Lin raised increased trash and litter on Castro Street tied to late-night activity and restaurant waste, requesting discussion of proposals to address it. Mike suggested a general downtown maintenance briefing; John agreed to add a maintenance topic and identify appropriate staff.",
+              "source": "David Lin : ...trash kind of and litter on Castro... city staff is having trouble... either discussing a proposal to somehow address that... / Mike Kasperzak : ...opportunity for... a briefing on... downtown maintenance... / John Lang : ...I will list it as a maintenance of downtown... and I'll add that to the list.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Maria Lange",
+              "text": "Maria Lange reported a Saturday night incident of public urination and conflicting, unlicensed street music, requesting police or community officer presence downtown and attention to unlicensed performers playing against each other.",
+              "source": "Maria Lange : ...there was some pretty gross someone going to the bathroom in the street... wondering whether we could have some presence of police officer or community officer... conflicting music... unlicensed. So I'd like to see that addressed.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Kira Pascoe",
+              "text": "Kira Pascoe said a consolidated list of holiday events is being prepared with the DBA. Halloween is planned for October 29. They are exploring a resident–business meet-up, an Elf on the Shelf activity, and another shopping activation. Initial details are expected by end of this week, with more next week.",
+              "source": "Kira Pascoe : ...you will be getting a list of all the events... Halloween on the 29th of October... meeting local residents... as well as other holiday activities... Elf on a Shelf... first part by the end of this week and the second part by the end of next.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Pamela Baird",
+              "text": "Pamela requested updates on downtown ambassadors program and city-sponsored holiday events including tree lighting.",
+              "source": "Pamela Baird : Can you also give us an update on the downtown ambassadors? Will that be brought back again during the holiday shopping season? And could you also give us an update on city sponsored events downtown",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Hope Street Lot hotel project status",
+          "points": [
+            {
+              "speaker": "Pamela Baird",
+              "text": "Pamela asked whether development streamlining (Matrix) was returning to Council on October 11. John stated that, to his knowledge, it was not scheduled for Council and staff are working internally, but staff will update the committee if that understanding is incorrect.",
+              "source": "Pamela Baird : ...streamlining of projects... City Council October 11th. Will we be getting an update...? / John Lang : ...to my knowledge... it wasn't coming back on October 11th... internal work... We can update you if we're incorrect.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Castro Street pedestrian mall and lighting",
+          "points": [
+            {
+              "speaker": "Mike Kasperzak",
+              "text": "Mike requested a Parks Division briefing on maintenance and trimming plans for the now-large downtown street trees and potential building constraints. John agreed to look into bringing this discussion back, noting larger limbs also create safety risks.",
+              "source": "Mike Kasperzak : ...might be interesting to have somebody from the Parks Division come in and... maintenance and trimming of those trees... / John Lang : ...happy to look to bring that back... bigger trees means bigger limbs that can fall... I will note that and look into that.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Personal delivery devices pilot updates",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "For remotely operated devices, the human handler requirement would be removed; it remains for fully autonomous units.",
+              "source": "John Lang : ...remove the human handler... for those devices that are remotely operating... someone is actually physically controlling the device.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "To address arterial crossings, staff is considering predefined crossing routes to limit signal impacts and improve manageability. Staff is also exploring PDD-to-signal interaction options and noted occasional aerial delivery inquiries that have not advanced. Next, staff plans to return to BPAC and then Council for approval.",
+              "source": "John Lang : ...identifying predefined routes... especially on large arterioles... considering dedicated paths... technology... where devices could trigger signals... we have... received a couple inquiries [about aerial]... go to BPAC... then... council for approval of changes.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Kira Pascoe",
+              "text": "Kira noted that delivery robots served as a draw during events and helped distinguish downtown. As the pedestrian mall evolves, such innovation can be a family-friendly attraction that supports brunch and lunch traffic and reinforces Mountain View's reputation as a hub of innovation.",
+              "source": "Kira Pascoe : ...having the delivery droids... was actually kind of a tourist attraction... something that I know people always comment on... we want to be known more for brunch and for lunch... having something along those lines is worth thinking about having.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Providers receptive to sharing general heat maps and incident data while protecting proprietary information.",
+              "source": "John Lang : In most cases for the things we were asking data wise, it was not considered proprietary. We are not looking to get into their their their true IP.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Committee vacancies and bylaw changes",
+          "points": [
+            {
+              "speaker": "Merry Yen",
+              "text": "Term length clarification: John initially stated two-year terms, but Merry Yen noted her experience reflects three-year staggered terms and that there is no limit on the number of terms members can serve.",
+              "source": "Merry Yen : I think it's three... This is my third term in my 7th year... there's no limit to how many terms we can be new.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Remote meetings resolution (AB 361)",
+          "points": [
+            {
+              "speaker": "Pamela Baird",
+              "text": "Pamela supported remote format as suitable for committee's advisory role with less intensive discussion requirements.",
+              "source": "Pamela Baird : I I personally am in favor of doing remote as opposed to previous commissions I've been on where there really is a lot of discussion and back and forth and meaty conversations. We tend to not do that because we're we don't.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Kira Pascoe",
+          "text": "Distribute a consolidated list of downtown holiday events (initial details by end of this week; further details by end of next week).",
+          "source": "Kira Pascoe : ...you should be having that probably the first part by the end of this week and the second part by the end of next.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Explore bringing Parks Division staff to brief on downtown street tree maintenance and trimming at a future meeting.",
+          "source": "John Lang : ...happy to look to bring that back... I will note that and look into that.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Ask downtown businesses about impacts from Starship's departure and report findings to the committee.",
+          "source": "John Lang : ...I'm happy to inquire... I think that's a great question, so I don't know the answer to it. I'm happy to inquire.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Take proposed PDD pilot revisions to BPAC and then to City Council for approval.",
+          "source": "John Lang : ...take this to BPAC, assuming there's no other changes there. We'll go to council for approval of changes to the pilot program.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Email committee members the recruitment timeline dates and planning updates after the meeting.",
+          "source": "John Lang : ...I'll send that as well as the dates noted in the presentation for everyone.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Contact the bicycle event organizer to check status and update the committee if there is news.",
+          "source": "John Lang : I will reach out to him and... I'll put that out to the committee if there is any update to share.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 16,
+      "kept": 16,
+      "modified": 0,
+      "dropped": 0,
+      "from_gt1_kept": 12,
+      "from_gt2_kept": 4
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:46:41.502021+00:00"
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "meeting_context": "White House press briefing imported from 20210120_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. PSAKI",
+    "Zeke",
+    "Peter",
+    "Karen",
+    "Jen",
+    "Francesca",
+    "Unidentified"
+  ],
+  "topics": [
+    {
+      "topic": "Jen Psaki highlights the executive actions taken by",
+      "points": [
+        {
+          "text": "Jen Psaki highlights the executive actions taken by President Biden, including launching a 100 Day Masking Challenge, reversing the decision to withdraw from the World Health Organization, appointing a COVID-19 response coordinator, and reestablishing the national security team for global health security and biodefense.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden has taken immediate action to address",
+      "points": [
+        {
+          "text": "President Biden has taken immediate action to address the housing affordability crisis by extending nationwide moratoriums on evictions and foreclosures, as well as extending the pause on student loan payments and interest, rejoining the Paris climate agreement, and putting the United States back in a position of global leadership.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden has taken a series of executive",
+      "points": [
+        {
+          "text": "President Biden has taken a series of executive actions to protect public health and the environment, advance racial equity, fortify DACA, end the Muslim ban, halt funding for the border wall, and send an immigration bill to Congress that modernizes the immigration system and prioritizes border management, family unity, economic growth, addressing root causes of migration from Central America, and providing refuge for those fleeing prosecution.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki emphasizes the importance of promoting transparency",
+      "points": [
+        {
+          "text": "Jen Psaki emphasizes the importance of promoting transparency and truth, stating that she works for both President Biden and the American people, with the common goal of sharing accurate information, even when it may be difficult to hear.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki discusses President Biden's upcoming call with",
+      "points": [
+        {
+          "text": "Jen Psaki discusses President Biden's upcoming call with Prime Minister Trudeau, mentions the importance of rebuilding relationships with partners and allies, and states that the administration reserves the right to respond to cyberattacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki discusses President Biden's view on a",
+      "points": [
+        {
+          "text": "Jen Psaki discusses President Biden's view on a private letter from former President Trump and states that it does not indicate a pending call between the two, while also addressing the importance of combating misinformation and sharing accurate information.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki discusses the plan to return daily",
+      "points": [
+        {
+          "text": "Jen Psaki discusses the plan to return daily briefings and briefings with health officials, while also addressing President Biden's desire to get his Cabinet confirmed and his discussions with members of Congress.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki discusses the prioritization of getting the",
+      "points": [
+        {
+          "text": "Jen Psaki discusses the prioritization of getting the national security team confirmed quickly, including Avril Haines, in order to address the current crises and ensure the safety of the American people, with President Biden raising this issue in his conversations with members of Congress.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki emphasizes the urgency of confirming the",
+      "points": [
+        {
+          "text": "Jen Psaki emphasizes the urgency of confirming the national security team, including Avril Haines, to address crises and ensure American safety, as President Biden has discussed this with members of Congress.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden has been discussing the COVID relief",
+      "points": [
+        {
+          "text": "President Biden has been discussing the COVID relief measures with Democrats and Republicans, and he will be actively involved in the negotiations to get the pandemic under control and provide financial assistance and funding for vaccine distribution.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden will be actively involved in the",
+      "points": [
+        {
+          "text": "President Biden will be actively involved in the negotiations for COVID relief measures and is open to bipartisan support, but will not rule out using budget reconciliation if necessary.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Republicans have expressed concerns about the high price",
+      "points": [
+        {
+          "text": "Republicans have expressed concerns about the high price tag of President Biden's COVID relief proposal, but negotiations are ongoing and the administration is open to making adjustments while prioritizing necessary components such as funding for vaccinations, unemployment insurance, and reopening schools.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The administration is committed to reviewing leases for",
+      "points": [
+        {
+          "text": "The administration is committed to reviewing leases for oil and gas on federal lands, and the White House has implemented strict COVID safety measures including daily testing, wearing N95 masks, and social distancing.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter asks Jen Psaki about President Biden's",
+      "points": [
+        {
+          "text": "The reporter asks Jen Psaki about President Biden's plan to work with Brazil on climate change, considering their previous criticisms and lack of congratulatory message.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki discusses President Biden's commitment to addressing",
+      "points": [
+        {
+          "text": "Jen Psaki discusses President Biden's commitment to addressing the global climate crisis by rejoining the Paris Climate Agreement and taking steps to reduce greenhouse gas emissions domestically, while also mentioning that there will be further discussions on Brazil in the future.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki discusses President Biden's plans for Iran",
+      "points": [
+        {
+          "text": "Jen Psaki discusses President Biden's plans for Iran, stating that the United States will seek to strengthen nuclear constraints on Iran through follow-on diplomacy, but Iran must resume compliance with the nuclear deal for this to proceed.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki describes President Biden's sense of calm",
+      "points": [
+        {
+          "text": "Jen Psaki describes President Biden's sense of calm and joy after spending time with his family, his feeling of coming home due to his previous role as Vice President, and his eagerness to get to work and address policy issues such as COVID.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki discusses President Biden's focus on unity",
+      "points": [
+        {
+          "text": "Jen Psaki discusses President Biden's focus on unity, addressing policy issues, and his lack of immediate plans for political campaigning.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki jokes about the idea of President",
+      "points": [
+        {
+          "text": "Jen Psaki jokes about the idea of President Biden planning his first foreign trip, emphasizing that it is too early to discuss as they are only seven hours into the administration.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki mentions that President Biden a devout",
+      "points": [
+        {
+          "text": "Jen Psaki mentions that President Biden, a devout Catholic, will have more to say on the Mexico City Policy in the coming days, but she does not have any details on a foreign trip at this time.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki mentions that President Biden may use",
+      "points": [
+        {
+          "text": "Jen Psaki mentions that President Biden may use the Defense Production Act to increase vaccine production, as he discussed it as President-elect.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki confirms that President Biden is still",
+      "points": [
+        {
+          "text": "Jen Psaki confirms that President Biden is still committed to using the Defense Production Act to increase vaccine production and achieve his goal of administering 100 million shots in the first 100 days.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki highlights President Biden's commitment to unity",
+      "points": [
+        {
+          "text": "Jen Psaki highlights President Biden's commitment to unity by emphasizing his history of working with people who disagree with him and his actions of reaching out to both Democrats and Republicans at various levels of government.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki highlights President Biden's commitment to governing",
+      "points": [
+        {
+          "text": "Jen Psaki highlights President Biden's commitment to governing for all Americans and working towards unity in every policy and engagement.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki states that President Biden opposes the",
+      "points": [
+        {
+          "text": "Jen Psaki states that President Biden opposes the death penalty and will leave it to Congress to determine the accountability and future federal office eligibility of former President Trump in relation to the Capitol insurrection.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki expresses support for the ongoing investigation",
+      "points": [
+        {
+          "text": "Jen Psaki expresses support for the ongoing investigation into the Capitol insurrection and states that she will provide updates if there is more information regarding President Biden's confidence in FBI Director Wray.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki expresses support for ongoing investigation into",
+      "points": [
+        {
+          "text": "Jen Psaki expresses support for ongoing investigation into Capitol insurrection and will provide updates on President Biden's confidence in FBI Director Wray if more information becomes available.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki explains that President Biden's intention in",
+      "points": [
+        {
+          "text": "Jen Psaki explains that President Biden's intention in his Inaugural Address was to focus on the American people and the current struggles they face, rather than making it about any individual, including his predecessor.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki explains that President Biden's Inaugural Address",
+      "points": [
+        {
+          "text": "Jen Psaki explains that President Biden's Inaugural Address was centered on the American people and their challenges, rather than any individual, including his predecessor.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden's priority is to rebuild partnerships and",
+      "points": [
+        {
+          "text": "President Biden's priority is to rebuild partnerships and alliances globally, regain America's seat at the global table, and address threats and issues through engagement with partners and allies.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Press Secretary Psaki thanks the reporters and concludes",
+      "points": [
+        {
+          "text": "Press Secretary Psaki thanks the reporters and concludes the press briefing, suggesting they reconvene the following day.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

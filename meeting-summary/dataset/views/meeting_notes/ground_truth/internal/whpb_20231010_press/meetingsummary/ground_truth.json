@@ -1,0 +1,320 @@
+{
+  "meeting_context": "White House press briefing imported from 20231010_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "MR. SULLIVAN"
+  ],
+  "topics": [
+    {
+      "topic": "White House spokesperson Karine Jean Pierre provides an",
+      "points": [
+        {
+          "text": "White House spokesperson Karine Jean-Pierre provides an update on President Biden's ongoing conversations and meetings with Prime Minister Netanyahu and the national security team regarding the situation in Israel, emphasizing the President's commitment to supporting Israel's defense.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is actively supporting Israel in",
+      "points": [
+        {
+          "text": "The White House is actively supporting Israel in its defense against Hamas, providing additional capabilities, ammunition, and interceptors, enhancing military force posture in the region, and engaging in contingency planning for potential escalation scenarios.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is working with the Israeli",
+      "points": [
+        {
+          "text": "The White House is working with the Israeli government and regional partners to address the hostage crisis, including sharing intelligence, deploying experts, and prioritizing the safety of American citizens, while also providing ongoing support to Israel in its defense efforts.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Mr Sullivan takes questions",
+      "points": [
+        {
+          "text": "During a press briefing, Mr. Sullivan takes questions from reporters, starting with MJ and then Steve.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Mr Sullivan states that",
+      "points": [
+        {
+          "text": "During a press briefing, Mr. Sullivan states that they do not know the precise number of American hostages, but there are currently 20 or more Americans who are unaccounted for, and they are working to determine the number of hostages as well as their condition.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is currently deploying expertise to",
+      "points": [
+        {
+          "text": "The United States is currently deploying expertise to assist with hostage recovery efforts in Israel, but they are not planning to send American forces on the ground at this point.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President has not yet spoken to the",
+      "points": [
+        {
+          "text": "The President has not yet spoken to the families of the 14 American citizens who were killed, but the State Department has been in contact with them and the President is making their recovery and repatriation his highest priority.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is providing additional Iron Dome",
+      "points": [
+        {
+          "text": "The United States is providing additional Iron Dome interceptors to Israel and exploring ways to enhance their air defense capabilities, while acknowledging Iran's complicity in supporting Hamas but stating that there is currently no confirmation of Iran's involvement in the specific attack.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the deep emotional impact of",
+      "points": [
+        {
+          "text": "The speaker acknowledges the deep emotional impact of the Israeli attack and emphasizes the need to support Israel and provide them with necessary defense tools, while also avoiding direct comments on freezing the $6 billion for Iran.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the need to support Israel",
+      "points": [
+        {
+          "text": "The speaker emphasizes the need to support Israel in defending itself against the ongoing threat of Hamas terrorists in Gaza and states that the US will provide support for as long as necessary to ensure the safety and security of Israel.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker states that the US will support",
+      "points": [
+        {
+          "text": "The speaker states that the US will support Israel in their efforts to protect their country, go after threats, and secure the release of American hostages, with the President prioritizing the safety of Americans held hostage overseas.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President will be making a request to",
+      "points": [
+        {
+          "text": "The President will be making a request to Congress for funding to support Israel and aid to Ukraine, including specific requests for other capabilities made by Prime Minister Netanyahu.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the effectiveness of the Iron",
+      "points": [
+        {
+          "text": "The speaker acknowledges the effectiveness of the Iron Dome in intercepting rockets but also mentions that some rockets have gotten through, highlighting the ongoing need for interceptors to protect civilians and expressing commitment to supplying Israel with the necessary number of Iron Dome interceptors.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker affirms the commitment of the United",
+      "points": [
+        {
+          "text": "The speaker affirms the commitment of the United States to the rule of law and ensuring that military operations are conducted in accordance with it, while also discussing discussions with Israel and Egypt regarding the situation in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S government is actively involved in",
+      "points": [
+        {
+          "text": "The U.S. government is actively involved in discussions regarding the operational details of ensuring safe passage for civilians in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The call between President Biden and Prime Minister",
+      "points": [
+        {
+          "text": "The call between President Biden and Prime Minister Netanyahu was a collaborative conversation without any warnings, focused on the defense of Israel.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S does not currently have specific",
+      "points": [
+        {
+          "text": "The U.S. does not currently have specific information linking Iran to the recent attack, but believes that various Iranian militias pose a threat and warns of firm consequences, while also assuring support to deal with any contingency, and clarifies that a total siege of Gaza is not something being pursued by the Israeli government.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S is committed to providing military",
+      "points": [
+        {
+          "text": "The U.S. is committed to providing military and economic aid to Ukraine and Israel, rejecting the notion that it cannot support both countries, while also working with Israel and Egypt on evacuations from Gaza and maintaining diplomatic conversations with Israel.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden administration is committed to addressing terrorist",
+      "points": [
+        {
+          "text": "The Biden administration is committed to addressing terrorist threats to the homeland, securing necessary resources, and pursuing a humane, orderly border policy while also working on confirming an ambassador to Israel and providing support to Israel during the ongoing conflict.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan confirms that the U S has",
+      "points": [
+        {
+          "text": "Jake Sullivan confirms that the U.S. has labeled Hamas as a terrorist group for years and will continue to support Israel in its efforts to fight against and undermine Hamas.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan confirms that the U S will",
+      "points": [
+        {
+          "text": "Jake Sullivan confirms that the U.S. will work with Israel to support their efforts in effectively and relentlessly combating the Hamas threat in Gaza until their security and deterrence is fully restored.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan expresses concern about the potential for",
+      "points": [
+        {
+          "text": "Jake Sullivan expresses concern about the potential for terrorists in the United States to be emboldened by recent events and emphasizes the need to protect Americans at home and remain vigilant against any terrorist threats.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan defends the administration's decision to bring",
+      "points": [
+        {
+          "text": "Jake Sullivan defends the administration's decision to bring home American citizens who were unjustly detained abroad, stating that it is the duty of the Commander-in-Chief to get innocent Americans out of captivity.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Karine Jean Pierre declines",
+      "points": [
+        {
+          "text": "During a press briefing, Karine Jean-Pierre declines to provide further details on the special counsel interviews and suggests referring to the Department of Justice or White House Counsel for more information.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre declines to provide further details",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre declines to provide further details on the President's interview with Special Counsel Robert Hur and suggests referring to the White House Counsel for more information.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre emphasizes that President Biden has",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre emphasizes that President Biden has been actively engaged in addressing the events in Israel, including meeting with the Special Counsel and speaking with international allies, while also acknowledging that presidents have to handle multiple tasks simultaneously.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre expresses the importance of continuing",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre expresses the importance of continuing to support Ukraine in their fight against Russian aggression and states that the White House will ask Congress for additional assistance while also avoiding discussing the House speakership race.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre emphasizes the importance of protecting",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre emphasizes the importance of protecting the Jewish community from acts of violence and states that the White House will continue to support and be vigilant in monitoring the situation.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre emphasizes the importance of protecting",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre emphasizes the importance of protecting the Jewish community from acts of violence and states that the White House will continue to support and monitor the situation.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre condemns members of Congress who",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre condemns members of Congress who equate the Hamas terror attack with actions taken by Israel, stating that such statements are wrong, repugnant, and disgraceful, emphasizing that there are not two sides and reiterating President Biden's clear support for Israel.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre states that the President will",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre states that the President will denounce any form of violence and prioritize keeping communities safe, but does not provide specific details about conversations regarding the safety and civil liberties of the Muslim diaspora or immigrant communities in relation to criticism of Israel's behavior.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

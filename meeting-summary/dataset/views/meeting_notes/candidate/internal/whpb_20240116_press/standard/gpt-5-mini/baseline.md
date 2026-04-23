@@ -1,0 +1,77 @@
+### Overview
+  White House Press Secretary Karine Jean‑Pierre and NSC spokesperson Admiral John Kirby lead a briefing that covers urgent diplomatic, security, and domestic priorities. Jean‑Pierre previews the President’s week—announcing a White House meeting with congressional leaders on the national security supplemental request and a trip to North Carolina to highlight Bidenomics—and frames the supplemental as essential to both border security and continued aid to Ukraine. Admiral Kirby summarizes intensive diplomatic engagements in Davos and Doha, underscores hostage‑recovery efforts (including Brett McGurk’s recent work in Qatar), and describes Israel’s announced transition to lower‑intensity operations alongside U.S. preparation to increase humanitarian assistance; he reports 228 trucks entered Gaza today while cautioning that fighting still impedes deliveries. Kirby also addresses Houthi attacks in the Red Sea, explains that U.S. and U.K. strikes were designed to degrade Houthi capabilities, notes recent retaliatory strikes have been smaller and largely ineffective, and says the U.S. stands ready to defend ships and personnel while seeking to avoid wider war. Additional topics include concern about an Ethiopia–Somaliland memorandum that could worsen al‑Shabaab risks, confirmation that the last Ukraine security package was authorized on Dec. 27 and that supplemental funding is needed to sustain assistance, DHS legal action and funding support in response to Texas governor actions at the border, confirmation that Special Envoy John Kerry will depart soon, ongoing searches for two missing U.S. sailors, and a swatting incident referred to Secret Service and D.C. Fire; the administration emphasizes continued diplomatic work on hostages, legal and operational responses where appropriate, and ongoing coordination with allies.
+  
+  ### Detailed Summary
+#### President week ahead
+  Karine Jean‑Pierre outlines the President’s immediate schedule and domestic priorities, highlighting a White House meeting with congressional leaders about the national security supplemental and a Thursday trip to the Raleigh‑Durham Research Triangle to promote Bidenomics. She presents state-level impacts of the administration’s Investing in America agenda and frames the supplemental as urgent to secure the border and support Ukraine. The administration requests patience as more details on the meeting will be provided later.
+- Karine Jean‑Pierre says President Biden will host congressional leaders tomorrow to discuss the national security supplemental request.
+- Karine Jean‑Pierre states the President will travel to the Raleigh‑Durham area Thursday to promote Bidenomics and Investing in America.
+- Karine Jean‑Pierre reports companies announced $31 billion in private clean energy and manufacturing investments in North Carolina under the administration.
+- Karine Jean‑Pierre lists program impacts in North Carolina, including support for 4,300 childcare programs, 2,500 restaurants, 880,000 households saving on internet, and 2.1 million Medicare beneficiaries receiving drug cost savings.
+#### Middle East overview
+  Admiral John Kirby provides a broad update on the Middle East, describing high‑level coordination with allies and officials on Ukraine and the Gaza conflict and noting Jake Sullivan’s meetings in Davos. He emphasizes sustained U.S. engagement on hostage recovery, diplomatic outreach in the region, and ongoing coordination with Israel on operational changes. Kirby stresses that bringing hostages home and reducing civilian suffering remain top priorities.
+- Admiral John Kirby says the President spoke with German Chancellor Scholz as part of close coordination on issues including support for Ukraine.
+- Admiral John Kirby reports National Security Advisor Jake Sullivan is in Davos meeting foreign leaders and that both he and Secretary Blinken met with President Zelenskyy.
+- Admiral John Kirby identifies hostage recovery as a top U.S. priority and notes intensive diplomatic engagement in the region.
+#### Hostage negotiations status
+  Kirby describes intensive, sensitive discussions in Doha focused on securing additional hostage releases and confirms Brett McGurk’s recent presence there to advance proposals. He warns of limited public detail to protect negotiation prospects and notes that roughly 140 hostages remain held. The U.S. emphasizes continued, high‑priority efforts for U.S. citizens among those detained.
+- Admiral John Kirby says Brett McGurk was in Doha last week working specifically on the hostage situation.
+- Admiral John Kirby reports very serious, intensive discussions are underway in Qatar about the possibility of another hostage deal.
+- Admiral John Kirby states about 140 hostages remain held and the U.S. is focused particularly on the Americans believed to be detained.
+#### Israeli operational shift
+  Kirby relays that Israel announced a transition to lower‑intensity operations in North Gaza and announced the withdrawal of an army division as part of that shift, with similar moves anticipated in southern Gaza. The U.S. is coordinating with Israeli senior leaders and preparing to expand humanitarian assistance and assessments to facilitate population returns. Kirby frames the shift as an opportunity to reduce civilian harm and improve aid distribution.
+- Admiral John Kirby cites Israeli Defense Ministry statements that Israel has shifted to a lower‑intensity phase in North Gaza and will soon do so in southern Gaza.
+- Admiral John Kirby notes Israel announced the withdrawal of an army division from Gaza as part of the transition to lower‑intensity operations.
+- Admiral John Kirby says U.S. envoy David Satterfield and Ambassador Jack Lew are meeting Israeli senior leadership and military commanders to discuss the transition and humanitarian issues.
+#### Humanitarian aid into Gaza
+  Kirby explains the U.S. is preparing to increase humanitarian assistance as Israel transitions operations, and the U.N. hopes to conduct assessment missions in North Gaza. He reports recent operational constraints but emphasizes efforts to keep aid flows steady and meaningful. The administration cites 228 trucks delivered over two crossings as progress but acknowledges the number remains insufficient.
+- Admiral John Kirby says the U.S. is preparing to increase humanitarian assistance to Gaza as Israel transitions to lower‑intensity operations.
+- Admiral John Kirby reports 228 trucks entered Gaza over two crossings today and notes the administration is trying to keep deliveries above 200 trucks when possible.
+- Admiral John Kirby cautions that ongoing fighting remains a major hindrance to aid delivery and civilian returns.
+#### Houthis and Red Sea attacks
+  Kirby addresses recent Houthi attacks on commercial vessels in the Red Sea and recounts U.S. and U.K. strikes intended to degrade Houthi offensive capabilities. He characterizes recent Houthi retaliations as smaller and largely ineffective, stresses that the U.S. anticipated some reprisals, and says the U.S. stands ready to defend ships and personnel while not seeking broader war. Kirby refrains from detailing potential future military actions.
+- Admiral John Kirby says recent Houthi retaliatory strikes have been smaller and largely ineffective compared with earlier attacks.
+- Admiral John Kirby states the U.S. and U.K. strikes last Friday were intended to disrupt and degrade Houthi capability to conduct offensive operations.
+- Admiral John Kirby warns the U.S. stands ready to defend its interests, sailors, and merchant shipping and will act as required, but is not seeking a broader war.
+#### Impact on merchant shipping
+  When asked about casualties from attacks on commercial vessels, Kirby says no comprehensive casualty list is available from his briefing and that many strikes miss or are intercepted. He explains merchant ships often have small crews and significant freeboard, reducing likelihood of casualties or catastrophic damage. He commits to checking CENTCOM for casualty figures and emphasizes allied defenses have limited successful strikes so far.
+- Admiral John Kirby says many missile and drone attacks have been ineffective, frequently intercepted or falling harmlessly into the water.
+- Admiral John Kirby explains large merchant ships often have small crews and high freeboard, which helps explain the low reported injury counts.
+- Admiral John Kirby agrees to consult CENTCOM for more complete casualty or damage figures for merchant vessels.
+#### FTO review and Iran reports
+  Kirby says the administration is still reviewing whether to designate the Houthis as a Foreign Terrorist Organization and has no decision yet. He is not aware of confirmed Iranian strikes into Pakistan and offers to follow up on reports, indicating the administration is monitoring regional developments. The review process remains ongoing and undisclosed.
+- Admiral John Kirby reports there is no update yet on any FTO redesignation of the Houthis and that the review is ongoing.
+- Admiral John Kirby says he was not tracking reported Iranian strikes into Pakistan today and will follow up to provide more information.
+#### Horn of Africa concerns
+  Kirby expresses U.S. concern about a memorandum of understanding between Ethiopia and Somaliland, saying it threatens Somalia’s sovereignty and risks undermining the regional fight against al‑Shabaab. He underscores U.S. support for Somalia’s territorial integrity and welcomes African Union and IGAD efforts to reduce tensions. The administration warns the MOU could directly impact U.S. national security interests if it strengthens al‑Shabaab.
+- Admiral John Kirby says the U.S. is troubled by the Ethiopia‑Somaliland memorandum of understanding and emphasizes support for Somalia’s sovereignty.
+- Admiral John Kirby warns the MOU risks disrupting the regional fight against al‑Shabaab and could pose a U.S. national security concern.
+- Admiral John Kirby welcomes African Union and IGAD engagement to reduce tensions in the Horn of Africa.
+#### Ukraine aid and supplemental
+  Kirby states the last U.S. security assistance package for Ukraine was authorized on December 27 and that there is no additional package currently scheduled. He emphasizes that the national security supplemental request is critical to continue assistance and that the President’s meeting with congressional leaders is intended to press that urgency. Kirby also notes that Sullivan and Blinken discussed continued global support for Ukraine with Zelenskyy in Davos.
+- Admiral John Kirby says the last security assistance package was authorized on December 27 and there is not another one in the works right now.
+- Admiral John Kirby emphasizes the administration needs the national security supplemental funding to continue U.S. assistance for Ukraine.
+- Admiral John Kirby notes Jake Sullivan and Secretary Blinken met with President Zelenskyy and discussed the importance of sustaining global support.
+#### Texas border operations
+  Karine Jean‑Pierre criticizes Texas Governor Abbott’s actions—calling them political stunts that endanger migrants and hinder Border Patrol—and says Texas officials are blocking agents from doing their jobs in parts of the border. She notes DHS has sent a cease‑and‑desist letter and that the administration will refer matters to DOJ if obstruction continues. Jean‑Pierre also highlights federal support to host cities, including over $1 billion in grants and one‑stop clinics that have served more than 10,000 migrants.
+- Karine Jean‑Pierre calls Governor Abbott’s border measures extreme political stunts that demonize people and make Border Patrol’s job harder.
+- Karine Jean‑Pierre says Texas officials are preventing Border Patrol agents from accessing the border in some areas and that DHS has sent a cease‑and‑desist letter.
+- Karine Jean‑Pierre states the administration has provided over $1 billion in grants to jurisdictions hosting migrants and launched clinics serving more than 10,000 people.
+#### John Kerry departure
+  Jean‑Pierre confirms Special Envoy John Kerry will leave the administration in the coming month after three years, and she credits his leadership on an ambitious climate agenda and U.S. climate diplomacy. She emphasizes the administration’s climate work will continue but offers no personnel replacement or additional rationale for the timing. The White House frames Kerry’s tenure as producing major climate policy results.
+- Karine Jean‑Pierre confirms Special Envoy John Kerry will depart the administration in the upcoming month after three years of service.
+- Karine Jean‑Pierre credits Kerry with delivering an ambitious climate agenda and helping restore U.S. leadership on climate.
+#### Election rhetoric and Jan. 6
+  Jean‑Pierre reiterates the President’s refusal to entertain conspiracy theories about the 2020 election, calling it a freely conducted contest that federal judges have affirmed. She condemns January 6 as an attack on democracy that cost law enforcement lives and says the administration will continue standing against dangerous revenge narratives and misinformation. She declines to comment on specific candidates as a federal employee.
+- Karine Jean‑Pierre states the 2020 election was free and fair and that conspiracy theories about it have been debunked by federal judges.
+- Karine Jean‑Pierre says the President will stand against dangerous revenge schemes and conspiracy theories that led to the January 6 attack on the Capitol.
+- Karine Jean‑Pierre declines to comment on election‑year campaign specifics due to her status as a federal employee.
+#### Secretary Austin and sailors search
+  Jean‑Pierre notes Secretary Austin has been discharged from the hospital and the President looks forward to his return, but she offers no specifics on timing. Kirby reports the search for two Navy personnel in the water is ongoing with no new public update and asks for patience, offering thoughts and prayers for the families. The Pentagon remains the lead for both operational details and public updates.
+- Karine Jean‑Pierre says Secretary Austin was discharged from the hospital and the President looks forward to his return to the Pentagon.
+- Admiral John Kirby reports the search for two U.S. Navy sailors in the water is ongoing and that he has no new update to provide.
+- Admiral John Kirby offers thoughts and prayers for the missing sailors and their families while the Defense Department continues search operations.
+#### Swatting and White House security
+  Jean‑Pierre references a swatting incident that prompted a Secret Service and D.C. Fire response and refers reporters to those agencies for specifics. She and the administration characterize swatting as a growing risk that the Secret Service will monitor closely, while declining to provide operational detail from the briefing. The White House emphasizes existing campus response capabilities and takes the issue seriously.
+- Karine Jean‑Pierre refers questions about the swatting incident to the Secret Service and D.C. Fire, which responded to the event.
+- Karine Jean‑Pierre says swatting represents a broader risk and that the Secret Service is monitoring such threats closely as they relate to the White House.

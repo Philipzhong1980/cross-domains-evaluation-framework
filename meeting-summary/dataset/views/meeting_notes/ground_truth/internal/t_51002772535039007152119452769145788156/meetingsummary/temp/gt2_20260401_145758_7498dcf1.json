@@ -1,0 +1,123 @@
+{
+  "result": {
+    "meeting_context": "Joint Administrative, Zoning and Subdivision Committee Public Hearing to review a development project at 1155 and 1185 Terabella Ave, including development review permit, heritage tree removal, and lot line adjustment.",
+    "participants": [
+      "Diana Pancholi",
+      "Brittany Whitehill",
+      "Weng Tam",
+      "Diana Fazely"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Opening and Structure",
+        "points": [
+          {
+            "speaker": "Diana Pancholi",
+            "text": "Meeting called to order at 4:03 PM with Diana Pancholi presiding as zoning administrator, Diana Fazely from City Attorney's office present, Ed Arango from public works absent.",
+            "source": "Diana Pancholi : Good afternoon everyone, and welcome to the Joint Administrative, Zoning and Subdivision Committee Public Hearing of Wednesday, November 23rd, 2022."
+          },
+          {
+            "speaker": "Diana Pancholi",
+            "text": "No consent calendar items listed on agenda, proceeding directly to joint committee portion with one item for discussion.",
+            "source": "Diana Pancholi : But on today's agenda, we have no consent items listed."
+          }
+        ]
+      },
+      {
+        "topic": "Project Overview and Staff Presentation",
+        "points": [
+          {
+            "speaker": "Diana Pancholi",
+            "text": "Project involves 1155 and 1185 Terabella Ave requesting development review permit for three-story 19,958 square foot office building with surface parking, heritage removal permit for 3 trees, and lot line adjustment on 1.3 acre site.",
+            "source": "Diana Pancholi : It is a request for a development review permit to construct a three story, 19,958 square foot office building with an associated surface parking lot, a heritage removal permit to remove 3 heritage trees on site, and a lot line adjustment to remove a lot line to combine two lots into one lot on a weakened 1.3 acre project site."
+          },
+          {
+            "speaker": "Brittany Whitehill",
+            "text": "Project located on South side of Terra Bella Ave between North Shoreline Blvd and Linda Vista Ave in MMM General Industrial and ML Limited Industrial Districts.",
+            "source": "Brittany Whitehill : This project is located on the South side of Terra Bella Ave. between North Shoreline Blvd. And Linda Vista Ave. in the MMM General Industrial and ML Limited Industrial Districts."
+          },
+          {
+            "speaker": "Brittany Whitehill",
+            "text": "Staff found proposed office building and site improvements consistent with ML and MMM zoning district requirements, with project complying with Mountain View Zoning Code, General Plan and Subdivision Map Act.",
+            "source": "Brittany Whitehill : Staff has found that the proposed office building and site improvements are consistent with the respective requirements of the ML and MMM zoning districts and that the project would not result in a superior site layout or neighbourhood compatibility if the lot were to only contain 1 zoning designation."
+          },
+          {
+            "speaker": "Brittany Whitehill",
+            "text": "Project complies with CEQA through initial study and negative declaration circulated for 30-day public comment from September 14 to October 14, 2022, with no significant environmental impacts identified.",
+            "source": "Brittany Whitehill : The project complies with the California Environmental Quality Act or SEQUA because an initial study of environmental significance and negative declaration have been prepared in accordance with the SEQUA guidelines and circulated for a 30 day public comment from September 14th, 2022 to October 14th, 2022"
+          }
+        ]
+      },
+      {
+        "topic": "Public Comment on Labor Standards",
+        "points": [
+          {
+            "speaker": "Weng Tam",
+            "text": "Weng Tam representing Norcal Carpenter Union Local 405 and 7000+ carpenters in Santa Clara County advocated for local hiring standards and area labor language for the project.",
+            "source": "Weng Tam : My name is Wing Tam. I'm a few representative from Norcal Carpenter Union Local 4/05. I'm also represent 7000 plus Carpenter in Santa Cara County."
+          },
+          {
+            "speaker": "Weng Tam",
+            "text": "Union contacted developer but received no response yet, requesting discussion about carpenter labor standards to help developer succeed with project.",
+            "source": "Weng Tam : We already contact with developer but we don't have any responses yet. So I would like to open discussion with the developer, talk about our Carpenter Labor Standards for the for the project"
+          }
+        ]
+      },
+      {
+        "topic": "Committee Deliberation and Approval",
+        "points": [
+          {
+            "speaker": "Diana Fazely",
+            "text": "Diana Fazely inquired about finding requirements for consolidated single zone parcel regarding neighborhood compatibility and site layout.",
+            "source": "Diana Fazely : I'm hoping I can hear from staff about the the finding that we're to make that the consolidated single zone parcel would not result in greater neighborhood compatibility and a superior site layout if possible."
+          },
+          {
+            "speaker": "Brittany Whitehill",
+            "text": "Staff confirmed site layout focuses parking toward back and landscaping/pedestrian amenities toward front, consistent with desired design standards for these project types.",
+            "source": "Brittany Whitehill : It does, you know, focus parking towards the back of the site and and landscaping and pedestrian amenities towards the front of the site, which is consistent with you know what we would like to see in these types of projects."
+          },
+          {
+            "speaker": "Diana Pancholi",
+            "text": "Diana Pancholi reviewed materials and confirmed project's consistency with Zoning Ordinance and General Plan based on information presented and posted online.",
+            "source": "Diana Pancholi : I've reviewed the materials posted online, including the findings report and concur on the project's consistency with the Zoning Ordinance and the General Plan."
+          }
+        ]
+      },
+      {
+        "topic": "Meeting Closure",
+        "points": [
+          {
+            "speaker": "Diana Pancholi",
+            "text": "Diana Pancholi closed public hearing at 4:14 PM and extended Thanksgiving wishes to participants.",
+            "source": "Diana Pancholi : And with that we'll the public hearing today at 4:14 PM."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Subdivision Committee",
+        "text": "Diana Fazely motioned to approve lot line adjustment at 1155 and 1185 Terabella Ave, seconded by Diana Pancholi, passed unanimously with decision appealable to City Council within 10 calendar days.",
+        "source": "Diana Fazely : And I do want to make a motion to approve the lot line adjustment at 1155 and 1185 Terabella Ave."
+      },
+      {
+        "assignee": "Diana Pancholi",
+        "text": "Diana Pancholi as zoning administrator approved development permits for the project with posted findings and conditions of approval, decision appealable to City Council within 10 calendar days.",
+        "source": "Diana Pancholi : And based on all of the information presented today and posted online, I move to approve this project with the posted findings and conditions of approval noted by the city staff."
+      }
+    ],
+    "metadata": {
+      "topicCount": 5,
+      "pointCount": 12,
+      "decisionCount": 2
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:57:58.891630+00:00"
+  }
+}

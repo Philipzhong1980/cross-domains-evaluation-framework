@@ -1,0 +1,264 @@
+{
+  "meeting_context": "White House press briefing imported from 20230123_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. YANG",
+    "MR. SAMS",
+    "Nancy Cordes",
+    "Zeke Miller",
+    "Steve Holland",
+    "Akayla Gardner",
+    "Mary Bruce",
+    "Andrew Restuccia",
+    "Brooke Singman",
+    "Tommy Christopher",
+    "Sophia",
+    "Jordan",
+    "Asma",
+    "James Rosen",
+    "Peter Nicholas",
+    "Alexander Nazaryan"
+  ],
+  "topics": [
+    {
+      "topic": "The call with White House spokesperson Ian Sams",
+      "points": [
+        {
+          "text": "The call with White House spokesperson Ian Sams is beginning, with participants being reminded of the ground rules and Ian giving brief opening remarks.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House Counsel sent a letter to",
+      "points": [
+        {
+          "text": "The White House Counsel sent a letter to the Chairman of the House Oversight Committee, explaining that the White House does not have possession of the documents requested and emphasizing the importance of protecting law enforcement investigations, while also disclosing that the President's personal lawyer released a statement about a voluntary DOJ search of the President's residence, highlighting the President's commitment to cooperate with the ongoing investigation.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Nancy Cordes asks who is paying the President's",
+      "points": [
+        {
+          "text": "Nancy Cordes asks who is paying the President's personal attorney and where the money will come from.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Nancy Cordes asks who is paying the President's",
+      "points": [
+        {
+          "text": "Nancy Cordes asks who is paying the President's personal attorney and where the money will come from, and Mr. Sams refers her to Molly Levinson for further information.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President's personal attorney discovered additional documents and",
+      "points": [
+        {
+          "text": "The President's personal attorney discovered additional documents and materials in the room adjacent to the garage, and the President voluntarily offered DOJ access to his home for an exhaustive search to ensure any government documents are returned, while also stating that they are following DOJ's lead and not getting ahead of potential future investigative steps.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President's personal attorney confirmed that documents with",
+      "points": [
+        {
+          "text": "The President's personal attorney confirmed that documents with classification markings and surrounding materials, including handwritten notes from the vice presidential years, were discovered and turned over to the DOJ for their ongoing investigation, while emphasizing full cooperation with the DOJ and not providing further commentary on the contents of the materials.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President's personal lawyers voluntarily offered the Department",
+      "points": [
+        {
+          "text": "The President's personal lawyers voluntarily offered the Department of Justice access to the home for an extensive search, keeping the President informed as material was found.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Andrew Restuccia asked if the President's lawyers or",
+      "points": [
+        {
+          "text": "Andrew Restuccia asked if the President's lawyers or the FBI had any intention to investigate Mr. Biden's Senate papers at the University of Delaware, considering that Senate materials were found during the search.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House defers to the Justice Department",
+      "points": [
+        {
+          "text": "The White House defers to the Justice Department regarding the investigation of the materials taken from Wilmington and does not provide any information on the contents or potential future investigative steps.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House declines to provide any additional",
+      "points": [
+        {
+          "text": "The White House declines to provide any additional details on the contents or nature of the six items containing classified documents taken from Wilmington, deferring to the Justice Department's ongoing investigation.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Tommy Christopher asks if there is a possibility",
+      "points": [
+        {
+          "text": "Tommy Christopher asks if there is a possibility for live and televised briefings and questions why pictures weren't taken and published of the documents retrieved from Mar-a-Lago.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker refers the question about the retrieval",
+      "points": [
+        {
+          "text": "The speaker refers the question about the retrieval of documents from Mar-a-Lago to the Department of Justice and emphasizes their commitment to providing access to information and promptly disclosing any concerns to authorities.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the White House's cooperation with",
+      "points": [
+        {
+          "text": "The speaker emphasizes the White House's cooperation with authorities and commitment to providing public information while respecting the independence of the Department of Justice's ongoing investigation.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Sophia asks Ian if the White House received",
+      "points": [
+        {
+          "text": "Sophia asks Ian if the White House received a letter from the Justice Department asking Biden's lawyers to secure material and not review any documents, and Ian refers her to the personal attorneys and the Justice Department for confirmation.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In the transcript Mr Sams addresses criticism from",
+      "points": [
+        {
+          "text": "In the transcript, Mr. Sams addresses criticism from Senate Democrats regarding the President's handling of the investigation, emphasizes the administration's full cooperation with the Special Counsel and Department of Justice, and highlights the President's focus on his priorities while also maintaining transparency in the investigation process.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President's personal lawyers at his direction offered",
+      "points": [
+        {
+          "text": "The President's personal lawyers, at his direction, offered for the Justice Department to conduct a thorough search of his residence, which was voluntary and fully cooperative, resulting in the DOJ taking away additional material.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "James Rosen asks the spokesperson to provide information",
+      "points": [
+        {
+          "text": "James Rosen asks the spokesperson to provide information on the total number of classified documents that have been turned over from all locations, following the President's personal attorney's statement about six classified materials being taken from the Wilmington residence.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson explains that the total number of",
+      "points": [
+        {
+          "text": "The spokesperson explains that the total number of classified documents turned over from all locations is not provided, and clarifies that President Biden employs both personal attorneys and the White House Counsel's Office, with each group handling different aspects of his legal matters.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Peter Nicholas questions why the spokesperson does not",
+      "points": [
+        {
+          "text": "Peter Nicholas questions why the spokesperson does not provide the exact number of pages found in the classified documents, suggesting that this could be misleading to the public, and suggests letting the public decide whether the amount is small or large.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson explains that they are providing information",
+      "points": [
+        {
+          "text": "The spokesperson explains that they are providing information as accurately as possible while cooperating with the independent investigation conducted by the Department of Justice, which will determine the exact number and nature of materials involved.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson explains that they are providing accurate",
+      "points": [
+        {
+          "text": "The spokesperson explains that they are providing accurate information based on their knowledge and access, immediately handing over materials to the proper authorities, and encouraging questions about the concrete details of the documents to be directed to the Department of Justice.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The journalist questions the level of commitment from",
+      "points": [
+        {
+          "text": "The journalist questions the level of commitment from the White House to cooperate with the House Oversight investigation, suggesting that increased cooperation would lend more legitimacy to the investigation.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The journalist questions the level of cooperation from",
+      "points": [
+        {
+          "text": "The journalist questions the level of cooperation from the White House in response to the House Oversight investigation, suggesting that their language and approach to the investigation has not changed significantly from last week.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House acknowledges the need to respect",
+      "points": [
+        {
+          "text": "The White House acknowledges the need to respect separation of powers and protect the integrity of an ongoing law enforcement investigation while approaching the House Oversight Committee in good faith.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

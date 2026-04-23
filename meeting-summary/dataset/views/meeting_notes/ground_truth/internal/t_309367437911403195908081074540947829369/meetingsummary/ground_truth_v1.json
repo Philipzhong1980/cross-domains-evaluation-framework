@@ -1,0 +1,202 @@
+{
+  "meeting_context": "Council Policy and Procedures Committee met on December 15, 2022 by video conference under emergency procedures. The committee approved prior minutes, discussed amendments to Council Policy K2 and the Council Code of Conduct focused on Form 700 enforcement and application deadline flexibility, reviewed 2023 work plan items, and requested a memo clarifying how requests to use public land in private development projects are currently handled.",
+  "participants": [
+    "Lisa Matichak",
+    "Lucas Ramirez",
+    "Alison Hicks",
+    "Kimberly Thomas",
+    "Heather Glaser",
+    "Kimbra McCarthy",
+    "England"
+  ],
+  "topics": [
+    {
+      "topic": "Meeting Procedures and Roll Call",
+      "points": [
+        {
+          "text": "Chair Lisa Matichak opened the December 15 meeting at 3:34 PM and announced that the meeting was being held by video conference under emergency procedures, with public comment accepted by email or Zoom.",
+          "source": "Lisa Matichak: So this is the Council Policy and Procedures Committee meeting of December 15th ... All members of the Council Policy and Procedures Committee will participate in the meeting by video conference ... So let's call the meeting to order at 3:34.",
+          "speaker": "Lisa Matichak",
+          "id": "t_001_p_001"
+        },
+        {
+          "text": "Roll call recorded Alison Hicks, Lucas Ramirez, and Chair Lisa Matichak as present.",
+          "source": "Kimberly Thomas: Committee member Hicks. ... Committee member Ramirez. ... And chair Manischuk.",
+          "speaker": "Kimberly Thomas",
+          "id": "t_001_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Meeting Minutes Approval",
+      "points": [
+        {
+          "text": "Before the vote on the September 28, 2022 minutes, England said the prior minutes referenced issues he had raised but did not make clear what the path forward would be.",
+          "source": "England: in the minutes it has for the open public comments ... it's not at all clear to me where they go from here.",
+          "speaker": "England",
+          "id": "t_002_p_001"
+        },
+        {
+          "text": "The committee approved the September 28, 2022 meeting minutes after a motion by Lucas Ramirez, a second by Alison Hicks, and a unanimous roll call vote.",
+          "source": "Lucas Ramirez: I'm happy to move to approve the Minutes. ... Alison Hicks: 2nd. ... Lisa Matichak: Yes, that passes unanimously.",
+          "speaker": "Lucas Ramirez",
+          "id": "t_002_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Public Comments and Advisory Body Handbook",
+      "points": [
+        {
+          "text": "During oral communications, England said several previously raised items still lacked a clear path forward and noted that the Advisory Body Handbook had not been updated for the Public Safety Advisory Board.",
+          "source": "England: it would be helpful for me to have a path forward somehow ... The one that is particularly interesting at the moment is the Advisory Body Handbook update ... last time I checked it had not been updated for the PSAB.",
+          "speaker": "England",
+          "id": "t_003_p_001"
+        },
+        {
+          "text": "Chair Matichak suggested England send those items by email to the City Council so responsible staff could respond.",
+          "source": "Lisa Matichak: I would suggest if you want to put the items in an e-mail and send it to the City Council and then the staff members responsible for those areas do respond.",
+          "speaker": "Lisa Matichak",
+          "id": "t_003_p_002"
+        },
+        {
+          "text": "Later in public comment, England said the handbook remained inconsistent about whether advisory body members may be non-residents and asked for the issue to be clarified in supporting documentation.",
+          "source": "England: It's not consistent as far as whether members can be non residents or not ... one member can be a non resident and none of the others say either way ... this should be codified and made clear in the supporting documentation.",
+          "speaker": "England",
+          "id": "t_003_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Form 700 Filing Requirements and Enforcement",
+      "points": [
+        {
+          "text": "Staff proposed amending the Code of Conduct and Council Policy K2 so that an advisory body member who fails to file Form 700 would be suspended from participating until a proper filing is made, and missed meetings during that period would be treated as unexcused.",
+          "source": "Heather Glaser: that would suspend a member's participation on the body to which they're appointed until a proper filing is made ... we're recommending that those missed meetings during that are qualified as unexcused.",
+          "speaker": "Heather Glaser",
+          "id": "t_004_p_001"
+        },
+        {
+          "text": "Kimbra McCarthy said the Design Review Committee could face practical challenges because some architects may be reluctant to file Form 700 disclosures.",
+          "source": "Kimbra McCarthy: we have one smaller Commission in particular that we may have challenges with with Form 7 hundreds in the future at the DRC.",
+          "speaker": "Kimbra McCarthy",
+          "id": "t_004_p_002"
+        },
+        {
+          "text": "Ramirez emphasized that Form 700 compliance matters because the city should know when DRC members have accepted compensation from developers appearing before the body.",
+          "source": "Lucas Ramirez: We have an architect who has worked with the developer ... and has accepted compensation from them. That's really important for us to know.",
+          "speaker": "Lucas Ramirez",
+          "id": "t_004_p_003"
+        },
+        {
+          "text": "McCarthy clarified that Form 700 filing obligations are driven by state law and city attorney guidance, not by whether the committee chooses to restate the requirement in city policy.",
+          "source": "Kimbra McCarthy: It is set by law and the city Attorney's office has advised specifically on which boards and commissions do need to be filing them.",
+          "speaker": "Kimbra McCarthy",
+          "id": "t_004_p_004"
+        }
+      ]
+    },
+    {
+      "topic": "Application Deadline Modifications",
+      "points": [
+        {
+          "text": "To handle term expirations that do not line up with the old month-based schedule, staff recommended removing prescriptive timing language and setting application deadlines as near as practicable to interview dates so packets can still be compiled in time.",
+          "source": "Heather Glaser: we can add some language to the policy that basically dictates that we would set the deadline as near as practicable to the interview date.",
+          "speaker": "Heather Glaser",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Council Policy K2 Amendments",
+      "points": [
+        {
+          "text": "After discussion, Ramirez moved the staff recommendation with the revisions read into the record, including the Form 700 enforcement language and the more flexible application deadline language; Hicks said she would support the motion after staff clarified that the filing obligation already existed under state law.",
+          "source": "Lucas Ramirez: I'm happy to move the staff recommendation and include the revisions that were just read into the record. ... Alison Hicks: In that case, I'll vote for this.",
+          "speaker": "Lucas Ramirez",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Absence Determination Procedures",
+      "points": [
+        {
+          "text": "Staff explained that advisory bodies may determine whether absences are excused or unexcused by general consent or majority vote, with the chair proposing a status in consultation with the staff liaison, while City Council absences are handled under the charter by the mayor.",
+          "source": "Heather Glaser: each advisory body would determine by general consent or a majority vote whether the status of an absence is excused or unexcused ... the advisory body chair, in consultation with the staff liaison, would propose whether or not an absence was excused or unexcused ... That's governed by the charter, and that defers the power to determine whether an absence is excused to the mayor.",
+          "speaker": "Heather Glaser",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Work Plan Updates and Future Items",
+      "points": [
+        {
+          "text": "Staff said most current work plan items had been completed and identified two items expected to continue into 2023: minor cleanup to Council Policy A2 and further modifications to Council Policy A15, the Shoreline ticket policy, anticipated in the spring.",
+          "source": "Kimberly Thomas: You have two items ... Council policy A2 to look at some minor level cleanup items ... and you also have a council policy A15, which is the Shoreline ticket policy ... additional modifications ... sometime in the spring.",
+          "speaker": "Kimberly Thomas",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Use of Public Land Process Clarification",
+      "points": [
+        {
+          "text": "Ramirez raised whether the city should provide clearer public guidance for cases where private developers seek to use public land in development projects, noting that the current process is not transparent.",
+          "source": "Lucas Ramirez: right now there is no guidance or policy that provides a process for private developers who would like to use public land in their developments ... it's not publicly accessible. It's not really transparent to anybody.",
+          "speaker": "Lucas Ramirez",
+          "id": "t_009_p_001"
+        },
+        {
+          "text": "McCarthy said staff could prepare an off-agenda memo for the Council describing the current decision-making context first, and then the Council could decide whether to take the issue further or codify a policy through CPPC or another forum.",
+          "source": "Kimbra McCarthy: we can prepare at least for now an off agenda memo for council ... once we give you that maybe if there's interest to take it further then that's something that Council can raise ... if it should come via CPPC or otherwise.",
+          "speaker": "Kimbra McCarthy",
+          "id": "t_009_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Holiday Wishes",
+      "points": [
+        {
+          "text": "Kimberly Thomas wished everyone happy holidays at the end of the meeting.",
+          "source": "Kimberly Thomas: Happy holidays.",
+          "speaker": "Kimberly Thomas",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Meeting Closure",
+      "points": [
+        {
+          "text": "Chair Matichak adjourned the meeting at 4:17 PM.",
+          "source": "Lisa Matichak: Then we will adjourn the meeting at 4:17.",
+          "speaker": "Lisa Matichak",
+          "id": "t_011_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "text": "Approve the September 28, 2022 meeting minutes.",
+      "source": "Lucas Ramirez: I'm happy to move to approve the Minutes. ... Alison Hicks: 2nd. ... Lisa Matichak: Yes, that passes unanimously.",
+      "assignee": "Committee",
+      "id": "d_001"
+    },
+    {
+      "text": "Advance the proposed Council Policy K2 and Code of Conduct amendments, including Form 700 enforcement language and revised application deadline language, for full City Council consideration.",
+      "source": "Lucas Ramirez: I'm happy to move the staff recommendation and include the revisions that were just read into the record. ... Alison Hicks: In that case, I'll vote for this. ... Lisa Matichak: Can we have a roll call vote?",
+      "assignee": "Committee",
+      "id": "d_002"
+    }
+  ],
+  "metadata": {
+    "topicCount": 11,
+    "pointCount": 19,
+    "decisionCount": 2
+  }
+}

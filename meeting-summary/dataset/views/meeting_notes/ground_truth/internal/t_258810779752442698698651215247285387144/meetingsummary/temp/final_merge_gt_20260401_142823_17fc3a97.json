@@ -1,0 +1,363 @@
+{
+  "result": {
+    "additionalProperties": false,
+    "definitions": {
+      "dedup_note_value": {
+        "description": "Standard deduplication note values",
+        "enum": [
+          "from_p1",
+          "from_p2_unique",
+          "from_p3_unique",
+          "partial_overlap_complementary",
+          "unable_to_determine_duplicate",
+          "repeated_discussion"
+        ],
+        "type": "string"
+      },
+      "priority_level": {
+        "description": "Priority level: p1 (highest) > p2 > p3 (lowest)",
+        "enum": [
+          "p1",
+          "p2",
+          "p3"
+        ],
+        "type": "string"
+      }
+    },
+    "description": "Schema for the merged ground truth output from multi-source GT deduplication process",
+    "properties": {
+      "merge_statistics": {
+        "additionalProperties": false,
+        "description": "Statistics about the merge operation",
+        "properties": {
+          "deduplication_details": {
+            "additionalProperties": false,
+            "description": "Detailed breakdown of removed duplicates",
+            "properties": {
+              "p2_skipped": {
+                "description": "P2 items that were skipped as duplicates",
+                "items": {
+                  "additionalProperties": false,
+                  "properties": {
+                    "assignee": {
+                      "description": "Name of the assignee in the decision",
+                      "minLength": 1,
+                      "type": "string"
+                    },
+                    "item_type": {
+                      "description": "Type of item (point or decision)",
+                      "enum": [
+                        "point",
+                        "decision"
+                      ],
+                      "type": "string"
+                    },
+                    "reason": {
+                      "description": "Reason for skipping (duplicate_with_p1: [detail])",
+                      "examples": [
+                        "duplicate_with_p1: same_source_paraphrase (numeric_value_match: $2M = 2 million)",
+                        "duplicate_with_p1: same_source_entity_match (3 engineers, Q4)"
+                      ],
+                      "pattern": "^duplicate_with_p1: .+$",
+                      "type": "string"
+                    },
+                    "source": {
+                      "minLength": 1,
+                      "type": "string"
+                    },
+                    "speaker": {
+                      "description": "Name of the speaker who made the point",
+                      "minLength": 1,
+                      "type": "string"
+                    },
+                    "text": {
+                      "description": "The duplicate item text",
+                      "minLength": 1,
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "item_type",
+                    "text",
+                    "source",
+                    "reason"
+                  ],
+                  "type": "object"
+                },
+                "type": "array"
+              },
+              "p3_skipped": {
+                "description": "P3 items that were skipped as duplicates",
+                "items": {
+                  "additionalProperties": false,
+                  "properties": {
+                    "reason": {
+                      "description": "Reason for skipping (duplicate_with_p1/p2: [detail])",
+                      "examples": [
+                        "duplicate_with_p1: same_source_paraphrase (delayed = postponed, March 2025 = March)",
+                        "duplicate_with_p2: entity_match (API Team)"
+                      ],
+                      "pattern": "^duplicate_with_p[12]: .+$",
+                      "type": "string"
+                    },
+                    "source": {
+                      "minLength": 1,
+                      "type": "string"
+                    },
+                    "speaker": {
+                      "description": "Name of the speaker who made the point",
+                      "minLength": 1,
+                      "type": "string"
+                    },
+                    "text": {
+                      "description": "The duplicate item text",
+                      "minLength": 1,
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "speaker",
+                    "text",
+                    "source",
+                    "reason"
+                  ],
+                  "type": "object"
+                },
+                "type": "array"
+              }
+            },
+            "type": "object"
+          },
+          "duplicates_removed": {
+            "description": "Number of duplicate items removed during merge",
+            "examples": [
+              3
+            ],
+            "minimum": 0,
+            "type": "integer"
+          },
+          "final_items": {
+            "description": "Total number of items in final merged output",
+            "examples": [
+              7
+            ],
+            "minimum": 0,
+            "type": "integer"
+          },
+          "total_p1_items": {
+            "description": "Total number of items from P1 source",
+            "examples": [
+              4
+            ],
+            "minimum": 0,
+            "type": "integer"
+          },
+          "total_p2_items": {
+            "description": "Total number of items from P2 source",
+            "examples": [
+              3
+            ],
+            "minimum": 0,
+            "type": "integer"
+          },
+          "total_p3_items": {
+            "description": "Total number of items from P3 source",
+            "examples": [
+              3
+            ],
+            "minimum": 0,
+            "type": "integer"
+          }
+        },
+        "required": [
+          "total_p1_items",
+          "total_p2_items",
+          "total_p3_items",
+          "final_items",
+          "duplicates_removed"
+        ],
+        "type": "object"
+      },
+      "merged_gt": {
+        "additionalProperties": false,
+        "description": "The final merged ground truth data",
+        "properties": {
+          "decisions": {
+            "description": "List of decisions made during the meeting",
+            "items": {
+              "additionalProperties": false,
+              "properties": {
+                "assignee": {
+                  "description": "Name of the assignee (unchanged from source)",
+                  "type": "string"
+                },
+                "dedup_note": {
+                  "description": "Explanation of deduplication decision",
+                  "enum": [
+                    "from_p1",
+                    "from_p2_unique",
+                    "from_p3_unique",
+                    "partial_overlap_complementary",
+                    "unable_to_determine_duplicate",
+                    "repeated_discussion"
+                  ],
+                  "examples": [
+                    "from_p1",
+                    "from_p3_unique"
+                  ],
+                  "type": "string"
+                },
+                "original_priority": {
+                  "description": "Priority level of the source GT",
+                  "enum": [
+                    "p1",
+                    "p2",
+                    "p3"
+                  ],
+                  "type": "string"
+                },
+                "source": {
+                  "minLength": 1,
+                  "type": "string"
+                },
+                "text": {
+                  "description": "The decision text (unchanged from source)",
+                  "type": "string"
+                }
+              },
+              "required": [
+                "assignee",
+                "text",
+                "source",
+                "original_priority",
+                "dedup_note"
+              ],
+              "type": "object"
+            },
+            "type": "array"
+          },
+          "meeting_context": {
+            "description": "Context of the meeting",
+            "type": "string"
+          },
+          "participants": {
+            "description": "List of meeting participants",
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "topics": {
+            "description": "List of discussion topics with their points",
+            "items": {
+              "additionalProperties": false,
+              "properties": {
+                "points": {
+                  "description": "Discussion points under this topic",
+                  "items": {
+                    "additionalProperties": false,
+                    "properties": {
+                      "dedup_note": {
+                        "description": "Explanation of deduplication decision",
+                        "enum": [
+                          "from_p1",
+                          "from_p2_unique",
+                          "from_p3_unique",
+                          "partial_overlap_complementary",
+                          "unable_to_determine_duplicate",
+                          "repeated_discussion"
+                        ],
+                        "examples": [
+                          "from_p1",
+                          "from_p2_unique"
+                        ],
+                        "type": "string"
+                      },
+                      "original_priority": {
+                        "description": "Priority level of the source GT",
+                        "enum": [
+                          "p1",
+                          "p2",
+                          "p3"
+                        ],
+                        "type": "string"
+                      },
+                      "source": {
+                        "minLength": 1,
+                        "type": "string"
+                      },
+                      "speaker": {
+                        "description": "Name of the speaker who made the point",
+                        "type": "string"
+                      },
+                      "text": {
+                        "description": "The actual discussion point text (unchanged from source)",
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "speaker",
+                      "text",
+                      "source",
+                      "original_priority",
+                      "dedup_note"
+                    ],
+                    "type": "object"
+                  },
+                  "minItems": 1,
+                  "type": "array"
+                },
+                "topic": {
+                  "description": "Normalized topic name",
+                  "examples": [
+                    "Budget",
+                    "API Development",
+                    "Hiring"
+                  ],
+                  "minLength": 1,
+                  "type": "string"
+                },
+                "topic_merge_note": {
+                  "description": "Documentation of topic name normalization",
+                  "examples": [
+                    "normalized_from: ['Budget', 'budget', 'Q4 Budget']",
+                    ""
+                  ],
+                  "pattern": "^(normalized_from: \\[.*\\])?$",
+                  "type": "string"
+                }
+              },
+              "required": [
+                "topic",
+                "points"
+              ],
+              "type": "object"
+            },
+            "type": "array"
+          }
+        },
+        "required": [
+          "meeting_context",
+          "participants",
+          "topics",
+          "decisions"
+        ],
+        "type": "object"
+      }
+    },
+    "required": [
+      "merged_gt",
+      "merge_statistics"
+    ],
+    "title": "Merged Ground Truth Output Schema",
+    "type": "object"
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_final_merge/generation_final_merge",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "96d6eff54eb8b4ced496aeb8e349890a5e5d3f8bdf8dd6229ebee2e637c5f8c8",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:28:23.000845+00:00"
+  }
+}

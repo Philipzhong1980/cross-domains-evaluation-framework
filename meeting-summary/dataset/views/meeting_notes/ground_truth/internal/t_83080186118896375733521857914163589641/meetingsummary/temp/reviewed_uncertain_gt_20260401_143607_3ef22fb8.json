@@ -1,0 +1,48 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [],
+      "decisions": [
+        {
+          "assignee": "Dawn Cameron",
+          "text": "Dawn Cameron will reach out to AT&T to inquire about permit requirements for Internet service at New Frontier Mobile Home Park.",
+          "source": "Dawn Cameron : We are now reaching out to AT&T to ask them about this and see if there is something we can do to help them submit their permit.",
+          "validation_note": "validated_unique"
+        },
+        {
+          "assignee": "Anna Reynoso",
+          "text": "Anna Reynoso will research funding options to address internet issues and post follow-up information on the city website.",
+          "source": "Anna Reynoso : ...I'll do some more research with the rest of the team and we'll definitely make sure to post that on our website as well.",
+          "validation_note": "validated_unique"
+        }
+      ]
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "These are two separate, distinct decisions about different aspects of internet issues. Dawn Cameron committed to reaching out to AT&T about permits for New Frontier Mobile Home Park, while Anna Reynoso committed to researching funding options and posting information on the website. Both commitments are clearly stated in the transcript with explicit assignee attribution.",
+        "transcript_evidence": [
+          "Dawn Cameron : We are now reaching out to AT&T to ask them about this and see if there is something we can do to help them submit their permit.",
+          "Anna Reynoso : ...I'll do some more research with the rest of the team and we'll definitely make sure to post that on our website as well."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 1,
+      "merged": 1,
+      "excluded": 0,
+      "modified": 0,
+      "confidence": "High confidence - both decisions have clear transcript evidence with explicit assignee commitments and represent separate, non-conflicting tasks related to internet issues."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:36:07.590183+00:00"
+  }
+}

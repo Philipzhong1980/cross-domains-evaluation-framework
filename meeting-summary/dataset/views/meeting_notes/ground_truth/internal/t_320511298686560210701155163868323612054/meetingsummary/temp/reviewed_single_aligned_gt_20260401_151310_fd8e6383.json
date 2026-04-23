@@ -1,0 +1,205 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Multicultural Engagement Program update",
+          "points": [
+            {
+              "speaker": "Nancy Ducos",
+              "text": "In the past year, MEP supported the Housing and Eviction Help Center and Rent Stabilization (translations, webinars, interpretation), Housing Element outreach, and HRC's housing history event. The team also translates City news releases and newsletters and provides interpretation for Council meetings.",
+              "source": "Nancy Ducos : We provided support… to the housing and eviction help centre and the rent stabilization program… provided simultaneous translation… very busy providing support to the housing element… translate news releases… provide interpretation for council meetings… translate the monthly economic development newsletter…",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Community events and resident services",
+          "points": [
+            {
+              "speaker": "Nancy Ducos",
+              "text": "MEP continues supporting the Eviction Help Center, providing language assistance since January for residents needing help understanding processes. The team also supports outreach for other initiatives and is refining targeted engagement to better align City programs with community needs.",
+              "source": "Nancy Ducos : …provided support at the Eviction Help Center… since January… providing language assistant… developing a plan to be more intentional about how we have reached two people…",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Nancy Ducos",
+              "text": "MEP is organizing a Día de los Muertos celebration on October 29, coinciding with the Monster Bash but highlighting their distinct cultural roots, while emphasizing respectful, culturally appropriate engagement.",
+              "source": "Nancy Ducos : …We are going to be celebrating this October 29 and it's at the same time that Monster Batch is happening… understanding that these two… celebration are very different and they have different roots…",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "LGBTQ community representation outreach",
+          "points": [
+            {
+              "speaker": "Julie Solomon",
+              "text": "Responding to MVPD's request, Julie Solomon will help identify a local LGBTQ community representative for the RIPA subcommittee after the Police Department clarifies the role's purpose, leveraging prior assessment contacts and Vice Chair Sylvester's connections.",
+              "source": "Julie Solomon : …Captain Canfield… was looking for a representative of the local LGBT community… I was happy to put out a message… but… understand what the community representative would be asked to do…; IdaRose Sylvester : …offer a small handful of potential people…",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting recognition and thanks",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "Annette Lin thanked Community Outreach Coordinator Nancy Ducos and Chief Communications Officer Lenka Wright for the Multicultural Engagement Program update and acknowledged Laurel James for procedural guidance and support during the meeting.",
+              "source": "Annette Lin : Thank you, Nancy…; Annette Lin : Thanks, Laurel, and thanks for all the reminders of what we need to do.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting procedures and roll call",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "Meeting conducted virtually under California Government Code Section 54953 during declared state of emergency with all commissioners participating by video conference",
+              "source": "Annette Lin : during this declared state of emergency, this meeting will be conducted in accordance with California Government Code Section 54953, Section E",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Roll call confirmed attendance of Commissioners Ball, Nwokidu, Rakestraw, Solomon, Vice Chair Sylvester, and Chair Lin with Commissioner Webb arriving late",
+              "source": "Laurel James : Commissioner Webb will be late this evening",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Language access and census data",
+          "points": [
+            {
+              "speaker": "Nancy Ducos",
+              "text": "Program occasionally receives requests for Hindi and other languages related to housing issues, handled through contracted phone interpretation services",
+              "source": "Nancy Ducos : sometimes we do really have requests for people like Hindi or Modern other languages all related to housing",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Subcommittee appointments discussion",
+          "points": [
+            {
+              "speaker": "Kevin Ball",
+              "text": "Commissioner Ball withdrew interest from Housing and Security Storytelling subcommittee as departing member to simplify decision-making process",
+              "source": "Kevin Ball : I would happily withdraw my interest at this point to make the decision making here simpler",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Annette Lin",
+              "text": "Chair Lin announced resignation from HRC due to relocation to San Mateo at end of year despite term not expiring",
+              "source": "Annette Lin : even though my term is not up, I will unfortunately have to resign my my spot on the HRC because I'll be moving to San Mateo",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Julie Solomon",
+              "text": "Commissioner Solomon volunteered to focus remaining time on closing Discrimination and Inclusion housing project activities rather than joining new subcommittees",
+              "source": "Julie Solomon : I think that closing out some of the activities from the Discrimination and Inclusion and housing project, I think that would be a helpful use of my time",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Commission recruitment and transitions",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "Vice Chair Sylvester recruited two candidates who have applied for vacant HRC positions",
+              "source": "IdaRose Sylvester : I recruited 2 amazing candidates, both who I believe have applied",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Staff requested information from City Clerk's office about number of applications received for vacant commissioner positions",
+              "source": "Laurel James : I have asked the City Clerk's office if I can have the number of applications and if I'm able to share it with you",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting logistics and future plans",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "Celebration of service event scheduled for Monday at Shoreline Amphitheater with commissioner attendance planned",
+              "source": "IdaRose Sylvester : everyone aware of and going to the the little events on Monday, the celebration of service",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will ask the Communications team about hosting the project video on the City's YouTube channel and report back.",
+          "source": "Laurel James : That is a question for our communications team and I will post it to them.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Julie Solomon",
+          "text": "Julie Solomon will contact four residents who provided emails after the July event to clarify interests and coordinate storytelling, referrals, or engagement with the new subcommittee.",
+          "source": "Julie Solomon : I reached out to all four of them… find out… share a story… talk to someone… referral… make them aware… there is a new subcommittee…",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will confirm Form 700 penalty and exit-filing requirements with the City Clerk/Attorney and follow up with commissioners.",
+          "source": "Laurel James : …run them by the City attorney and City Clerk's office and then circle back with you… I will confirm… whether or not there are other penalties.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will clarify with the City Clerk whether an existing applicant pool can fill the soon-to-be-vacant HRC seat without reopening applications.",
+          "source": "Laurel James : That's a great question. I'm clarifying that now with the City Clerk's office.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Julie Solomon",
+          "text": "Julie Solomon will focus remaining time on closing activities from Discrimination and Inclusion housing project.",
+          "source": "Julie Solomon : I think that closing out some of the activities from the Discrimination and Inclusion and housing project, I think that would be a helpful use of my time",
+          "from_gt": "gt2",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 19,
+      "kept": 19,
+      "modified": 0,
+      "dropped": 0,
+      "from_gt1_kept": 9,
+      "from_gt2_kept": 10
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:13:10.337832+00:00"
+  }
+}

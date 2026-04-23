@@ -1,0 +1,96 @@
+### Overview
+  This briefing opens with Karine Jean-Pierre honoring the Pulse nightclub victims and outlines the administration’s priorities on gun violence, LGBTQI+ support, economic fairness, and infrastructure before announcing Tom Perez as Senior Advisor and Director of Intergovernmental Affairs. Admiral John Kirby leads a foreign-policy Q&A focused on sensitive intelligence reporting—particularly allegations about a Chinese intelligence facility in Cuba—where he repeatedly defers operational and legal details to the Office of the Director of National Intelligence and the Justice Department while stressing ongoing counterintelligence mitigation and the need to protect classified sources. Kirby also addresses U.S. coordination with Israel on Iran-related threats, diplomatic efforts in Sudan, consular outreach for an American arrested in Russia, U.S. assistance and intelligence support for Ukraine’s counteroffensive, and routine homeland-security coordination for potential domestic disturbances tied to the former President’s court appearance. Jean-Pierre covers a range of domestic topics including the President’s root canal (local anesthesia, no invocation of the 25th Amendment), U.S. assistance to Canada on wildfires, federal response to the I-95 collapse and the role of the bipartisan infrastructure law, economic messaging ahead of CPI data and opposition to the GOP tax proposal, and personnel matters such as support for nominees and the upcoming confirmation vote for Jared Bernstein. Across the briefing the administration emphasizes protecting classified information, deferring legal and operational specifics to DOJ and ODNI, sustaining diplomatic engagement, and maintaining readiness to provide federal support where requested.
+  
+  ### Detailed Summary
+  #### Pulse remembrance
+  Karine Jean-Pierre opens by marking the seven-year anniversary of the Pulse nightclub shooting during Pride Month and frames the administration’s commitment to the LGBTQI+ community. She emphasizes ongoing efforts to honor victims and to address gun violence domestically. The reference establishes moral context for the administration’s broader statements about safety and community support.
+- MS. JEAN-PIERRE notes the seven-year anniversary of the Pulse nightclub shooting and honors the victims and survivors.
+- MS. JEAN-PIERRE says the Biden-Harris administration will continue lifting up the LGBTQI+ community during Pride Month and beyond.
+  #### Republican tax proposal critique
+  Jean-Pierre criticizes the GOP 'Tax Scam 2.0' proposal as prioritizing tax breaks for wealthy corporations over deficit reduction and support for working families. She contrasts that proposal with the President’s economic approach, which she says focuses on tax relief for working people paid for by closing subsidies and ensuring the wealthy pay more. The administration frames the debate as central to upcoming House proceedings and fiscal priorities.
+- MS. JEAN-PIERRE describes the Republican proposal as giving 'handouts to rich special interests and corporations' rather than reducing the deficit.
+- MS. JEAN-PIERRE says President Biden’s plan cuts taxes for working people and would pay for those cuts by ending taxpayer subsidies for highly profitable industries.
+  #### Tom Perez appointment
+  Jean-Pierre announces that Tom Perez will join the White House as Senior Advisor, Assistant to the President, and Director of Intergovernmental Affairs. She highlights his local, state, and federal experience, including roles as a county councilman, civil rights attorney, and Secretary of Labor, and frames him as the successor to Julie Rodriguez. The White House positions Perez as a key player in implementing Invest in America and strengthening federal relationships with communities.
+- MS. JEAN-PIERRE announces Tom Perez’s appointment to lead Intergovernmental Affairs and succeed Julie Rodriguez.
+- MS. JEAN-PIERRE says Perez’s local, state, and federal experience will help implement the President’s Invest in America agenda.
+  #### Mar-a-Lago documents assessment
+  Reporters ask whether the administration has completed a review of how documents at Mar-a-Lago impacted national security; Admiral Kirby repeatedly refers those questions to the Office of the Director of National Intelligence and the Justice Department. Kirby declines to provide an assessment or status update on the ODNI review. The briefing makes clear the administration is deferring operational and legal questions to relevant agencies.
+- Reporter asks Admiral Kirby if the administration has reviewed national security impacts of Mar-a-Lago documents.
+- MR. KIRBY refers reporters to the Office of the Director of National Intelligence and the Justice Department for the status and assessment.
+  #### China facility in Cuba reporting
+  Multiple reporters press Kirby about reporting that China has established an intelligence facility in Cuba, why the administration did not confirm earlier, and what threat it poses. Kirby says this is not a new Chinese effort in the hemisphere, that counterintelligence work is sensitive, and that the administration has mitigated vulnerabilities and will continue to protect secrets. He emphasizes limits on public detail for operational security while saying the U.S. remains confident in its ability to protect national secrets.
+- Reporter asks about the threat from a reported Chinese intelligence facility in Cuba and public concern about listening capabilities.
+- MR. KIRBY says the activity is not new, the administration has acted to mitigate vulnerabilities, and further details are limited by counterintelligence concerns.
+- MR. KIRBY explains the administration could not provide more detail earlier because of the sensitive nature of the information and stresses operational security constraints.
+  #### US transparency with press on classified reporting
+  The briefing addresses whether the administration will be fully forthcoming when press reports rely on classified information; Kirby stresses the administration will be as forthcoming as possible but must protect highly classified material. He defends the later clarifying statements as not a 'walk-back' but as careful handling of sensitive intelligence. Kirby also criticizes leaking classified information into the public stream as irresponsible.
+- MR. KIRBY says the administration will be as forthcoming as possible but must protect highly classified intelligence.
+- MR. KIRBY describes the later public clarification as necessary context that had to be carefully scrutinized and not a walk-back.
+  #### Israel-Iran consultation
+  Reporters ask whether an alleged U.S.-Iran deal would complicate relations with Israel and how closely the U.S. consults with Israel; Kirby stresses close consultation and a shared view of Iranian destabilizing behavior. He refrains from confirming press reports about any deal and emphasizes the broad set of Iranian threats the U.S. watches. Kirby underscores that Israel will make its own decisions and the U.S. continues to coordinate closely.
+- Reporter asks whether an administration deal with Iran would be binding for Israel and complicate cooperation.
+- MR. KIRBY says the U.S. consults very closely with Israel and shares concerns about Iran’s destabilizing activities, while declining to confirm press reports about any deal.
+  #### Sudan diplomacy and ceasefire push
+  When asked about Sudan, Kirby reiterates U.S. diplomatic engagement in Jeddah and continued pressure for a ceasefire and transition to civilian authority. He says the U.S. and partners want both sides to put down their weapons and that diplomacy will continue. The administration maintains an ongoing commitment to pursue a negotiated end to the violence.
+- Reporter asks whether more can be done to stop the fighting in Sudan after Jeddah efforts failed to sustain a ceasefire.
+- MR. KIRBY says the U.S. remains engaged in Jeddah, wants a ceasefire and transition to civilian rule, and will continue diplomatic efforts.
+  #### Arrest of American in Russia
+  Reporters ask about the arrest of an American citizen, Travis Leake, in Russia on drug charges; Kirby refers those questions to the State Department and notes consular officers visited him at arraignment. He says it is too early to characterize whether the detention is wrongful and that the State Department is monitoring and contacting the family. Kirby does not know whether the President has been briefed.
+- Reporter asks if the administration can comment on the arrest of an American in Russia and whether it resembles a wrongful detention.
+- MR. KIRBY says the State Department is handling consular outreach, that consular officers attended the arraignment, and that it is too soon to characterize the case.
+  #### Ukraine counteroffensive and US support
+  Reporters seek the U.S. assessment of Ukraine’s newly confirmed counteroffensive; Kirby declines to provide an 'armchair assessment' and stresses that Ukraine and its military will characterize their operations. He emphasizes U.S. focus on ensuring Ukraine has tools and assistance, references recent USAI assistance and imminent drawdown packages, and affirms ongoing support for battlefield success. Kirby also clarifies Ukraine had no obligation to notify the U.S. before operations.
+- Reporter asks for the U.S. assessment of Ukraine’s counteroffensive and reported gains and losses.
+- MR. KIRBY declines to provide a public battlefield assessment and says the U.S. will continue to equip Ukraine with capabilities it needs to succeed.
+  #### Stoltenberg meeting and NATO focus
+  Reporters ask about President Biden’s upcoming meeting with NATO Secretary General Jens Stoltenberg and whether classified-handling concerns will be discussed; Kirby says the agenda is wide-ranging but will focus on Ukraine and allied support. He declines to comment on Secretary General succession or whether the President will ask him to stay on, instead praising Stoltenberg’s leadership and noting the Alliance must select a leader the whole Alliance can back. Kirby reiterates the U.S. support for NATO’s open-door policy regarding future membership decisions.
+- Reporter asks whether Biden will address classified-handling concerns with Secretary General Stoltenberg.
+- MR. KIRBY says the meeting will center on Ukraine and Alliance support and will not preview private agenda items publicly.
+- MR. KIRBY says the U.S. supports NATO’s open-door policy and that selection of a secretary general must have Alliance-wide support.
+  #### Allied assurance on intelligence loss
+  Reporters press whether allies were reassured after reporting about sensitive documents (including Five Eyes markings) and what diplomatic steps the U.S. has taken; Kirby defers operational and legal questions to the Justice Department and ODNI while reiterating the administration’s commitment to protecting classified information and national security. He stresses separation between legal processes and routine diplomatic reassurance. Kirby declines to comment on details of the documents.
+- Reporter asks what the U.S. has done to assure allies given images of documents labeled 'Five Eyes.'
+- MR. KIRBY defers to the Justice Department and the Director of National Intelligence while stating the administration takes protection of classified information seriously and works to safeguard intelligence-sharing.
+  #### Cuba diplomatic engagement
+  Reporters ask whether the U.S. has raised the Cuba-China intelligence activity directly with the Cuban government; Kirby confirms the U.S. has made its concerns known to Cuba. He does not elaborate on the content or outcome of those conversations due to sensitivity. The administration signals diplomatic engagement on the matter without public detail.
+- Reporter asks if the U.S. has spoken to the Cuban government about the reported Chinese facility.
+- MR. KIRBY confirms that the U.S. has made its concerns known to Cuba but provides no further detail.
+  #### Event security and homeland coordination
+  Reporters probe whether the White House is monitoring homeland security risks related to the former President’s upcoming court appearance and whether staying out of Justice Department matters reduces oversight; Kirby stresses routine federal-state-local coordination and says the Sit Room and federal partners maintain connective tissue to monitor potential civic disturbances. He refuses to discuss operational security details but affirms preparedness to provide federal assistance if needed. The administration emphasizes respect for DOJ independence while maintaining situational awareness.
+- Reporter asks whether homeland security and federal resources are being coordinated for the courthouse appearance tomorrow.
+- MR. KIRBY says routine federal-state-local connective tissue exists, the Sit Room will pay close attention, and federal assistance is available if needed.
+- MR. KIRBY reiterates the White House will not interfere in Justice Department matters while ensuring preparedness.
+  #### Americans detained abroad
+  Reporters ask about the administration’s approach to Americans detained overseas and distinctions between wrongful and lawful detentions; Kirby refers such categorizations and case tallies to the State Department and says wrongful detention is a recognized category when political motives are clear. He confirms the President is regularly briefed on specific cases like Lieutenant Alkonis and that the administration continues diplomatic engagement with partner governments. The briefing keeps consular and legal determinations with State.
+- Reporter asks whether the administration distinguishes between wrongfully detained Americans and those lawfully detained abroad.
+- MR. KIRBY says the State Department handles categorizations and that 'wrongfully detained' is used when political motives or trumped-up charges are evident.
+- MR. KIRBY says the President has been briefed on Lieutenant Alkonis’s situation and the U.S. continues to work with the Japanese government on that case.
+  #### Taiwan evacuation reporting
+  When asked about reporting that the administration is drafting evacuation plans for U.S. citizens in Taiwan, Kirby reiterates U.S. policy that it does not routinely evacuate private American citizens and says there is no current indication to change that stance. He emphasizes routine preparedness and emergency procedures to protect U.S. personnel and citizens worldwide. The administration maintains standard contingency planning without signaling an imminent policy shift.
+- Reporter asks whether the U.S. is drafting plans to evacuate private American citizens from Taiwan.
+- MR. KIRBY says U.S. policy does not routinely evacuate private citizens and there is no current indication to change that policy, while reiterating routine contingency preparedness.
+  #### President’s root canal disclosure
+  Jean-Pierre addresses press questions about the President’s dental procedure, confirming the root canal was successfully completed with local anesthesia, no general anesthesia was used, and the 25th Amendment was not invoked. She explains the physician’s memo was released when available and that the President is working from the Residence. The White House frames the procedure as routine and not disruptive to presidential duties.
+- MS. JEAN-PIERRE confirms the President underwent a root canal with local anesthesia and that the procedure completed successfully.
+- MS. JEAN-PIERRE says the 25th Amendment was not invoked and the President will be working from the Residence this afternoon.
+  #### Canada wildfires assistance
+  Jean-Pierre summarizes U.S. assistance to Canada on wildfires, noting more than 600 U.S. wildfire personnel have supported Canadian efforts since May and that the U.S. stands ready to provide additional firefighters and air tankers upon request. She says the President directed the National Interagency Fire Center to respond promptly to Canadian requests. The administration stresses ongoing bilateral coordination and readiness.
+- MS. JEAN-PIERRE says over 600 U.S. firefighters and personnel have assisted Canada since May and that more assistance is available if requested.
+- MS. JEAN-PIERRE says the President directed the National Interagency Fire Center to promptly respond to Canadian requests for firefighters and suppression equipment.
+  #### I-95 collapse and infrastructure response
+  Jean-Pierre is asked about federal coordination after the I-95 collapse in Philadelphia; she notes the Federal Highway Administration administrator will visit the site and that the bipartisan infrastructure law addresses crumbling roads and bridges. She frames the infrastructure law as central to preventing and responding to such incidents and affirms federal readiness to support local recovery. The administration emphasizes investment in infrastructure resilience.
+- MS. JEAN-PIERRE says the Federal Highway Administration administrator will be on site to assess the I-95 collapse.
+- MS. JEAN-PIERRE highlights the bipartisan infrastructure law as a tool to address aging roads and bridges and support affected communities.
+  #### Economic data and policy outlook
+  Reporters ask about upcoming CPI data and the White House’s stance on Republican tax proposals; Jean-Pierre declines to predict CPI results but cites progress on inflation and administration policies like the Inflation Reduction Act as helping lower costs. She reiterates the administration’s openness to bipartisan deficit reduction while insisting wealthy Americans should pay their fair share and framing the GOP proposal as misplaced priorities. The briefing positions economic messaging around cost reduction for working families.
+- Reporter asks about expectations for tomorrow’s CPI release and White House outlook.
+- MS. JEAN-PIERRE says annual inflation has fallen for ten months and that economic experts will review CPI data when released.
+- Reporter asks whether a tax deal would need to lower the deficit for White House support.
+- MS. JEAN-PIERRE says the administration seeks deficit reduction that ensures the wealthy pay their fair share and that fiscal responsibility is a condition for policy trade-offs.
+  #### Senate holds and nominations
+  Reporters ask about Senator Tuberville’s holds on military confirmations and the forthcoming vote on Jared Bernstein; Jean-Pierre reiterates the administration’s disappointment with the holds and expresses full support for nominees while declining to preview vote outcomes. She emphasizes the importance of filling national security positions and looks forward to confirmations. The administration continues to engage but offers no new developments on vote tallies.
+- Reporter asks whether the White House has made progress persuading Senator Tuberville to lift holds on military confirmations.
+- MS. JEAN-PIERRE expresses disappointment with the holds and refers questions about the senator’s motives to him directly.
+- Reporter asks about the outlook for Jared Bernstein’s confirmation vote.
+- MS. JEAN-PIERRE says the administration supports Jared Bernstein and looks forward to completing the confirmation process but has no vote count to share.

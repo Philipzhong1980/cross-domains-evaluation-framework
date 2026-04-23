@@ -1,0 +1,321 @@
+{
+  "meeting_context": "White House press briefing imported from 20230922_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "REPRESENTATIVE MCBATH",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "President Biden will announce the establishment of the",
+      "points": [
+        {
+          "text": "President Biden will announce the establishment of the first-ever White House Office of Gun Violence Prevention, building upon historic actions he has taken through the Bipartisan Safer Communities Act and executive actions.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Congresswoman Lucy McBath a tireless advocate for gun",
+      "points": [
+        {
+          "text": "Congresswoman Lucy McBath, a tireless advocate for gun safety reform and a mother who lost her son to gun violence, spoke at the White House to emphasize the urgent need for action in addressing the gun violence epidemic in the United States.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Congresswoman Lucy McBath praises the creation of the",
+      "points": [
+        {
+          "text": "Congresswoman Lucy McBath praises the creation of the Office of Gun Violence Prevention as a significant step towards ensuring proper implementation of gun safety legislation and expresses gratitude for President Biden's actions to save lives.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "House Republicans are voting on destructive appropriation bills",
+      "points": [
+        {
+          "text": "House Republicans are voting on destructive appropriation bills and failing to keep the government running, pushing extreme cuts to programs and ultimately accomplishing nothing.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "House Republicans are being criticized for their destructive",
+      "points": [
+        {
+          "text": "House Republicans are being criticized for their destructive appropriation bills and failure to keep the government running, with Representative Frank Lucas acknowledging that some want to use this as an opportunity to cause chaos.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "House Republicans are being blamed for their destructive",
+      "points": [
+        {
+          "text": "House Republicans are being blamed for their destructive appropriation bills and potential government shutdown, while the President is taking action to improve the organ transplant system and will host Pacific Islands Forum leaders to discuss global challenges.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker mentions the deepening of partnerships with",
+      "points": [
+        {
+          "text": "The speaker mentions the deepening of partnerships with Pacific Islands Forum countries and announces a call later in the afternoon for more information.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker declines to comment on an active",
+      "points": [
+        {
+          "text": "The speaker declines to comment on an active matter and avoids answering questions about a potential resignation, while also not providing information regarding President Biden's plans to visit the UAW strike picket line or the pressure he may feel to resolve the strike.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the President's support for the",
+      "points": [
+        {
+          "text": "The speaker discusses the President's support for the UAW and union workers, ongoing negotiations, and the broken immigration system while criticizing House Republicans for undermining border security efforts.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the efforts to stop the",
+      "points": [
+        {
+          "text": "The speaker discusses the efforts to stop the flow of migrants at the border, the swift vetting and processing of individuals by law enforcement, and criticizes House Republicans for attempting to cut resources for border security.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker avoids commenting on the relaxed standards",
+      "points": [
+        {
+          "text": "The speaker avoids commenting on the relaxed standards in the Senate and President Biden's opinion on them, but acknowledges that the President typically dresses better than most.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker avoids addressing President Biden's repetition of",
+      "points": [
+        {
+          "text": "The speaker avoids addressing President Biden's repetition of a story at a fundraiser while emphasizing his reasons for running in the 2020 election and his ability to lead.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes that the ongoing investigation and",
+      "points": [
+        {
+          "text": "The speaker emphasizes that the ongoing investigation and potential consequences for Senator Menendez's leadership role in the Senate should be left to Senate leadership and the prosecutors, while also stating that the President will not comment on whether he wants to see Menendez continue in the Senate.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the urgency of establishing the",
+      "points": [
+        {
+          "text": "The speaker emphasizes the urgency of establishing the Office of Prevention of Gun Violence and highlights the President's dedication to addressing the epidemic of gun violence through executive actions and legislation, while calling on Congress to continue their work in protecting families from gun violence.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Ms Jean Pierre declines",
+      "points": [
+        {
+          "text": "During a press briefing, Ms. Jean-Pierre declines to comment on allegations of Indian involvement in the murder of a Canadian citizen and states that the issue is being raised at the highest levels with the Indian government.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre declines to comment on allegations",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre declines to comment on allegations of Indian involvement in a murder case and emphasizes the US's commitment to supporting Ukraine with security assistance.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is currently in discussions regarding",
+      "points": [
+        {
+          "text": "The White House is currently in discussions regarding potential government shutdown and its impact on programs such as assistance for auto suppliers and the restart of federal student loan payments.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is currently having discussions with",
+      "points": [
+        {
+          "text": "The White House is currently having discussions with agencies to determine the potential effects of a government shutdown on programs such as food safety inspections, but they do not have specific details yet.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the importance of House Republicans",
+      "points": [
+        {
+          "text": "The speaker emphasizes the importance of House Republicans not causing a government shutdown and urges them to fulfill their promise to the President and the American people.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker requests coverage of bill signings and",
+      "points": [
+        {
+          "text": "The speaker requests coverage of bill signings and clarifies that the decision for Julie Su and Gene Sperling to stay back was mutually agreed upon in order to give space for ongoing negotiations.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The decision for Julie Su and Gene Sperling",
+      "points": [
+        {
+          "text": "The decision for Julie Su and Gene Sperling to stay back in Washington, D.C. was mutually agreed upon in order to focus on meetings and ongoing negotiations.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The importance of continuing negotiations and conversations is",
+      "points": [
+        {
+          "text": "The importance of continuing negotiations and conversations is emphasized, while concerns are raised about the President retelling a story during an off-camera fundraiser event.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript Ms Jean",
+      "points": [
+        {
+          "text": "In this section of the transcript, Ms. Jean-Pierre defends the President's retelling of a story during a fundraiser, emphasizing his passion and belief in helping move the country forward.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre emphasizes the importance of addressing",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre emphasizes the importance of addressing gun violence intersectionally and not leaving any community behind, highlighting the President's commitment to inclusivity and the need to accelerate existing efforts to prevent tragic incidents in schools and public places.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre expresses confidence in bipartisan support",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre expresses confidence in bipartisan support for continued funding to Ukraine and discusses the possibility of a peace deal between Israel and Saudi Arabia without the involvement of Palestinians.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre mentions that there are key",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre mentions that there are key elements for normalization on the table, which she cannot discuss publicly.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre discusses the ongoing work and",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre discusses the ongoing work and lack of a formal framework for a normalization agreement between Israel and Saudi Arabia, while also mentioning the comprehensive approach to gun violence prevention and not having any information on a potential meeting between President Biden and President Xi.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Ms Jean Pierre explains",
+      "points": [
+        {
+          "text": "During a press briefing, Ms. Jean-Pierre explains that the newly announced gun violence prevention office will focus on implementing and expanding key executive actions and legislative measures, emphasizing the seriousness of the gun violence epidemic in the country, while also stating that it is up to House Republicans to speak on whether President Zelenskyy was able to change any minds regarding additional aid to Ukraine during his visit to Washington.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the press briefing Ms Jean Pierre acknowledges",
+      "points": [
+        {
+          "text": "During the press briefing, Ms. Jean-Pierre acknowledges a reporter named Cristina and comments on the length of time since they last saw each other.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre reiterates that it is the",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre reiterates that it is the responsibility of House Republicans to keep the government open and criticizes their extreme policies, emphasizing that they need to stick to the bipartisan legislation they previously agreed upon.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre concludes the conversation and expresses",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre concludes the conversation and expresses her gratitude before ending the interview.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

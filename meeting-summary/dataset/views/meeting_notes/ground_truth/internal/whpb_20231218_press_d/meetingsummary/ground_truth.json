@@ -1,0 +1,252 @@
+{
+  "meeting_context": "White House press briefing imported from 20231218_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MR. KIRBY",
+    "MODERATOR",
+    "Zeke",
+    "Steve",
+    "Hiba Nasr",
+    "Nathan",
+    "Gabe",
+    "MJ",
+    "Vivian",
+    "Yuna",
+    "JJ",
+    "Niels",
+    "Anita",
+    "Suzanne"
+  ],
+  "topics": [
+    {
+      "topic": "The US has been working to deliver humanitarian",
+      "points": [
+        {
+          "text": "The US has been working to deliver humanitarian aid to Gaza and is urging Israel to prevent civilian casualties, while also discussing the allocation of funding for restocking US supplies and supporting Ukraine in its fight against Russia.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The moderator asks for an update on Bill",
+      "points": [
+        {
+          "text": "The moderator asks for an update on Bill Burns's conversations in Warsaw and inquires about the US's push for another pause in fighting to secure another hostage release, as well as their concerns about Israeli rules of engagement in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US is actively working to secure another",
+      "points": [
+        {
+          "text": "The US is actively working to secure another hostage deal accompanied by a humanitarian pause and additional assistance, but it is unclear when this will be achieved as negotiations are ongoing.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the Israeli Defense Forces' admission",
+      "points": [
+        {
+          "text": "The speaker discusses the Israeli Defense Forces' admission of making a mistake and expresses confidence that they will conduct an investigation to prevent a similar incident from happening again.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the need for a thorough",
+      "points": [
+        {
+          "text": "The speaker emphasizes the need for a thorough investigation to determine if there was a systemic issue or an individual mistake in the recent event involving the Israeli Defense Forces.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses ongoing discussions at the White",
+      "points": [
+        {
+          "text": "The speaker discusses ongoing discussions at the White House regarding negotiations and compromises on policy and border security, while also mentioning efforts to strengthen and operationalize the Combined Maritime Forces to counter Houthi attacks in the Red Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Austin will be having meetings in the",
+      "points": [
+        {
+          "text": "Secretary Austin will be having meetings in the region tomorrow to discuss the topic of negotiations and compromises on policy and border security, with more details expected to be provided afterwards.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker expresses concern about the ongoing attacks",
+      "points": [
+        {
+          "text": "The speaker expresses concern about the ongoing attacks on the northern border with Lebanon and emphasizes the need to keep the conflict focused on Hamas.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker expresses concern about the ongoing attacks",
+      "points": [
+        {
+          "text": "The speaker expresses concern about the ongoing attacks on the northern border with Lebanon and emphasizes the need to prevent a full-on conflict between Hezbollah and Israel, as well as the attacks on the Lebanese Armed Forces.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the U S 's belief",
+      "points": [
+        {
+          "text": "The speaker discusses the U.S.'s belief in the Palestinian people's right to have a vote and a voice in their future, the importance of competent and transparent governance, and the potential role of the Palestinian Authority in determining governance in post-conflict Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the deadly church shooting and",
+      "points": [
+        {
+          "text": "The speaker acknowledges the deadly church shooting and expresses the U.S.'s response to the incident.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker expresses condolences for the civilian deaths",
+      "points": [
+        {
+          "text": "The speaker expresses condolences for the civilian deaths in the church shooting and emphasizes the importance of preventing such casualties.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker expresses concerns about the need for",
+      "points": [
+        {
+          "text": "The speaker expresses concerns about the need for safe evacuation and medical treatment for those injured in the incident, and emphasizes the importance of deconfliction channels to prevent civilian casualties during Israeli military operations against Hamas.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the usefulness of deconfliction channels",
+      "points": [
+        {
+          "text": "The speaker acknowledges the usefulness of deconfliction channels in reducing misunderstandings and mistakes, and urges Israel to do more in terms of deconfliction methods, while also mentioning that there is enough funding for one more aid package for Ukraine before the end of the month.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the concern about time running",
+      "points": [
+        {
+          "text": "The speaker acknowledges the concern about time running out and the urgency to negotiate a hostage deal to free the Israeli hostages being held in horrific conditions.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Vivian questions John about the distinction between the",
+      "points": [
+        {
+          "text": "Vivian questions John about the distinction between the administration's response to violations of international law in the Russian invasion of Ukraine compared to incidents in Gaza, and asks for clarification on what kind of evidence is being looked for.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Vivian questions whether the administration will raise concerns",
+      "points": [
+        {
+          "text": "Vivian questions whether the administration will raise concerns about Israel's actions beyond tactics and consider them a violation of international law.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson acknowledges raising concerns with Israel about",
+      "points": [
+        {
+          "text": "The spokesperson acknowledges raising concerns with Israel about civilian casualties and specific incidents, including the church incident.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson condemns Hamas for potentially using psychological",
+      "points": [
+        {
+          "text": "The spokesperson condemns Hamas for potentially using psychological terror tactics and emphasizes the importance of Israel abiding by the law of armed conflict despite facing a terrorist organization that disregards those laws.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In response to a question about the veracity",
+      "points": [
+        {
+          "text": "In response to a question about the veracity of a video, Mr. Kirby acknowledges his inability to prove its authenticity.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby declines to comment on Japan's Nippon",
+      "points": [
+        {
+          "text": "Mr. Kirby declines to comment on Japan's Nippon Steel buying U.S. Steel and also does not provide any update on when the President will sign the NDAA or if there will be any concerns regarding impeding his powers as Commander-in-Chief.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby declines to comment on campaign rhetoric",
+      "points": [
+        {
+          "text": "Mr. Kirby declines to comment on campaign rhetoric and emphasizes that it is not appropriate for the National Security Council to weigh in on such matters.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US is engaged in negotiations with Congress",
+      "points": [
+        {
+          "text": "The US is engaged in negotiations with Congress regarding border security, funding for Ukraine and Israel, and the President is willing to engage in negotiations and compromises on immigration policies and security measures, while also seeing the defense industry as a partner in supporting Ukraine and improving national security.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

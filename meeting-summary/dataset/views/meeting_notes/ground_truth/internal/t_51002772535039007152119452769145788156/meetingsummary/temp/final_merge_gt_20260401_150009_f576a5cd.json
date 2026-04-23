@@ -1,0 +1,203 @@
+{
+  "result": {
+    "merged_gt": {
+      "meeting_context": "Joint Administrative, Zoning and Subdivision Committee Public Hearing to review a development project at 1155 and 1185 Terra Bella Avenue, including development review permit, heritage tree removal, and lot line adjustment for a three-story office building.",
+      "participants": [
+        "Diana Pancholi",
+        "Brittany Whitehill",
+        "Weng Tam",
+        "Diana Fazely"
+      ],
+      "topics": [
+        {
+          "topic": "Project Overview and Permits",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Diana Pancholi",
+              "text": "The project proposes a three-story, 19,958 square foot office building with an associated surface parking lot, plus a heritage removal permit for three trees and a lot line adjustment combining two parcels into one on an approximately 1.3-acre site.",
+              "source": "Diana Pancholi : It is a request for a development review permit to construct a three story, 19,958 square foot office building with an associated surface parking lot, a heritage removal permit to remove 3 heritage trees on site, and a lot line adjustment to remove a lot line to combine two lots into one lot on a weakened 1.3 acre project site.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Brittany Whitehill",
+              "text": "Project located on South side of Terra Bella Ave between North Shoreline Blvd and Linda Vista Ave in MMM General Industrial and ML Limited Industrial Districts.",
+              "source": "Brittany Whitehill : This project is located on the South side of Terra Bella Ave. between North Shoreline Blvd. And Linda Vista Ave. in the MMM General Industrial and ML Limited Industrial Districts.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Regulatory Compliance and CEQA Review",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Brittany Whitehill",
+              "text": "Staff found the project complies with the Mountain View Zoning Code, General Plan, and Subdivision Map Act. For CEQA, an Initial Study and Negative Declaration were prepared and circulated September 14–October 14, 2022; with City standard conditions of approval, no significant environmental impacts were identified.",
+              "source": "Brittany Whitehill : Staff has also found that the project complies with the Mountain View Zoning Code, Mountain View General Plan and the Subdivision Map Act. … circulated for a 30 day public comment from September 14th, 2022 to October 14th, 2022 and the project was determined to have no significant impacts on the environment with incorporation of city standard conditions of approval.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Brittany Whitehill",
+              "text": "Site layout focuses parking toward back and landscaping/pedestrian amenities toward front, consistent with desired design standards for these project types.",
+              "source": "Brittany Whitehill : It does, you know, focus parking towards the back of the site and and landscaping and pedestrian amenities towards the front of the site, which is consistent with you know what we would like to see in these types of projects.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Public Comment on Labor Standards",
+          "topic_merge_note": "normalized_from: ['Public Comment on Labor Standards', 'Public Comment Details']",
+          "points": [
+            {
+              "speaker": "Weng Tam",
+              "text": "Weng Tam, representing Norcal Carpenters Union Local 405, advocated for local hiring and carpenter labor standards. He said they contacted the developer but received no response and requested to open discussions about carpenter labor standards for the project.",
+              "source": "Weng Tam : We already contact with developer but we don't have any responses yet. So I would like to open discussion with the developer, talk about our Carpenter Labor Standards for the for the project",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Weng Tam",
+              "text": "Weng Tam representing Norcal Carpenter Union Local 405 and 7000+ carpenters in Santa Clara County advocated for local hiring standards and area labor language for the project.",
+              "source": "Weng Tam : My name is Wing Tam. I'm a few representative from Norcal Carpenter Union Local 4/05. I'm also represent 7000 plus Carpenter in Santa Cara County.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Weng Tam",
+              "text": "Weng Tam cited reduced traffic, lower greenhouse gases, apprenticeships, and local economic benefits as reasons for local hiring and carpenter labor standards.",
+              "source": "Weng Tam : Local hiring is so important … Also reducing traffics less greenhouse gases and we can bring up apprentices opportunity…",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting Opening and Structure",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Diana Pancholi",
+              "text": "Meeting called to order at 4:03 PM with Diana Pancholi presiding as zoning administrator, Diana Fazely from City Attorney's office present, Ed Arango from public works absent.",
+              "source": "Diana Pancholi : I would like to bring the meeting to order at 4 O 3:00 PM.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Diana Pancholi",
+              "text": "No consent calendar items listed on agenda, proceeding directly to joint committee portion with one item for discussion.",
+              "source": "Diana Pancholi : But on today's agenda, we have no consent items listed.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Staff Analysis and Findings",
+          "topic_merge_note": "normalized_from: ['Staff Analysis and Findings', 'Staff Recommendation']",
+          "points": [
+            {
+              "speaker": "Brittany Whitehill",
+              "text": "Staff found proposed office building and site improvements consistent with ML and MMM zoning district requirements, with project complying with Mountain View Zoning Code, General Plan and Subdivision Map Act.",
+              "source": "Brittany Whitehill : Staff has found that the proposed office building and site improvements are consistent with the respective requirements of the ML and MMM zoning districts",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Brittany Whitehill",
+              "text": "Staff reviewed the proposed project and comments and based on analysis, findings, and conditions, recommends conditional approval of the project and the associated lot line adjustment.",
+              "source": "Brittany Whitehill : Staff has reviewed the proposed project and comments and based on this analysis and the findings and conditions, recommends conditional approval, approval of the project and the associated lot line adjustment.",
+              "original_priority": "p3",
+              "dedup_note": "from_p3_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Committee Deliberation",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Diana Fazely",
+              "text": "Diana Fazely inquired about finding requirements for consolidated single zone parcel regarding neighborhood compatibility and site layout.",
+              "source": "Diana Fazely : I'm hoping I can hear from staff about the the finding that we're to make that the consolidated single zone parcel would not result in greater neighborhood compatibility and a superior site layout if possible.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Diana Pancholi",
+              "text": "Diana Pancholi reviewed materials and confirmed project's consistency with Zoning Ordinance and General Plan based on information presented and posted online.",
+              "source": "Diana Pancholi : I've reviewed the materials posted online, including the findings report and concur on the project's consistency with the Zoning Ordinance and the General Plan.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting Closure",
+          "topic_merge_note": "normalized_from: ['Meeting Closure', 'Meeting Closure and Instructions']",
+          "points": [
+            {
+              "speaker": "Diana Pancholi",
+              "text": "Diana Pancholi closed the public hearing at 4:14 PM.",
+              "source": "Diana Pancholi : And with that we'll the public hearing today at 4:14 PM.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Subdivision Committee",
+          "text": "Subdivision Committee approved the lot line adjustment for 1155 and 1185 Terra Bella Ave; the approval passed unanimously and is appealable to City Council within 10 calendar days.",
+          "source": "Diana Pancholi : So a motion of approval for item 5.1 was made and passed unanimously by the subdivision committee. The decision of approval is appealable to the City Council within 10 calendar days.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Diana Pancholi",
+          "text": "Diana Pancholi as zoning administrator approved the project's development permits with posted findings and conditions; the approval is appealable to City Council within 10 calendar days.",
+          "source": "Diana Pancholi : I move to approve this project with the posted findings and conditions of approval… This decision of approval is appealable to the City Council in 10 calendar days as well.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        }
+      ]
+    },
+    "merge_statistics": {
+      "total_p1_items": 6,
+      "total_p2_items": 7,
+      "total_p3_items": 3,
+      "final_items": 14,
+      "duplicates_removed": 2,
+      "deduplication_details": {
+        "p2_skipped": [],
+        "p3_skipped": [
+          {
+            "speaker": "Diana Pancholi",
+            "text": "Diana Pancholi closed the public hearing at 4:14 PM, directed follow-up questions to the listed project planner, thanked participants, and extended holiday wishes.",
+            "source": "Diana Pancholi : And with that we'll the public hearing today at 4:14 PM. If anyone has any any follow up questions or any of the items on this agenda, please contact the listed Project Planner accordingly. ... Thank you everybody for participating and wish you all a very happy.",
+            "reason": "duplicate_with_p1: same_source_paraphrase (both close meeting at 4:14 PM, P3 adds extra details but core action identical)"
+          },
+          {
+            "speaker": "Diana Fazely",
+            "text": "Diana Fazely motioned to approve the lot line adjustment at 1155 and 1185 Terabella Ave, seconded by Diana Pancholi, and passed unanimously by the subdivision committee with the decision appealable to City Council within 10 calendar days.",
+            "source": "Diana Fazely : And I do want to make a motion to approve the lot line adjustment at 1155 and 1185 Terabella Ave.",
+            "reason": "duplicate_with_p1: same_source_entity_match (same lot line adjustment decision, same assignee Subdivision Committee, same outcome)"
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_final_merge/generation_final_merge",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "96d6eff54eb8b4ced496aeb8e349890a5e5d3f8bdf8dd6229ebee2e637c5f8c8",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:00:09.783232+00:00"
+  }
+}

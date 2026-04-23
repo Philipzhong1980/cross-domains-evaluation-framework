@@ -1,0 +1,62 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Meeting format and legal notice",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "The meeting was conducted under a City Council resolution authorizing this format, and members of the public were directed to contact city.clerk@mountainview.gov to obtain copies of the applicable resolutions upon request.",
+              "source": "Lucas Ramirez: As authorized by resolution of the City Council, please contact city.clerk@mountainview.gov to obtain a copy of the applicable resolutions.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Closed session scope and reportability",
+          "points": [
+            {
+              "speaker": "Danica Lowe",
+              "text": "Lucas Ramirez stated that City Attorney Jennifer Logue would deliver the closed session announcement, but Danica Lowe identified herself as the City Attorney and delivered the announcement.",
+              "source": "Lucas Ramirez: City Attorney Jennifer Logue will provide a brief closed session announcement / Danica Lowe: This is City Attorney Danica Lowe.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "Public comment and closed session recess",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "The presiding officer invited public comment on the closed session agenda item, providing instructions to raise a hand in Zoom or press Star 9 by phone, and noted that a timer would be displayed during comments.",
+              "source": "Lucas Ramirez: If so, please click the raise hand button and zoom or press Star 9 on your phone.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 3,
+      "kept": 2,
+      "modified": 1,
+      "dropped": 0,
+      "from_gt1_kept": 3,
+      "from_gt2_kept": 0
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:09:57.639847+00:00"
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "meeting_context": "White House press briefing imported from 20231220_press_2.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "MR. KIRBY",
+    "Unidentified"
+  ],
+  "topics": [
+    {
+      "topic": "President Biden will visit the Wisconsin Black Chamber",
+      "points": [
+        {
+          "text": "President Biden will visit the Wisconsin Black Chamber of Commerce in Milwaukee to highlight the growth of Black business ownership and announce new investments in Milwaukee and communities across the country as part of the Investing in America agenda.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden will make a brief stop at",
+      "points": [
+        {
+          "text": "President Biden will make a brief stop at Hero Plumbing to meet with its CEO, Rashawn Spivey, before driving together to the event where Rashawn will introduce the President.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden will visit Hero Plumbing a Black",
+      "points": [
+        {
+          "text": "President Biden will visit Hero Plumbing, a Black-owned small business in Milwaukee that is removing lead pipes and supporting his commitment to remove all lead service lines in the nation by the end of the decade.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden and his administration will make historic",
+      "points": [
+        {
+          "text": "President Biden and his administration will make historic investments to support small businesses, including Black-owned businesses in Wisconsin and beyond, despite opposition from Republicans such as Wisconsin Senator Ron Johnson who voted against the President's Bipartisan Infrastructure Law.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The update provided in the transcript states that",
+      "points": [
+        {
+          "text": "The update provided in the transcript states that a significant amount of trucks carrying humanitarian aid have been able to enter Gaza, including for the first time World Food Program trucks from Jordan, which is seen as a positive step forward in providing assistance to the people of Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Mr Kirby declined to",
+      "points": [
+        {
+          "text": "During a press briefing, Mr. Kirby declined to confirm reports and provide details on the release of Alex Saab, but acknowledged ongoing serious discussions and negotiations for a pause in exchange for hostages.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby does not have any information on",
+      "points": [
+        {
+          "text": "Mr. Kirby does not have any information on Venezuela and defers to Linda Thomas-Greenfield to speak about the ongoing discussions for a resolution on Gaza in the Security Council.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby emphasizes the importance of condemning Hamas",
+      "points": [
+        {
+          "text": "Mr. Kirby emphasizes the importance of condemning Hamas, recognizing Israel's need to defend itself, and providing humanitarian assistance to Gaza, while also expressing the goal of minimizing civilian casualties and urging Israel to be more precise and targeted in their military operations.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby acknowledges that Israel has made efforts",
+      "points": [
+        {
+          "text": "Mr. Kirby acknowledges that Israel has made efforts to minimize civilian casualties in their military operations, but emphasizes the need for further progress and the goal of achieving zero civilian casualties.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby expresses concern about reports of Alexei",
+      "points": [
+        {
+          "text": "Mr. Kirby expresses concern about reports of Alexei Navalny's disappearance, calls for his immediate release, and emphasizes the need for the Palestinian Authority to have a role in post-conflict governance in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby reaffirms the United States' commitment to",
+      "points": [
+        {
+          "text": "Mr. Kirby reaffirms the United States' commitment to supporting Ukraine and urges Congress to approve the supplemental request for aid before the funds run out at the end of the year.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby emphasizes the need for Congress to",
+      "points": [
+        {
+          "text": "Mr. Kirby emphasizes the need for Congress to approve supplemental funding for Ukraine in January to ensure the continuation of support and aid as the fighting persists.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby highlights the urgency for Congress to",
+      "points": [
+        {
+          "text": "Mr. Kirby highlights the urgency for Congress to approve supplemental funding for Ukraine in January, as Russian forces are expected to conduct offensive operations and weaponize the wintertime, posing a threat to Ukraine's energy infrastructure.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby states that Congress needs to approve",
+      "points": [
+        {
+          "text": "Mr. Kirby states that Congress needs to approve supplemental funding for Ukraine in January due to the expected offensive operations by Russian forces and the threat to Ukraine's energy infrastructure.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby emphasizes the United States' concerns over",
+      "points": [
+        {
+          "text": "Mr. Kirby emphasizes the United States' concerns over foreign interference in elections, stating that it is unacceptable and the administration will not shy away from calling it out or taking necessary actions to protect the integrity of elections.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby emphasizes President Biden's commitment to the",
+      "points": [
+        {
+          "text": "Mr. Kirby emphasizes President Biden's commitment to the safety and security of Americans overseas and the goal of bringing detained Americans home with their families, even if it means making difficult decisions that prioritize national security interests.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript Mr Kirby",
+      "points": [
+        {
+          "text": "In this section of the transcript, Mr. Kirby highlights the successful efforts of the Biden administration in bringing home more than 30 wrongfully detained Americans and emphasizes their commitment to continue these efforts.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section Ms Jean Pierre refuses to",
+      "points": [
+        {
+          "text": "In this section, Ms. Jean-Pierre refuses to comment on whether President Biden believes Donald Trump was an insurrectionist and states that the White House is not involved in the legal process.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre refuses to comment on whether",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre refuses to comment on whether the White House believes courts should decide which major party political candidates should be on the ballot, emphasizing that they will not get involved in any court decisions and will not comment on the matter.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre discusses the importance of Congress",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre discusses the importance of Congress moving forward with the national security supplemental and urges congressional Republicans to not delay the process, emphasizing the critical need for funding to support Ukraine's battle against Russia's aggression.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre emphasizes the need for a",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre emphasizes the need for a bipartisan agreement and urges Congress to prioritize the national security supplemental and domestic supplemental funding, without specifying a timeline.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre emphasizes the urgency and critical",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre emphasizes the urgency and critical importance of passing the emergency supplemental funding for national security and domestic needs, stressing that it is Congress' basic job to get it done on behalf of the American people.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre criticizes Republican leaders for engaging",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre criticizes Republican leaders for engaging in political stunts that do not improve border security or make communities safer, emphasizing the need for a bipartisan agreement on border security.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre declines to compare the current",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre declines to compare the current Apple patent dispute to the previous one involving Samsung and states that she doesn't have any further comments on Nippon Steel's decision to buy U.S. Steel.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre emphasizes the need to be",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre emphasizes the need to be cautious and not jump ahead of a potential regulatory review regarding an undisclosed matter.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre emphasizes the importance of the",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre emphasizes the importance of the national security supplemental and expresses the desire for bipartisan agreement on border security while also stating that they want to focus on getting it done right away.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre highlights President Biden's commitment to",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre highlights President Biden's commitment to all states and communities, discussing his focus on Black small businesses, the success of small business initiatives under his administration, and the importance of bipartisan infrastructure legislation and the Inflation Reduction Act.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre emphasizes the impact of the",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre emphasizes the impact of the American Rescue Act on the economy and highlights President Biden's efforts to directly communicate with the American people about his initiatives.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript Ms Jean",
+      "points": [
+        {
+          "text": "In this section of the transcript, Ms. Jean-Pierre discusses a tweet from Ben LaBolt praising Conan O'Brien's interview and its impact on the news.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section Ms Jean Pierre emphasizes the",
+      "points": [
+        {
+          "text": "In this section, Ms. Jean-Pierre emphasizes the importance of reaching the American people through different platforms and venues, citing the interview with Conan O'Brien as a great venue for the President to be candid and connect with millions of Americans.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre states that she does not",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre states that she does not have specific information about the agenda and goals of Vice President's meeting on the National Space Council, directing the questioner to her team for more details.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

@@ -1,0 +1,274 @@
+{
+  "result": {
+    "merged_gt": {
+      "meeting_context": "The Senior Advisory Committee convened on January 18, 2023 to approve prior minutes, elect 2023 leadership, and hear subcommittee and Senior Center updates. Discussion covered outreach, survey status, transportation access for seniors, a fundraising concert announcement, and logistics for the next in-person meeting.",
+      "participants": [
+        "Ashley Bittle",
+        "Vicki Gilfix",
+        "Deanne Hui",
+        "Jim Nichols",
+        "Elna Tymes",
+        "Ish Sinha"
+      ],
+      "topics": [
+        {
+          "topic": "Meeting administration and approvals",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Ashley Bittle",
+              "text": "The committee approved the minutes from the November 16, 2022 meeting after a motion and second, with members indicating support and Ashley Bittle confirming that the motion passed.",
+              "source": "Ashley Bittle : Can I get a vote to approve the minutes? ... Ashley Bittle : Thank you... Motion passes.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Ashley Bittle",
+              "text": "No oral communications from the public were received for this meeting, as no viewers were present when the agenda item was called.",
+              "source": "Ashley Bittle : Oral communications from the public, I don't see anyone viewing. So we have none at this moment.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Deanne Hui",
+              "text": "The meeting was adjourned at 2:39 PM by Chair Deanne Hui after concluding agenda items, updates, and announcements.",
+              "source": "Deanne Hui : ... so the meeting is now ending at 2:39.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "2023 committee leadership election",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Ashley Bittle",
+              "text": "Following nominations and a vote, the committee elected Deanne Hui as Chair and Elna Tymes as Vice Chair for the 2023 calendar year, with Ashley Bittle confirming the motion passed and offering congratulations.",
+              "source": "Ashley Bittle : ... vote to nominate Deanne as the chair and Elna as the Vice Chair for the 2023 calendar year? ... Ashley Bittle : Thank you. Motion passes. Congratulations, Deanne... and Elna as well.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Vicki Gilfix",
+              "text": "Vicki nominated Deanne for chair position for 2023 calendar year.",
+              "source": "Vicki Gilfix : I nominate DM. For chair",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Elna Tymes",
+              "text": "Elna volunteered for vice chair position for 2023 calendar year.",
+              "source": "Elna Tymes : I'll volunteer to be VICE sure",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Communications subcommittee outreach and proposals",
+          "topic_merge_note": "normalized_from: ['Communications subcommittee outreach and proposals', 'Communications Subcommittee - Community Outreach and Friendly Visitors Program']",
+          "points": [
+            {
+              "speaker": "Ish Sinha",
+              "text": "Ish Sinha reported engaging many diverse residents who know the Senior Center exists but want more information about activities, indicating a need for stronger outreach and communication to better inform and engage both long-time residents and newcomers.",
+              "source": "Ish Sinha : ... met many people and they say that they don't know much about what's happening ... we know about it but we want to know more information.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Ish Sinha",
+              "text": "Ish Sinha proposed a vetted \"friendly visitors\" volunteer program in which seniors (and potentially younger residents) visit homebound or lonely individuals, including across language and cultural groups, to reduce isolation and support mental health through regular interpersonal interaction.",
+              "source": "Ish Sinha : ... we should have a friendly visitors program ... volunteers can go communicate with them ... old people who are homebound ... their loneliness increases. It affects their mental health also.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Senior survey subcommittee status",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Elna Tymes",
+              "text": "Elna Tymes reported that an external partner organization has survey results that include Mountain View residents but is still preparing its board report. She expects availability within the month and will email a summary to the committee once she receives it.",
+              "source": "Elna Tymes : ... they have results ... haven't had the chance to look at the result and put together a report to their board ... probably time in the month. I will e-mail a summary ... as soon as I get them.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Senior Center programs and attendance update",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Ashley Bittle",
+              "text": "Ashley Bittle reported a successful January Alzheimer's presentation by Vice Chair Tymes and a UC Master Gardener workshop on rose care at the Senior Center, highlighting continued educational programming for members.",
+              "source": "Ashley Bittle : ... Vice chair Tymes did a presentation at the Senior Center on Alzheimer's, which I heard was a very successful workshop. We also had ... Master Gardener ... workshop on proper rose care.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Ashley Bittle",
+              "text": "California Telephone Access Program smartphone workshops resumed with small groups (8–10 participants): Android training this Thursday and iPhone training next Thursday. These sessions were offered quarterly before the pandemic and teach seniors to use their devices.",
+              "source": "Ashley Bittle : ... workshops from the California Telephone Access program ... they teach seniors either how to use an Android or an iPhone ... very small groups 8 and 10 ... The Android one is this Thursday and then the iPhone one is next Thursday.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Ashley Bittle",
+              "text": "The Senior Center will host a pancake breakfast on Saturday, February 11. Tickets cost $5, and sales are already in the 40s. The event includes breakfast items and piano music and is the center's sole weekend-hosted event.",
+              "source": "Ashley Bittle : ... Saturday February 11th, the Senior Center will be bringing back our pancake breakfast ... Tickets are on sale now. We're already in the 40s. Tickets sold, $5 a person ... piano players scheduled ... pancakes, eggs, fruit, coffee, sausage.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Ashley Bittle",
+              "text": "Workshop attendance has increased, with most sessions now drawing double-digit participation. New workshops are being introduced, and more seniors appear comfortable attending in person, contributing to higher engagement.",
+              "source": "Ashley Bittle : ... noticed quite an increase in our workshop numbers ... seeing the majority of our workshops in double digits.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Senior Center subcommittee status",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Vicki Gilfix",
+              "text": "Vicki Gilfix reported minimal recent activity for the Senior Center subcommittee and noted that subcommittee membership will change for the coming year, acknowledging the group had not advanced work during the previous period.",
+              "source": "Vicki Gilfix : ... we ... do get to change our committee this time around for this coming year, we haven't. I haven't done much with the Senior Center subcommittee at all.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Transportation access for seniors",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Ashley Bittle",
+              "text": "Staff occasionally receive calls from seniors asking how to reach the Senior Center and provide transportation options using resource guides, including the free Google Shuttle, VTA, and Road Runners, ensuring multiple ways for seniors to access the center.",
+              "source": "Ashley Bittle : We do receive those questions occasionally ... we do have transportation options ... we have our free Google Shuttle ... We also have VTA and Rd. runners, so plenty of options for seniors to get here.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Elna Tymes",
+              "text": "Elna Tymes noted transportation is a frequent concern across city groups. While door-to-door access is not guaranteed, city transport providers adjust routes to reach seniors. She suggested the committee annually report where seniors are concentrated, potentially via a State of Mountain View Seniors report.",
+              "source": "Elna Tymes : ... transportation is topic that shows up ... they ... make every effort to reach ... behind some of the Google route ... Jim, that's our responsibility ... we might be something that we do on an annual basis ... State of Mountain View Seniors report ... we should be considering.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Jim Nichols",
+              "text": "Jim expressed concern about transportation organizations staying current with changing senior population demographics and neighborhood aging patterns.",
+              "source": "Jim Nichols : My my concern is that these organizations in the city are are keeping abreast of the movements of the seniors",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Elna Tymes",
+              "text": "Mountain View provides better senior transportation access than San Jose.",
+              "source": "Elna Tymes : In fact, we do our job of that than San Jose does",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Benefit concert fundraising announcement",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Elna Tymes",
+              "text": "Elna Tymes announced a February 18 benefit dinner and concert at the Computer History Museum from 6:30 to 9:30 PM for an adult care center. Tickets are $100 via Eventbrite, with most proceeds from ticket sales directed to senior service organizations, including SAC-affiliated groups.",
+              "source": "Elna Tymes : ... benefit dinner Plus concert ... on February 18th in the ... Computer History ... from 6:30 to 9:30 ... benefit for the adult care center ... The tickets are $100 a piece ... buy tickets through Eventbrite ... Most of the ... raised by ticket sales will be direct to these organizations.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Next meeting logistics and format",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Ashley Bittle",
+              "text": "The next meeting will be held in person at the Senior Center on Wednesday, February 15 at 2:00 PM (third Wednesday). There will be no Zoom option, and Ashley Bittle will reiterate this in forthcoming communications.",
+              "source": "Ashley Bittle : ... our next meeting will be in person at the Senior Center. So February 15th, third Wednesday of the month, 2:00 PM ... no zoom ... I will reiterate that in all of my communication.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Senior Advisory Committee",
+          "text": "Senior Advisory Committee approved the November 16, 2022 meeting minutes.",
+          "source": "Ashley Bittle : Can I get a vote to approve the minutes? ... Ashley Bittle : Thank you... Motion passes.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Senior Advisory Committee",
+          "text": "Senior Advisory Committee elected Deanne Hui as 2023 Chair and Elna Tymes as 2023 Vice Chair.",
+          "source": "Ashley Bittle : ... vote to nominate Deanne as the chair and Elna as the Vice Chair for the 2023 calendar year? ... Ashley Bittle : Thank you. Motion passes.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Elna Tymes",
+          "text": "Elna Tymes will email the committee a summary of external survey results once received, expected within the month.",
+          "source": "Elna Tymes : I will e-mail a summary ... as soon as I get them ... probably time in the month.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Senior Advisory Committee",
+          "text": "Next meeting will be held in person at the Senior Center on February 15 at 2:00 PM with no Zoom option.",
+          "source": "Ashley Bittle : ... next meeting will be in person ... February 15th ... 2:00 PM ... no zoom.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Ashley Bittle",
+          "text": "Ashley Bittle will reiterate the in-person meeting details in upcoming committee communications before February 15.",
+          "source": "Ashley Bittle : I will reiterate that in all of my communication.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        }
+      ]
+    },
+    "merge_statistics": {
+      "total_p1_items": 13,
+      "total_p2_items": 7,
+      "total_p3_items": 1,
+      "final_items": 18,
+      "duplicates_removed": 3,
+      "deduplication_details": {
+        "p2_skipped": [],
+        "p3_skipped": [
+          {
+            "speaker": "Ish Sinha",
+            "text": "Ish Sinha proposed a vetted \"friendly visitors\" volunteer program in which seniors (and potentially younger residents) visit homebound or lonely individuals, including across language and cultural groups, to reduce isolation and support mental health through regular interpersonal interaction, noting that loneliness affects mental health and can lead to Alzheimer's.",
+            "source": "Ish Sinha : ... we should have a friendly visitors program ... volunteers can go communicate with them ... old people who are homebound ... their loneliness increases. It affects their mental health also ... Loneliness is one of the things it does affect people and can lead to Alzheimer",
+            "reason": "duplicate_with_p1: same_source_paraphrase (friendly visitors program proposal with additional detail about Alzheimer's, but core proposal already covered in P1)"
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_final_merge/generation_final_merge",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "96d6eff54eb8b4ced496aeb8e349890a5e5d3f8bdf8dd6229ebee2e637c5f8c8",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:20:38.773207+00:00"
+  }
+}

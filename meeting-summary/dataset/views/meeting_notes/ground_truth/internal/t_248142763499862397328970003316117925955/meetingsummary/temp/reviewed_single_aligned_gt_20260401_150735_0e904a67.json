@@ -1,0 +1,153 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Meeting format and public participation",
+          "points": [
+            {
+              "speaker": "Ida Rose Sylvester",
+              "text": "No public comments were received for this meeting; staff reported no emails by the 5:00 PM deadline, and there were no members of the public present on the webinar during the oral communications period.",
+              "source": "Ida Rose Sylvester : Any emails received by 5:00 PM today were forwarded to the Commission and I believe there were none.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "Approval of prior meeting minutes",
+          "points": [
+            {
+              "speaker": "Ida Rose Sylvester",
+              "text": "The Commission approved the December 1, 2022 regular meeting minutes following a motion by Commissioner Nwokido, second by Commissioner Webb, and unanimous roll call vote.",
+              "source": "Ida Rose Sylvester : The minutes from the December 1st, 2022 Meet regular meeting have been delivered to Commissioner, Commission members.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "FY2022–23 work plan status",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "Laurel James reviewed the FY2022–23 work plan (July 1, 2022 to June 30, 2023). Ongoing items include HRC participation in the annual Spring Family Parade (expected April; date forthcoming) and attendance at Council Neighborhoods Committee meetings, with spring dates to be shared when available.",
+              "source": "Laurel James : That event will be upcoming in April. Once there's a date available, I will let you know when to expect to attend that event.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "She noted the Commission received the Multicultural Engagement Program update in the fall and an update on the CDBG and HOME funding request process, which will begin at the next HRC meeting.",
+              "source": "Laurel James : We also received and update on the CDBG and home funding request process for this year which will begin at the next HRC meeting.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Housing insecurity storytelling event",
+          "points": [
+            {
+              "speaker": "Ida Rose Sylvester",
+              "text": "Ida Rose Sylvester outlined a two-part format: mixed roundtable discussions including unhoused and housed participants without identifying housing status, followed by testimonials and Q&A from unstably housed speakers. The subcommittee has worked with Reach Potential Movement and plans additional partner outreach.",
+              "source": "Ida Rose Sylvester : We will potentially mix our unhoused people... in tables like round tables... And then the second part of the event would be a chance for people for the unstably house to get up and talk about their experiences.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Mental health dialogue planning",
+          "points": [
+            {
+              "speaker": "Nirvana Nwokido",
+              "text": "Nirvana Nwokido reported two subcommittee meetings have explored panels, presenters, and personal testimonies, plus compiling local resources and partnering with organizations. She emphasized destigmatizing mental health and noted there is no city funding for the effort.",
+              "source": "Nirvana Nwokido : So the city does not have any kind of funding for for this. But it's something that we feel is very critical... we want to bring this to our community and come up with ways to provide some kind of safe place.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Bystander intervention training planning",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "The bystander intervention training project, requested by the Council's Race, Equity and Inclusion Subcommittee and carried over from FY2021–22, is in progress. Following turnover, Commissioner Xavier Webb is the current subcommittee member, and additional seats were open prior to new assignments.",
+              "source": "Laurel James : Currently, I believe the only member of that subcommittee is Commissioner Webb, as the other two members... are no longer in the HRC, and this is a item that was carried forward from the Fiscal Year 21 to 22 plan.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Xavier Webb",
+              "text": "Xavier Webb said the subcommittee will leverage established external curricula and resources rather than creating training from scratch, using notes from prior commissioners and developing outreach to adapt offerings for the community.",
+              "source": "Xavier Webb : We're definitely not recreating the wheel. What we were discussing before was other organizations that have already done this and we were looking into what they were doing or the cost of those.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting closure and recognition",
+          "points": [
+            {
+              "speaker": "Xavier Webb",
+              "text": "Xavier Webb thanked new commissioners for their enthusiasm and expressed excitement about their potential community impact.",
+              "source": "Xavier Webb : I'm very, very excited to have our new commissioners on board. You all seem very enthusiastic and that's what keeps this Commission alive is enthusiastic individuals who want to make a difference",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Ida Rose Sylvester",
+              "text": "Chair Sylvester thanked commissioners for their trust in electing her and expressed anticipation for chairing in-person meetings.",
+              "source": "Ida Rose Sylvester : Thank you all for intrusting in me to keep sitting in this well, actually no longer in this seat. It will be an honor to actually chair in person",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Housing and Security Subcommittee",
+          "text": "Hold the housing insecurity storytelling event on May 25, 2023 at the Mountain View Community Center (Redwood Room).",
+          "source": "Laurel James : The event related to this Housing and Security Project Storytelling project is currently scheduled for May 25th, 2023 and it will be held at the Mountain View Community Center in the Redwood room.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Provide commissioners the Spring Family Parade date once finalized (event anticipated in April).",
+          "source": "Laurel James : That event will be upcoming in April. Once there's a date available, I will let you know when to expect to attend that event.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Share the spring Council Neighborhoods Committee meeting schedule with commissioners when available.",
+          "source": "Laurel James : Once I have the Spring Meeting scheduled... I will provide it to you so that you can make plans accordingly.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 10,
+      "kept": 7,
+      "modified": 3,
+      "dropped": 0,
+      "from_gt1_kept": 8,
+      "from_gt2_kept": 2
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:07:35.001714+00:00"
+  }
+}

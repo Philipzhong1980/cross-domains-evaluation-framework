@@ -1,0 +1,251 @@
+{
+  "meeting_context": "White House press briefing imported from 20240112_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MR. BATES",
+    "MR. KIRBY",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "The spokesperson announces that the President will be",
+      "points": [
+        {
+          "text": "The spokesperson announces that the President will be visiting small businesses in the Lehigh Valley and Allentown area of Pennsylvania.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson highlights the positive impact of President",
+      "points": [
+        {
+          "text": "The spokesperson highlights the positive impact of President Biden's economic agenda, citing a significant increase in new business applications and a small business boom in Allentown and beyond, resulting in more jobs, rising wages, low unemployment, and lower costs for families.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson highlights the positive impact of President",
+      "points": [
+        {
+          "text": "The spokesperson highlights the positive impact of President Biden's economic agenda, including the creation of 26,000 new manufacturing jobs in Pennsylvania, the implementation of the affordable repayment plan for student loans with debt cancellation for eligible borrowers, and the upcoming service event in honor of Martin Luther King Jr. Day.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In the transcript Mr Kirby states that he",
+      "points": [
+        {
+          "text": "In the transcript, Mr. Kirby states that he does not have an opening statement.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby is asked for new assessments on",
+      "points": [
+        {
+          "text": "Mr. Kirby is asked for new assessments on the degradation of Houthi capabilities and the significance of the damage caused by the strikes.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby states that a battle damage assessment",
+      "points": [
+        {
+          "text": "Mr. Kirby states that a battle damage assessment is still ongoing to determine the extent of the damage caused by the strikes on valid military targets aimed at disabling Houthi capabilities, emphasizing that the President's actions were aimed at preventing conflict escalation rather than engaging in war with Yemen, and expressing confidence in the legal authorities exercised by the President for conducting these strikes.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby acknowledges the possibility of retaliation from",
+      "points": [
+        {
+          "text": "Mr. Kirby acknowledges the possibility of retaliation from the Houthis but does not have operational reports on whether there was an attack in the Red Sea or if it was effective in degrading their capabilities after the strikes.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby emphasizes that the Houthis should cease",
+      "points": [
+        {
+          "text": "Mr. Kirby emphasizes that the Houthis should cease their reckless attacks, as the President has made it clear that he is willing to take additional measures to safeguard American troops, facilities, and international commerce.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby explains that President Biden approved airstrikes",
+      "points": [
+        {
+          "text": "Mr. Kirby explains that President Biden approved airstrikes in response to a recent attack involving 18 drones, cruise missiles, and a ballistic missile, and he was kept informed as the attack unfolded.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Kirby explains that President Biden approved airstrikes",
+      "points": [
+        {
+          "text": "Mr. Kirby explains that President Biden approved airstrikes in response to a recent attack and the actions taken since late November were aimed at disrupting Houthi capabilities and sending a strong signal to them to stop.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The airstrikes were intended to disrupt and degrade",
+      "points": [
+        {
+          "text": "The airstrikes were intended to disrupt and degrade Houthi military capabilities, with each target being of significant importance, and the President's strategy is to keep Iran out of the war.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes that there is no intention",
+      "points": [
+        {
+          "text": "The speaker emphasizes that there is no intention to engage in a war with the Houthis in Yemen, but rather seeks to halt their attacks and hold Iran accountable for supporting destabilizing activities.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Austin's participation in the decision making process",
+      "points": [
+        {
+          "text": "Secretary Austin's participation in the decision-making process was seamless and he was fully engaged, despite being in the hospital.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S is closely monitoring the elections",
+      "points": [
+        {
+          "text": "The U.S. is closely monitoring the elections in Taiwan and emphasizes the importance of free and fair elections, while also stating that it would be unacceptable for any other actor to interfere with the exercise of democracy.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US is currently reviewing the Foreign Terrorist",
+      "points": [
+        {
+          "text": "The US is currently reviewing the Foreign Terrorist Organization finding on the Houthis and has not yet made a decision on whether they are a terrorist group.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker states that while they cannot discuss",
+      "points": [
+        {
+          "text": "The speaker states that while they cannot discuss potential future military operations, they refer to a statement made by the President indicating a willingness to take further action if necessary to protect sailors and ships in the Red Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker explains that on Tuesday there was",
+      "points": [
+        {
+          "text": "The speaker explains that on Tuesday, there was a significant escalation in attacks by the Houthis, involving nearly 20 drones, cruise missiles, and ballistic missiles targeting a cluster of naval and commercial ships.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the Biden administration's foreign policy",
+      "points": [
+        {
+          "text": "The speaker discusses the Biden administration's foreign policy approach, emphasizing the importance of alliances, partnerships, and collaborative solutions to address global challenges.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter asks about the White House's tracking",
+      "points": [
+        {
+          "text": "The reporter asks about the White House's tracking of supply disruptions and changes in pricing in America due to oil prices topping $80 a barrel.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter asks about the President's thoughts on",
+      "points": [
+        {
+          "text": "The reporter asks about the President's thoughts on the Justice Department seeking the death penalty for the Buffalo supermarket shooter, despite his campaign promise to abolish the federal death penalty.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson defers to the Department",
+      "points": [
+        {
+          "text": "The White House spokesperson defers to the Department of Justice regarding the death penalty and refers any further inquiries to them, while also mentioning President Biden's previous statements on hate and violence.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson emphasizes the need for",
+      "points": [
+        {
+          "text": "The White House spokesperson emphasizes the need for House Republicans to keep their word on a bipartisan funding agreement and dismisses concerns about being dragged into another war in the Middle East.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson warns the Houthis about",
+      "points": [
+        {
+          "text": "The White House spokesperson warns the Houthis about their reckless behavior and expresses concern over the situation.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson defends the Bidenomics agenda",
+      "points": [
+        {
+          "text": "The White House spokesperson defends the Bidenomics agenda, highlighting the economic progress made under the Biden administration and criticizing the deficit-hiking tax giveaways proposed by Republican officials.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

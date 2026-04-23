@@ -1,0 +1,320 @@
+{
+  "meeting_context": "White House press briefing imported from 20230125_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "MR. KIRBY"
+  ],
+  "topics": [
+    {
+      "topic": "Admiral Kirby from the National Security Council is",
+      "points": [
+        {
+          "text": "Admiral Kirby from the National Security Council is present to answer questions regarding the President's statement on continued support for Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby expresses confidence in the proper use",
+      "points": [
+        {
+          "text": "Admiral Kirby expresses confidence in the proper use of direct budgetary assistance to Ukraine, stating that it goes through the World Bank and there have been no signs of corruption or misuse.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The decision to send Abrams tanks to Ukraine",
+      "points": [
+        {
+          "text": "The decision to send Abrams tanks to Ukraine is based on the changing conditions on the ground and the need for Ukrainian forces to be capable of integrated ground combat in open terrain.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The decision to send Abrams tanks to Ukraine",
+      "points": [
+        {
+          "text": "The decision to send Abrams tanks to Ukraine showcases the unity and coordination among allies and partners, with Germany immediately providing a company of Leopard tanks and working towards getting additional companies into Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US is providing 31 tanks to Ukraine",
+      "points": [
+        {
+          "text": "The US is providing 31 tanks to Ukraine, with Germany organizing an additional two battalions and other Western countries also contributing armored vehicles, in order to support Ukraine's goals of countering offensives and achieving their desired level of armor for combined arms maneuvers.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US and its allies have engaged in",
+      "points": [
+        {
+          "text": "The US and its allies have engaged in diplomatic efforts and military planning to provide Ukraine with the necessary capabilities to defend itself and potentially go on the offensive in the future, despite the delayed delivery of tanks.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US is providing tanks to Ukraine to",
+      "points": [
+        {
+          "text": "The US is providing tanks to Ukraine to help them defend their sovereignty, win back territory from Russia, and potentially deter Russian soldiers in Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US settled on providing 31 tanks to",
+      "points": [
+        {
+          "text": "The US settled on providing 31 tanks to Ukraine, which is the size of a Ukrainian tank battalion consisting of two smaller companies with about 15 tanks each.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "There are concerns about the potential tech transfer",
+      "points": [
+        {
+          "text": "There are concerns about the potential tech transfer and risk of Ukrainian tanks falling into Russian hands, but so far there have been no indications of inappropriate storage, usage, or maintenance of the provided material, and efforts are being made to increase accountability and monitoring.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Pentagon does not have any excess Abrams",
+      "points": [
+        {
+          "text": "The Pentagon does not have any excess Abrams tanks in their inventory, and even if they did, it would take many months to prepare them for use by the Ukrainians and ensure they have the necessary training and supply chain in place.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The focus is currently on procuring 31 Abrams",
+      "points": [
+        {
+          "text": "The focus is currently on procuring 31 Abrams tanks for Ukraine, with future shipments and extended range missiles under consideration in ongoing conversations.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The availability of the Abrams tanks for use",
+      "points": [
+        {
+          "text": "The availability of the Abrams tanks for use in the spring offensive is uncertain due to the need to address fuel supply chain issues, while the arrival of Leopard tanks is expected to take less time.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The decision to provide military assistance to Ukraine",
+      "points": [
+        {
+          "text": "The decision to provide military assistance to Ukraine was made after extensive conversations with the Ukrainians and allies, with a focus on addressing their short-term and long-term needs in anticipation of potential fighting in the coming months.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The discussions with European allies and partners have",
+      "points": [
+        {
+          "text": "The discussions with European allies and partners have been robust and productive, with a focus on supporting Ukraine and working towards a two-state solution.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson affirms that while Russia's military may",
+      "points": [
+        {
+          "text": "The spokesperson affirms that while Russia's military may be weaker than before due to casualties and resource depletion, they still pose a threat, and the United States is committed to fulfilling its Article 5 commitments to NATO by maintaining a significant presence of troops in Europe.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US has been communicating with China about",
+      "points": [
+        {
+          "text": "The US has been communicating with China about the implications of China's support for Russia, urging them to sign up to strict sanctions and not provide any support to Russia, while also expressing concern about China's lack of transparency regarding COVID-19 deaths.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US is prepared to continue supporting Ukraine",
+      "points": [
+        {
+          "text": "The US is prepared to continue supporting Ukraine for an indefinite period of time, as long as necessary, in order to ensure Ukrainian success on the battlefield and at the negotiating table, despite the lack of willingness from Putin to withdraw troops from Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the seriousness with which the",
+      "points": [
+        {
+          "text": "The speaker acknowledges the seriousness with which the President and the National Security Council staff treat classified material and emphasizes the importance of following established rules and procedures for handling classified information.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the ongoing review of guidelines",
+      "points": [
+        {
+          "text": "The speaker discusses the ongoing review of guidelines for handling classified material and acknowledges the balance between appropriate classification and over-classification.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the challenges and requirements associated",
+      "points": [
+        {
+          "text": "The speaker acknowledges the challenges and requirements associated with providing tanks to Ukraine, while also mentioning discussions with allies and partners regarding Ukraine's needs.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the training program for Ukraine",
+      "points": [
+        {
+          "text": "The speaker discusses the training program for Ukraine, stating that it will not take place within Ukraine and that the details are still being worked out, but it is expected to be implemented in weeks rather than months.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses concerns about Russia's reaction to",
+      "points": [
+        {
+          "text": "The speaker addresses concerns about Russia's reaction to the announcement of the training program and emphasizes that the tanks being provided to Ukraine pose no offensive threat to Russia and are intended to assist Ukrainian forces.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The decision to send Abrams tanks to Ukraine",
+      "points": [
+        {
+          "text": "The decision to send Abrams tanks to Ukraine was made by the President in the last several days following numerous conversations between various officials at different levels of command.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The decision to send tanks to Ukraine was",
+      "points": [
+        {
+          "text": "The decision to send tanks to Ukraine was discussed and planned over several weeks through conversations with various officials, including German allies and Ukrainian counterparts.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The transcript includes announcements about the record breaking",
+      "points": [
+        {
+          "text": "The transcript includes announcements about the record-breaking number of Americans signing up for affordable healthcare through the Affordable Care Act, lower health insurance rates, and President Biden's upcoming remarks on the success of his economic plan.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the press briefing Karine Jean Pierre declined",
+      "points": [
+        {
+          "text": "During the press briefing, Karine Jean-Pierre declined to comment on Senator Joe Manchin's delay on new tax credits for electric vehicles and stated that decisions regarding restricting access to classified information for Congressman George Santos should be made by the Republican conference.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre declined to comment on Senator",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre declined to comment on Senator Joe Manchin's delay on new tax credits for electric vehicles and stated that decisions regarding restricting access to classified information for Congressman George Santos should be made by the Republican conference, but expressed support for Representatives Schiff, Swalwell, and Omar's expertise in foreign policy and national security on the Intelligence Committee.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House declines to comment on the",
+      "points": [
+        {
+          "text": "The White House declines to comment on the appointment of Jeff Zients as Chief of Staff and the potential departure of Ron Klain, and refrains from commenting on an ongoing federal civil rights investigation in Memphis.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson discusses President Biden and",
+      "points": [
+        {
+          "text": "The White House spokesperson discusses President Biden and Vice President Harris's upcoming joint event in Philadelphia to discuss the progress of their economic agenda, while also addressing the House Judiciary Committee's planned hearing on the \"Biden border crisis\" and the White House's response to investigations by House Republicans.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson addresses concerns about potential",
+      "points": [
+        {
+          "text": "The White House spokesperson addresses concerns about potential layoffs in the tech and banking sectors spilling over into the broader economy, highlighting job data and economic indicators that show steady growth, while also stating that the President is willing to work with Congress in a bipartisan way but will call out Republicans who want to cut Social Security, Medicare, Medicaid, or defense spending.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson declines to comment on",
+      "points": [
+        {
+          "text": "The White House spokesperson declines to comment on ongoing legal matters regarding the handling of classified documents and does not provide any new policy announcements on banking regulations for legal marijuana businesses.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

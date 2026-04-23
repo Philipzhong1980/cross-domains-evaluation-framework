@@ -1,0 +1,31 @@
+### Overview
+  Presiding Zoning Administrator Lindsay Hagan convenes a remote administrative zoning public hearing and outlines participation rules under California Government Code Section 54953(e). On the consent calendar, the zoning administrator continues the 1040 Terabella Ave development agreement to a future date and approves the 2500 Grant Rd request to remove 10 trees (including five heritage trees) with the posted conditions after confirming the replacement planting plan and a CEQA exemption (Section 15304). Planner Phillip Brennan presents a public hearing for 2580 W El Camino Real, describing a provisional use permit for a Carbon Health medical service in an existing ~3,000 sq ft building, associated awning replacements, and a CEQA exemption (Section 15301); staff finds the proposal consistent with the San Antonio Precise Plan and recommends conditional approval, and the zoning administrator approves the project with staff conditions after receiving no public comment. Lindsay Hagan reminds attendees that decisions may be appealed to the City Council within 10 days, directs parties to contact the project planner for follow-up, and adjourns the meeting.
+  
+  ### Detailed Summary
+  #### Remote meeting procedures
+  The zoning administrator opens the hearing by explaining that the meeting is held remotely under California Government Code Section 54953(e) and describes how the public may participate. This matters because it sets the process for public comment and establishes that all participants attend by video conference. The meeting proceeds under those rules with speaker time limits and instructions for raising hands or using phone controls.
+- Lindsay Hagan states the meeting is conducted under California Government Code Section 54953(e) during a declared state of emergency.
+- Lindsay Hagan explains that members participate by video conference and provides the city clerk email to request the applicable resolution.
+- Lindsay Hagan instructs the public to use Zoom's Raise Hand or dial Star 9 and notes speakers are limited to three minutes each.
+  #### 1040 Terabella Ave continuation
+  The first consent item, a proposed development agreement at 1040 Terabella Ave, is continued to a future date and will be renoticed if scheduled for a public hearing. This is significant because no action is taken today and interested parties must watch for a new hearing date. The zoning administrator closes the item with no discussion or vote beyond noting the continuance.
+- Lindsay Hagan announces that the development agreement request for 1040 Terabella Ave is continued to a future date and will be renoticed if scheduled.
+- Lindsay Hagan confirms there will be no discussion or action on item 3.1 at this hearing.
+  #### 2500 Grant Rd tree removals
+  The second consent item requests permits to remove 10 trees, including five heritage trees, on an existing hospital site at 2500 Grant Rd and to approve landscape modifications and a replacement plan. The zoning administrator reports reviewing the posted materials and concurs with the proposed removals, replacement planting plan, and recommended conditions. As a result, the zoning administrator approves the item with the posted conditions and closes public comment after receiving none.
+- Lindsay Hagan describes the 2500 Grant Rd proposal as a planned community permit, development review permit, and heritage tree removal permit to remove 10 trees, including five heritage trees, on an existing hospital site.
+- Lindsay Hagan notes the project includes landscape modifications and that staff determined it is categorically exempt pursuant to Section 15304 of the CEQA Guidelines.
+- Lindsay Hagan states she reviewed the posted materials and concurs with the tree removals and the replacement plan.
+- Lindsay Hagan approves item 3.2 with the conditions posted online after closing public comment.
+  #### 2580 W El Camino Real proposal
+  A public hearing addresses a request for a provisional use permit to allow a Carbon Health medical service in an existing ~3,000-square-foot building at 2580 W El Camino Real, plus a development review and planned community permit to replace awnings. Project planner Phillip Brennan presents staff's analysis, finding the proposal consistent with the San Antonio Precise Plan and General Plan mixed-use designation, and recommends approval with conditions while determining the project is categorically exempt under CEQA Section 15301. The applicant offers no presentation, there is no public comment, and the zoning administrator moves to approve the project with the posted conditions.
+- Phillip Brennan presents the project as a provisional use permit for a new Carbon Health medical service in an existing roughly 3,000 square foot commercial building on a 5.4 acre parcel in the P40 San Antonio Precise Plan.
+- Phillip Brennan reports staff finds the proposed use and site improvements consistent with the San Antonio Precise Plan standards and the General Plan's mixed-use center designation.
+- Phillip Brennan states staff has determined the project is categorically exempt pursuant to Section 15301 of the CEQA Guidelines and recommends conditional approval.
+- Phillip Brennan notes the applicant does not present but remains available to answer questions.
+- Lindsay Hagan reports no public commenters and makes a motion to approve item 4.1 with the conditions of approval posted by city staff.
+  #### Appeals and adjournment
+  The zoning administrator closes the hearing by reminding attendees that actions taken today may be appealed to the City Council within 10 calendar days and provides the project planner as the contact for appeals or follow-up questions. The meeting is then adjourned. This informs participants of their recourse and next steps after the hearing outcomes.
+- Lindsay Hagan states that all actions taken at today's meeting may be appealed to the City Council within 10 calendar days.
+- Lindsay Hagan instructs interested parties to contact the project planner listed on the agenda for appeals or follow-up questions.
+- Lindsay Hagan adjourns the zoning administrator meeting at 4:10 PM.

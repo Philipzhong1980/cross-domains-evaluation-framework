@@ -1,0 +1,197 @@
+{
+  "result": {
+    "meeting_context": "This is a Performing Arts Committee meeting focused on reviewing meeting minutes, receiving a Film Festival subcommittee report, and conducting Peninsula Youth Theatre's annual performance review including financial analysis and program updates.",
+    "participants": [
+      "Sukanya Kumar",
+      "Noelle Magner",
+      "John Marchant",
+      "John McAlister",
+      "Yao",
+      "Carol Donahue",
+      "Theresa Yvonne",
+      "Connor Day"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Minutes Approval Process",
+        "points": [
+          {
+            "speaker": "Sukanya Kumar",
+            "text": "Minutes incorrectly listed committee member instead of vice chair in all places requiring correction.",
+            "source": "Sukanya Kumar : I did notice that in the minutes it does say committee member in all places. I don't know if it's routine to say vice chair or because there is chair Donahue, but then committee member, is that a correction or that's how it's supposed to be?"
+          },
+          {
+            "speaker": "John McAlister",
+            "text": "McAlister abstained from minutes approval vote due to absence from previous meeting.",
+            "source": "John McAlister : Since I wasn't there, I'll abstain."
+          }
+        ]
+      },
+      {
+        "topic": "Film Festival Subcommittee Status",
+        "points": [
+          {
+            "speaker": "Sukanya Kumar",
+            "text": "Subcommittee met with Chair Donahue and Teresa about Film Festival potential with approximate timeline in place, awaiting specific dates and scope discussions.",
+            "source": "Sukanya Kumar : We do have to update that we had a meeting with Chair Donahue as well as Teresa about the potential for the Film Festival. We have approximate timeline in place waiting for dates, specific dates, as well as discussions about what exactly we. Will be able to do."
+          },
+          {
+            "speaker": "Theresa Yvonne",
+            "text": "Theresa will prepare detailed budget comparing first Film Festival costs with estimated costs for planned festival to support committee decision-making.",
+            "source": "Theresa Yvonne : And then just to add on to that, my support to the subcommittee is I will be putting together a very detailed budget of what was spent on the first Film Festival that was successful and estimated costs for the one that's being planned right now so that the committee can make a determination based on that information"
+          }
+        ]
+      },
+      {
+        "topic": "Peninsula Youth Theatre Financial Review",
+        "points": [
+          {
+            "speaker": "Theresa Yvonne",
+            "text": "Peninsula Youth Theatre paid $63,906.88 in total facility fees, with $73,816 total revenue including $9,910 facility use fees paid by patrons.",
+            "source": "Theresa Yvonne : So the total amount that that Peninsula Youth Theater paid in rent or in facility fees is 63,906 and $0.88"
+          },
+          {
+            "speaker": "John McAlister",
+            "text": "McAlister requested comprehensive CPA budget information including overhead costs and prior year budgets to better understand financial operations.",
+            "source": "John McAlister : I'm just trying to get a baseline idea how things are are done"
+          },
+          {
+            "speaker": "John Marchant",
+            "text": "Marchant confirmed financial spreadsheet format will be modified to resemble typical financial statements for future home company reviews.",
+            "source": "John Marchant : this is a document that has been historically used and Theresa and I are going to be modifying this so that it looks more similar to a typical financial spreadsheet"
+          }
+        ]
+      },
+      {
+        "topic": "Peninsula Youth Theatre Program Performance",
+        "points": [
+          {
+            "speaker": "Connor Day",
+            "text": "Connor Day completed first full season as Director of Business Operations, presenting PYT's 30th operational season results.",
+            "source": "Connor Day : I presented to this committee last year for our review as a very, very green staff member, having only been with PYT for about 6 weeks at that time. Now I'm going on a year and six weeks"
+          },
+          {
+            "speaker": "Connor Day",
+            "text": "School Play in a Box program restarted at 8 schools last season and expanded to 14 schools this fall, with Bub Elementary among new additions.",
+            "source": "Connor Day : However, that being said, we were still able to start and restart programs at about 8 schools last season... This year, we have increased those numbers. We're restarting a program at Bub Elementary in particular, but we actually have 14 other schools that we're serving this fall"
+          },
+          {
+            "speaker": "Connor Day",
+            "text": "All seven Stories on Stage school shows for current year are completely sold out to schools, with strong attendance from Mountain View, Cupertino, Sunnyvale and Los Altos areas.",
+            "source": "Connor Day : all seven of our titles for this year at least the school shows are completely sold out to schools"
+          },
+          {
+            "speaker": "Connor Day",
+            "text": "Summer Theatre in the Park program served approximately 600 campers, reaching 80% of 2019 pre-pandemic attendance levels.",
+            "source": "Connor Day : overall throughout 2022 we ended up serving about 600 campers which was about 80% of our 2019 attendance"
+          },
+          {
+            "speaker": "Connor Day",
+            "text": "PYT received grants from local organizations including Kiwanis and Packard Foundation, plus new state Performing Arts Grant Program funding.",
+            "source": "Connor Day : support that we've received from a lot of local organizations including Kiwanis and the state and local foundations including Packard, who we've been awarded grants for this year"
+          },
+          {
+            "speaker": "Connor Day",
+            "text": "Organization received $300,000 SBA loan during pandemic that remains unused as reserve cushion, with gradual repayment initiated.",
+            "source": "Connor Day : we also during the pandemic we received a pretty large SBA loan, but that we haven't even used. It's just been sitting in just reserve as backup... It was about $300,000 that we received"
+          }
+        ]
+      },
+      {
+        "topic": "COVID Impact and Safety Protocols",
+        "points": [
+          {
+            "speaker": "Connor Day",
+            "text": "COVID continued affecting outreach programs with schools not ready for outside programming, though in-person classes and rehearsals resumed at studio.",
+            "source": "Connor Day : So for this season all all of our programs but especially our outreach programs unfortunately continued to be affected by COVID in one way or another"
+          },
+          {
+            "speaker": "Connor Day",
+            "text": "Summer camps required vaccination and masking for all campers, achieving strong enrollment despite safety requirements.",
+            "source": "Connor Day : we required all campers to be vaccinated and masked for all of camp, with the exception of a few sessions that we offered with a recommendation, but not a requirement"
+          },
+          {
+            "speaker": "Connor Day",
+            "text": "Current policy recommends but does not require masks for audiences, while maintaining masking requirements for studio rehearsals.",
+            "source": "Connor Day : So currently for audiences we are recommending but not requiring masks to attend shows. We are still requiring masking inside our studio for rehearsals"
+          }
+        ]
+      },
+      {
+        "topic": "Future Programming and Challenges",
+        "points": [
+          {
+            "speaker": "Connor Day",
+            "text": "Biggest challenge identified as rebuilding audiences for Stories on Stage and replacing technical staff who moved away or left due to inflation pressures.",
+            "source": "Connor Day : I think rebuilding our audiences especially for SOS... another occasional piece is that we lost a lot of connections to folks who had worked for us to do technical work on our shows"
+          },
+          {
+            "speaker": "John McAlister",
+            "text": "McAlister requested Executive Director explore attending Western Arts Alliance or APAP conferences to research potential acts for CPA programming.",
+            "source": "John McAlister : I'd like to be able to explore the ability that our Executive Director would look into possibly attending one of these events to just see what's out there"
+          },
+          {
+            "speaker": "Theresa Yvonne",
+            "text": "Western Arts Alliance conference occurs annually in August/September for western states, while larger APAP conference happens in New York each January.",
+            "source": "Theresa Yvonne : The smaller conference is called the Western Arts Alliance and that's for the Western United States and that's usually in August or September of every year"
+          }
+        ]
+      },
+      {
+        "topic": "Committee Administrative Updates",
+        "points": [
+          {
+            "speaker": "Theresa Yvonne",
+            "text": "National Arts and Humanities Proclamation will be presented to City Council next Tuesday with Theresa accepting on committee's behalf.",
+            "source": "Theresa Yvonne : The National Arts and Humanities Proclamation will go to council next Tuesday, and I'll be accepting that on behalf of the committee at the meeting"
+          },
+          {
+            "speaker": "Carol Donahue",
+            "text": "Next meeting scheduled for November 16th, 2022 will feature Theater Works and Upstage home company presentations.",
+            "source": "Carol Donahue : the next performing Arts meeting committee meeting will be held on November 16th, 2022 at 6:15 PM... Theresa Yvonne : We'll have Theater Works and Upstage next month"
+          },
+          {
+            "speaker": "Carol Donahue",
+            "text": "Leadership thanked city for volunteer appreciation event attended by committee members and praised collaboration opportunities.",
+            "source": "Carol Donahue : Well, I guess I'd like to thank the the city for its volunteer appreciation event last Monday. Sukanya and I had a nice time"
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Noelle Magner",
+        "text": "Noelle will contact City Clerk's office to update minutes changing 'committee member' to 'Vice Chair' and bring revised version to next meeting.",
+        "source": "Noelle Magner : Let me contact our City Clerk's office and I can go ahead and have that updated and I'll do a revised version of this and bring it to the next meeting"
+      },
+      {
+        "assignee": "Theresa Yvonne",
+        "text": "Theresa will prepare detailed Film Festival budget comparing first festival costs with estimated costs for planned festival.",
+        "source": "Theresa Yvonne : I will be putting together a very detailed budget of what was spent on the first Film Festival that was successful and estimated costs for the one that's being planned right now"
+      },
+      {
+        "assignee": "Theresa Yvonne",
+        "text": "Theresa will research Western Arts Alliance conference information and agent contacts for potential CPA programming acts.",
+        "source": "Theresa Yvonne : I can bring back more information for the committee to look at that... I could reach out to an agent and say, OK, who's who's back out, what's going on?"
+      },
+      {
+        "assignee": "Connor Day",
+        "text": "Connor will share presentation slides with committee email group after meeting conclusion.",
+        "source": "Connor Day : I'll share these slides out with with the e-mail group once I pop off"
+      }
+    ],
+    "metadata": {
+      "topicCount": 7,
+      "pointCount": 22,
+      "decisionCount": 4
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-30T07:13:16.665547+00:00"
+  }
+}

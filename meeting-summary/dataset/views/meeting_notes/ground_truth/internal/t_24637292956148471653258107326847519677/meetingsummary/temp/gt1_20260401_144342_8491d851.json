@@ -1,0 +1,80 @@
+{
+  "result": {
+    "meeting_context": "Administrative zoning public hearing for Mountain View on December 14, 2022, conducted via videoconference under California Government Code 54953(e). Agenda covered consent calendar items (one continued, one approved) and a public hearing item for a Carbon Health medical use and awning replacements at 2580 W El Camino Real.",
+    "participants": [
+      "Lindsay Hagan",
+      "Phillip Brennan"
+    ],
+    "topics": [
+      {
+        "topic": "Public Hearing Logistics and Procedures",
+        "points": [
+          {
+            "speaker": "Lindsay Hagan",
+            "text": "Lindsay Hagan opened the December 14, 2022 zoning public hearing, stating the meeting would be held via videoconference under California Government Code Section 54953(e) with no physical location. She outlined Zoom and phone participation steps and set a three‑minute limit for public comments.",
+            "source": "Lindsay Hagan : So during this declared state of emergency, the meeting will be conducted in accordance with the California Government Code Section 54953 E as authorized by resolution."
+          }
+        ]
+      },
+      {
+        "topic": "Consent Calendar Actions and Outcomes",
+        "points": [
+          {
+            "speaker": "Lindsay Hagan",
+            "text": "Item 3.1 (1040 Terra Bella Ave development agreement with Storage Equities, Inc.) was continued to a future date to be determined; the item will be renoticed if it is scheduled for a future public hearing, and no discussion or action occurred at this meeting.",
+            "source": "Lindsay Hagan : This project is being continued to a future date to be determined, so we will have to renotice that item for whatever the new date may be if it's scheduled for public hearing."
+          },
+          {
+            "speaker": "Lindsay Hagan",
+            "text": "For item 3.2 (2500 Grant Rd, ~40‑acre hospital site), the administrator approved planned community, development review, and heritage tree removal permits—removing 10 trees including five heritage trees—with posted conditions. She concurred with the removals and replacement plan; staff determined a CEQA categorical exemption under Section 15304.",
+            "source": "Lindsay Hagan : And so with that, I will approve with the conditions that have been posted online, item 3.2."
+          }
+        ]
+      },
+      {
+        "topic": "Carbon Health Permit and Awnings",
+        "points": [
+          {
+            "speaker": "Phillip Brennan",
+            "text": "Philip Brennan reported the applicant requested a provisional use permit for a new Carbon Health medical service within an existing ~3,000‑sq‑ft building on a 5.4‑acre parcel at 2580 W El Camino Real, plus permits to replace awnings. Staff found consistency with the P40 Precise Plan and General Plan, deemed CEQA Section 15301 applicable, and recommended conditional approval.",
+            "source": "Phillip Brennan : In the P40 San Antonio Precise Plan, the applicant requests a provisional use permit to allow a new medical service use for carbon health in an existing 3000 approximately 3000 square foot of commercial building on a 5.4 acre parcel, a development review permit and a planned community permit to replace existing awnings at an existing shopping center."
+          },
+          {
+            "speaker": "Lindsay Hagan",
+            "text": "Lindsay Hagan concurred the medical use is appropriate for the location and moved to approve item 4.1 with the conditions of approval as posted by City staff.",
+            "source": "Lindsay Hagan : I will go ahead and make a motion to approve item 4.1 with the conditions of approval as posted by City staff."
+          }
+        ]
+      },
+      {
+        "topic": "Public Comments and Adjournment",
+        "points": [
+          {
+            "speaker": "Lindsay Hagan",
+            "text": "No public speakers addressed oral communications, the consent calendar, or item 4.1. After inviting comments and seeing no hands raised, the zoning administrator closed each public comment period without testimony.",
+            "source": "Lindsay Hagan : Seeing no one, we will go ahead and close the public comment period on this item."
+          },
+          {
+            "speaker": "Lindsay Hagan",
+            "text": "Lindsay Hagan stated actions taken at the meeting may be appealed to the City Council within 10 calendar days and adjourned the zoning administrator meeting at 4:10 PM, thanking attendees.",
+            "source": "Lindsay Hagan : I do want to mention that all of the actions taken at today's meeting can be appealed to the City Council within 10 calendar days."
+          }
+        ]
+      }
+    ],
+    "decisions": [],
+    "metadata": {
+      "topicCount": 4,
+      "pointCount": 7,
+      "decisionCount": 0
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "openai",
+    "model": "gpt-5-2025-08-07",
+    "timestamp": "2026-04-01T06:43:42.375727+00:00"
+  }
+}

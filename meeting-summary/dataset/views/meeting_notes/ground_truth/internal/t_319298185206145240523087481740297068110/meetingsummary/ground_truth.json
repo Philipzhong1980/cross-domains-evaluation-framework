@@ -1,0 +1,173 @@
+{
+  "meeting_context": "Regular Environmental Planning Commission (EPC) meeting covering approval of prior minutes, 2023\u20132031 Housing Element status and a continuance, officer elections for 2023, and upcoming meeting logistics including a return to council chambers. Public commenters provided feedback on the Housing Element draft and staff outlined next steps and timelines.",
+  "participants": [
+    "Cranston",
+    "Whitehall",
+    "Clark",
+    "Dempsey",
+    "Gutierrez",
+    "Haymeyer",
+    "Nunez",
+    "Yen",
+    "Eric Anderson",
+    "Stephanie",
+    "Sandy",
+    "Allie Saperman",
+    "Kevin Ma",
+    "David Watson"
+  ],
+  "topics": [
+    {
+      "topic": "Approval of December 7 minutes",
+      "points": [
+        {
+          "text": "The Commission unanimously approved the minutes from the December 7, 2022 EPC meeting following no public comments. Clark moved to approve and Yen seconded, and the roll call vote recorded unanimous 'aye' responses from all commissioners present.",
+          "source": "Clark : Move approval of the Minutes.",
+          "speaker": "Clark",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "2023\u20132031 Housing Element status and continuance",
+      "points": [
+        {
+          "text": "Eric Anderson reported HCD gave additional substantive comments on the draft Housing Element, requesting recategorization of pipeline versus inventory sites, more findings and programs, and expanded non-English outreach. Staff advised the EPC not to act until revisions are made, and will post a revised draft and schedule a new hearing.",
+          "source": "Eric Anderson : Based on this, staff is not recommending that the EPC act on the draft. A revised draft will be posted and made publicly available and a new hearing will be scheduled and noticed at a later date",
+          "speaker": "Eric Anderson",
+          "id": "t_002_p_001"
+        },
+        {
+          "text": "Allie Saperman, for the Housing Action Coalition, argued many non-vacant sites lack evidence existing uses will cease, urged adding more sites, noted about 1,500 units counted in the prior RHNA cycle, and requested prioritizing high-opportunity, transit-adjacent areas; she offered to meet with staff and commissioners.",
+          "source": "Allie Saperman : There is a number of non vacant sites that are listed in the pipeline site inventory, but it's there has not been an evidence based analysis of whether the existing use of these sites will cease\u2026 amount to about 1500 units that work counted in the past\u2026 encourage adding more sites",
+          "speaker": "Allie Saperman",
+          "id": "t_002_p_002"
+        },
+        {
+          "text": "Kevin Ma, for the League of Women Voters, supported staff's further work but criticized program vagueness, late timing for fair housing actions, low assumed densities on church sites, unclear ADU fee support, and weak ties to displacement/homelessness programs; he urged firmer commitments to tools like COPA and CLT.",
+          "source": "Kevin Ma : We are remain concerned about the vagueness of the programs\u2026 fair housing concerns\u2026 programs\u2026 deficient\u2026 density for the church sites are still low\u2026 Adu fee structure is still vague\u2026 programs to address homelessness and displacement are still\u2026 letters\u2026 demand for things like Copa and CLT still too vague",
+          "speaker": "Kevin Ma",
+          "id": "t_002_p_003"
+        },
+        {
+          "text": "Eric Anderson indicated staff will work quickly, informally targeting late March for council adoption to align with grant application timelines, while acknowledging analysis scope is uncertain. The primary goal is to preserve eligibility for as many funding opportunities as possible.",
+          "source": "Eric Anderson : Application dates\u2026 start around the end of March\u2026 kind of an informal target for us is to try to meet that for council adoption\u2026 our major goal is to try to make sure that we're eligible for as many grants as we can",
+          "speaker": "Eric Anderson",
+          "id": "t_002_p_004"
+        },
+        {
+          "text": "Stephanie explained there is no objective measurement for adequate translation; staff will document translation efforts to date, ensure materials are translated and available earlier for upcoming phases, and continue an open dialogue with HCD about whether opportunities for non-English speakers remain a concern.",
+          "source": "Stephanie : I don't think that there is an objective measurement\u2026 making sure that we're clear with HCD\u2026 about how we have made attempts\u2026 and for the next phases\u2026 keeping that in mind\u2026 keeping that conversation open with them",
+          "speaker": "Stephanie",
+          "id": "t_002_p_005"
+        },
+        {
+          "text": "Eric Anderson clarified HCD seeks findings showing nothing prevents residential use on non-vacant sites rather than proof or guarantees. Staff is developing the analysis and findings, and will continue engaging Spanish-speaking advocacy organizations with meetings timed for productivity once draft revisions are more concrete.",
+          "source": "Eric Anderson : The evidence that non vacant sites will can accommodate residential uses\u2026 is not a proof\u2026 We're just making sure that there's nothing that's going to keep it from happening\u2026 we've met with a couple of the Spanish speaking advocacy organizations\u2026 looking at ways of making sure that they're as productive as they can be",
+          "speaker": "Eric Anderson",
+          "id": "t_002_p_006"
+        },
+        {
+          "text": "HCD review process integrates public comments for statutory compliance, with ongoing opportunities for input through outreach, state-required draft publishing, and pre-EPC publication requirements.",
+          "source": "Eric Anderson : So the the HCD process is really one of being. Kind of a. Sort of a judge, right, in this, in this process\u2026 Taking public. Comment at the same. Time that they're reviewing our draft for statutory compliance\u2026 there's a process whereby\u2026 we're getting comments. From HCD\u2026 there. Have been lots of opportunities to integrate public input",
+          "speaker": "Eric Anderson",
+          "id": "t_002_p_007"
+        },
+        {
+          "text": "Staff has plan to address Farella Braun & Martel letter concerns and will work on analysis to verify statutory compliance, with HCD clarifying evidence requirement is not proof or guarantee but ensuring no barriers to residential development.",
+          "source": "Eric Anderson : Yeah, I there is a plan of attack. I think we, you know we discussed it in in a lot of detail\u2026 the HCD was really clear about you know the the findings and the the evidence that non vacant sites will can accommodate residential uses. Is not a. It's not a proof. That they're looking for. It's not a guarantee",
+          "speaker": "Eric Anderson",
+          "id": "t_002_p_008"
+        }
+      ]
+    },
+    {
+      "topic": "Leadership elections and transition",
+      "points": [
+        {
+          "text": "Yen nominated Commissioner Dempsey for vice chair position, which Dempsey accepted.",
+          "source": "Yen : Yes, I happily oh, can you hear me happily nominate Hank, Commissioner Dempsey",
+          "speaker": "Yen",
+          "id": "t_003_p_001"
+        },
+        {
+          "text": "Commission unanimously elected Yen as chair and Dempsey as vice chair for 2023.",
+          "source": "Whitehall : Motion carries",
+          "speaker": "Whitehall",
+          "id": "t_003_p_002"
+        },
+        {
+          "text": "Commissioner Nunez nominated Vice Chair Yen for chair position, which Yen accepted.",
+          "source": "Nunez : I would like to nominate Vice Chair again\u2026 Yen: I am willing and honored by the nomination",
+          "speaker": "Nunez",
+          "id": "t_003_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Upcoming meetings and chamber return",
+      "points": [
+        {
+          "text": "Eric Anderson announced no agenda items for January 18 (no meeting). A tentative February 1 agenda includes an affordable housing project and a Public Storage project on Terra Bella, with a return to the council chambers. Staff will email to schedule small-group chamber reorientation visits.",
+          "source": "Eric Anderson : We actually don't have anything scheduled for the 18th\u2026 February 1st, we do have a tentative item\u2026 return to the Chambers on February 1st\u2026 send out emails\u2026 reacquaint themselves with the chambers\u2026 in groups of three or less",
+          "speaker": "Eric Anderson",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Meeting closure and recognition",
+      "points": [
+        {
+          "text": "Chair Cranston adjourned the Environmental Planning Commission meeting of January 4 at 7:38 PM.",
+          "source": "Cranston : And we will adjourn the Environmental Planning Commission meeting of January 4th at 7:38 PM.",
+          "speaker": "Cranston",
+          "id": "t_005_p_001"
+        },
+        {
+          "text": "Commissioner Haymeyer thanked Chair Cranston for serving two difficult years conducting meetings from home and expressed appreciation for leadership experience.",
+          "source": "Haymeyer : You have served not one but two difficult years and doing it all from your home\u2026 We really appreciate your service and it's just been such a great, such a great experience to have you as our chair not once but twice",
+          "speaker": "Haymeyer",
+          "id": "t_005_p_002"
+        },
+        {
+          "text": "Chair-elect Yen thanked Cranston for excellent leadership over past two years and committed to serving commission well.",
+          "source": "Yen : Thank you very much for leading us so well these past two years\u2026 I will do my best to serve you all well",
+          "speaker": "Yen",
+          "id": "t_005_p_003"
+        },
+        {
+          "text": "Vice Chair-elect Dempsey expressed gratitude to Cranston for teaching and leadership throughout his EPC tenure.",
+          "source": "Dempsey : you've been the chair for as long as I've been on EPC and I have learned a ton from you\u2026 So I just want to say thank you",
+          "speaker": "Dempsey",
+          "id": "t_005_p_004"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "text": "Staff will revise housing element draft based on HCD comments, post publicly, and schedule new hearing at future date.",
+      "source": "Eric Anderson : Based on this, staff is not recommending that the EPC. Act on the draft. Until the necessary. Changes are made a revised draft. Will be posted",
+      "assignee": "Staff",
+      "id": "d_001"
+    },
+    {
+      "text": "Eric Anderson will send emails to commissioners for chamber familiarization visits in groups of three or less before February 1st return.",
+      "source": "Eric Anderson : I am going to send out emails. As soon as I log off right now\u2026 We have to do. This in groups of three or less",
+      "assignee": "Eric Anderson",
+      "id": "d_002"
+    },
+    {
+      "text": "EPC voted unanimously to continue the 2023-2031 Housing Element item to a future date pending staff revisions responsive to HCD comments.",
+      "source": "Whitehall : Motion carries unanimously.",
+      "assignee": "EPC",
+      "id": "d_003"
+    }
+  ],
+  "metadata": {
+    "topicCount": 5,
+    "pointCount": 17,
+    "decisionCount": 3
+  }
+}

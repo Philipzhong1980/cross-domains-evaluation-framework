@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20230718_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MR. KIRBY",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "The speaker welcomes Kelly O'Donnell as the new",
+      "points": [
+        {
+          "text": "The speaker welcomes Kelly O'Donnell as the new president of the White House Correspondents' Association and expresses gratitude to Tamara Keith for her previous partnership.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses Republican Senator Tommy Tuberville's obstruction",
+      "points": [
+        {
+          "text": "The speaker addresses Republican Senator Tommy Tuberville's obstruction of the National Defense Authorization Act and delays in confirming military nominees, highlighting the negative consequences on national security, military leadership, and military families, while also expressing agreement with Representative Marjorie Taylor Greene's criticism of Bidenomics reducing rural poverty.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses Russia's decision to suspend its",
+      "points": [
+        {
+          "text": "The speaker addresses Russia's decision to suspend its participation in the Black Sea Grain Initiative, highlighting the potential harm it could cause to global food scarcity and vulnerable populations.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses Russia's decision to suspend its",
+      "points": [
+        {
+          "text": "The speaker addresses Russia's decision to suspend its participation in the Black Sea Grain Initiative, highlighting its potential harm to global food scarcity and vulnerable populations, and urges Russia to reverse this dangerous decision.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges that Russia's decision to suspend",
+      "points": [
+        {
+          "text": "The speaker acknowledges that Russia's decision to suspend its participation in the Black Sea Grain Initiative will result in less efficient and effective ways of getting grain out of Ukraine, potentially leading to food scarcity and higher prices globally.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker states that they are not in",
+      "points": [
+        {
+          "text": "The speaker states that they are not in a position to attribute the bridge attack to any specific party and that the decision by Russia to suspend its participation in the Black Sea Grain Initiative has already resulted in an immediate impact on grain prices.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the Chinese hacking campaign that",
+      "points": [
+        {
+          "text": "The speaker discusses the Chinese hacking campaign that targeted Microsoft cloud services and emphasizes the ongoing efforts to improve cybersecurity and prevent such attacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges a question from Courtney regarding",
+      "points": [
+        {
+          "text": "The speaker acknowledges a question from Courtney regarding the Chinese hacking campaign targeting Microsoft cloud services and highlights ongoing efforts to enhance cybersecurity and prevent similar attacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the upcoming meeting between President",
+      "points": [
+        {
+          "text": "The speaker discusses the upcoming meeting between President Biden and Prime Minister Netanyahu, highlighting that while concerns over judicial reforms and extremist activities will be addressed, there will also be discussions on other issues such as Iran's destabilizing activity, climate change, and the integration of Israel in the Middle East.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the growing interest in unidentified",
+      "points": [
+        {
+          "text": "The speaker acknowledges the growing interest in unidentified aerial phenomena (UAPs) and mentions that the Pentagon has established an organization to coordinate the reporting and analysis of UAP sightings, while also expressing a commitment to transparency within national security constraints.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges that the Pentagon takes the",
+      "points": [
+        {
+          "text": "The speaker acknowledges that the Pentagon takes the issue of unidentified aerial phenomena seriously and has established an organization to analyze and coordinate the reporting of sightings, with some of these phenomena already impacting pilot training operations.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the importance of engagement and",
+      "points": [
+        {
+          "text": "The speaker emphasizes the importance of engagement and holding each other accountable in dealing with tensions and disagreements, while also cautioning against jeopardizing the entire bilateral relationship with China over one hacking incident.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker states that if the hacking incident",
+      "points": [
+        {
+          "text": "The speaker states that if the hacking incident is indeed carried out by a Chinese group, it is important to hold them accountable but also emphasizes the need to avoid jeopardizing the entire bilateral relationship with China.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker mentions increased Iranian attacks on maritime",
+      "points": [
+        {
+          "text": "The speaker mentions increased Iranian attacks on maritime shipping in the Gulf region, highlighting their growing aggression and danger to peaceful shipping.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker is asked about the United States'",
+      "points": [
+        {
+          "text": "The speaker is asked about the United States' response to allegations of Tunisia carrying out collective expulsion of sub-Saharan migrants and their message to the Tunisian President.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the misdirection of sensitive U",
+      "points": [
+        {
+          "text": "The speaker discusses the misdirection of sensitive U.S. military emails to Mali due to a typo and addresses concerns about the potential risk of Russian allies obtaining the data.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the importance of taking care",
+      "points": [
+        {
+          "text": "The speaker emphasizes the importance of taking care of and providing support for military members and their families, especially regarding issues such as diversity, inclusion, reproductive care, and abortion laws, as it can significantly impact recruitment, retention, and morale within the military.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker thanks Admiral Kirby for his service",
+      "points": [
+        {
+          "text": "The speaker thanks Admiral Kirby for his service and emphasizes the importance of \"dignity and respect\" in the military.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses concerns about rising grain prices",
+      "points": [
+        {
+          "text": "The speaker addresses concerns about rising grain prices potentially impacting inflation and discusses the positive trendlines in inflation over the last 12 months due to Bidenomics, while also acknowledging the need to monitor the potential impact of grain-related inflation and avoiding addressing comments made by a Democratic official.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker condemns false claims made regarding the",
+      "points": [
+        {
+          "text": "The speaker condemns false claims made regarding the origins of COVID-19 and emphasizes the importance of speaking out against racism, antisemitism, and protecting the dignity of all Americans.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the issue of Senator Tuberville",
+      "points": [
+        {
+          "text": "The speaker discusses the issue of Senator Tuberville holding up a certain act and emphasizes the importance of Republicans in the Senate speaking out against it and holding him accountable.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the bipartisan process of the",
+      "points": [
+        {
+          "text": "The speaker discusses the bipartisan process of the NDAA and expresses confidence that it will be done in a bipartisan way, addressing concerns about conservative wish list items and emphasizing the importance of supporting our military and protecting national security.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker expresses confidence in the Secret Service's",
+      "points": [
+        {
+          "text": "The speaker expresses confidence in the Secret Service's thorough investigation into the baggie of cocaine found in the West Wing and defers to them on any potential changes to security protocols.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House supports the aims of entertainment",
+      "points": [
+        {
+          "text": "The White House supports the aims of entertainment industry workers on strike and believes in their right to fair pay, benefits, and collective bargaining, while also highlighting the positive impact of Bidenomics on the economy.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is hopeful that the Teamsters",
+      "points": [
+        {
+          "text": "The White House is hopeful that the Teamsters and UPS can reach a mutual agreement through collective bargaining and does not plan to intervene in the event of a strike.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson refuses to comment on",
+      "points": [
+        {
+          "text": "The White House spokesperson refuses to comment on President Biden's reaction to the investigation into the cocaine incident at the White House, stating that the Secret Service conducted a thorough investigation and released a public statement on the matter.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson criticizes Senator Tuberville for",
+      "points": [
+        {
+          "text": "The White House spokesperson criticizes Senator Tuberville for politicizing and obstructing a historically bipartisan bill, which is negatively impacting military readiness and diversity.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson discusses the estimated cost",
+      "points": [
+        {
+          "text": "The White House spokesperson discusses the estimated cost of the new student loan forgiveness rules and defends the administration's belief that it can responsibly afford to provide relief to middle-class families while also reducing the deficit.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson discusses the increase in",
+      "points": [
+        {
+          "text": "The White House spokesperson discusses the increase in electric vehicle sales and the availability of EVs, highlighting the impact of President Biden's policies and the Inflation Reduction Act.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson reaffirms their commitment to",
+      "points": [
+        {
+          "text": "The White House spokesperson reaffirms their commitment to getting Julie Su confirmed as the Secretary of the Department of Labor and expresses support for collective bargaining in the Hollywood strikes.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson mentions that Julie Su",
+      "points": [
+        {
+          "text": "The White House spokesperson mentions that Julie Su, the Acting Labor Secretary, is involved in staying in touch and having conversations regarding the Teamsters strike.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

@@ -1,0 +1,113 @@
+{
+  "meeting_context": "Administrative zoning public hearing for Mountain View on December 14, 2022, conducted via videoconference under California Government Code 54953(e). Agenda covered consent calendar items (one continued, one approved) and a public hearing item for a Carbon Health medical use and awning replacements at 2580 W El Camino Real.",
+  "participants": [
+    "Lindsay Hagan",
+    "Phillip Brennan"
+  ],
+  "topics": [
+    {
+      "topic": "Meeting Procedures and Public Comment",
+      "points": [
+        {
+          "text": "Meeting conducted virtually with no physical location during declared state of emergency per California Government Code Section 54953E, with Zoom and phone participation options and 3-minute public comment limit.",
+          "source": "Lindsay Hagan : So during this declared state of emergency, the meeting will be conducted in accordance with the California Government Code Section 54953 E as authorized by resolution.",
+          "speaker": "Lindsay Hagan",
+          "id": "t_001_p_001"
+        },
+        {
+          "text": "No public speakers addressed oral communications, the consent calendar items, or item 4.1. After inviting comments and seeing no hands raised, the zoning administrator closed each public comment period without testimony.",
+          "source": "Lindsay Hagan : Seeing no one, we will go ahead and close the public comment period on this item.",
+          "speaker": "Lindsay Hagan",
+          "id": "t_001_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "1040 Terra Bella Ave Development Agreement",
+      "points": [
+        {
+          "text": "Item 3.1 (1040 Terra Bella Ave development agreement with Storage Equities, Inc.) was continued to a future date to be determined; the item will be renoticed if it is scheduled for a future public hearing.",
+          "source": "Lindsay Hagan : This project is being continued to a future date to be determined, so we will have to renotice that item for whatever the new date may be if it's scheduled for public hearing.",
+          "speaker": "Lindsay Hagan",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "2500 Grant Rd Tree Removal Permits",
+      "points": [
+        {
+          "text": "Request for permits to remove 10 trees including 5 heritage trees on ~40-acre hospital site for landscape modifications.",
+          "source": "Lindsay Hagan : This is a request for a planned community permit, development review permit and a heritage tree removal permit for landscape modifications to remove 10 trees including five heritage trees on an existing almost 40 acre hospital site",
+          "speaker": "Lindsay Hagan",
+          "id": "t_003_p_001"
+        },
+        {
+          "text": "Lindsay Hagan approved tree removals and replacement plan with posted conditions after reviewing materials and improvement details, concurring with staff's CEQA categorical exemption under Section 15304.",
+          "source": "Lindsay Hagan : I have reviewed the materials that were posted online and reviewed, you know, the particular tree information and in reviewing the information and looking at the particulars of the improvements being done and the demolition work and activity, I do concur with the tree removals as well as the replacement plan for new trees.",
+          "speaker": "Lindsay Hagan",
+          "id": "t_003_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "2580 W El Camino Real Medical Use Permit",
+      "points": [
+        {
+          "text": "Carbon Health requests provisional use permit for medical service in existing ~3,000 square foot commercial building on 5.4-acre parcel at 2580 W El Camino Real, plus permits to replace awnings.",
+          "source": "Phillip Brennan : the applicant requests a provisional use permit to allow a new medical service use for carbon health in an existing 3000 approximately 3000 square foot of commercial building on a 5.4 acre parcel",
+          "speaker": "Phillip Brennan",
+          "id": "t_004_p_001"
+        },
+        {
+          "text": "Staff found proposed use consistent with P40 San Antonio Precise Plan Standards and General Plan mixed-use center designation, with CEQA Section 15301 applicable, and recommended conditional approval.",
+          "source": "Phillip Brennan : Staff has found the proposed use and building and site improvements are consistent with the San Antonio Precise Plan Standards and the General Plan's mixed-use center land use designation.",
+          "speaker": "Phillip Brennan",
+          "id": "t_004_p_002"
+        },
+        {
+          "text": "Lindsay Hagan approved medical use as appropriate for location providing medical service to city area.",
+          "source": "Lindsay Hagan : I do concur that this use is an appropriate use for this location and does provide medical service to this area of the city",
+          "speaker": "Lindsay Hagan",
+          "id": "t_004_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Meeting Closure and Appeal Process",
+      "points": [
+        {
+          "text": "All meeting actions can be appealed to City Council within 10 calendar days.",
+          "source": "Lindsay Hagan : I do want to mention that all of the actions taken at today's meeting can be appealed to the City Council within 10 calendar days.",
+          "speaker": "Lindsay Hagan",
+          "id": "t_005_p_001"
+        },
+        {
+          "text": "Meeting adjourned at 4:10 PM.",
+          "source": "Lindsay Hagan : On that note, I will go ahead and adjourn this ZA meeting at 4:10 PM today.",
+          "speaker": "Lindsay Hagan",
+          "id": "t_005_p_002"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "text": "Lindsay Hagan approved item 3.2 (2500 Grant Rd tree removal permits) with posted conditions.",
+      "source": "Lindsay Hagan : And so with that, I will approve with the conditions that have been posted online, item 3.2.",
+      "assignee": "Lindsay Hagan",
+      "id": "d_001"
+    },
+    {
+      "text": "Lindsay Hagan approved item 4.1 (2580 W El Camino Real medical use permit) with staff-recommended conditions.",
+      "source": "Lindsay Hagan : So I will go ahead and make a motion to approve item 4.1 with the conditions of approval as posted by City staff.",
+      "assignee": "Lindsay Hagan",
+      "id": "d_002"
+    }
+  ],
+  "metadata": {
+    "topicCount": 5,
+    "pointCount": 10,
+    "decisionCount": 2
+  }
+}

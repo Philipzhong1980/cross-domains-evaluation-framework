@@ -1,0 +1,326 @@
+{
+  "meeting_context": "White House press briefing imported from 20210224_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. PSAKI",
+    "MR. HARRELL",
+    "MS. FAZILI",
+    "Unidentified",
+    "Kaitlan",
+    "David",
+    "Kristen",
+    "Steve"
+  ],
+  "topics": [
+    {
+      "topic": "The President will sign an executive order aimed",
+      "points": [
+        {
+          "text": "The President will sign an executive order aimed at securing critical U.S. supply chains, conducting 100-day reviews of supply chains for various products and sectors, and discussing supply chain resilience with a bipartisan group of House and Senate members.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President will sign an executive order to",
+      "points": [
+        {
+          "text": "The President will sign an executive order to launch a whole-of-government approach to securing and strengthening America's supply chains, conducting 100-day reviews of critical products and sector-specific reviews within one year to prevent future supply chain problems.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The executive order aims to strengthen America's supply",
+      "points": [
+        {
+          "text": "The executive order aims to strengthen America's supply chains by conducting reviews of critical products and sector-specific risks, improving resiliency through actions such as data publication and procurement authority, engaging with stakeholders and experts for consultation, and seizing opportunities for small-business development and worker readiness.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the need to leverage U",
+      "points": [
+        {
+          "text": "The speaker emphasizes the need to leverage U.S. scientific leadership, invest in research and manufacturing in communities across America, collaborate with partners and allies to reduce vulnerabilities in global supply chains, and make smart long-term investments to address the supply chain problem.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker highlights the importance of taking a",
+      "points": [
+        {
+          "text": "The speaker highlights the importance of taking a broad view on job creation in the manufacturing sector, considering not only direct manufacturing jobs but also R&D, research, supplier networks, and services industry jobs.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speakers discuss the need for a comprehensive",
+      "points": [
+        {
+          "text": "The speakers discuss the need for a comprehensive approach to incentivize and fund the production of critical goods, including semiconductors, through a mix of tools and partnerships with Congress and allies, without specifying the use of the Defense Production Act or detailing conversations with Taiwan.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speakers express the need for a comprehensive",
+      "points": [
+        {
+          "text": "The speakers express the need for a comprehensive approach to incentivize and fund the production of critical goods, including semiconductors, through various tools and partnerships with Congress and allies.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Starting next month the administration will distribute millions",
+      "points": [
+        {
+          "text": "Starting next month, the administration will distribute millions of masks to food banks and community health centers serving hard-hit populations.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The administration will distribute over 25 million masks",
+      "points": [
+        {
+          "text": "The administration will distribute over 25 million masks to community health centers and food pantries, ensuring that any American in need can access a high-quality mask consistent with CDC guidance.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is distributing cloth masks that",
+      "points": [
+        {
+          "text": "The White House is distributing cloth masks that adhere to CDC guidelines and meet federal standards, while also addressing concerns about tensions with Russia and confirming upcoming calls with King Salman of Saudi Arabia.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House remains committed to fighting for",
+      "points": [
+        {
+          "text": "The White House remains committed to fighting for Neera Tanden's confirmation, emphasizing her ability to work with those who disagree with her, while dismissing discussions about potential replacements.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is focused on continuing to",
+      "points": [
+        {
+          "text": "The White House is focused on continuing to fight for Neera Tanden's confirmation and is not currently considering her withdrawal, while also discussing plans to recalibrate engagement with Saudi Arabia.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Kaitlan asks if President Biden will be on",
+      "points": [
+        {
+          "text": "Kaitlan asks if President Biden will be on the call with the King of Saudi Arabia and questions whether he is disappointed that Johnson & Johnson will have fewer vaccines available than initially anticipated.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Jen Psaki addresses the",
+      "points": [
+        {
+          "text": "During a press briefing, Jen Psaki addresses the delay in Johnson & Johnson vaccine production and mentions the possibility of expedited approval, while also mentioning that the recalibration with Saudi Arabia involves President Biden directly engaging with King Salman and awaiting the release of an unclassified report on Mohammed bin Salman's involvement in the death of Jamal Khashoggi.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Jen Psaki discusses the",
+      "points": [
+        {
+          "text": "During a press briefing, Jen Psaki discusses the delay in Johnson & Johnson vaccine production, the recalibration with Saudi Arabia, and the President's view on teachers unions' obligations to both workers and students.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki discusses the President's commitment to safely",
+      "points": [
+        {
+          "text": "Jen Psaki discusses the President's commitment to safely reopening schools and his views on the Saudi government, while refraining from commenting on potential policy implications or the release of the declassified report on the Khashoggi murder.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki discusses the lessons learned from the",
+      "points": [
+        {
+          "text": "Jen Psaki discusses the lessons learned from the pandemic and the administration's focus on working with governors to increase vaccine distribution and communication.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Jen Psaki confirms that",
+      "points": [
+        {
+          "text": "During a press briefing, Jen Psaki confirms that the White House did not play an organizational role in the letter signed by CEOs and states that they engage with business leaders regularly.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jen Psaki confirms that the White House has",
+      "points": [
+        {
+          "text": "Jen Psaki confirms that the White House has engaged with numerous senators, including Neera Tanden, both before and after the signing of the letter by CEOs, but will not provide specific details on the conversations.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is describing the HHS facility",
+      "points": [
+        {
+          "text": "The White House is describing the HHS facility in Carrizo Springs, Texas as a place where unaccompanied minors are temporarily housed before being transferred to vetted, sponsored families, and emphasizes that they are not separating children from their parents like the previous administration did.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House emphasizes that their objective is",
+      "points": [
+        {
+          "text": "The White House emphasizes that their objective is to quickly move unaccompanied minors to HHS-sponsored facilities, unlike the previous administration's policy of separating children from their parents at the border.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Press Secretary Psaki states",
+      "points": [
+        {
+          "text": "During a press briefing, Press Secretary Psaki states that the President's visit to Texas is focused on providing support and resources to those affected by the recent winter storm, rather than engaging in a policy debate about the causes of the disaster.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Press Secretary Psaki discusses",
+      "points": [
+        {
+          "text": "During a press briefing, Press Secretary Psaki discusses President Biden's visit to Texas, mentioning that he will also visit a vaccine distribution center and that the administration is coordinating with experts on the ground to determine the most appropriate places to visit, while also mentioning that there may be new assistance being distributed but no specific announcements are planned for the trip.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Press Secretary Psaki addresses",
+      "points": [
+        {
+          "text": "During a press briefing, Press Secretary Psaki addresses questions about Senator Sanders not being consulted before the nomination announcement and states that consultations with senators, including Senator Sanders, are a regular part of the process and they expect to work with him on confirmations and the President's objectives.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Press Secretary Psaki discusses",
+      "points": [
+        {
+          "text": "During a press briefing, Press Secretary Psaki discusses the ongoing conversation about different components of the immigration package and expresses urgency in passing the COVID package to prevent millions of people from losing their benefits.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Press Secretary Psaki discusses",
+      "points": [
+        {
+          "text": "During a press briefing, Press Secretary Psaki discusses the ongoing conversation about Iran's compliance with its obligations and willingness to engage in diplomatic conversations, while also holding them accountable for the actions of their proxies in Iraq and expressing concern for the humanitarian situation in Yemen.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the press briefing Press Secretary Psaki expresses",
+      "points": [
+        {
+          "text": "During the press briefing, Press Secretary Psaki expresses the administration's willingness to work with Congress to pass legislation expanding access to voting and mentions that Ambassador Rice is handling the issue, while also indicating that more information on voting rights will be provided soon.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Press Secretary Psaki discusses the American Rescue Plan",
+      "points": [
+        {
+          "text": "Press Secretary Psaki discusses the American Rescue Plan as a targeted relief package to help communities, including black communities, recover from the pandemic, and mentions that the President will consider options such as job retraining and infrastructure improvement in the future.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Press Secretary Psaki confirms",
+      "points": [
+        {
+          "text": "During a press briefing, Press Secretary Psaki confirms that President Biden supports a $15 minimum wage increase and acknowledges the ongoing parliamentary process to include it in the COVID relief package, while also mentioning the potential for compromise among senators.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Press Secretary Psaki clarifies that the President's support",
+      "points": [
+        {
+          "text": "Press Secretary Psaki clarifies that the President's support for a $15 minimum wage increase is contingent upon the ongoing parliamentary process and emphasizes that the final decision has not been made yet.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Press Secretary Psaki defends the federal recommendations for",
+      "points": [
+        {
+          "text": "Press Secretary Psaki defends the federal recommendations for vaccine distribution while acknowledging that governors have the authority to make their own prioritization choices.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

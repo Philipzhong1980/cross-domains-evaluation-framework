@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20230711_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "None",
+    "MS. JEAN-PIERRE",
+    "MR. SULLIVAN",
+    "Q"
+  ],
+  "topics": [
+    {
+      "topic": "The speaker welcomes everyone to the 74th NATO",
+      "points": [
+        {
+          "text": "The speaker welcomes everyone to the 74th NATO Summit in Vilnius, Lithuania and introduces National Security Advisor Jake Sullivan for a question and answer session.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker expresses optimism and highlights the recent",
+      "points": [
+        {
+          "text": "The speaker expresses optimism and highlights the recent agreement between Turkey, Sweden, and NATO regarding Sweden's accession protocols, emphasizing the United States' support and anticipation of welcoming Sweden as NATO's 32nd ally.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden will meet with the Lithuanian President",
+      "points": [
+        {
+          "text": "President Biden will meet with the Lithuanian President, reaffirming the United States' support for Article 5 and NATO's eastern flank, and later participate in the NATO Summit where they will address challenges, modernize defense capabilities, and agree on increasing defense spending.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the NATO Summit Allies will focus on",
+      "points": [
+        {
+          "text": "During the NATO Summit, Allies will focus on increasing defense spending, strengthening cyber resilience, expanding global partnerships, providing increased support for Ukraine, discussing Ukraine's path to future NATO membership, and endorsing Secretary General Stoltenberg's extension for another year.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The question addresses Turkey's request for F 16s",
+      "points": [
+        {
+          "text": "The question addresses Turkey's request for F-16s and its potential influence on the discussions leading to the agreement on Sweden's potential membership.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden has expressed his support for the",
+      "points": [
+        {
+          "text": "President Biden has expressed his support for the transfer of F-16s to Turkey without any conditions and intends to proceed with the transfer in consultation with Congress.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The timeline for Ukraine's potential membership in NATO",
+      "points": [
+        {
+          "text": "The timeline for Ukraine's potential membership in NATO is not specified, as it depends on the progress of democratic and security sector reforms taken by Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Sullivan cannot provide a specific timetable for",
+      "points": [
+        {
+          "text": "Mr. Sullivan cannot provide a specific timetable for Ukraine's potential membership in NATO.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US is interested in providing F 16",
+      "points": [
+        {
+          "text": "The US is interested in providing F-16 fighter jets to Turkey and will work with Congress on the timing, but cannot provide a specific day for when it will happen, while also expressing support for Turkey's application to the EU.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States continues to support Turkey's path",
+      "points": [
+        {
+          "text": "The United States continues to support Turkey's path to EU membership and believes that talks between Turkey and the EU should include discussions on necessary reforms and democratic resilience.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker states that they have not seen",
+      "points": [
+        {
+          "text": "The speaker states that they have not seen the mentioned reports and cannot comment on them.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker mentions ongoing discussions among allies about",
+      "points": [
+        {
+          "text": "The speaker mentions ongoing discussions among allies about the process for Ukraine's pathway to NATO membership and confirms contact with Senator Menendez regarding the potential transfer of F-16s.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker does not provide explicit conditions for",
+      "points": [
+        {
+          "text": "The speaker does not provide explicit conditions for Ukraine's NATO membership and states that the definition of being \"at war\" and the decision-making process will be an ongoing discussion within the Alliance.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes that the decision by the",
+      "points": [
+        {
+          "text": "The speaker emphasizes that the decision by the United States regarding cluster munitions does not threaten NATO unity and highlights the ongoing unity and coordination between the U.S. and its NATO allies, particularly in relation to Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker mentions that President Biden and Secretary",
+      "points": [
+        {
+          "text": "The speaker mentions that President Biden and Secretary Blinken have spoken with the Greek Prime Minister to discuss U.S.-Greece relations, shared security concerns, support for Greece's defense capabilities, and the desire for de-escalation in the Eastern Mediterranean and Aegean.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the conversation between President Biden and President",
+      "points": [
+        {
+          "text": "During the conversation between President Biden and President Erdoğan, the focus was on finding ways for the U.S. and Turkey to move forward positively rather than discussing any negative or dark scenarios.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden is looking forward to meeting with",
+      "points": [
+        {
+          "text": "President Biden is looking forward to meeting with President Zelenskyy to discuss and coordinate on various aspects of support for Ukraine, including military, economic, and democratic reforms, in order to provide a positive signal towards Ukraine's future pathway towards membership.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a conversation between President Biden and President",
+      "points": [
+        {
+          "text": "During a conversation between President Biden and President Erdoğan, President Erdoğan expressed the need to be allowed into the EU in order to pave the way for NATO membership, which may have been known by President Biden when the statement was made.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a phone call President Biden believed that",
+      "points": [
+        {
+          "text": "During a phone call, President Biden believed that President Erdoğan was carefully considering the decision to pursue EU membership for NATO membership.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden reiterated to President Erdo an that",
+      "points": [
+        {
+          "text": "President Biden reiterated to President Erdoğan that Sweden had successfully addressed its concerns and met the requirements for NATO membership during their phone call.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan discusses the temporary provision of cluster",
+      "points": [
+        {
+          "text": "Jake Sullivan discusses the temporary provision of cluster munitions to Ukraine due to low ammunition stockpiles and the ongoing process of ramping up unitary round production to meet Ukraine's defense needs.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan discusses the provision of cluster munitions",
+      "points": [
+        {
+          "text": "Jake Sullivan discusses the provision of cluster munitions to Ukraine due to low ammunition stockpiles and the ongoing process of increasing unitary round production to meet Ukraine's defense needs.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter asks if there will be a",
+      "points": [
+        {
+          "text": "The reporter asks if there will be a concrete document outlining interim security guarantees for Ukraine, potentially involving a smaller group of Allies within NATO such as the G7 or the Quad.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson mentions that there will be a",
+      "points": [
+        {
+          "text": "The spokesperson mentions that there will be a communiqué and guidance on the conversations during the summit, including discussions about long-term security assistance for Ukraine, but does not provide specific details or information on conversations with congressional leaders.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson does not provide specific details on",
+      "points": [
+        {
+          "text": "The spokesperson does not provide specific details on conversations with congressional leaders or any commitments secured from Republican leaders regarding promises made to President Zelenskyy.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson does not have specific updates on",
+      "points": [
+        {
+          "text": "The spokesperson does not have specific updates on the President's conversations with governors or the status of F-16s going to Ukraine and training for Ukrainian pilots.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes the strength and importance of",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes the strength and importance of NATO, highlighting the recent addition of Sweden to the alliance and praising President Biden's role in strengthening NATO.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson confirms that President Biden was informed",
+      "points": [
+        {
+          "text": "The spokesperson confirms that President Biden was informed about Sweden's addition to NATO before it was announced publicly, but does not provide a specific timeline.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson confirms that President Biden was informed",
+      "points": [
+        {
+          "text": "The spokesperson confirms that President Biden was informed about Sweden joining NATO before it was publicly announced, without specifying the timeline.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson confirms that President Biden knew about",
+      "points": [
+        {
+          "text": "The spokesperson confirms that President Biden knew about Sweden joining NATO before it was publicly announced, but does not have an exact timeline for when he was informed.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson does not have any updates on",
+      "points": [
+        {
+          "text": "The spokesperson does not have any updates on the investigation regarding the Secret Service and refers the questioner to them, and also does not have any additional information on Secretary Yellen's trip to China or how the U.S. plans to respond to China's proposed export controls on metals for semiconductors and solar panels.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

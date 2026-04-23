@@ -1,0 +1,154 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Minutes correction and approval",
+          "points": [
+            {
+              "speaker": "Noelle Magner",
+              "text": "Noelle Magner will coordinate with the City Clerk to update the minutes to identify Sukanya Kumar as Vice Chair rather than committee member and bring a revised version to the next meeting for approval.",
+              "source": "Noelle Magner : Let me contact our City Clerk's office and I can go ahead and have that updated and I'll do a revised version of this and bring it to the next meeting.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "John McAlister",
+              "text": "The committee approved the prior minutes with the Vice Chair correction after confirming no public comment. Motion by John McAlister, seconded by Sukanya Kumar; roll call votes: Kumar yes, Yao yes, McAlister abstained due to absence.",
+              "source": "John McAlister : I make a motion that we approve the Minutes.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "PYT financials and charges clarified",
+          "points": [
+            {
+              "speaker": "Noelle Magner",
+              "text": "Noelle Magner explained the spreadsheet abbreviations (MS mainstage, SSS second stage, APS Park Stage, RS rehearsal stage). She distinguished rents/leases (stage fees) from the facility use fee charged to patrons and described receipt codes used for various company charges.",
+              "source": "Noelle Magner : If we're looking at the Ms. that stands for our mainstage. If we're looking at SSS stands for our second stage and you may see APS that stands for Park stage, Rs stands for our rehearsal stage.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "John McAlister",
+              "text": "McAlister requested comprehensive CPA budget information including overhead costs and prior year budgets to better understand financial operations.",
+              "source": "John McAlister : I'm just trying to get a baseline idea how things are are done",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "PYT programs and outreach update",
+          "points": [
+            {
+              "speaker": "Connor Day",
+              "text": "Stories on Stage shifted to recorded virtual shows with Zoom talkbacks during the pandemic; spring 2022 school-day performances were canceled due to low interest. This season, all seven school shows are sold out, and 'My Father's Dragon' sold out three performances.",
+              "source": "Connor Day : All seven of our titles for this year at least the school shows are completely sold out to schools.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Mainstage demand rebounded: 'Descendants' drew the largest post-pandemic crowds before 'Frozen' surpassed it. School shows for 'All Together Now' and 'Descendants' were canceled due to low interest; 'Fiddler' had two student group shows (98 and 78 attendees). 'SpongeBob' has 791 student group seats sold to date.",
+              "source": "Connor Day : we're really looking forward to the fall as we've already sold 791 as of today student group seats for SpongeBob, which is our upcoming musical.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Financial updates: 2019 and 2020 IRS Form 990s were provided; 2021 taxes are still being finalized. Both PPP loans were forgiven. An approximately $300,000 SBA loan remains unused as a reserve and is being repaid slowly; new state performing arts grant funding was received.",
+              "source": "Connor Day : It was about $300,000 that we received. So that is sitting as our as our cushion in the bank.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Health policies: masks are recommended (not required) for audiences; masks remain required in the studio; performers are unmasked on stage. Next year's camps will likely retain vaccination requirements with masks recommended. No COVID outbreaks were traced to PYT programs; parents were largely supportive.",
+              "source": "Connor Day : So currently for audiences we are recommending but not requiring masks to attend shows... I think for camp next year we probably will will continue with the vaccination policy, but not so much masking.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Committee members were invited to attend upcoming shows. School performances for 'The Ugly Duckling' on November 4 are sold out; general admission matinees are on November 5. Producer complimentary tickets are available via Connor or the box office.",
+              "source": "Connor Day : We have producer comps for all of our shows... our November 5th Saturday matinees... The school shows... are completely sold out.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Connor Day completed first full season as Director of Business Operations, presenting PYT's 30th operational season results.",
+              "source": "Connor Day : I presented to this committee last year for our review as a very, very green staff member, having only been with PYT for about 6 weeks at that time. Now I'm going on a year and six weeks",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "PYT received grants from local organizations including Kiwanis and Packard Foundation, plus new state Performing Arts Grant Program funding.",
+              "source": "Connor Day : support that we've received from a lot of local organizations including Kiwanis and the state and local foundations including Packard, who we've been awarded grants for this year",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "COVID continued affecting outreach programs with schools not ready for outside programming, though in-person classes and rehearsals resumed at studio.",
+              "source": "Connor Day : So for this season all all of our programs but especially our outreach programs unfortunately continued to be affected by COVID in one way or another",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Summer camps required vaccination and masking for all campers, achieving strong enrollment despite safety requirements.",
+              "source": "Connor Day : we required all campers to be vaccinated and masked for all of camp, with the exception of a few sessions that we offered with a recommendation, but not a requirement",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Film Festival Subcommittee",
+          "text": "The Film Festival subcommittee will present its summary report to the full committee at the next PAC meeting.",
+          "source": "Sukanya Kumar : we will do that in the next pack meeting.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Theresa Yvonne",
+          "text": "Theresa Yvonne will confirm the council agenda timing for the proclamation and email details to the committee.",
+          "source": "Theresa Yvonne : let me double check the agenda and then I can send that out to the group.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Connor Day",
+          "text": "Connor will share presentation slides with committee email group after meeting conclusion.",
+          "source": "Connor Day : I'll share these slides out with with the e-mail group once I pop off",
+          "from_gt": "gt2",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 13,
+      "kept": 11,
+      "modified": 2,
+      "dropped": 0,
+      "from_gt1_kept": 8,
+      "from_gt2_kept": 5
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-30T07:15:36.838188+00:00"
+  }
+}

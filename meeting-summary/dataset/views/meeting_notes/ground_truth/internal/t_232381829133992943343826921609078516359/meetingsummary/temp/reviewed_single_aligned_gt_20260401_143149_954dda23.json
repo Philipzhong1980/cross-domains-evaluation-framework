@@ -1,0 +1,74 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Remote Hearing Protocol and Roll Call",
+          "points": [
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "Hagan outlined public comment procedures: raise hand in Zoom or press star-9 to unmute by phone, with comments limited to three minutes. She opened oral communications for non-agenda items and, seeing no speakers, closed that public comment period.",
+              "source": "Lindsay Hagan : All right, seeing no one, I will close the public comment period for the oral communications.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "350 Ellis Street Item Continuance",
+          "points": [
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "Consent Item 4.1 (350 Ellis St) proposed modifying a prior planned community and development review permit for minor site and facade changes on a 19.6-acre office campus. The item was not heard, previously continued from October 26, and will be renoticed for a future hearing when ready; no action occurred.",
+              "source": "Lindsay Hagan : This item will not be heard at this meeting and was previously continued from the October 26th Zoning Administrator hearing.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "748 Mercy Street Shelter Hours Modification",
+          "points": [
+            {
+              "speaker": "Kristi Blewis",
+              "text": "Kristi Blewis, representing Los Altos United Methodist Church (owner of Trinity UMC), affirmed partnership with HomeFirst Services to provide cold-weather shelter and supported extending hours to better accommodate families with school-aged children before and after school.",
+              "source": "Kristi Blewis : We're really happy to partner with Home First to provide housing for families during the cold weather months and eager to extend the hours to make it a better option for families with school aged children...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "1747 West Evelyn Avenue Permit Extension",
+          "points": [
+            {
+              "speaker": "Tim McEnery",
+              "text": "Applicant representative Tim McEnery (Marwood) thanked City staff for working with them on the extension request and offered no additional comments.",
+              "source": "Tim McEnery : Just thank you for the support by the staff for working with us on this extension request.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 4,
+      "kept": 3,
+      "modified": 1,
+      "dropped": 0,
+      "from_gt1_kept": 4,
+      "from_gt2_kept": 0
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:31:49.754777+00:00"
+  }
+}

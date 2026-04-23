@@ -1,0 +1,321 @@
+{
+  "meeting_context": "White House press briefing imported from 20230531_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MR. KIRBY"
+  ],
+  "topics": [
+    {
+      "topic": "The United States is continuing to support Ukraine",
+      "points": [
+        {
+          "text": "The United States is continuing to support Ukraine by providing them with additional munitions for air defense systems and artillery, as well as receiving support from allies and partners.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Pentagon describes a Chinese fighter jet's aggressive",
+      "points": [
+        {
+          "text": "The Pentagon describes a Chinese fighter jet's aggressive and unsafe maneuver over the South China Sea, highlighting the need for open lines of communication to prevent miscalculations and potential harm.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker defers to the Ukrainian government for",
+      "points": [
+        {
+          "text": "The speaker defers to the Ukrainian government for information regarding a drone strike in Moscow and states that the timing of Ukraine's counteroffensive is up to them.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the investigation into the spy",
+      "points": [
+        {
+          "text": "The speaker discusses the investigation into the spy balloon incident with China, stating that there is no public report expected, and also addresses the North Korea spy satellite launch and the status of the U.S.-South Korea Nuclear Consultative Group.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the potential conversation between President",
+      "points": [
+        {
+          "text": "The speaker discusses the potential conversation between President Biden and President Erdoğan of Turkey, stating that there is no update on when the call will occur, but clarifies that providing F-16s to Turkey is not linked to Turkey agreeing to let Sweden into NATO.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker clarifies that while the US provides",
+      "points": [
+        {
+          "text": "The speaker clarifies that while the US provides equipment and support to Ukraine, they do not dictate where Ukraine should strike or conduct their operations, but have made it clear that they do not support or encourage attacks inside Russia using US-supplied equipment.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses the possibility of reaching out",
+      "points": [
+        {
+          "text": "The speaker addresses the possibility of reaching out to US business executives who recently traveled to China and discusses the interconnectedness of the US and Chinese economies, as well as the need to manage economic competition with China.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the ongoing talks with Ukraine",
+      "points": [
+        {
+          "text": "The speaker discusses the ongoing talks with Ukraine regarding President Zelenskyy's 10-point proposal for a \"just peace,\" emphasizing the need for Ukrainian support and decision-making, and highlighting Russia's lack of interest in a negotiated settlement.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes that the United States is",
+      "points": [
+        {
+          "text": "The speaker emphasizes that the United States is working hard on all cases of wrongfully detained Americans and condemns the recent attacks in Kosovo, urging de-escalation and withdrawal of forces from both sides.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the ongoing drawdowns of aid",
+      "points": [
+        {
+          "text": "The speaker discusses the ongoing drawdowns of aid to Ukraine, stating that they have been consistent and funded for the rest of the fiscal year, but does not provide a specific timeline for seeking additional appropriations from Congress.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker reassures that regardless of the outcome",
+      "points": [
+        {
+          "text": "The speaker reassures that regardless of the outcome of the debt ceiling deal in Congress, it will not impact the United States' ability to provide support to Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses someone named James and confirms",
+      "points": [
+        {
+          "text": "The speaker addresses someone named James and confirms their presence.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the importance of supporting Ukraine",
+      "points": [
+        {
+          "text": "The speaker emphasizes the importance of supporting Ukraine in its conflict with Russia and highlights the need for continued military assistance to prevent further escalation and ensure a stronger position for negotiations.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the refusal to label China",
+      "points": [
+        {
+          "text": "The speaker discusses the refusal to label China and Russia as evil regimes and emphasizes the importance of addressing their behavior while also addressing concerns about North Korea's failed missile test and the need to hold them accountable.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the Russian government's history of",
+      "points": [
+        {
+          "text": "The speaker acknowledges the Russian government's history of interfering in US elections but states that there is no evidence linking a specific individual's actions to Russian information operations.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses concerns about the U S",
+      "points": [
+        {
+          "text": "The speaker addresses concerns about the U.S.-Brazil relationship and states that American business executives are allowed to travel to China and conduct business as they see fit.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses concerns about human rights violations",
+      "points": [
+        {
+          "text": "The speaker addresses concerns about human rights violations in Nicaragua and expresses support for various interlocutors, including the Vatican, in achieving peace in Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the concerns about artificial intelligence",
+      "points": [
+        {
+          "text": "The speaker acknowledges the concerns about artificial intelligence leading to human extinction and emphasizes the administration's serious approach to both the promises and challenges of AI.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker is confronted with allegations of corruption",
+      "points": [
+        {
+          "text": "The speaker is confronted with allegations of corruption against President Biden and asked to respond to the majority of Americans who believe he is involved in illegal influence peddling.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker dismisses allegations of corruption against President",
+      "points": [
+        {
+          "text": "The speaker dismisses allegations of corruption against President Biden, stating that the President has addressed these claims and there is no evidence to support them.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the bipartisan agreement and the",
+      "points": [
+        {
+          "text": "The speaker discusses the bipartisan agreement and the President's commitment to reducing the deficit, but does not comment on Speaker McCarthy's proposed commission on addressing the federal debt.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses President Biden's top domestic priority",
+      "points": [
+        {
+          "text": "The speaker discusses President Biden's top domestic priority, which includes addressing the economy, climate change, and bipartisan budget negotiations.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House has been actively engaged in",
+      "points": [
+        {
+          "text": "The White House has been actively engaged in outreach efforts, including over 120 calls, to garner support for the bipartisan budget negotiation and debt limit increase.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President is confident that the bipartisan budget",
+      "points": [
+        {
+          "text": "The President is confident that the bipartisan budget negotiation and debt limit increase will pass in both the House and Senate, and he plans to make a statement about its passage, while his travel plans for the weekend remain uncertain.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker defends the bipartisan budget agreement emphasizing",
+      "points": [
+        {
+          "text": "The speaker defends the bipartisan budget agreement, emphasizing its benefits for American families and the protection of important programs like Medicaid and veterans affairs.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker explains that the President wants to",
+      "points": [
+        {
+          "text": "The speaker explains that the President wants to protect his achievements and core Democratic values, and highlights the delay in Republicans presenting their budget as the reason for the current situation.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the President's efforts to protect",
+      "points": [
+        {
+          "text": "The speaker emphasizes the President's efforts to protect healthcare, food assistance, and support for vulnerable children, while also expressing the President's desire for the bill to be passed quickly.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker defends the support for the Mountain",
+      "points": [
+        {
+          "text": "The speaker defends the support for the Mountain Valley Pipeline by highlighting that it preserves environmental protections and has received positive feedback from organizations, while also emphasizing the importance of passing the bipartisan legislation quickly to avoid negative impacts on the economy.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the focus on getting the",
+      "points": [
+        {
+          "text": "The speaker emphasizes the focus on getting the debt ceiling bill passed quickly and expresses confidence that it will be done, leaving the mechanics of the process up to Senate Majority Leader Schumer.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker defends the pre screening process for",
+      "points": [
+        {
+          "text": "The speaker defends the pre-screening process for reporters at White House events, emphasizing that they credential as many reporters as possible and have increased access as COVID restrictions have eased.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses the lack of restrictions in",
+      "points": [
+        {
+          "text": "The speaker addresses the lack of restrictions in the pre-screening process for reporters at White House events, highlighting the expansion of credentials and increased access as COVID restrictions have eased, while also mentioning plans to provide transcripts of NSC gaggles.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

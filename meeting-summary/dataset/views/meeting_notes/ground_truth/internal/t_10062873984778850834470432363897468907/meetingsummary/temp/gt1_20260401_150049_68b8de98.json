@@ -1,0 +1,257 @@
+{
+  "result": {
+    "meeting_context": "Public Safety Advisory Board meeting focused on services for residents living in vehicles and enforcement of parking regulations. City staff (Human Services and Police) presented program status, data, and enforcement processes; board members and the public raised proposals regarding hybrid meetings, restroom access, and enforcement priorities. Several follow-ups and a February safe parking expansion were noted.",
+    "participants": [
+      "Cleave Frink",
+      "Audrey Ramberg",
+      "Jeannette Wang",
+      "Kavita Aiyar",
+      "Joan Brodovsky",
+      "Derek Langton",
+      "Kalwant Sandhu",
+      "Eva Tang",
+      "Kimberly Thomas",
+      "Parneet Dhindsa",
+      "Matthew Atkins",
+      "Scott Nelson",
+      "Janleah McPherson",
+      "Tim McKenzie",
+      "Dana PD",
+      "Marguerite",
+      "Brown",
+      "Mike Canfield"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting format and subcommittee updates",
+        "points": [
+          {
+            "speaker": "Dana PD",
+            "text": "A member of the public requested adding a standing agenda item for brief updates from each subcommittee at every meeting to maintain visibility of ongoing work, especially with fewer meetings scheduled in the upcoming year.",
+            "source": "Dana PD: ...if there'd be a way to have a standing agenda item for each of the subcommittees to report out, just even brief updates... Especially with fewer meetings on the calendar this upcoming year..."
+          },
+          {
+            "speaker": "Dana PD",
+            "text": "A public commenter asked the board to continue with a hybrid meeting format starting in February, suggesting the Atrium Room due to AV readiness and noting other rooms may soon be equipped, to preserve transparency and accessibility.",
+            "source": "Dana PD: ...we would love to hear that you're going to continue to meet with hybrid capacity beginning in February... the Atrium Room is... set up with AV technology... also... equip a number of other rooms..."
+          },
+          {
+            "speaker": "Tim McKenzie",
+            "text": "A public commenter urged maintaining hybrid meeting options similar to City Council to support transparency and accessibility and to model best practices in a technology-centric community.",
+            "source": "Tim McKenzie: ...maintaining hybrid options... really great for transparency, great for accessibility... We are in the heart of Silicon Valley... provide a model for others to follow..."
+          }
+        ]
+      },
+      {
+        "topic": "Approval of previous meeting minutes",
+        "points": [
+          {
+            "speaker": "Audrey Ramberg",
+            "text": "The board approved the prior meeting minutes by roll call vote with one abstention; a quorum supported approval and the motion carried.",
+            "source": "Audrey Ramberg: Motion carries."
+          }
+        ]
+      },
+      {
+        "topic": "Homelessness data and funding overview",
+        "points": [
+          {
+            "speaker": "Parneet Dhindsa",
+            "text": "The 2022 county Point-in-Time count reported 346 homeless individuals in Mountain View, a 43% decrease from 606 in 2019. The city supplements PIT data with its own vehicle counts to inform services and outreach.",
+            "source": "Parneet Dhindsa: The count indicated there were 346 homeless individuals in Mountain View. This is a decrease of 43% from the prior count in 2019, which was 606..."
+          },
+          {
+            "speaker": "Kimberly Thomas",
+            "text": "Over the last six years, the city has committed nearly $11 million in capital and operations to support residents who are homeless or unstably housed, spanning prevention, shelter, interim housing, and supportive housing within a coordinated continuum of care.",
+            "source": "Kimberly Thomas: Over these last six years, the city has committed nearly $11 million in funding, capital and operations to serve residents who are homeless or unstably housed..."
+          },
+          {
+            "speaker": "Kimberly Thomas",
+            "text": "The Human Services Division was established by eliminating a vacant police officer position and now leads policy and response strategies for homelessness, coordinating across city departments and external partners to balance needs and develop solutions.",
+            "source": "Kimberly Thomas: The recently established Human Services division... was created through the elimination of a vacant police officer position... it leads our formulation of policy and recommendations and response strategies to homelessness overall."
+          }
+        ]
+      },
+      {
+        "topic": "Vehicle dwelling counts and trends",
+        "points": [
+          {
+            "speaker": "Parneet Dhindsa",
+            "text": "Annual city street-by-street counts show 200–300 vehicles in the public right-of-way used for living, with recent counts trending downward and more than half being RVs since December 2018. A decrease was observed between February 2020 and August 2022.",
+            "source": "Parneet Dhindsa: ...count of vehicles... used for living ranging from 200 to 300 vehicles, and recent counts are trending downward... more than half of the counted vehicles have been recreational vehicles... between... Feb 2020... and... Aug 2022, there was a decrease..."
+          }
+        ]
+      },
+      {
+        "topic": "Safe parking program status and expansion",
+        "points": [
+          {
+            "speaker": "Parneet Dhindsa",
+            "text": "Mountain View created the county’s largest 24/7 safe parking program by funding Move Mountain View, preparing multiple lots, and coordinating services; case management is required to move participants toward housing stability.",
+            "source": "Parneet Dhindsa: ...Funded the startup of a non profit move Mountain View to provide safe parking services... Created the largest safe parking program in the county that operates 24 hours, seven days a week..."
+          },
+          {
+            "speaker": "Kimberly Thomas",
+            "text": "Staff plans to bring a February 14 item to expand the contiguous Shoreline safe parking area (Lot B) by approximately 17 or more spaces, bringing total Mountain View safe parking capacity to just under 120 spaces; further expansion would require negotiations with Live Nation.",
+            "source": "Kimberly Thomas: We are looking at bringing an item on February 14th for that expansion... upwards of 17 or more parking spaces... Mountain View will be taking... numbers up to just under 120 spaces... would need to pursue that negotiation [with Live Nation]..."
+          }
+        ]
+      },
+      {
+        "topic": "Hygiene and restroom services approach",
+        "points": [
+          {
+            "speaker": "Kimberly Thomas",
+            "text": "Post‑COVID, the city narrowed distributed hygiene services and now focuses on 24/7 restrooms at safety‑net providers (CSA and Hope’s Corner) and dawn‑to‑dusk access at city facilities. Temporary COVID-era dispersed placements (8–11 sites) were discontinued; some services were recently added back at CSA and Hope’s Corner.",
+            "source": "Kimberly Thomas: ...emergency related programs like hygiene that's not operational now... recently added back some hygiene services at our CSA and Hope's Corner location... our strategy is to provide those restrooms at our key safety net providers... available 24/7... during COVID we placed upwards of 8 to 11 different locations..."
+          },
+          {
+            "speaker": "Kimberly Thomas",
+            "text": "Following recent vehicle fires at a safe parking lot and in the right‑of‑way, the Fire Department conducted direct outreach on safe practices; educational materials in English and Spanish are routinely distributed by outreach staff to promote safety for vehicle dwellers.",
+            "source": "Kimberly Thomas: ...we had a recent fire... our fire department did do a couple of rounds... to share that brochure, talk with them about safety... Jan Leah does distribute this information..."
+          }
+        ]
+      },
+      {
+        "topic": "Public right-of-way management context",
+        "points": [
+          {
+            "speaker": "Matthew Atkins",
+            "text": "City right‑of‑way supports transportation and critical utilities and must maintain safety and access for pedestrians, cyclists, and vehicles. Parking regulations promote turnover; maintenance and environmental compliance require temporary no‑parking for work like street sweeping, pavement and utility repairs.",
+            "source": "Matthew Atkins: ...public right of way... for public use as a street and for... sanitary sewers, water mains, storm drains... also provides a limited supply of on street public parking... regulate for environmental protections... temporary no parking for pavement... utilities... street sweeping..."
+          }
+        ]
+      },
+      {
+        "topic": "Outreach and enforcement structure (NES)",
+        "points": [
+          {
+            "speaker": "Scott Nelson",
+            "text": "The Neighborhood and Event Services (NES) unit, formed in 2017 to address homelessness and vehicle residency, consists of one Sergeant, one Community Service Officer, and one Community Outreach Officer (Janleah McPherson). NES leads education, outreach, and enforcement for these issues.",
+            "source": "Scott Nelson: The NES unit was formed in 2017... The NES team consists of 1 dedicated Sergeant, one Community Service Officer and one Community Outreach Officer which is currently Jen Leah McPherson... primary unit... for education, outreach and enforcement..."
+          }
+        ]
+      },
+      {
+        "topic": "Measure C enforcement and settlement terms",
+        "points": [
+          {
+            "speaker": "Scott Nelson",
+            "text": "Measure C (narrow streets oversized vehicle restrictions) passed with 56.6% approval; after litigation, a tentative agreement in September 2022 led to enforcement starting October 1, 2022. Only NES normally conducts Measure C enforcement; warnings and signage preceded citations and potential towing after 72 hours.",
+            "source": "Scott Nelson: ...Mountain View voters approved the measure C by 56.6%... tentative agreement in September of 2022... enforcement... began on October 1st of 2022... enforcement... will only be conducted by members of the NES unit... provide warnings... post no parking signs... then citation... vehicle can be towed within 72 hours..."
+          }
+        ]
+      },
+      {
+        "topic": "72-hour parking enforcement process and data",
+        "points": [
+          {
+            "speaker": "Matthew Atkins",
+            "text": "A three‑phase 72‑hour process uses chalking, then warnings after 72 hours, then citations after another 72 hours. From Oct 13–31, 2022: 211 passenger vehicles pamphleted (8 cited), 127 oversized vehicles pamphleted (23 cited), 1 tow. November: 116 passenger pamphlets (0 cited), 89 oversized (14 cited), 0 tows. December: 12 passenger pamphlets (2 cited), 115 oversized (34 cited), 3 tows.",
+            "source": "Matthew Atkins: ...three phase enforcement... Oct 13–31... approximately 211 passenger vehicles... 8... cited... 127 oversized... 23... cited... one vehicle was towed... November... 116 passenger... 0... 89 oversized... 14... cited... December... 12 passenger... 2... cited... 115 oversized... 34... cited... Three vehicles were towed..."
+          },
+          {
+            "speaker": "Matthew Atkins",
+            "text": "From October to December 2022 approximately 42, 6, and 9 oversized vehicles were cited on narrow streets respectively. No oversized vehicles were towed for narrow street violations; two vehicles parked on narrow streets were towed for expired registration.",
+            "source": "Matthew Atkins: ...From October 1st to October 31st, there was approximately 42 vehicles that were sited... November... approximately 6... December... approximately 9... No oversized vehicles were towed on narrow streets, but two vehicles were towed for expired registration..."
+          },
+          {
+            "speaker": "Matthew Atkins",
+            "text": "Parking enforcement staff chalk approximately 200–700 vehicles per week. NES has begun eliminating the warning pamphlet phase in some areas where most residents are now aware of the 72‑hour requirement, reducing resource demands.",
+            "source": "Matthew Atkins: ...our community Service Officers and Police assistance shock... approximately 200 to 700 vehicles per week... NES unit has started to eliminate phase two... in some of the areas that it was determined that the majority... were well aware of the 72 hour requirement."
+          },
+          {
+            "speaker": "Scott Nelson",
+            "text": "Complaint volume for 72‑hour violations spiked in October–November 2022 but significantly declined over the subsequent month and a half, with increased voluntary compliance reducing proactive enforcement workload.",
+            "source": "Scott Nelson: ...first couple months we did receive just a real influx of complaints... the last month, month and a half, those complaints have really slowed down... people have been voluntarily complying..."
+          }
+        ]
+      },
+      {
+        "topic": "72-hour rule interpretation and dispute",
+        "points": [
+          {
+            "speaker": "Scott Nelson",
+            "text": "Police currently interpret the 72‑hour ordinance to require moving a vehicle 1,000 feet and not returning to the same spot, based on legal counsel and common practice elsewhere; the code does not specify this and may be updated in the future for clarity.",
+            "source": "Scott Nelson: ...ordinance does require the vehicle to be moved 2/10 of a mile or 1000 feet... legal opinion... has to move the 1000 feet and not return to the same location... not specified in the code... there may be an update..."
+          },
+          {
+            "speaker": "Tim McKenzie",
+            "text": "Public commenters challenged the enforcement approach as inconsistent with the ordinance’s letter and intent, asserting it targets abandoned vehicles and allows returning to the same spot if moved 1,000 feet, and expressing privacy concerns regarding odometer checks.",
+            "source": "Tim McKenzie: ...The ordinance says move 1000 feet and the odometer will be a valid mark... someone could move and return to the exact same spot... the spirit of the law... about an abandoned vehicle..."
+          }
+        ]
+      },
+      {
+        "topic": "Communication and towing incident follow-up",
+        "points": [
+          {
+            "speaker": "Janleah McPherson",
+            "text": "Following an elderly resident’s tow, outreach staff offered shelter in Sunnyvale (declined), secured a temporary place in a friend’s van, and coordinated with case managers (Day Worker Center and Hope’s Corner) to obtain a donated working vehicle. Safe parking and transitional housing were offered but declined.",
+            "source": "Janleah McPherson: ...We did offer to take him to a shelter in Sunnyvale but he refused... a friend... offered his vehicle... case manager... provided him with... a new vehicle... He's still living out on the street... offered him to go to the safe parking and also... transitional housing... he declined..."
+          },
+          {
+            "speaker": "Matthew Atkins",
+            "text": "To improve cross‑unit communication and avoid missteps, NES, Traffic, and Field Operations meet regularly to share individual case information and processes; if an issue arises, outreach follows to connect affected individuals to services.",
+            "source": "Matthew Atkins: ...we will then try to reach out to them and see what services we can provide... continue to meet on a more regular basis... updating... the process but also individual cases... improving our communication..."
+          },
+          {
+            "speaker": "Scott Nelson",
+            "text": "The tow release process requires obtaining a police release (with a statutory fee) before paying tow company storage charges that accrue daily; in limited cases, police waived fees and community groups covered tow costs when appropriate.",
+            "source": "Scott Nelson: ...come to the Police Department to get a release... there is a storage fee... around $150... tow company does charge... daily rates... we have also waived the fees in a few limited circumstances... community groups... helped..."
+          }
+        ]
+      },
+      {
+        "topic": "Residential parking permits and legal constraints",
+        "points": [
+          {
+            "speaker": "Kimberly Thomas",
+            "text": "The city operates residential permit parking for fixed housing areas, but prior legal analysis (circa 2017–2018) found that permitting specific street locations for people living in vehicles would not be lawful; staff will compile previously published materials for board review.",
+            "source": "Kimberly Thomas: ...City of Mountain View has a residential parking permit program... looked... at whether you could permit particular locations for residents... in a mobile unit. And that was deemed... to be not something that would be legal... We can certainly pull them together..."
+          }
+        ]
+      },
+      {
+        "topic": "Recognition and meeting closure",
+        "points": [
+          {
+            "speaker": "Cleave Frink",
+            "text": "The Chair commended Community Outreach Officer Janleah McPherson for compassionate, resource‑oriented field engagement with vehicle‑dwelling residents and positively representing the city during outreach activities.",
+            "source": "Cleave Frink: ...I was... super proud that she represents... the way that she interacts with people on the street... she's working as a resource... I was just really impressed with her work..."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Kimberly Thomas",
+        "text": "Bring Shoreline Lot B safe parking expansion item to February 14 meeting to add about 17 spaces.",
+        "source": "Kimberly Thomas: We are looking at bringing an item on February 14th for that expansion... upwards of 17 or more parking spaces..."
+      },
+      {
+        "assignee": "Kimberly Thomas",
+        "text": "Compile and provide prior staff reports on residential parking permit legality for vehicle residents.",
+        "source": "Kimberly Thomas: We can certainly pull them together... we're certainly happy to gather any of that background."
+      },
+      {
+        "assignee": "Mike Canfield",
+        "text": "Follow up with Parks on public bathroom hours amid vandalism concerns and report back on actions and timeline.",
+        "source": "Mike Canfield: ...we can follow up on and see what actions have been taken... I can circle back and find out what action has been taken..."
+      }
+    ],
+    "metadata": {
+      "topicCount": 14,
+      "pointCount": 26,
+      "decisionCount": 3
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "openai",
+    "model": "gpt-5-2025-08-07",
+    "timestamp": "2026-04-01T07:00:49.470008+00:00"
+  }
+}

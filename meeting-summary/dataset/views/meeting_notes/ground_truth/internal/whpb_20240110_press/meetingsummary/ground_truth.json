@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20240110_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MR. KIRBY",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "The Department of Justice is issuing a new",
+      "points": [
+        {
+          "text": "The Department of Justice is issuing a new guide to ensure accountability for specialized crime units and the President is urging Congress to pass the George Floyd Justice in Policing Act, while Admiral Kirby discusses the recent attacks by Iran-backed Houthis in the Red Sea and emphasizes the need for international naval coalition and sanctions to protect global trade.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby discusses the ongoing attacks by Iran",
+      "points": [
+        {
+          "text": "Admiral Kirby discusses the ongoing attacks by Iran-backed Houthis in the Red Sea, emphasizing the need for the Houthis to stop these attacks and stating that the United States will do everything necessary to protect shipping in the Red Sea, while also addressing questions about President Biden's relationship with Prime Minister Netanyahu.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby emphasizes that the Houthis need to",
+      "points": [
+        {
+          "text": "Admiral Kirby emphasizes that the Houthis need to stop their attacks in the Red Sea and warns that they will face consequences if they fail to do so, while also stating that he is unaware of a report about Israeli soldiers allegedly shooting Palestinians without provocation in the West Bank but acknowledges President Biden's concerns about violence in the region.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby confirms that the administration was curious",
+      "points": [
+        {
+          "text": "Admiral Kirby confirms that the administration was curious about Secretary Austin's hospitalization but did not have specific information about his condition until it was announced by the Pentagon.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby confirms that the administration did not",
+      "points": [
+        {
+          "text": "Admiral Kirby confirms that the administration did not have specific information about Secretary Austin's condition until it was announced by the Pentagon and that the Pentagon did not have a plan in place to disclose the information to the public.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby declines to speculate on the potential",
+      "points": [
+        {
+          "text": "Admiral Kirby declines to speculate on the potential next steps and response from the U.S. regarding the Houthis, stating that he cannot say whether something different will be expected.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is closely monitoring the relationship",
+      "points": [
+        {
+          "text": "The United States is closely monitoring the relationship between Russia and North Korea and their potential military cooperation, while also stating that there is no indication of military cooperation between Hamas and North Korea.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The transcript discusses the monitoring of the situation",
+      "points": [
+        {
+          "text": "The transcript discusses the monitoring of the situation in Ecuador and the safety of U.S. diplomatic staff, as well as the efforts made to ascertain Secretary Austin's condition and the information flow from the Pentagon.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker asks if the President has met",
+      "points": [
+        {
+          "text": "The speaker asks if the President has met the new Taiwanese ambassador and inquires about North Korea's statement regarding South Korea being their principal enemy.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker asks about Kim Jong Un's different",
+      "points": [
+        {
+          "text": "The speaker asks about Kim Jong Un's different approach towards Japan and South Korea and if there is any implied message to the United States, while also inquiring about the White House's stance on the Israeli Supreme Court's decision to prevent journalists from accessing Gaza independently.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses concerns about the safety of",
+      "points": [
+        {
+          "text": "The speaker addresses concerns about the safety of journalists in Gaza and emphasizes the need to protect them, while also dismissing South Africa's case against Israel at the ICJ.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker is asked about the Biden administration's",
+      "points": [
+        {
+          "text": "The speaker is asked about the Biden administration's response to concerns about limitations on democracy promotion in Bangladesh following a one-sided election and crackdown on opposition.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the importance of democratic institutions",
+      "points": [
+        {
+          "text": "The speaker discusses the importance of democratic institutions and fair elections in Bangladesh, acknowledges the question about Professor Muhammad Yunus's situation, refers to the Secretary of Defense's participation in discussions from the hospital, and addresses concerns about the removal of the Houthis from the Foreign Terrorist Organization list.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker concludes the press conference with a",
+      "points": [
+        {
+          "text": "The speaker concludes the press conference with a lighthearted comment about everyone being quiet and jokingly asks if they find the briefing boring.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press conference Ms Jean Pierre confirms",
+      "points": [
+        {
+          "text": "During a press conference, Ms. Jean-Pierre confirms that President Biden spoke with Speaker Johnson on the phone but does not provide any further details about their conversation.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press conference Ms Jean Pierre avoids",
+      "points": [
+        {
+          "text": "During a press conference, Ms. Jean-Pierre avoids providing details about whether the White House was informed in advance of Hunter Biden's appearance at the House Oversight Committee hearing and emphasizes that Hunter Biden is a private citizen who makes his own decisions.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre redirects questions about Hunter Biden's",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre redirects questions about Hunter Biden's appearance at the House Oversight Committee hearing and emphasizes that the New York City relocation of migrants and the President's comprehensive immigration legislation are separate issues.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre avoids discussing Hunter Biden's appearance",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre avoids discussing Hunter Biden's appearance at the House Oversight Committee hearing, stating that he is a private citizen and not affiliated with the White House.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Ms Jean Pierre avoids",
+      "points": [
+        {
+          "text": "During a press briefing, Ms. Jean-Pierre avoids addressing questions about Hunter Biden's involvement in business deals and congressional subpoenas, and also declines to provide information on President Biden's next physical examination or the possibility of his physician briefing in the briefing room.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Ms Jean Pierre avoids",
+      "points": [
+        {
+          "text": "During a press briefing, Ms. Jean-Pierre avoids addressing questions about Hunter Biden's involvement in business deals and congressional subpoenas and declines to provide information on President Biden's next physical examination or the possibility of his physician briefing in the briefing room, stating that she does not have any further information on these matters and that Hunter Biden is a private citizen whose decisions are his own.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre refuses to provide further information",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre refuses to provide further information or comment on Hunter Biden's involvement in business deals and congressional subpoenas, stating that she has nothing else to add and will not say anything more for today.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden is focused on issues such as",
+      "points": [
+        {
+          "text": "President Biden is focused on issues such as healthcare, had a lunch meeting with the Vice President, was briefed by his national security team, spoke to Speaker Johnson, and is planning to travel to Allentown, Pennsylvania to discuss the positive impact of his economic agenda.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre responds to questions",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre responds to questions about President Biden's public schedule, highlighting recent events he has attended and mentioning his upcoming trip to Allentown to discuss his economic agenda.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre states that President",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre states that President Biden initiated a phone call with Speaker Johnson and mentions that there are no executive actions to announce regarding the border situation, but highlights the President's comprehensive immigration proposal and ongoing bipartisan negotiations on border security.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre criticizes House Republicans",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre criticizes House Republicans for their political stunts, failure to address border security, and potential government shutdown, emphasizing the need for bipartisan cooperation and delivering on necessary programs for the American people.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson emphasizes the administration's commitment",
+      "points": [
+        {
+          "text": "The White House spokesperson emphasizes the administration's commitment to protecting the right to vote and defending democracy, highlighting the creation of the Election Threats Task Force and efforts by the Department of Justice to investigate and prosecute those who target election workers.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson does not have any",
+      "points": [
+        {
+          "text": "The White House spokesperson does not have any new information to share regarding the President's stance on various issues and the administration's efforts to combat fentanyl, but emphasizes the importance of diplomatic conversations and states that Secretary Austin has been engaged in national security matters despite being hospitalized.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson discusses the importance of",
+      "points": [
+        {
+          "text": "The White House spokesperson discusses the importance of ensuring unobstructed shipping in the Red Sea and states that they are monitoring the situation and taking action to prevent supply chain disruptions.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson discusses the administration's commitment",
+      "points": [
+        {
+          "text": "The White House spokesperson discusses the administration's commitment to protecting Social Security and the President's request for increased funding to improve customer service and determination services.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson discusses the administration's diplomatic",
+      "points": [
+        {
+          "text": "The White House spokesperson discusses the administration's diplomatic conversations with Mexico regarding migration and efforts to deal with the border effectively, while also emphasizing President Biden's stance against political violence and the need for leaders to prioritize the safety of the American people.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson declines to comment on",
+      "points": [
+        {
+          "text": "The White House spokesperson declines to comment on the question of presidential immunity and refers to the Department of Justice for any specific questions, emphasizing the need to be careful due to an ongoing legal case.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

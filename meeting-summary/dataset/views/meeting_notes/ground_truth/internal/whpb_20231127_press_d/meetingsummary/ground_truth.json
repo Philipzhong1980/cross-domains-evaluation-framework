@@ -1,0 +1,145 @@
+{
+  "meeting_context": "White House press briefing imported from 20231127_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "DIRECTOR BRAINARD",
+    "Paris Huang",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Jeff Mason",
+    "Lori Anne",
+    "Morgan"
+  ],
+  "topics": [
+    {
+      "topic": "The moderator announces that a factsheet outlining the",
+      "points": [
+        {
+          "text": "The moderator announces that a factsheet outlining the President's upcoming announcements will be sent to participants, and introduces National Economic Adviser Lael Brainard for on-the-record opening remarks.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "National Economic Adviser Lael Brainard discusses the impact",
+      "points": [
+        {
+          "text": "National Economic Adviser Lael Brainard discusses the impact of the pandemic on supply chains, highlights President Biden's actions to address supply chain disruptions and inflation, and announces the launch of a White House Council on Supplier Resilience and 30 new actions to strengthen American supply chains and reduce costs for American families.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript National Economic",
+      "points": [
+        {
+          "text": "In this section of the transcript, National Economic Adviser Lael Brainard announces various actions taken by President Biden's administration to address supply chain disruptions, including investments in domestic production of essential medicines, the release of a report on pharmaceutical supply chain resilience, the launch of a Supply Chain Resilience Center and tabletop exercises, and the establishment of a first-of-its-kind supply chain center to develop risk-assessment tools.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "National Economic Adviser Lael Brainard announces various actions",
+      "points": [
+        {
+          "text": "National Economic Adviser Lael Brainard announces various actions taken by President Biden's administration to address supply chain disruptions, including investments in domestic production of essential medicines, the release of a report on pharmaceutical supply chain resilience, the launch of a Supply Chain Resilience Center and tabletop exercises, and the establishment of a first-of-its-kind supply chain center to develop risk-assessment tools.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The transcript section addresses questions regarding the search",
+      "points": [
+        {
+          "text": "The transcript section addresses questions regarding the search for a more reliable source of pharmaceutical supply chain, specifically in terms of precursors and drugs imported from China, as well as the consideration of Taiwan's semiconductor abilities and Chinese threats in relation to the new actions being pursued.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The goal of the actions taken by the",
+      "points": [
+        {
+          "text": "The goal of the actions taken by the Department of Defense, Commerce, and DHS is to diversify supply chains for critical goods by utilizing domestic tools and international partnerships to mitigate the risks posed by hyperconcentration in one region.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The partnership between the Department of Homeland Security",
+      "points": [
+        {
+          "text": "The partnership between the Department of Homeland Security and the Department of Commerce aims to utilize their complementary authorities and access to cross-border information to support the resurgence of chip production in the United States.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the importance of data sharing",
+      "points": [
+        {
+          "text": "The speaker discusses the importance of data sharing and collaboration among various players in the supply chain to ensure the strengthening of links and prevent potential hacking incidents.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the importance of industry players",
+      "points": [
+        {
+          "text": "The speaker emphasizes the importance of industry players participating in data sharing and collaboration to strengthen the ports system and announces upcoming partnerships in this regard.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker highlights the importance of cross collaboration",
+      "points": [
+        {
+          "text": "The speaker highlights the importance of cross-collaboration and announces the establishment of the Supply Chain Resilience Center at the Department of Homeland Security to address risks related to critical infrastructure and the flow of goods.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Department of Homeland Security is establishing the",
+      "points": [
+        {
+          "text": "The Department of Homeland Security is establishing the Supply Chain Resilience Center and HHS is announcing the creation of a coordinator, although the actual appointee will be announced at a later date, and the presidential determination for invoking the DPA will be released this week to address drug shortages and invest in domestic manufacturing capabilities.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "HHS has allocated 35 million for domestic production",
+      "points": [
+        {
+          "text": "HHS has allocated $35 million for domestic production of essential materials and supplies.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The moderator informs the participants that the remarks",
+      "points": [
+        {
+          "text": "The moderator informs the participants that the remarks by National Economic Adviser Lael Brainard were on the record, while the Q&A session was on background as \"White House officials,\" and also mentions an embargo on the call and factsheet until 5:00 a.m. tomorrow.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

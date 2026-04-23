@@ -1,0 +1,99 @@
+{
+  "meeting_context": "Regular Rental Housing Committee meeting held January 9, 2023 via video conference. The committee handled the consent calendar, took roll, received no public comments, approved continuing virtual meetings under AB 361, heard the chair's resignation announcement, and discussed a potential scheduling conflict for the late-January meeting.",
+  "participants": [
+    "Haines-Livesay",
+    "Andrea Kennedy",
+    "Rosas",
+    "Almond",
+    "Ramos",
+    "Anky van Deursen"
+  ],
+  "topics": [
+    {
+      "topic": "Roll Call and Attendance Status",
+      "points": [
+        {
+          "text": "Roll call conducted with committee members Grunwald and Pardo Dazella absent, while Rosas, Almond, Ramos, and Chair Haines-Livesay present.",
+          "source": "Andrea Kennedy : We will begin with a committee member Grunwald, who is absent. Next we will call on committee member Pardo Dazella, who is also absent",
+          "speaker": "Andrea Kennedy",
+          "id": "t_001_p_001"
+        },
+        {
+          "text": "Meeting called to order at 7:02 PM with virtual participation by all committee members and public access via mountainview.legistar.com, YouTube, and Comcast Channel 26.",
+          "source": "Haines-Livesay : The meeting is called to order at 7 O 2:00 PM",
+          "speaker": "Haines-Livesay",
+          "id": "t_001_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Consent Calendar Approval",
+      "points": [
+        {
+          "text": "Committee unanimously approved resolution to continue virtual meetings pursuant to Brown Act provisions as amended by AB 361.",
+          "source": "Almond : I'll make a motion to adopt A resolution to continue virtual meetings pursuant to Brown Act provisions as amended by AB 361",
+          "speaker": "Almond",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Chair Resignation and Transition Announcement",
+      "points": [
+        {
+          "text": "Chair Haines-Livesay announced resignation effective after January meeting due to failing to meet residency requirements in February.",
+          "source": "Haines-Livesay : I just wanted to let the committee and the public know that regretfully, next meeting, the meeting at the end of January will be my last meeting because I will have to step down and February I won't meet the residency test",
+          "speaker": "Haines-Livesay",
+          "id": "t_003_p_001"
+        },
+        {
+          "text": "Committee members expressed appreciation for Chair Haines-Livesay's service, with Rosas saying 'We'll miss you', van Deursen commenting 'It's wonderful to have you as a chair', Almond noting he enjoyed serving with her, and Ramos expressing reluctance for her to leave.",
+          "source": "Rosas : We'll miss you",
+          "speaker": "Committee Members",
+          "id": "t_003_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "January Meeting Scheduling Conflict",
+      "points": [
+        {
+          "text": "Staff reported a potential conflict: City Council scheduled an additional meeting on January 30, the same date as the Rental Housing Committee meeting. Staff will poll committee members to determine if the meeting date should be changed.",
+          "source": "Anky van Deursen : I will pull all the Rental Housing Committee members separately to see if the date needs to be changed. It seems like the City Council just planned an extra meeting for January 30, which is the same date as we have a Rental Housing Committee meeting",
+          "speaker": "Anky van Deursen",
+          "id": "t_004_p_001"
+        },
+        {
+          "text": "Meeting adjourned at 7:08 PM with next meeting tentatively scheduled for January 30th at 7:00 PM, pending potential date change.",
+          "source": "Haines-Livesay : The meeting is adjourned at 7 O 8:00 PM. This Rental housing committee meeting is scheduled to be held maybe on Monday, January 30th at 7:00 PM or maybe a different day",
+          "speaker": "Haines-Livesay",
+          "id": "t_004_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Public Comment Status and Outcomes",
+      "points": [
+        {
+          "text": "No public comments were received on the consent calendar item or during the general oral communications segment.",
+          "source": "Haines-Livesay : OK, not seeing any public comment now.",
+          "speaker": "Haines-Livesay",
+          "id": "t_005_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "text": "Staff will poll all Rental Housing Committee members to determine if January 30th meeting date needs to be changed due to City Council conflict.",
+      "source": "Anky van Deursen : I will pull all the Rental Housing Committee members separately to see if the date needs to be changed",
+      "assignee": "Anky van Deursen",
+      "id": "d_001"
+    }
+  ],
+  "metadata": {
+    "topicCount": 5,
+    "pointCount": 8,
+    "decisionCount": 1
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Closed Session Procedures",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "The closed session agenda included two liability claims under Government Code Section 54956.9: Item 2.1 by claimant Paul Mansorian and Item 2.2 by claimant Vijay Kumar. Public comment was invited, none was received, and the council recessed to closed session.",
+              "source": "Lucas Ramirez : Item 2.1 is a conference with legal counsel regarding a liability claim pursuant to Government Code Section 54956.9. The name of the claimant is Paul Mansorian. Item 2.2 is a conference with legal counsel regarding a liability claim pursuant to Government Code Section 54956.9. The name of the claimant is Vijay Kumar... seeing no members of the public wishing to speak, the council will now recess to closed session",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Mayor Ramirez 2022 Accomplishments",
+          "points": [
+            {
+              "speaker": "Alison Hicks",
+              "text": "In 2022 under Mayor Lucas Ramirez, 914 housing units were approved (350 affordable), and the Google Middlefield Park Master Plan was approved (up to 1,900 units, including 338 affordable). The city received ULI's Development Excellence in North America Award for LifeMoves Mountain View providing support services and housing for up to 124 people experiencing homelessness, and opened Mora Park and Pyramid Park.",
+              "source": "Alison Hicks : while serving as Mayor in 2022 914 new housing units were approved, including 350 affordable units... Google Middlefield Park Master Plan was approved allowing up to 1900 housing units, including 338 affordable units... the city received the prestigious Development Excellence in North America Award from the Urban Land Institute in recognition of life moves, Mountain View, which provides support services and housing for up to 124 people experiencing homelessness... opening of Mora Park and Pyramid Park",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        },
+        {
+          "topic": "Consent Calendar",
+          "points": [
+            {
+              "speaker": "Ellen Kamei",
+              "text": "Council approved the consent calendar, including continuing virtual meetings of City Council committees, boards, and commissions pursuant to AB361, and designating exclusive bus-only lanes along Charleston Road from Landings Drive to Shoreline Boulevard with a CEQA exemption; the motion passed unanimously.",
+              "source": "Ellen Kamei : Adopt A resolution... continuing virtual meetings of the City Council committees, boards, and commissions pursuant to AB361... Adopt A resolution... designated for exclusive use bus only lanes along Charleston Rd. From Landings Drive to Shoreline Blvd... finding the resolution to be exempt from the California Environmental Quality Act",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Council Reorganization",
+          "points": [
+            {
+              "speaker": "Heather Glaser",
+              "text": "City Clerk Heather Glaser administered the oath of office to re-elected Council Members Alison Hicks, Ellen Kamei, and Lucas Ramirez, formally seating them for new terms.",
+              "source": "Heather Glaser : Please raise your right hand and repeat after me. I state your name... Do solemnly swear or affirm... Congratulations",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Mayor Hicks Priorities",
+          "points": [
+            {
+              "speaker": "Alison Hicks",
+              "text": "Mayor Hicks outlined priorities for 2023: accelerating climate action; creating a downtown pedestrian mall; nurturing small businesses via the Economic Vitality plan; expanding Safe Parking; historic preservation downtown; biodiversity and wildlife management; advancing affordable housing and anti-displacement; updating the Tree Master Plan and parks/open space plans; and creating an Active Transportation Plan and community-controlled affordable housing (COPA/CLTs).",
+              "source": "Alison Hicks : So those issues will include accelerating our response to the climate crisis, creating a downtown pedestrian mall, nurturing small businesses with our Economic Vitality plan, expanding safe parking, historic preservation in our downtown biodiversity and wildlife management, building affordable housing and fighting displacement, improving our community Tree master Plan, updating our parks and open space Plan, creating an active transportation plan... COPA CLTS... community controlled affordable housing",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Transcript clearly shows Lucas Ramirez announcing the closed session agenda items exactly as described in GT1. He states the Government Code section, names both claimants (Paul Mansorian and Vijay Kumar), invites public comment, receives none, and recesses to closed session.",
+        "transcript_evidence": [
+          "Lucas Ramirez : Item 2.1 is a conference with legal counsel regarding a liability claim pursuant to Government Code Section 54956.9. The name of the claimant is Paul Mansorian",
+          "Lucas Ramirez : Item 2.2 is a conference with legal counsel regarding a liability claim pursuant to Government Code Section 54956.9. The name of the claimant is Vijay Kumar",
+          "Lucas Ramirez : seeing no members of the public wishing to speak, the council will now recess to closed session"
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "merge",
+        "reasoning": "Both GT1 and GT2 contain accurate information from the transcript. GT1 mentions parks (Mora Park and Pyramid Park) which is confirmed in the transcript. GT2 provides more detail about the ULI award for LifeMoves Mountain View. The transcript supports both versions, so they should be combined to capture all achievements mentioned.",
+        "transcript_evidence": [
+          "Alison Hicks : while serving as Mayor in 2022 914 new housing units were approved, including 350 affordable units",
+          "Alison Hicks : Google Middlefield Park Master Plan was approved allowing up to 1900 housing units, including 338 affordable units",
+          "Alison Hicks : the city received the prestigious Development Excellence in North America Award from the Urban Land Institute in recognition of life moves, Mountain View, which provides support services and housing for up to 124 people experiencing homelessness",
+          "Alison Hicks : opening of Mora Park and Pyramid Park"
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "merge",
+        "reasoning": "Transcript confirms Ellen Kamei's statement about consent calendar approval including both AB361 virtual meetings and bus lanes along Charleston Road with CEQA exemption. The motion passed unanimously as stated.",
+        "transcript_evidence": [
+          "Ellen Kamei : Adopt A resolution of the City Council of the City of Mountain View. Authorize and continuing virtual meetings of the City Council committees, boards, and commissions pursuant to AB361",
+          "Ellen Kamei : Adopt A resolution... designated for exclusive use bus only lanes along Charleston Rd. From Landings Drive to Shoreline Blvd... finding the resolution to be exempt from the California Environmental Quality Act",
+          "Lucas Ramirez : that passes unanimously"
+        ]
+      },
+      {
+        "id": "review_004",
+        "decision": "merge",
+        "reasoning": "Transcript confirms the oath of office administration ceremony. Heather Glaser administered the oath to the three re-elected council members as described in GT1.",
+        "transcript_evidence": [
+          "Lucas Ramirez : item 7.3, administration of oath of office to elected council members Allison Hicks, Ellen Kamey and Lucas Ramirez",
+          "Heather Glaser : Please raise your right hand and repeat after me",
+          "Heather Glaser : Congratulations"
+        ]
+      },
+      {
+        "id": "review_005",
+        "decision": "merge",
+        "reasoning": "GT1's comprehensive list accurately reflects Mayor Hicks' actual statement in the transcript. The transcript shows she mentioned all the priorities listed in GT1, including the technical terms COPA/CLTs which she explained as community controlled affordable housing. GT2's shorter version is incomplete.",
+        "transcript_evidence": [
+          "Alison Hicks : So those issues will include accelerating our response to the climate crisis, creating a downtown pedestrian mall, nurturing small businesses with our Economic Vitality plan, expanding safe parking, historic preservation in our downtown biodiversity and wildlife management, building affordable housing and fighting displacement",
+          "Alison Hicks : improving our community Tree master Plan, updating our parks and open space Plan, creating an active transportation plan",
+          "Alison Hicks : COPA CLTS and that may also be a little technical That's basically community controlled affordable housing"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 5,
+      "merged": 5,
+      "excluded": 0,
+      "modified": 0,
+      "confidence": "High confidence in validation. All reviewed items had clear, direct transcript evidence supporting their inclusion. No ambiguities or missing evidence found."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:32:59.731674+00:00"
+  }
+}

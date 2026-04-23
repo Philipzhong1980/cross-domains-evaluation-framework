@@ -1,0 +1,110 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Friendly Voices program overview and expansion",
+          "points": [
+            {
+              "speaker": "Laura Steuer",
+              "text": "Friendly Voices connects isolated seniors with trained, background-checked volunteers for weekly one-to-one phone calls. Volunteers are mentored and supervised, safety is prioritized, calls are documented, and relationships are continuous rather than rotating. The program is entirely volunteer-run, Bay Area–based, and collaborates with multiple local agencies.",
+              "source": "Laura Steuer : We train them, we mentor them, we background check them, we supervise them. We document every call... we match each senior and each volunteer 1 to 1... We are entirely volunteer run.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Elna Tymes",
+              "text": "Members suggested outreach avenues: connect with the Alzheimer's Association 24/7 line (primarily serving caregivers), present briefly at the Senior Center's nutrition program lunch, and speak at local senior organizations. Friendly Voices noted a planned mention in Saratoga Area Senior Center's newsletter in December and potential follow-up with Senior Center staff.",
+              "source": "Elna Tymes : ...the Alzheimer's 24 by 7 line... caregivers... I would suggest very strongly that you explore that connection.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Communications subcommittee and outreach",
+          "points": [
+            {
+              "speaker": "Ashley Bittle",
+              "text": "The Communications Subcommittee update was deferred due to connectivity issues and Kieran being out of the country until December. Ashley asked that Vicki or the vice chair email Ish with expectations and request a subcommittee update for the November meeting.",
+              "source": "Ashley Bittle : ...maybe if one of you two... shoot him an e-mail and just let him know, you know what kind of update we'd like for the November",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Ish Sinha",
+              "text": "Ish proposed exploring a local friendly visitor program in Mountain View, based on his successful Alameda County experience. He emphasized that in-person visits build trust more than phone calls and suggested preparing and distributing flyers to increase senior outreach and awareness.",
+              "source": "Ish Sinha : ...a friendly visitors program in Alameda County and it was a very successful program... visiting somebody's house is much better... I think we should start it in our county... we had some flies ready to distribute",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Senior survey planning and vendor option (CASOA)",
+          "points": [
+            {
+              "speaker": "Elna Tymes",
+              "text": "Survey would use standard statistical methods with online and mail components, targeting Mountain View's estimated 14,400 seniors (16% of 90,000 population).",
+              "source": "Elna Tymes : We have probably well, let's see if we believe the census figures probably close to 90,000 people in Mountain View, of which about 16% are seniors",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Recognition and meeting closure",
+          "points": [
+            {
+              "speaker": "Irigon",
+              "text": "Irigon provided positive feedback on Ish's presentation performance at the celebration event, noting that people who attended were very impressed with his presentation.",
+              "source": "Irigon : I heard feedback as well on Ish from people I know who attended and they're very impressed with Ish's presentation",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Vicki",
+              "text": "With no further business raised during roundtable, the chair adjourned the meeting.",
+              "source": "Vicki : Being no further business before the committee, I will adjourn the meeting.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Elna Tymes",
+          "text": "Elna will write justification proposal for $20,000 senior survey to present to City Council through formal vetting process.",
+          "source": "Elna Tymes : I would be glad to write this up as a justification, but that the proposal to the City Council would have to go through the whole vetting process",
+          "from_gt": "gt2",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Friendly Voices",
+          "text": "Friendly Voices will expand to serve approximately 250 seniors annually within two years under the new Long Foundation grant.",
+          "source": "Laura Steuer : ...to triple that in the next two years. So within two years we will be serving 250 seniors a year.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 8,
+      "kept": 7,
+      "modified": 1,
+      "dropped": 0,
+      "from_gt1_kept": 5,
+      "from_gt2_kept": 3
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:14:57.441097+00:00"
+  }
+}

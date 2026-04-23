@@ -1,0 +1,262 @@
+{
+  "meeting_context": "White House press briefing imported from 20231130_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Zeke Miller",
+    "OPERATOR",
+    "Kemi Osukoya",
+    "Chase Winter",
+    "Mida",
+    "Michael Phillips",
+    "Raquel",
+    "AFP",
+    "Trevor Hunnicutt",
+    "Hariana Veras",
+    "Pearl Matibe",
+    "Andrew"
+  ],
+  "topics": [
+    {
+      "topic": "The moderator thanks everyone for joining the background",
+      "points": [
+        {
+          "text": "The moderator thanks everyone for joining the background call to preview the President's engagement with the president of Angola, President Lourenço, and reminds participants that the call will be on background and embargoed until 4:00 p.m. Eastern time today.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden is excited to meet with President",
+      "points": [
+        {
+          "text": "President Biden is excited to meet with President Lourenço of Angola at the White House, marking a significant year of collaboration and partnership coinciding with the 30-year anniversary of diplomatic relations between Angola and the United States.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden is excited to meet with President",
+      "points": [
+        {
+          "text": "President Biden is excited to meet with President Lourenço of Angola at the White House, highlighting the significant progress in their relationship through high-level engagements, infrastructure and economic deals, and collaboration on global and regional priorities.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden and President Louren o will discuss",
+      "points": [
+        {
+          "text": "President Biden and President Lourenço will discuss the significant progress in their relationship, including infrastructure and economic deals, collaboration on regional security challenges, and Angola's principled leadership on global issues such as the Ukraine conflict and civil space exploration.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges the President's commitment",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges the President's commitment to advancing U.S. partnerships with African nations and people, highlighting the 16 Cabinet member and heads of government departments and agencies trips to the continent, but does not provide an update on when the President plans to visit Africa.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter from Africa Bazaar magazine introduces herself",
+      "points": [
+        {
+          "text": "The reporter from Africa Bazaar magazine introduces herself and asks a question, but the content of her question is not provided.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter asks how American small businesses can",
+      "points": [
+        {
+          "text": "The reporter asks how American small businesses can participate in the Lobito Corridor project and take advantage of its benefits.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the transformative investment",
+      "points": [
+        {
+          "text": "The senior administration official discusses the transformative investment being made in the Lobito Corridor project, including support for rural bridges, digital connectivity upgrades, mobile money application introduction, solar power implementation, and mobilization of a billion dollars for rail investment in Africa, creating opportunities for additional investments from various partners including the United States.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the Lobito Corridor",
+      "points": [
+        {
+          "text": "The senior administration official discusses the Lobito Corridor project as a response to the need for infrastructure investment in Africa and highlights its importance in connecting African markets to the global marketplace for the export and importation of commodities.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the Lobito Corridor",
+      "points": [
+        {
+          "text": "The senior administration official discusses the Lobito Corridor project as an opportunity for U.S. investment and access to African markets, including the export of critical minerals, agricultural goods, and other products.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the deepening security",
+      "points": [
+        {
+          "text": "The senior administration official discusses the deepening security relationship between the US and Angola, highlighted by Secretary Austin's trip and the upcoming high-level dialogue in 2024 to discuss military modernization and cooperation in areas such as education, English language capacity, maritime security, and peacekeeping.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that the financing",
+      "points": [
+        {
+          "text": "The senior administration official explains that the financing for the Lobito Corridor includes a $250 million package from the DFC, a $900 million investment in solar from Sun Africa, and an additional $1 billion of investment from the African Development Bank and the EU.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official highlights the importance of",
+      "points": [
+        {
+          "text": "The senior administration official highlights the importance of democracy in Africa and mentions the signing of the Artemis Accords as a deliverable, while emphasizing the extensive engagement and investments made by the U.S. government in Africa.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the economic investments",
+      "points": [
+        {
+          "text": "The senior administration official discusses the economic investments and deepening ties between the US and Angola, as well as consultation on regional issues such as the Democratic Republic of the Congo and global issues including a shared commitment to the U.N. Charter.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the upcoming meeting",
+      "points": [
+        {
+          "text": "The senior administration official discusses the upcoming meeting between the US and Angola, highlighting the historic engagement and consultation in their relationship, as well as the significance of Angola becoming the third country in Africa to sign the Artemis Accord.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges President Biden's awareness",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges President Biden's awareness of Angola's deep historical connection with the United States and his involvement in the U.S.-Angolan relationship since the late '70s.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Angola's participation in the Artemis Accords is significant",
+      "points": [
+        {
+          "text": "Angola's participation in the Artemis Accords is significant due to their space program and their alignment with the principles of peaceful, sustainable, and transparent cooperation in space.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official expresses the importance of",
+      "points": [
+        {
+          "text": "The senior administration official expresses the importance of Angola's participation in the Artemis Accords and highlights the Biden administration's commitment to including African partners in discussions on space norms and behavior.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Pearl Matibe asks about the removal of Zimbabwean",
+      "points": [
+        {
+          "text": "Pearl Matibe asks about the removal of Zimbabwean sanctions and Angola's role in the DRC, and raises concerns about security challenges in the Lobito Corridor.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "DNI Haines traveled to Kinshasa and Kigali to",
+      "points": [
+        {
+          "text": "DNI Haines traveled to Kinshasa and Kigali to secure commitments from both countries to deescalate tensions during the Congolese election, drawing on previous agreements in the Luanda and Nairobi Processes.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the trip the senior administration official highlights",
+      "points": [
+        {
+          "text": "During the trip, the senior administration official highlights the collaboration with Angolan partners and their efforts to prevent escalation of fighting in the eastern DRC, as well as Angola's leadership in dealing with regional security concerns.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The journalist questions the senior administration official about",
+      "points": [
+        {
+          "text": "The journalist questions the senior administration official about President's failure to visit Africa this year despite his previous commitment, and asks for the message it sends to African leaders and governments.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official highlights the administration's engagement",
+      "points": [
+        {
+          "text": "The senior administration official highlights the administration's engagement and investment in Africa, including recent interactions with African leaders, as evidence of their commitment to the continent.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official concludes the session by",
+      "points": [
+        {
+          "text": "The senior administration official concludes the session by thanking everyone and wishing them a great afternoon.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

@@ -1,0 +1,178 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Meeting Administration and Roll Call",
+          "points": [
+            {
+              "speaker": "Kimba McCarthy",
+              "text": "Meeting conducted under California Government Code Section 54953 subsection E during declared state of emergency with all members participating by video conference.",
+              "source": "Kimba McCarthy : During this declared state of emergency, this meeting will be conducted in accordance with California Government Code Section 54953, subsection E",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Mountain View Whisman District funding activities",
+          "points": [
+            {
+              "speaker": "Ayinde Rudolph",
+              "text": "Funding supports Living Classroom, science programs, technology services, Chromebook software licensing, and fund administration.",
+              "source": "Ayinde Rudolph : The funding received contributed to Living Classroom, science count, technology services, Chromebook software licensing, as well as administration of the actual funds",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Ayinde Rudolph",
+              "text": "Large portion of funds maintains one-to-one environment by providing replacement Chromebooks and software across the district.",
+              "source": "Ayinde Rudolph : A large portion of the funds received continue to fund our one to one environment by providing replacement Chromebooks and software that are used across the district",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Ayinde Rudolph",
+              "text": "Living Classroom provides hands-on science lessons to TK through 5th grade students and maintains native plant gardens on each campus.",
+              "source": "Ayinde Rudolph : Living Classroom provides hands on science lessons to TK through 5th grade students at the elementary level school in the district and helps to maintain native plant gardens on each campus",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Successor agreement negotiations and extension plan",
+          "points": [
+            {
+              "speaker": "Audrey Ramberg",
+              "text": "Staff working group began meeting in mid-2019 as prescribed in current agreement to discuss community obligations and district needs.",
+              "source": "Audrey Ramberg : the start of the staff working group, which began meeting in mid 2019, which is a term explicitly prescribed in the current agreement",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Audrey Ramberg",
+              "text": "City shared information about $122 million in capital improvements for sea level rise, $19 million for closed landfill improvements, and $487 million in transportation improvements.",
+              "source": "Audrey Ramberg : Regarding $122 million in capital improvements for sea level rise to protect both the North East Shore area and the broader city. 19,000,000 in improvements for the closed regional landfill to protect from leachate and methane gas leakage into the air and into the groundwater. 487,000,000 in transportation improvements",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Audrey Ramberg",
+              "text": "Long-range forecast depends on assumptions from Google Master Plan expected for Council adoption in spring 2023.",
+              "source": "Audrey Ramberg : the Long Range forecast, which we will use to illustrate the community's ability to fund both its obligations and the continued and increased payments to the districts depended on the assumptions that are will be part of an adopted Google Master Plan",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Audrey Ramberg",
+              "text": "City outlined Shoreline obligations informing payment capacity: $122 million in capital improvements for sea level rise; $19 million for closed regional landfill mitigation; and $487 million in transportation projects, with about $267 million net to be funded by the Shoreline community after development impact fees and community benefits.",
+              "source": "Audrey Ramberg : $122 million in capital improvements for sea level rise… 19,000,000 in improvements for the closed regional landfill… 487,000,000 in transportation improvements… an estimated 267,000,000 are net… to be funded by the shoreline community.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "District concerns and budget impact",
+          "points": [
+            {
+              "speaker": "Ayinde Rudolph",
+              "text": "District authorized to approve only six-month extension, expressing concern about timeline constraints.",
+              "source": "Ayinde Rudolph : I'm only authorized to give up to six months extension",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Nellie Meyer",
+              "text": "MVLA district has no formal authority regarding timeline but shares concern about extension potentially meaning shift in leadership and variables.",
+              "source": "Nellie Meyer : we do not have any formal authority as a district regarding a timeline. But there definitely is that same concern that any extension as it as it goes out could mean a shift in leadership and all sorts of different variables",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "County funding comparison",
+          "points": [
+            {
+              "speaker": "Ayinde Rudolph",
+              "text": "County reached agreement in 2005 to receive full 20% share of tax increment starting fiscal year 2010-11, questioning different treatment from school districts.",
+              "source": "Ayinde Rudolph : So in 2005, the county and the city of the Shoreline Regional Park reached an agreement that in 2010, 2011 that the county will receive full funding",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Public comments on funding priorities",
+          "points": [
+            {
+              "speaker": "Laura Blakely",
+              "text": "Projected student population increase of 50% requires districts to receive full roughly 40% share of shoreline tax revenues for operational costs and new school construction.",
+              "source": "Laura Blakely : What we did not know and would never have fathomed at the time the prior GPA deals were struck was that the projected student population of our schools, including students living in the new developments in N Bayshore, would increase by 50%",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Pat Showalter",
+              "text": "A council member stated the city's commitment to good-faith negotiations and emphasized sea level rise as a local responsibility, noting state and federal funds are competitive. She supported a reasonable extension to address infrastructure needs while meeting school districts' needs through a balanced solution.",
+              "source": "Pat Showalter : The city is committed to negotiate in good faith… We can't do that without the sea level rise protections… it's naive to assume that state and federal funding will be forthcoming… I urge you to consider reasonable negotiations that… involve an extension.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting closure and next steps",
+          "points": [
+            {
+              "speaker": "Kimba McCarthy",
+              "text": "City committed to maintaining at least current payment levels during negotiations and expressed intention for collaborative approach.",
+              "source": "Kimba McCarthy : it is the city's interest to pay the school districts not only the amount to have the certainty, the amount that you had received this past year, but of course any of those increases that may come about as part of the property value",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Kimba McCarthy",
+              "text": "Meeting adjourned at 12:14 with commitment to schedule next meeting in quarter one 2023.",
+              "source": "Kimba McCarthy : So we'll adjourn at 12:14 and we'll just be in touch for setting the next meeting",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Future meeting plan and next steps",
+          "points": [
+            {
+              "speaker": "Kimba McCarthy",
+              "text": "Board members aligned on drafting a short-term agreement guaranteeing at least current payment levels while negotiations continue, and to meet in Q1 2023 (February or early March) to review and approve it. Staff will map the process for a longer-term successor agreement, aiming for clarity by summer 2023.",
+              "source": "Kimba McCarthy : The Board has agreed to set a date for quarter one 2023… to discuss the short term agreement… we do intend to put forth the full amount that you all got last year… give us a little bit more time to finish the legal and the fiscal analysis.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 12,
+      "kept": 12,
+      "modified": 0,
+      "dropped": 0,
+      "from_gt1_kept": 3,
+      "from_gt2_kept": 9
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:36:20.305383+00:00"
+  }
+}

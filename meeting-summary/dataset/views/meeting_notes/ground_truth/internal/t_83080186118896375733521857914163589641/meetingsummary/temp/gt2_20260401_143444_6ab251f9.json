@@ -1,0 +1,239 @@
+{
+  "result": {
+    "meeting_context": "This was a Council Neighborhoods Committee virtual meeting for Mountain View residents to ask questions of city staff and council members. The meeting included presentations on emergency response programs and mobile home rent stabilization, followed by extensive Q&A covering traffic, utilities, rent control, and various city services.",
+    "participants": [
+      "Anna Reynoso",
+      "Pat Showalter",
+      "Elena Garcia",
+      "Robert Maitland",
+      "Anky van Deursen",
+      "Dawn Cameron",
+      "John Marchant",
+      "Alison Hicks",
+      "Karen Tiedemann",
+      "Martin Eichner",
+      "Lorenzo Lopez",
+      "Michael Canfield",
+      "Danielle Lee",
+      "Micaela Hellman-Tincher",
+      "Audrey Seymour Ramberg",
+      "Lisa Aui",
+      "Ria Hutabarat Lo",
+      "Gloria Mungo",
+      "Unidentified 1",
+      "Unidentifed 2"
+    ],
+    "topics": [
+      {
+        "topic": "Community Emergency Response Team Program",
+        "points": [
+          {
+            "speaker": "Robert Maitland",
+            "text": "Mountain View has 18 recognized CERT neighborhood groups that participate in academies, refresher training, drills and exercises.",
+            "source": "Robert Maitland : Our city of Mountain View has 18 recognize certain neighbourhood groups and we participate in academies, refresher, trainees, drills, exercises."
+          },
+          {
+            "speaker": "Robert Maitland",
+            "text": "Next CERT Academy scheduled for March with skills day in January and drill in November.",
+            "source": "Robert Maitland : If you want to be part of that next Cert Academy that we've got coming up in March, reach out to me"
+          }
+        ]
+      },
+      {
+        "topic": "Mobile Home Rent Stabilization Ordinance",
+        "points": [
+          {
+            "speaker": "Anky van Deursen",
+            "text": "Mobile Home Rent Stabilization Ordinance went into effect October 28 last year, covering both space rent and mobile home rentals with eviction protections.",
+            "source": "Anky van Deursen : A lot of things went into effect on October the 28 last year and the purpose is to stabilise rents to provide eviction protections for mobile home tenants"
+          },
+          {
+            "speaker": "Anky van Deursen",
+            "text": "Rent stabilization program holds office hours every other Thursday at Public Library and weekly at 298 Escuela Ave.",
+            "source": "Anky van Deursen : The City of Mountain View Rent Stabilization program administers this program every other Thursday afternoon. We're in the Public Library"
+          },
+          {
+            "speaker": "Anky van Deursen",
+            "text": "Annual rent increases currently set at 5% based on CPI formula with 2-5% limits, actual inflation exceeded 5% this year.",
+            "source": "Anky van Deursen : The actual inflation this year was higher than 5%, so that's why the Rental Housing Committee had to set the Aga at 5%."
+          },
+          {
+            "speaker": "Karen Tiedemann",
+            "text": "Park owners can petition Rental Housing Committee for individual rent adjustments to maintain fair return on property if operating income decreases.",
+            "source": "Karen Tiedemann : So the park owner would have to file a petition with the Rental Housing Committee. That petition would be heard by a hearing officer."
+          }
+        ]
+      },
+      {
+        "topic": "Internet and Utility Service Issues",
+        "points": [
+          {
+            "speaker": "Dawn Cameron",
+            "text": "No AT&T excavation permit application on file for New Frontier Mobile Home Park Internet service, city reaching out to AT&T for clarification.",
+            "source": "Dawn Cameron : I will say that we have searched our excavation permit. That's what we call them files. And there is no application on file right now from AT&T"
+          },
+          {
+            "speaker": "Dawn Cameron",
+            "text": "PG&E service arrangements are between property owners and PG&E, city cannot regulate PG&E service but issues permits for right-of-way work.",
+            "source": "Dawn Cameron : The the answer to the question is PG&E service is an arrangement between PG&E and the property owners. The city does not and cannot regulate PG&E"
+          },
+          {
+            "speaker": "Dawn Cameron",
+            "text": "Sunset Estates has private agreement with Ridge Wireless for tower and service, sharing between parks would require private arrangement.",
+            "source": "Dawn Cameron : So this is a private agreement then between between Sunset Estates and Ridge Wireless for both the on site tire tower and the provision of wireless services."
+          }
+        ]
+      },
+      {
+        "topic": "Traffic Management and Enforcement",
+        "points": [
+          {
+            "speaker": "John Marchant",
+            "text": "Live Nation hires professional traffic management service for concerts, communicates with Police Department for incidents during events.",
+            "source": "John Marchant : Live Nation does hire a professional traffic and parking management service to provide traffic control for concert days."
+          },
+          {
+            "speaker": "John Marchant",
+            "text": "Post-season wrap-up planned with Police, Live Nation and parking management to improve traffic flow for next concert season.",
+            "source": "John Marchant : At the end of this concert season preparing for next, we will do a post season wrap up with Police Live Nation"
+          },
+          {
+            "speaker": "Lorenzo Lopez",
+            "text": "Sylvan Ave speed humps previously rejected by residents in postcard survey with 50% support, need 67% approval to qualify.",
+            "source": "Lorenzo Lopez : A postcard survey was sent out and speed humps did not qualify. At that time you need to have 67% in favor of speed, speed humps and at the time it was it was at 50%"
+          },
+          {
+            "speaker": "Dawn Cameron",
+            "text": "Caltrans will begin El Camino Real repaving project next summer with bicycle and pedestrian improvements, removing on-street parking to create bike lanes.",
+            "source": "Dawn Cameron : Caltrans will be coming in in the next summer and starting the repaving project for El Camino Real throughout Mountain View and Palo Alto."
+          }
+        ]
+      },
+      {
+        "topic": "Cannabis Regulations and Enforcement",
+        "points": [
+          {
+            "speaker": "Michael Canfield",
+            "text": "Cannabis cannot be planted outside due to city moratorium, interior growing in homes is not criminal violation but may violate civil rules.",
+            "source": "Michael Canfield : Just for clarification, cannabis cannot be planted outside Inside there is a moratorium on external or outside cannabis planting in the city of Mountain View."
+          },
+          {
+            "speaker": "Michael Canfield",
+            "text": "Cannabis smoking and vaping legal inside homes but illegal in public spaces, similar to alcohol consumption restrictions.",
+            "source": "Michael Canfield : Inside your home the the smoking or vaping of cannabis is lawful. It is legal outside. You can think of it like where you could drink a beer."
+          },
+          {
+            "speaker": "Audrey Seymour Ramberg",
+            "text": "City smoking ordinance prohibits smoking tobacco products inside multi-family residential units, which would apply to cannabis as well.",
+            "source": "Audrey Seymour Ramberg : I would add that the city has a a a smoking ordinance that relates to multi family residential properties where smoking is prohibited inside units"
+          }
+        ]
+      },
+      {
+        "topic": "Mobile Home Residents Rights and Protections",
+        "points": [
+          {
+            "speaker": "Martin Eichner",
+            "text": "Mobile home residency law guarantees right to meet with park management individually or as organized group with 30 days written notice, protected against retaliation.",
+            "source": "Martin Eichner : So again, looking at the mobile home residency law, the state law, it guarantees the right of mobile home owners to meet with the park management either individually or as an organized group."
+          },
+          {
+            "speaker": "Martin Eichner",
+            "text": "New Mobile Home Residency Protection Program allows homeowners to file complaints with State Department of Housing and Community Development for investigation.",
+            "source": "Martin Eichner : I will mention that they just established a new program called the Mobile Home Residency Protection Program, which is supposed to begin to allow homeowners to make complaints to the State of California Department of Housing and Community Development."
+          },
+          {
+            "speaker": "Martin Eichner",
+            "text": "Mobile home owners have right to form nonprofit corporation and negotiate with park owner for purchase if park is for sale.",
+            "source": "Martin Eichner : Under the mobile home residency law there is a if the park is for sale the the residents or their homeowners have a right to form a nonprofit corporation and to bargain with it park owner"
+          }
+        ]
+      },
+      {
+        "topic": "City Services and Community Support",
+        "points": [
+          {
+            "speaker": "Micaela Hellman-Tincher",
+            "text": "City provides grants to Community Services Agency through annual process and Community Development Block Grant funding on biennial basis.",
+            "source": "Micaela Hellman-Tincher : We provide grants through an annual process out of the city manager's office and then we also have a program through our federal funding source, the Community Development Block Grant"
+          },
+          {
+            "speaker": "Audrey Seymour Ramberg",
+            "text": "City partners with CSA through contracts for rent relief during pandemic and administering Guaranteed Basic Income pilot program.",
+            "source": "Audrey Seymour Ramberg : They received significant funding from the City of Mountain View to support rent relief to residents during the pandemic, and they are also our contract partner to administer the City's Guaranteed Basic Income pilot program."
+          },
+          {
+            "speaker": "Ria Hutabarat Lo",
+            "text": "Safe Routes to School program delivered training to 3,200 students in last six months on bicycle safety and traffic rules.",
+            "source": "Ria Hutabarat Lo : in the last six months we've delivered training to 3200 students, including information on, you know, making sure that students ride in this in the same direction as traffic"
+          },
+          {
+            "speaker": "Ria Hutabarat Lo",
+            "text": "Monster Bash event October 29th at Ringstorf Park 10 AM-2 PM includes bicycle circus and free bike repair worth $100 each.",
+            "source": "Ria Hutabarat Lo : So again, it's October 29th at Ringstorf Park between 10:00 and 2:00 and as part of that also there's free bike repair which is a value of about $100 each."
+          }
+        ]
+      },
+      {
+        "topic": "Meeting Closure and Recognition",
+        "points": [
+          {
+            "speaker": "Pat Showalter",
+            "text": "Chair Showalter thanked all participants and staff for their contributions, encouraged residents to use provided contact resources for future concerns.",
+            "source": "Pat Showalter : So I I'd like to thank everybody, particularly Anna and Michaela. And it sounded like Dawn answered the most questions"
+          },
+          {
+            "speaker": "Anna Reynoso",
+            "text": "Anna Reynoso thanked Elena Garcia for providing Spanish interpretation services during the meeting.",
+            "source": "Anna Reynoso : And before we go, I did want to give a big thank you to Elena Garcia for providing our interpretation this evening."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Dawn Cameron",
+        "text": "Dawn Cameron will reach out to AT&T to inquire about permit requirements for Internet service at New Frontier Mobile Home Park.",
+        "source": "Dawn Cameron : We are now reaching out to AT&T to ask them about this and see if there is something we can do to help them submit their permit."
+      },
+      {
+        "assignee": "John Marchant",
+        "text": "John Marchant will conduct post-season debrief with Police, Live Nation and parking management to address traffic concerns for next concert season.",
+        "source": "John Marchant : At the end of this concert season preparing for next, we will do a post season wrap up with Police Live Nation, their their management, their parking management service"
+      },
+      {
+        "assignee": "Danielle Lee",
+        "text": "Danielle Lee will research solar panel installation constraints for mobile homes and provide follow-up information via email.",
+        "source": "Danielle Lee : So I'd be happy to commit to following up and researching this question further, and I'll provide my e-mail address into the chat."
+      },
+      {
+        "assignee": "Lorenzo Lopez",
+        "text": "Lorenzo Lopez will investigate Sylvan Ave site for striping enhancements and signage improvements to address traffic concerns.",
+        "source": "Lorenzo Lopez : we can go out to this site and look at if there's any striping enhancements we can do. Maybe the striping is faded. We could also look at some signage"
+      },
+      {
+        "assignee": "Michael Canfield",
+        "text": "Michael Canfield will direct traffic enforcement team to examine Sylvan Ave during peak hours for specific violations.",
+        "source": "Michael Canfield : I will circle back with our traffic enforcement team and Sergeant Goff and make sure that that Sylvan Ave. and the the the roadways during traffic hours, the High Peak traffic hours are examined and enforced"
+      },
+      {
+        "assignee": "John Marchant",
+        "text": "John Marchant will look into bringing back pre-COVID engagement meetings with N Bayshore businesses and mobile home park representatives before next concert season.",
+        "source": "John Marchant : So pre pre COVID, we did have for several years in a row. I want to say it was three years in a row. We engage the N Bayshore, some of the businesses. I believe we had representation from the mobile Home Park there and so we can look at bringing that back prior to the next concert season"
+      }
+    ],
+    "metadata": {
+      "topicCount": 8,
+      "pointCount": 25,
+      "decisionCount": 6
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:34:44.943263+00:00"
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "result": {
+    "meeting_context": "This was a Mountain View Downtown Committee meeting on October 4th focused on routine business including minutes approval, development updates, Castro Street improvements, and policy discussions around personal delivery devices and committee vacancies.",
+    "participants": [
+      "Mike Kasperzak",
+      "John Lang",
+      "Eric Cormier",
+      "Raghav Gupta",
+      "Marina Keith",
+      "Maria Lange",
+      "David Lin",
+      "Kira Pascoe",
+      "Jamil Shaikh",
+      "Merry Yen",
+      "Pamela Baird",
+      "Krisha Penollar"
+    ],
+    "topics": [
+      {
+        "topic": "Minutes Approval Process",
+        "points": [
+          {
+            "speaker": "Maria Lange",
+            "text": "Maria moved to adopt minutes for both August 9th and September 6th meetings.",
+            "source": "Maria Lange : I'll move that we adopt the minutes for both meetings."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Committee unanimously approved minutes for both meetings with all members voting aye.",
+            "source": "John Lang : All right, that passes."
+          }
+        ]
+      },
+      {
+        "topic": "Upcoming Agenda Planning",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Busking music item will be moved to November meeting as it couldn't be included in current agenda.",
+            "source": "John Lang : We weren't able, I was not able to get the the busking music item on this particular agenda. So I will keep that moving forward and hopefully work to get that conversation for the November meeting."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Police Department will provide downtown update at November meeting, continuing historical practice.",
+            "source": "John Lang : We are looking to bring back police update historically around this time. We do have the Police Department provide an update on what's happening in downtown and just their insights into things that may be going on. So we are looking to bring the Police Department to the November meeting."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "2023 calendar and meeting dates for committee will be presented in November meeting.",
+            "source": "John Lang : Also in the November meeting, we are looking to bring forward the 2023 calendar and meeting dates for this committee for 2023"
+          },
+          {
+            "speaker": "David Lin",
+            "text": "David proposed discussing Castro Street trash and litter issues due to increased business and city staff pickup challenges.",
+            "source": "David Lin : The, I guess the trash kind of and litter on Castro is. With the increase in business, it seems that the city staff is having trouble with picking up."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Staff will add downtown maintenance as agenda topic covering street cleaning and sidewalk maintenance issues.",
+            "source": "John Lang : So I will list it as a maintenance of downtown going forward and I'll add that to the list of things."
+          },
+          {
+            "speaker": "Pamela Baird",
+            "text": "Pamela requested updates on downtown ambassadors program and city-sponsored holiday events including tree lighting.",
+            "source": "Pamela Baird : Can you also give us an update on the downtown ambassadors? Will that be brought back again during the holiday shopping season? And could you also give us an update on city sponsored events downtown"
+          }
+        ]
+      },
+      {
+        "topic": "Downtown Development Updates",
+        "points": [
+          {
+            "speaker": "Krisha Penollar",
+            "text": "590 Castro Street project approved by City Council on August 30th for four-story 106,000 square foot building with ground floor retail and public plaza.",
+            "source": "Krisha Penollar : 590 Castro Street, which if you look here on the right is South of City Hall where the old Wells Fargo building and surface parking lot is was approved at City Council on August 30th. And approval was a four story 106,000 square foot building with ground floor retail and a public Plaza."
+          },
+          {
+            "speaker": "Krisha Penollar",
+            "text": "954 Villa Street received temporary occupancy for office use, resolving minor fire issues where Tide House previously operated.",
+            "source": "Krisha Penollar : 954, Villa St., that's where a Tide house had used to had been before. It's located next to Shea TJ. If you see my cursor here, that is that project is for a provisional use permit to allow an office use and they did receive temporary occupancy."
+          },
+          {
+            "speaker": "Krisha Penollar",
+            "text": "110 Castro Street received permits for facade upgrades and new Spanish tapas restaurant Vita replacing Zonz.",
+            "source": "Krisha Penollar : 110 Castro Street that used to be where Zonz was. If you can see here where it is Castro Street. Right here, So next to Zon or next to Vazo where Zonz was, we did receive a plan and community permit and development review permit to upgrade the facades and a new the restaurant called Vita is going to be occupying the space and that's a Spanish tapas restaurant."
+          },
+          {
+            "speaker": "Krisha Penollar",
+            "text": "Krisha announced this would be her last downtown committee update as Edgar takes over as new downtown planner in rotating role.",
+            "source": "Krisha Penollar : I did want to know, like Edgar said, this is going to be my last down downtown committee updates and Edgar will be taking over as the new downtown planner."
+          }
+        ]
+      },
+      {
+        "topic": "Hope Street Hotel Project Status",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Project exercised financing extension option under DDA allowing up to 40 months extension due to unmet criteria.",
+            "source": "John Lang : So real quickly on the Hope St. Lot the project currently is in a phase where they can they have they have exercised an option within the agreement that allows them to extend the financing associated with their project because it's not meeting certain criteria which was outlined in the DDA."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Planning entitlements expire November 27th requiring building permit execution or complete re-entitlement process.",
+            "source": "John Lang : One thing that has come about is the project's planning entitlements have been exhausted in terms of extensions. So they are going to expire on November 27th of this year. So if the project team does not actually execute a building permit which they have a few things to do in order to enable that, they're gonna lose their planning entitlements"
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Building permit achievement by November 27th deadline appears unlikely based on current progress.",
+            "source": "John Lang : It currently is not clear whether a building permit is going to be achieved by the November 27th deadline."
+          }
+        ]
+      },
+      {
+        "topic": "Castro Street Infrastructure Updates",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Pedestrian mall public hearing scheduled for October 11th with ordinance adoption planned for October 25th.",
+            "source": "John Lang : This is going to be a very quick verbal update for folks wanted to remind the committee that on October 11th, so next week the pedestrian mall will be going to Council for the first for the opening of the public hearing which is letting people know that this is going to be heard on October 25th as far as adopting an ordinance to enact the Pedestrian Mall."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Business improvement assessment area proceeding to City Council on October 11th for next fiscal year adoption.",
+            "source": "John Lang : In addition, an item that this committee reviewed last meeting, the business improvement Assessment area is also going to City Council on the 11th as part of that adoption process for the next fiscal year."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Additional lighting completed on 200 block of Castro Street with majority of overhead lighting now finished.",
+            "source": "John Lang : We are adding additional lighting across the street on Castro Street. There was a section of the 200 block of Castro Street that we did not complete that is now completed. So a vast majority of the overhead lighting is now complete."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Staff exploring alternative lighting solutions for alleyway areas where tree canopy prevents cross-street lighting installation.",
+            "source": "John Lang : Staff is looking at alternative areas on all three blocks where we have the alleyway access. The trees in that area don't allow for the existing lighting that we have to go across the street there. So we are looking for alternative ways to increase lighting in those sections on the street."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Working with businesses to remove tent remnants and broken planters left after tent removal for downtown decluttering.",
+            "source": "John Lang : So we are reaching out to different businesses in the downtown. When the tents went away, some of the remnants of what held up tents still remains out there. So we are working with the businesses to get those items removed and basically declutter some of these areas"
+          }
+        ]
+      },
+      {
+        "topic": "AB 361 Remote Meeting Resolution",
+        "points": [
+          {
+            "speaker": "Merry Yen",
+            "text": "Merry motioned to adopt AB 361 resolution authorizing virtual meetings with required findings.",
+            "source": "Merry Yen : I would like to motion for the Downtown Committee to adopt the resolution of the Downtown Committee of the City of Mountain View authorizing virtual meetings pursuant to 8361 and making required findings to be read in titles only for the reading."
+          },
+          {
+            "speaker": "Pamela Baird",
+            "text": "Pamela supported remote format as suitable for committee's advisory role with less intensive discussion requirements.",
+            "source": "Pamela Baird : I I personally am in favor of doing remote as opposed to previous commissions I've been on where there really is a lot of discussion and back and forth and meaty conversations. We tend to not do that because we're we don't."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Committee unanimously approved AB 361 resolution allowing continued virtual meetings for 30-day period.",
+            "source": "John Lang : All right."
+          }
+        ]
+      },
+      {
+        "topic": "Personal Delivery Device Program Updates",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Starship ceased downtown operations over summer, ending couple years of PDD service in downtown area.",
+            "source": "John Lang : Over the summer, Starship did inform the city that they were no longer going to operate in downtown and made the business decision to close their operations of the PD DS."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Multiple PDD operators expressing interest in Mountain View operations pending policy finalization.",
+            "source": "John Lang : With that said, we have been talking with other PDD operators that are interested in Mountain View, not only in the downtown, but more holistically in the city."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Program augmentations include requiring physical company presence in Mountain View beyond just devices.",
+            "source": "John Lang : So as a condition of operating with under these program constraints or program requirements, we want to make sure that there is a presence here in Mountain View in some other form, whether it be some office, whether it be the operators of the device, whether it be some type of maintenance facility"
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Enhanced data requirements include performance measures, regular reporting, public inquiry documentation, and infrastructure assessment feedback.",
+            "source": "John Lang : One is trying to understand better performance measures. How are these devices being used? Are they? Are we able to show that there is a reduction in trips or reduction in emissions? But just looking to quantify the value of having these devices, looking for more regular reporting, making it a requirement now to document all public inquiries"
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Providers receptive to sharing general heat maps and incident data while protecting proprietary information.",
+            "source": "John Lang : In most cases for the things we were asking data wise, it was not considered proprietary. We are not looking to get into their their their true IP."
+          }
+        ]
+      },
+      {
+        "topic": "Committee Vacancy Updates",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "CPPC committee approved downtown committee's recommendation to augment bylaws regarding chamber and DBA representation.",
+            "source": "John Lang : So the the CPPC committee which is the council procedures committee did approve the recommendation from the downtown committee to augment the bylaws."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Eric Cormier will not serve in new year, creating open seat requiring recruitment.",
+            "source": "John Lang : For those of you that aren't aware, Eric had communicated with me that he would not be able to serve in the in the new year. So that is now a seat that will be opening up that will need to be recruited for"
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Maria Lange will not continue serving, with candidate expressing interest in filling her seat.",
+            "source": "John Lang : There is a member seat that is open and that is Maria's seat. She has expressed not interested. She will not be filling that seat in the next year."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Council Appointment Review committee interviews scheduled for November 21st with council appointments December 6th or 13th.",
+            "source": "John Lang : So the Council Appointment Review committee on November 21st will be doing the interview of candidates and then either December 6th or 13th is when council will do the appointing."
+          }
+        ]
+      },
+      {
+        "topic": "Downtown Events and Activities",
+        "points": [
+          {
+            "speaker": "Kira Pascoe",
+            "text": "Halloween event planned for October 29th with DBA coordinating various holiday activities including Elf on Shelf.",
+            "source": "Kira Pascoe : We are going to have Halloween on the 29th of October and we're looking at some other ideas of the DBA such as meeting local residents at ADBA, meeting that's at a different time so business owners and residents can meet with each other as well as other holiday activities that we're looking at doing such as Elf on a Shelf"
+          },
+          {
+            "speaker": "Kira Pascoe",
+            "text": "Trick-or-treating event returning with bouncy house by Monte Carlo and multiple business participation.",
+            "source": "Kira Pascoe : So other events coming downtown, we are going to have to trick or treating again. And so one of the big things is the bouncy House of you by Monte Carlo. But we're also getting other businesses involved as well"
+          },
+          {
+            "speaker": "Kira Pascoe",
+            "text": "Business owner meet and greet scheduled for November 2nd with timing being determined between breakfast or evening format.",
+            "source": "Kira Pascoe : And then coming up on November 2nd, we're going to have a meet and greet with business owners. So we are in the process of deciding the time because we're deciding whether it should be a breakfast or an evening activity"
+          },
+          {
+            "speaker": "Pamela Baird",
+            "text": "Mountain View Historical Association conducting downtown walking tour on October 23rd at 2:00 PM.",
+            "source": "Pamela Baird : Yeah, Downtown Walking Tour on Sunday, October 23rd at 2:00 PM will be conducted by the Mountain View Historical Association."
+          }
+        ]
+      },
+      {
+        "topic": "Business Recovery and Support",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Only 25% of downtown businesses performing better than pre-pandemic levels, with 75% still struggling with reduced sales.",
+            "source": "John Lang : Please note this as much as everyone wants things to be very nice, only 20, 5% of our businesses in downtown are actually doing better than they were pre pandemic. That means 75% of businesses are still way off sales."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "City taking softer enforcement approach on beautification issues while businesses recover, focusing on life safety priorities.",
+            "source": "John Lang : So we're trying to be trying to be flexible, but also not be so. Yes. So finding that path of recognizing we certainly care about life safety issues but I recognize that many are still really struggling."
+          }
+        ]
+      },
+      {
+        "topic": "Meeting Closure and Recognition",
+        "points": [
+          {
+            "speaker": "Merry Yen",
+            "text": "Merry thanked Krisha for years of service and expressed appreciation for losing Maria and Eric from committee.",
+            "source": "Merry Yen : I want to say? Thank you Christian for all your work over the years. Thank you."
+          },
+          {
+            "speaker": "Mike Kasperzak",
+            "text": "Chair reminded attendees to vote and adjourned meeting until next month.",
+            "source": "Mike Kasperzak : Vote. Don't. Yeah, Don't forget to vote."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "John Lang",
+        "text": "John will add busking music item to November meeting agenda after being unable to include it in current agenda.",
+        "source": "John Lang : So I will keep that moving forward and hopefully work to get that conversation for the November meeting."
+      },
+      {
+        "assignee": "John Lang",
+        "text": "John will bring Police Department to November meeting for downtown update and add downtown maintenance as agenda topic.",
+        "source": "John Lang : So we are looking to bring the Police Department to the November meeting. So I will list it as a maintenance of downtown going forward and I'll add that to the list of things."
+      },
+      {
+        "assignee": "Edgar",
+        "text": "Edgar will report back on specific office tenant for 954 Villa Street during next committee update.",
+        "source": "Krisha Penollar : I don't have the specific office tenant handy, but I can have Edgar report back during next committee update."
+      },
+      {
+        "assignee": "John Lang",
+        "text": "John will follow up on bicycle event status and provide update to committee along with other outlined items.",
+        "source": "John Lang : I will reach out to him and as a follow up to the items I've already outlined with the group, I'll put that out to the committee if there is any update to share."
+      },
+      {
+        "assignee": "John Lang",
+        "text": "John will draft mid-year budget request for committee discretionary funds and work toward permanent annual budget inclusion.",
+        "source": "John Lang : So I'm drafting something for mid year and ideas get something in for mid year and that would be a temporary thing and then my idea is to roll that into a permanent thing for the annual."
+      }
+    ],
+    "metadata": {
+      "topicCount": 11,
+      "pointCount": 40,
+      "decisionCount": 5
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:43:26.617364+00:00"
+  }
+}

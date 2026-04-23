@@ -1,0 +1,14 @@
+avg_completion_tokens,avg_llm_seconds,avg_parsing_seconds,avg_prompt_tokens,avg_successful_evaluations_per_job,avg_time_per_evaluation_seconds,avg_total_seconds,avg_total_tokens,evaluator_model,median_total_seconds,notes,p90_total_seconds,row_type,sample_count,stage
+5354.33,47.01,0.00,5400.79,,,47.01,10755.13,,37.99,Explicit evaluator completion lines with nearest preceding token log.,86.19,metric_stage_summary,39,accuracy_evaluation
+5620.08,71.03,0.00,6763.46,,,71.03,12383.54,,71.24,Explicit evaluator completion lines with nearest preceding token log.,118.78,metric_stage_summary,39,completeness_evaluation
+4834.03,65.66,0.00,6983.13,,,65.66,11817.15,,54.16,Explicit evaluator completion lines with nearest preceding token log.,128.37,metric_stage_summary,39,coverage_evaluation
+967.92,14.84,0.00,4934.53,,,14.84,5902.45,,14.31,Explicit evaluator completion lines with nearest preceding token log.,22.40,metric_stage_summary,49,general_evaluation
+2976.21,30.67,,6089.26,,,30.67,9065.47,anthropic.claude-sonnet-4-20250514-v1:0,30.18,Grouped by evaluator model from explicit completion lines.,41.02,metric_stage_model_summary,19,accuracy_evaluation
+7613.55,62.53,,4746.75,,,62.53,12360.30,gpt-5-2025-08-07,47.32,Grouped by evaluator model from explicit completion lines.,105.94,metric_stage_model_summary,20,accuracy_evaluation
+3642.58,55.18,,7197.68,,,55.18,10840.26,anthropic.claude-sonnet-4-20250514-v1:0,60.13,Grouped by evaluator model from explicit completion lines.,87.46,metric_stage_model_summary,19,completeness_evaluation
+7498.70,86.08,,6350.95,,,86.08,13849.65,gpt-5-2025-08-07,91.34,Grouped by evaluator model from explicit completion lines.,135.22,metric_stage_model_summary,20,completeness_evaluation
+2773.26,40.54,,7726.47,,,40.54,10499.74,anthropic.claude-sonnet-4-20250514-v1:0,46.97,Grouped by evaluator model from explicit completion lines.,61.01,metric_stage_model_summary,19,coverage_evaluation
+6791.75,89.53,,6276.95,,,89.53,13068.70,gpt-5-2025-08-07,92.78,Grouped by evaluator model from explicit completion lines.,146.93,metric_stage_model_summary,20,coverage_evaluation
+384.15,9.54,,5706.60,,,9.54,6090.75,anthropic.claude-sonnet-4-20250514-v1:0,9.63,Grouped by evaluator model from explicit completion lines.,11.89,metric_stage_model_summary,20,general_evaluation
+1370.52,18.51,,4402.07,,,18.51,5772.59,gpt-5-2025-08-07,19.69,Grouped by evaluator model from explicit completion lines.,23.63,metric_stage_model_summary,29,general_evaluation
+,,,,2.00,238.42,476.84,,,531.57,Explicit offline evaluation completion lines.,607.60,offline_eval_job_summary,19,offline_evaluation_job

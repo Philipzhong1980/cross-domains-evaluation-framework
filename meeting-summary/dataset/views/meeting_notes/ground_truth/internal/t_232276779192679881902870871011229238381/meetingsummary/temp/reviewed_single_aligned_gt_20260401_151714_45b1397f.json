@@ -1,0 +1,131 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "CPA gallery selection and scoring",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Process guidance clarified that blank CaFÉ scores are treated as null (not zero) and do not lower averages; members should use a score of \"1\" to reflect the lowest rating in future to ensure intended weighting.",
+              "source": "John Lang : if you left it blank, it does not actually lower the score... it's the average of however many people scored it... Jesse Cupp : Yeah, you should mark it as one next time if you want to give it the lowest possible score",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Toot Too Thomson",
+              "text": "Committee member clarified that blank scores were intended as zeros, not null values in evaluation system",
+              "source": "Toot Too Thomson : Because I only scored like maybe 11 or 12 artists I left majority of them blank",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Transit center grade separation art opportunities",
+          "points": [
+            {
+              "speaker": "Joy Houghton",
+              "text": "Currently about 104 trains cross Castro Street daily, with about one minute gate downtime per train. This is anticipated to rise with Caltrain electrification and could reach roughly 398 trains per day by 2040 with Caltrain and high-speed rail service.",
+              "source": "Joy Houghton : Currently, about 104 trains cross Castro Street... about a minute of gate downtime... anticipated to increase... anticipated to increase in 20, 40 to 398 trains trains per day",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Jim Lightbody",
+              "text": "Urban design guidelines aim to ensure undercrossings are safe, comfortable, and attractive. Art integration opportunities include tunnel walls, ceilings, and floors, lighting features, concourse treatments, railings, signage/wayfinding, and landscaping to create a strong sense of place.",
+              "source": "Jesse Cupp : we made sure that we provided sufficient budget and concepts that would support an undercrossing that would be safe... comfortable and... attractive... Joy Houghton : There are many opportunities... through Surface... Lighting, landscaping, signage and wayfinding... walls... flooring... ceiling... lighting",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Joy Houghton",
+              "text": "Engagement plan: a community update will be held in January to gather input on architectural elements. Staff will return to the VAC early next year with public art location recommendations and to initiate the artist call, then brief Council and select an artist in spring.",
+              "source": "Joy Houghton : meet with the community in January... seek input on architectural elements... return to the Visual Art Committee early next year... initiate the call for artists... After receiving input... go to Council... in spring staff will return to select an artist",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Jim Lightbody",
+              "text": "Design milestones may limit options as plans advance (targeting 65% design mid-year). The City will likely be responsible for maintaining the undercrossings; materials should be durable and graffiti-resistant. Staff will pursue cost sharing with Caltrain, though contributions are uncertain.",
+              "source": "Jim Lightbody : they're currently aiming for middle of the year to complete the 65% design... most likely this is going to be the city's responsibility to maintain this under crossing... Robert Gonzales : cost sharing is... high in our list of asks",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Future agenda topics and process improvements",
+          "points": [
+            {
+              "speaker": "Susi Merhar",
+              "text": "Committee member requested discussion on artist touchpoint strategies and call for artists process improvements",
+              "source": "Susi Merhar : I actually looked at my notes from last meeting and I think our discussion last time made it clear to me that maybe it would be good if we would",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Toot Too Thomson",
+              "text": "Committee member proposed future agenda item for call for young artists program to display student artwork",
+              "source": "Toot Too Thomson : I actually talked to my son's middle school art, art, art teacher",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Artist stipend policy discussion",
+          "points": [
+            {
+              "speaker": "Susi Merhar",
+              "text": "Committee member expressed preference for holistic approach to artist engagement rather than deciding stipend threshold in isolation",
+              "source": "Susi Merhar : I I feel like I'm a little bit uneasy to decide this personally, kind of in a vacuum",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Clifford Bryant",
+              "text": "Committee member advocated for default stipend approach above threshold with option to waive, noting improved quality from artist stipends",
+              "source": "Clifford Bryant : I would go with an idea that we are going to give a stipend in order to finalize the final design",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "John Lang",
+          "text": "Add a youth artists display program concept as a future VAC agenda topic for discussion.",
+          "source": "John Lang : yes, put that as a topic",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "Staff will coordinate with Public Works team on stipend timing and return with refined threshold policy incorporating $60,000 trigger for stipend discussion",
+          "source": "John Lang : So let me go back to the public works folks and just try and understand from a timing frame",
+          "from_gt": "gt2",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 10,
+      "kept": 9,
+      "modified": 1,
+      "dropped": 0,
+      "from_gt1_kept": 5,
+      "from_gt2_kept": 5
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:17:14.764230+00:00"
+  }
+}

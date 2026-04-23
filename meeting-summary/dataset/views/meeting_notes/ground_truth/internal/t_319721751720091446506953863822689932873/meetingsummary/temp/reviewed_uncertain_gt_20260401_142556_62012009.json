@@ -1,0 +1,132 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Attendance Policy Implementation",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "Applying Council Policy K-102, the commission used a general consensus process to record Commissioner Rakestraw's absence as excused due to personal illness for this meeting, consistent with the policy's list of qualifying reasons for excused absences.",
+              "source": "IdaRose Sylvester : …Commissioner Raystraw's absence, which is for personal illness, which is considered a qualified excuse to be defined as excused if the commissioners… are in agreement.",
+              "validation_note": "merged_conflict"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Staff clarified that the HRC's process for determining excused versus unexcused absences aligns with Council Policy K-102, uses a general consensus vote recorded in the minutes, and relies on the policy's specified reasons rather than commissioners' opinions; this process will be followed going forward.",
+              "source": "Laurel James : …this process was introduced to bring the HRC into alignment with Council policy K02… and define specific justifications for an excused versus an unexcused absence… it's not based on the Commission's opinion…",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will obtain and share the Brown Act training session length and scheduling details with commissioners.",
+          "source": "Laurel James : …I do not know the length of the training. But I will find that out for you, OK?",
+          "validation_note": "validated_unique"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will forward commissioners' feedback regarding the excused absence voting process to the City Clerk's Office.",
+          "source": "Laurel James : I will… give your feedback to the City Clerk's office.",
+          "validation_note": "validated_unique"
+        }
+      ]
+    },
+    "rejected_items": [
+      {
+        "id": "review_003",
+        "item_type": "point",
+        "original_point": {
+          "text": "Commissioner Rakestraw assigned to research NAMI and Parents Helping Parents as potential program partners for mental health initiative.",
+          "source": "Nirvana Nwokidu : And I think we Commissioner Direction was supposed to look into NAMI",
+          "speaker": "Nirvana Nwokidu"
+        },
+        "reason": "too_vague",
+        "explanation": "The source contains tentative language 'I think we Commissioner Direction was supposed to' which indicates uncertainty about the assignment. The transcript shows this was mentioned as something that 'was supposed to' happen but lacks clear commitment language or confirmation of an actual assignment."
+      },
+      {
+        "id": "review_006",
+        "item_type": "decision",
+        "original_point": {
+          "text": "Commissioner Rakestraw will research NAMI and Parents Helping Parents organizations as potential mental health program partners.",
+          "source": "Nirvana Nwokidu : And I think we Commissioner Direction was supposed to look into NAMI",
+          "assignee": "Commissioner Rakestraw"
+        },
+        "reason": "no_evidence",
+        "explanation": "The transcript does not contain clear commitment language for this decision. The source uses tentative language 'I think we Commissioner Direction was supposed to' which indicates past expectation rather than a firm decision made during this meeting. No explicit commitment from Commissioner Rakestraw is found in the transcript."
+      }
+    ],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Both points refer to the same person and event. 'Commissioner Raystraw' and 'Commissioner Rakestraw' are the same person based on context and similar phonetic spelling. The points describe the same absence classification process under the same policy.",
+        "transcript_evidence": [
+          "IdaRose Sylvester : As I understand it, Commissioner Rake Straw's absence is excused for the policy.",
+          "Laurel James : Sure, I think it's appropriate to say that the Commissioner is absent for a personal illness.",
+          "IdaRose Sylvester : …Commissioner Raystraw's absence, which is for personal illness, which is considered a qualified excuse to be defined as excused if the commissioners… are in agreement."
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "merge",
+        "reasoning": "Both points describe the same policy clarification about attendance procedures. GT1 provides more comprehensive details about the process while GT2 focuses on the alignment aspect. They complement each other and describe the same policy implementation.",
+        "transcript_evidence": [
+          "Laurel James : They want to clarify that this process was introduced to bring the HRC into alignment with Council policy K02 governing Council advisory bodies.",
+          "Laurel James : …this process was introduced to bring the HRC into alignment with Council policy K02… and define specific justifications for an excused versus an unexcused absence… it's not based on the Commission's opinion…"
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "exclude",
+        "reasoning": "The source contains tentative language indicating uncertainty rather than a firm assignment. The speaker uses 'I think we Commissioner Direction was supposed to' which suggests past expectation rather than current assignment.",
+        "transcript_evidence": [
+          "Nirvana Nwokidu : And I think we Commissioner Direction was supposed to look into NAMI."
+        ]
+      },
+      {
+        "id": "review_004",
+        "decision": "merge",
+        "reasoning": "These represent the same commitment by Laurel James. The transcript shows she committed to finding out training duration information, and the feedback to City Clerk's office is mentioned separately but both are valid commitments she made.",
+        "transcript_evidence": [
+          "Laurel James : I don't have that information at this time, but I can ask… I do not know the length of the training. But I will find that out for you, OK?",
+          "Laurel James : I will… give your feedback to the City Clerk's office."
+        ]
+      },
+      {
+        "id": "review_005",
+        "decision": "merge",
+        "reasoning": "This is a clear commitment made by Laurel James during the meeting in response to commissioners' concerns about the voting process.",
+        "transcript_evidence": [
+          "Laurel James : I will… give your feedback to the City Clerk's office."
+        ]
+      },
+      {
+        "id": "review_006",
+        "decision": "exclude",
+        "reasoning": "No clear decision or commitment language found in transcript. The source uses tentative past tense 'was supposed to' rather than firm commitment language. No explicit assignment confirmation from Commissioner Rakestraw.",
+        "transcript_evidence": [
+          "Nirvana Nwokidu : And I think we Commissioner Direction was supposed to look into NAMI."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 6,
+      "merged": 3,
+      "excluded": 2,
+      "modified": 1,
+      "confidence": "High confidence in validation decisions. Clear transcript evidence supports all merge decisions. Excluded items lack firm commitment language or contain tentative phrasing that doesn't meet decision criteria. Name variations (Raystraw/Rakestraw) confirmed as same person through context."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:25:56.701028+00:00"
+  }
+}

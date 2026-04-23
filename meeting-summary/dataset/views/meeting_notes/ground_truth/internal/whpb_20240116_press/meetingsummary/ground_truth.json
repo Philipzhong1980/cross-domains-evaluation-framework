@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20240116_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "OPERATOR",
+    "MS. JEAN-PIERRE",
+    "MR. KIRBY",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "White House Press Secretary Karine Jean Pierre provides",
+      "points": [
+        {
+          "text": "White House Press Secretary Karine Jean-Pierre provides updates on President Biden's upcoming meetings with congressional leaders to discuss national security and his visit to North Carolina to discuss infrastructure, job creation, and the positive impact of Bidenomics on the state.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby provides updates on President Biden's discussions",
+      "points": [
+        {
+          "text": "Admiral Kirby provides updates on President Biden's discussions with Chancellor Scholz of Germany, National Security Advisor Jake Sullivan's meetings with foreign leaders, ongoing efforts to release hostages held by Hamas, Israel's shift to a low-intensity phase in Gaza, and the focus on increasing humanitarian assistance and aid distribution in the region.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby provides updates on President Biden's discussions",
+      "points": [
+        {
+          "text": "Admiral Kirby provides updates on President Biden's discussions with Chancellor Scholz, National Security Advisor Jake Sullivan's meetings with foreign leaders, efforts to release hostages held by Hamas, Israel's shift to a low-intensity phase in Gaza, and the focus on increasing humanitarian assistance and aid distribution in the region.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The operators inquire about the progress on a",
+      "points": [
+        {
+          "text": "The operators inquire about the progress on a potential deal for Ukraine aid and immigration changes, while also asking Admiral Kirby about the state of the situation with the Houthis and whether there are plans for expanding efforts or using special forces.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby acknowledges smaller retaliatory strikes by the",
+      "points": [
+        {
+          "text": "Admiral Kirby acknowledges smaller retaliatory strikes by the Houthis but believes the previous strikes had a good effect in disrupting their military operations, and states that the US is not looking to expand the conflict but urges the Houthis to stop their reckless attacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby discusses ongoing discussions in Qatar regarding",
+      "points": [
+        {
+          "text": "Admiral Kirby discusses ongoing discussions in Qatar regarding the possibility of a new hostage deal and expresses hope that the Israeli Defense Forces' shift to lower-intensity operations in Gaza will allow for the movement back into North Gaza and alleviate pressure in the south.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby acknowledges that most of the missile",
+      "points": [
+        {
+          "text": "Admiral Kirby acknowledges that most of the missile and drone attacks in the Red Sea have been ineffective, resulting in little to no injuries or significant damage to merchant ships, partly due to the small crew sizes and the large size of these ships.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby explains that retaliatory strikes are still",
+      "points": [
+        {
+          "text": "Admiral Kirby explains that retaliatory strikes are still worth it because they believe that degrading the capabilities of the attackers can have an impact on the effectiveness of future strikes and they want the attacks to stop.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby explains that the US took action",
+      "points": [
+        {
+          "text": "Admiral Kirby explains that the US took action to degrade the capabilities of the Houthis after they continued to conduct attacks, and they are prepared to take further action if necessary.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Admiral Kirby states that",
+      "points": [
+        {
+          "text": "During a press briefing, Admiral Kirby states that there is no update on the FTO designation for the Houthis and he is not aware of any reported Iranian strikes in Pakistan, but promises to provide further information.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby explains that by degrading the capabilities",
+      "points": [
+        {
+          "text": "Admiral Kirby explains that by degrading the capabilities of the Houthis, the US is aiming to make it more difficult for them to conduct dangerous and escalatory attacks that have impacted merchant shipping in the Red Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby expresses concern over the recently signed",
+      "points": [
+        {
+          "text": "Admiral Kirby expresses concern over the recently signed memorandum of understanding between Ethiopia and Somaliland, stating that it threatens to disrupt the fight against al-Shabaab and could pose a direct national security threat to the region.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby confirms that the last U S",
+      "points": [
+        {
+          "text": "Admiral Kirby confirms that the last U.S. security assistance package for Ukraine was authorized on December 27th, with no current plans for another package, emphasizing the need for national security supplemental funding to support Ukraine's defense against ongoing Russian aggression.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby defers to the Pentagon for information",
+      "points": [
+        {
+          "text": "Admiral Kirby defers to the Pentagon for information on the battle damage assessment of the airstrikes against the Houthis, stating that while the strikes were designed to degrade their military capabilities, it was expected that the Houthis would still maintain some capability and retaliate in some form or fashion.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby states that there is no new",
+      "points": [
+        {
+          "text": "Admiral Kirby states that there is no new information on the six American hostages held by Hamas and emphasizes the ongoing efforts to secure their release while also addressing the conflict in the Red Sea and reiterating the U.S.'s interest in preventing its escalation.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby's discussion on the ongoing efforts to",
+      "points": [
+        {
+          "text": "Admiral Kirby's discussion on the ongoing efforts to secure the release of American hostages held by Hamas is followed by a mention of President Biden's meeting with congressional ranking members and leaders to discuss a supplemental request, including securing the border and supporting Ukraine against Putin's tyranny, while negotiations for a bipartisan agreement on the border are still ongoing.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter asks why President Biden has not",
+      "points": [
+        {
+          "text": "The reporter asks why President Biden has not invited congressional leaders and community leaders to the White House sooner and inquires about the focus and location of the upcoming meeting regarding negotiations and the stakes if funding is not approved, while also mentioning a different topic.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson criticizes Governor Abbott's actions at the",
+      "points": [
+        {
+          "text": "The spokesperson criticizes Governor Abbott's actions at the border, stating that they are extreme political stunts that demonize and dehumanize people, make the job of the Border Patrol harder, and pose dangers to both migrants and Border Patrol agents.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson states that the President is in",
+      "points": [
+        {
+          "text": "The spokesperson states that the President is in favor of significant alterations on the border and that bipartisan conversations are happening to address the broken immigration system.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson highlights the President's recent visit to",
+      "points": [
+        {
+          "text": "The spokesperson highlights the President's recent visit to a not-for-profit food bank in Philadelphia and emphasizes his focus on addressing food insecurity and ending hunger, while also prioritizing the needs of hardworking, middle-class families and bringing the country together.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson addresses the President's reaction to the",
+      "points": [
+        {
+          "text": "The spokesperson addresses the President's reaction to the Iowa caucuses and emphasizes his stance against conspiracy theories and the importance of acknowledging the legitimacy of the 2020 election while condemning the dangerous consequences of such theories.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Special Envoy John Kerry will be leaving the",
+      "points": [
+        {
+          "text": "Special Envoy John Kerry will be leaving the administration after three years of service, and the President appreciates his accomplishments in implementing an ambitious climate agenda, but there are no personnel announcements regarding his replacement at this time.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes that the President will stand",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes that the President will stand against personal revenge schemes, conspiracy theories, and dangerous policies while prioritizing the freedoms and well-being of Americans.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson confirms that President Biden is pleased",
+      "points": [
+        {
+          "text": "The spokesperson confirms that President Biden is pleased with Secretary Austin's discharge from the hospital and is looking forward to his return to the Pentagon, but there are no details on any planned meetings or conversations between them.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Karine Jean Pierre comments",
+      "points": [
+        {
+          "text": "During a press briefing, Karine Jean-Pierre comments on former President Trump's false claims about the January 6th insurrection and emphasizes President Biden's commitment to standing against conspiracy theories and protecting democracy.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Karine Jean Pierre condemns",
+      "points": [
+        {
+          "text": "During a press briefing, Karine Jean-Pierre condemns the false claims made by former President Trump about the January 6th insurrection and praises the brave journalists who risked their lives to expose the assault on democracy.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre criticizes Governor Abbott's actions as",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre criticizes Governor Abbott's actions as a political stunt and emphasizes the need for bipartisan collaboration and congressional funding to address the border situation and support cities and states dealing with migrants.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre emphasizes the need for bipartisan",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre emphasizes the need for bipartisan collaboration and congressional funding to address the border situation and support cities and states dealing with migrants, while criticizing Governor Abbott's actions as a political stunt.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre emphasizes the need for Texas",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre emphasizes the need for Texas to stop blocking Border Patrol access to the border and warns that if they don't, the matter will be referred to the Department of Justice for appropriate action.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre acknowledges the dangerous situation caused",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre acknowledges the dangerous situation caused by Governor Abbott's political stunts at the border, emphasizes the need to take legal action, and expresses concern about the swatting incident and its broader impact on society.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre concludes the briefing expressing gratitude",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre concludes the briefing, expressing gratitude and stating that they will reconvene tomorrow in the briefing room.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

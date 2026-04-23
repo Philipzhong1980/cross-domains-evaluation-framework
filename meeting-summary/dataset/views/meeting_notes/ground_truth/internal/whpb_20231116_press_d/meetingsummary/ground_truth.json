@@ -1,0 +1,258 @@
+{
+  "meeting_context": "White House press briefing imported from 20231116_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. REPOSA",
+    "MR. PYLE",
+    "Aamer",
+    "MR. KIRBY",
+    "Justin",
+    "Mary",
+    "David",
+    "Yasmeen",
+    "Deepa",
+    "M.J. Lee"
+  ],
+  "topics": [
+    {
+      "topic": "During APEC Leaders' Week President Biden will emphasize",
+      "points": [
+        {
+          "text": "During APEC Leaders' Week, President Biden will emphasize the United States' strong economic ties with APEC economies, highlighting the significant investments made by both US companies in other APEC economies and companies based in other APEC economies into the United States, as well as the robust trade and foreign direct investment between the US and APEC.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden will discuss building on the strong",
+      "points": [
+        {
+          "text": "President Biden will discuss building on the strong economic foundation to promote inclusive, sustainable, and resilient growth in the Asia-Pacific region, while emphasizing the importance of promoting workers' rights internationally.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden will lead the first APEC session",
+      "points": [
+        {
+          "text": "President Biden will lead the first APEC session focused on sustainability, climate change, and the energy transition, highlighting U.S. progress in combating climate change and calling on APEC economies to take collective action, while also demonstrating the administration's commitment to deepening economic engagement with the region through the Indo-Pacific Economic Framework.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary of Commerce Gina Raimondo and White House",
+      "points": [
+        {
+          "text": "Secretary of Commerce Gina Raimondo and White House Senior Advisor on Energy and Investment Amos Hochstein will co-host an investor forum to announce new investment opportunities in the Indo-Pacific, building on the work led through the Partnership for Global Infrastructure and Investment.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary of Commerce Gina Raimondo along with other",
+      "points": [
+        {
+          "text": "Secretary of Commerce Gina Raimondo, along with other officials, will announce new investment initiatives in the Indo-Pacific region, including a green transition credit fund and examples of job-creating investments in the United States by Asia-Pacific companies, while also emphasizing President Biden's commitment to workers' rights internationally.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President and his officials will be taking",
+      "points": [
+        {
+          "text": "The President and his officials will be taking historic steps to advance workers' rights around the world, highlighting this initiative as part of the United States' APEC host year and emphasizing the commitment to economic growth and high-quality jobs in the United States.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker is inviting questions from the audience",
+      "points": [
+        {
+          "text": "The speaker is inviting questions from the audience and the first question is directed to Aamer from the AP.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Aamer asks if the IPEF framework will become",
+      "points": [
+        {
+          "text": "Aamer asks if the IPEF framework will become the new normal for trade deals and questions if the President believes it is possible for Israel to reach zero risk from Hamas, while Mr. Pyle explains that issues like supply chain resilience, clean energy transition, corruption, and tax fairness are currently front of mind in discussions around the world and that progress is expected to be made in building a more inclusive and sustainable global economy through frameworks like the IPEF.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Mr Pyle highlights the ambitious and efficient outcomes",
+      "points": [
+        {
+          "text": "Mr. Pyle highlights the ambitious and efficient outcomes of the IPEF framework in addressing cutting-edge issues such as supply chains and clean energy, which aligns with the approach favored by President Biden and other global leaders in advancing economic discussions.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the ongoing threat posed by",
+      "points": [
+        {
+          "text": "The speaker discusses the ongoing threat posed by Hamas to Israel and emphasizes the effectiveness of military and other measures in diminishing the capabilities of terrorist groups like ISIS and al Qaeda.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the practical and meaningful impact",
+      "points": [
+        {
+          "text": "The speaker discusses the practical and meaningful impact of military measures on diminishing the capabilities of terrorist organizations like Hamas and emphasizes continued support for Israel in their efforts.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the progress made in the",
+      "points": [
+        {
+          "text": "The speaker discusses the progress made in the IPEF negotiations and emphasizes the importance of continued efforts and consultation with stakeholders, including the labor community, while acknowledging the significant achievements made so far.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the importance of protecting American",
+      "points": [
+        {
+          "text": "The speaker discusses the importance of protecting American troops and facilities from ongoing attacks, while acknowledging the need for communication channels with Iran through China to prevent further escalation.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the significance of safeguarding American",
+      "points": [
+        {
+          "text": "The speaker emphasizes the significance of safeguarding American troops and facilities from attacks while acknowledging the necessity of utilizing communication channels with Iran through China to prevent further escalation.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the positive outcomes of the",
+      "points": [
+        {
+          "text": "The speaker discusses the positive outcomes of the talks between the President and the Chinese leader, including progress on fentanyl and reopening military-to-military communications.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden made it clear to President Xi",
+      "points": [
+        {
+          "text": "President Biden made it clear to President Xi that the US seeks peace and stability in the Taiwan Strait, maintains its One China policy, supports self-defense capabilities for Taiwan, and wants to prevent any unilateral changes to the status quo. Additionally, China has agreed to crack down on the production and export of fentanyl precursor chemicals.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Xi expressed his personal commitment to preventing",
+      "points": [
+        {
+          "text": "President Xi expressed his personal commitment to preventing American deaths caused by fentanyl and hopes for practical progress in cracking down on its production and export.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Yasmeen asks for information on the U S",
+      "points": [
+        {
+          "text": "Yasmeen asks for information on the U.S.'s knowledge of how Hamas is using Al-Shifa Hospital and if the U.S. is pressuring Israel to expedite their raid or provide more evidence, as well as inquiring about President Xi's statement on China potentially sending more pandas to the United States.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson confirms that the US believes Hamas",
+      "points": [
+        {
+          "text": "The spokesperson confirms that the US believes Hamas is using Al-Shifa Hospital as a command-and-control node and storage facility, and supports Israel's military operations based on their own intelligence assessment.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Deepa from NPR asks for an update on",
+      "points": [
+        {
+          "text": "Deepa from NPR asks for an update on Brett McGurk's recent travel in the Middle East and Europe, including information on his destinations, meetings, current location, and any outcomes or deliverables from his meetings.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Brett McGurk has been traveling in the Middle",
+      "points": [
+        {
+          "text": "Brett McGurk has been traveling in the Middle East and Europe, meeting with NATO, allies, partners, and Israel to discuss support for the region, humanitarian assistance, progress of operations, security assistance, and ongoing negotiations to get hostages out.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "M J Lee asks if the administration believes",
+      "points": [
+        {
+          "text": "M.J. Lee asks if the administration believes it is safe for American businesses to invest with China, as President Xi is courting the American business community and claiming that China is open for business.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges ongoing strong trade and investment",
+      "points": [
+        {
+          "text": "The speaker acknowledges ongoing strong trade and investment flows between the United States and China, while expressing concern about specific areas that could compromise national security and emphasizing the importance of de-risking rather than decoupling the economies.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker affirms that their intelligence assessment indicates",
+      "points": [
+        {
+          "text": "The speaker affirms that their intelligence assessment indicates that Hamas is using Al-Shifa as a command-and-control center and storage facility for planning and executing terrorist attacks, potentially endangering the hospital staff and patients.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

@@ -1,0 +1,88 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Meeting Procedures and Roll Call",
+          "points": [
+            {
+              "speaker": "Lisa Matichak",
+              "text": "Meeting called to order at 3:34 PM with all committee members present via video conference during declared state of emergency.",
+              "source": "Lisa Matichak : So let's call the meeting to order at 3:34",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Public Comments on Advisory Body Issues",
+          "points": [
+            {
+              "speaker": "England",
+              "text": "England raised concerns about Advisory Body Handbook inconsistencies regarding non-resident membership requirements and requested path forward for previously raised issues.",
+              "source": "England : The one that is particularly interesting at the moment is the Advisory Body Handbook update, which has I I need to check that again, but last time I checked it had not been updated for the PSAB",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "England",
+              "text": "England identified residency requirement inconsistencies in Advisory Body Handbook, noting some committees allow one non-resident member while others are unclear.",
+              "source": "England : It's not consistent as far as whether members can be non residents or not. The Performing Arts committee, Senior advisory Committee and visual Arts Committee. Also, one member can be a non resident and none of the others say you know either way",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Form 700 Filing Requirements and Enforcement",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Ramirez emphasized importance of Form 700 compliance for identifying financial conflicts of interest, particularly when DRC members work with developers appearing before the commission.",
+              "source": "Lucas Ramirez : We have an architect who has worked with the developer, you know, on a routine matter and has accepted compensation from them. That's really important for us to know",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Kimbra McCarthy",
+              "text": "Form 700 filing requirements are mandated by state law regardless of city policy, with city attorney determining which boards and commissions must file.",
+              "source": "Kimbra McCarthy : It is set by by law and the city Attorney's office has advised specifically on which boards and commissions do need to be filing them",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Holiday Wishes",
+          "points": [
+            {
+              "speaker": "Kimberly Thomas",
+              "text": "Kimberly Thomas extended holiday greetings to committee members at meeting conclusion.",
+              "source": "Kimberly Thomas : Happy holidays",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 5,
+      "kept": 4,
+      "modified": 1,
+      "dropped": 0,
+      "from_gt1_kept": 0,
+      "from_gt2_kept": 5
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-30T03:18:37.406566+00:00"
+  }
+}

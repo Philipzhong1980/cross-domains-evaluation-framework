@@ -1,0 +1,149 @@
+{
+  "result": {
+    "meeting_context": "This is a Senior Advisory Committee meeting for 2023, focused on conducting roll call, approving minutes, electing new leadership, reviewing subcommittee updates, and discussing Senior Center activities and transportation services.",
+    "participants": [
+      "Ashley Bittle",
+      "Vicki Gilfix",
+      "Deanne Hui",
+      "Jim Nichols",
+      "Elna Tymes",
+      "Ish Sinha"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Administration and Leadership Election",
+        "points": [
+          {
+            "speaker": "Ashley Bittle",
+            "text": "Committee approved minutes from November 16th, 2022 meeting with unanimous vote.",
+            "source": "Ashley Bittle : Motion passes"
+          },
+          {
+            "speaker": "Vicki Gilfix",
+            "text": "Vicki nominated Deanne for chair position for 2023 calendar year.",
+            "source": "Vicki Gilfix : I nominate DM. For chair"
+          },
+          {
+            "speaker": "Elna Tymes",
+            "text": "Elna volunteered for vice chair position for 2023 calendar year.",
+            "source": "Elna Tymes : I'll volunteer to be VICE sure"
+          },
+          {
+            "speaker": "Ashley Bittle",
+            "text": "Committee unanimously elected Deanne as chair and Elna as vice chair for 2023.",
+            "source": "Ashley Bittle : Motion passes. Congratulations, Deanne"
+          }
+        ]
+      },
+      {
+        "topic": "Communications Subcommittee Update",
+        "points": [
+          {
+            "speaker": "Ish Sinha",
+            "text": "Community outreach revealed people know about Senior Center but want more information about services and programs.",
+            "source": "Ish Sinha : they say yes cleaning centre is there, we we know about it but we know we want to know more formation"
+          },
+          {
+            "speaker": "Ish Sinha",
+            "text": "Ish proposed friendly visitors program to address loneliness among seniors and younger residents from different countries.",
+            "source": "Ish Sinha : I wish we consider having this where this program in which volunteers can go communicate with them"
+          },
+          {
+            "speaker": "Ish Sinha",
+            "text": "Loneliness affects mental health and can lead to Alzheimer's, particularly impacting homebound seniors and young immigrants.",
+            "source": "Ish Sinha : Loneliness is one of the things it does affect people and can lead to Alzheimer"
+          }
+        ]
+      },
+      {
+        "topic": "Senior Survey Subcommittee Status",
+        "points": [
+          {
+            "speaker": "Elna Tymes",
+            "text": "Survey results are available but haven't been reviewed due to holidays, with board presentation expected later this month.",
+            "source": "Elna Tymes : they have results but in holidays that mean haven't the chance really to to look at the result"
+          },
+          {
+            "speaker": "Elna Tymes",
+            "text": "Survey includes Mountain View residents and results will be shared with committee members once board presentation is complete.",
+            "source": "Elna Tymes : I will e-mail a summary of justice as soon as I get them to members of our city"
+          }
+        ]
+      },
+      {
+        "topic": "Senior Center Programs and Activities",
+        "points": [
+          {
+            "speaker": "Ashley Bittle",
+            "text": "Elna conducted successful Alzheimer's workshop presentation at Senior Center in January.",
+            "source": "Ashley Bittle : Vice shared times, did a presentation at the Senior Center on Alzheimer's, which I heard was a very successful workshop"
+          },
+          {
+            "speaker": "Ashley Bittle",
+            "text": "California Telephone Access Program workshops resumed with Android training Thursday and iPhone training next Thursday, limited to 8-10 participants each.",
+            "source": "Ashley Bittle : So the Android one is this Thursday and then the iPhone one is next Thursday"
+          },
+          {
+            "speaker": "Ashley Bittle",
+            "text": "Pancake breakfast returning February 11th with tickets at $5 per person, already 40+ tickets sold.",
+            "source": "Ashley Bittle : Saturday February 11th, the Senior Center will be bringing back our pancake breakfast. We're already in the 40s"
+          },
+          {
+            "speaker": "Ashley Bittle",
+            "text": "Workshop attendance increased significantly with majority reaching double digits as people become more comfortable attending in-person events.",
+            "source": "Ashley Bittle : we're seeing the majority of our workshops in double digits. So happy to see those numbers increasing"
+          }
+        ]
+      },
+      {
+        "topic": "Transportation Services Discussion",
+        "points": [
+          {
+            "speaker": "Ashley Bittle",
+            "text": "Senior Center occasionally receives transportation inquiries and provides information about Google Shuttle, VTA, and other available options.",
+            "source": "Ashley Bittle : We do receive those questions occasionally, but we do to the age friendly task force completing the activity"
+          },
+          {
+            "speaker": "Jim Nichols",
+            "text": "Jim expressed concern about transportation organizations staying current with changing senior population demographics and neighborhood aging patterns.",
+            "source": "Jim Nichols : My my concern is that these organizations in the city are are keeping abreast of the movements of the seniors"
+          },
+          {
+            "speaker": "Elna Tymes",
+            "text": "Transportation appears in surveys across city groups, with Mountain View providing better senior transportation access than San Jose.",
+            "source": "Elna Tymes : In fact, we do our job of that than San Jose does"
+          }
+        ]
+      },
+      {
+        "topic": "Upcoming Events and Meeting Logistics",
+        "points": [
+          {
+            "speaker": "Elna Tymes",
+            "text": "Illinois Volo benefit concert scheduled February 18th at Computer History Museum, 6:30-9:30 PM, $100 tickets to benefit adult care center and senior groups.",
+            "source": "Elna Tymes : there will be a benefit dinner Plus concert featuring the wildly popular international singing group Illinois Volo on February 18th"
+          },
+          {
+            "speaker": "Ashley Bittle",
+            "text": "Next committee meeting scheduled February 15th at 2:00 PM in-person at Senior Center with no Zoom option.",
+            "source": "Ashley Bittle : February 15th, third Wednesday of the month, 2:00 PM Senior Center, no zoom"
+          }
+        ]
+      }
+    ],
+    "decisions": [],
+    "metadata": {
+      "topicCount": 6,
+      "pointCount": 18,
+      "decisionCount": 0
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:17:32.760047+00:00"
+  }
+}

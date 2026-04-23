@@ -1,0 +1,299 @@
+{
+  "meeting_context": "Public safety advisory board meeting covering administrative actions, a detailed Youth Services Unit (SRO) annual report for FY 2022\u201323, and an update on regional mental health crisis response (TRUST/MCRT/988). Board Q&A focused on vaping, data practices, school visit practices, training, and coordination with county/state systems.",
+  "participants": [
+    "Rampart",
+    "Unidentified 1",
+    "Unidentified 2",
+    "Schauer",
+    "Barovski",
+    "Chang",
+    "Ayer",
+    "Langton",
+    "Frank",
+    "Canfield",
+    "David Shen",
+    "Wahed Magee",
+    "Margaret Petros",
+    "Rampart2",
+    "Tim MacKenzie",
+    "Bruce England"
+  ],
+  "topics": [
+    {
+      "topic": "Meeting administration and minutes approval",
+      "points": [
+        {
+          "text": "Chair weighing was announced absent with a pre-notice and unexcused absence. The board proceeded with roll call for remaining members and moved to approval of prior meeting minutes.",
+          "source": "Rampart : Happily, Chair weighing is absent today with a pre notice and unexcused absence and then calling the role for Vice Chair, Tay Member, Ayer Member, Burdowski Member, Frank, member, Langton and member.",
+          "speaker": "Rampart",
+          "id": "t_001_p_001"
+        },
+        {
+          "text": "April 27 meeting minutes approved unanimously by all present board members",
+          "source": "Rampart : Motion carries.",
+          "speaker": "Rampart",
+          "id": "t_001_p_002"
+        },
+        {
+          "text": "The meeting adjourned at 9:00 PM after completing agenda items, including administrative actions, the YSU annual report discussion, and the mental health crisis response update.",
+          "source": "Unidentified 1 : We will now move on to the final item of tonight's agenda... This meeting is adjourned at 9:00 exactly PM.",
+          "speaker": "Unidentified 1",
+          "id": "t_001_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Youth Services Unit structure and values",
+      "points": [
+        {
+          "text": "Youth Services Unit staffing includes one sergeant (David Shen), three SROs (James Guevara, Thomas Lowe, Guillermo Delira), program coordinator Liz Mendez, and police assistants. Stated values are building trust, safe school community, restorative justice, and empowering youth, applied through school- and family-centered engagement.",
+          "source": "David Shen : So again, it's one Sergeant myself, three SRO's... We also have an excellent program coordinator, Liz Mendez. And then we're also assisted by a group of police assistants... values are... building trust, safe school community, restorative justice and empowering youth.",
+          "speaker": "David Shen",
+          "id": "t_002_p_001"
+        },
+        {
+          "text": "David Shen introduced himself as new Youth Services Unit Sergeant, replacing Scott Thomas in March, overseeing unit with three SROs and program coordinator Liz Mendez",
+          "source": "David Shen : Just to introduce myself real quick. My name is David Shen. I'm a Sergeant for the Youth Services unit, so if you knew Scott Thomas, I am the new Scott Thomas",
+          "speaker": "David Shen",
+          "id": "t_002_p_002"
+        },
+        {
+          "text": "Unit's primary goal is reducing referrals to criminal justice system by looking beyond immediate arrests and citations to address root problems through relationships and programming",
+          "source": "David Shen : And one of our greatest goals within the Youth Services unit is we want to reduce our referrals to the criminal justice system.",
+          "speaker": "David Shen",
+          "id": "t_002_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Annual program outcomes and statistics",
+      "points": [
+        {
+          "text": "For 2022\u201323, the unit led 264 sessions reaching about 2,000 participants, handled 113 SRO-assisted incidents (resulting in two custodial arrests and one juvenile contact report), conducted 61 home visits (27 truancy, 15 support, 16 wellness, 3 intervention), and seized roughly 200 vaping devices across schools.",
+          "source": "David Shen : In totality, we've done 264 sessions... approximately 2000... 113 SRO... resulting in two custodial arrests and one JCR... We conducted a total of 61 home visits, 27... 15... 16... three... Approximately... 200 vaping devices seized.",
+          "speaker": "David Shen",
+          "id": "t_003_p_001"
+        },
+        {
+          "text": "SROs completed about 154 hours of training spanning school safety, active-shooter preparedness, harm-reduction education (Stanford REACH/Tobacco Toolkit), youth-specific de\u2011escalation, 40\u2011hour crisis intervention training, and internet crimes against children (parent education on online safety). Partnerships include Stanford REACH, neurodiversity outreach, Challenge Team, and Safe Routes to Schools.",
+          "source": "David Shen : In totality for that school year they've completed upwards of 154 hours of SRO training... school safety symposium... active shooter training... Stanford Cannabis Conference and Tobacco Toolkit... DE escalation for SROs... Crisis intervention training... Silicon Valley ICAC ... Vigilant parent initiative... partnered with Stanford Reach Labs... neurodiverse community... Challenge Team... Safe Routes to Schools.",
+          "speaker": "David Shen",
+          "id": "t_003_p_002"
+        },
+        {
+          "text": "There were 280 school visits: ~50% for YSU programs, 37% school-initiated requests, 10% administrative meetings, and 2% each for dispatched calls, incident follow\u2011ups, and proactive visits. Proactive visits were underreported; actual elementary school drop\u2011ins likely exceeded the 10 recorded.",
+          "source": "David Shen : As we talk about our 280 school visits... 50% are YSU programming, 37% are school initiated, 10%... 2%... 2%... 2%... This number may be a little bit larger... under reported by our system.",
+          "speaker": "David Shen",
+          "id": "t_003_p_003"
+        },
+        {
+          "text": "Three arrests were detailed: a 15\u2011year\u2011old cited (JCR) for 7.7g cannabis with a vape pen after repeated incidents; a 17\u2011year\u2011old custodially arrested for attempted murder (stabbing); and an 18\u2011year\u2011old arrested for possessing a spring\u2011loaded dagger on campus. Arrests comprised about 3% of 113 incidents.",
+          "source": "David Shen : ... three arrests... possession of cannabis... 7.7 grams... JCR was issued... attempted murder... 17... custodial arrest... possession of a dagger... 18... physical arrest... three arrests made-up 3% of the incidents... out of a total of 113.",
+          "speaker": "David Shen",
+          "id": "t_003_p_004"
+        }
+      ]
+    },
+    {
+      "topic": "Dreams and Futures program success",
+      "points": [
+        {
+          "text": "Dreams and Futures summer program served 128 participants with 40 counselors, of which 24 were past program participants demonstrating program's lasting impact",
+          "source": "David Shen : Dreams and Futures... 128 participants... 40 counsellors... 24... PAL mentoring... 54 sessions... about 38 participants... ROAR Mentoring... 30 participants... Vaping education... about 8 presentations to 350 attendees... run high defend training... 15 presentations... PAL Boxing... approximately 54 sessions with approximately 30 participants... over 1000 participants... winter clothing needs.",
+          "speaker": "David Shen",
+          "id": "t_004_p_001"
+        },
+        {
+          "text": "Unit launched new ROAR mentoring program at Graham Middle School with 30 participants, using exemplary students as mentors for at-risk youth",
+          "source": "David Shen : Roar Mentoring, which again is a pelmentary program that we've actually rolled out to our at Graham Middle School in the first year for the last school year for 2020, 2023.",
+          "speaker": "David Shen",
+          "id": "t_004_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Mental health crisis response coordination",
+      "points": [
+        {
+          "text": "The subcommittee met with North County TRUST leadership to discuss implementation status, data collection constraints, and coordination with MCRT and 988. TRUST Director Bindu will provide a fuller update at the October PSAB meeting, and direct updates from TRUST will occur twice per year thereafter.",
+          "source": "Unidentified 1 : ...met to discuss our scope... Director of North County Trust... attended... Bindu will be making a guest appearance at our next PCOP meeting in October... We will have updates from trust, directly from trust twice a year...",
+          "speaker": "Unidentified 1",
+          "id": "t_005_p_001"
+        },
+        {
+          "text": "MVPD and tri\u2011city partners aim to divert eligible non\u2011violent mental health 911 calls to the county's 988 center, which can dispatch TRUST/MCRT. Integration is paused pending state upgrades, as 988 currently only receives caller area codes and cannot directly transfer to 911. State guidance and funding mechanisms are forthcoming.",
+          "source": "Canfield : ...department is interested in... divert potential 911 mental health calls... utilize... 988... Currently the center does not operate like a Police Department dispatch center... only information that 988 receives is the area code... we're pausing... the state is upgrading the systems... guidelines coming out from the state... funding mechanisms.",
+          "speaker": "Canfield",
+          "id": "t_005_p_002"
+        },
+        {
+          "text": "City staff hold regular meetings with Santa Clara County on 988/TRUST, and the city has supported TRUST's growth, including securing federal earmark funding. If state timelines are prolonged, MVPD remains motivated to continue regional partnerships to implement sustainable diversion processes.",
+          "source": "Rampart : ...we as a city have been so engaged around supporting alternative mental health crisis response programs... federal earmark funding that we got to enhance the trust program... county really sees Mountain View stepping up... Canfield : ...if this becomes a longer drawn out... we are absolutely motivated to partner and continue moving forward.",
+          "speaker": "Rampart",
+          "id": "t_005_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Public comment on gun violence case",
+      "points": [
+        {
+          "text": "A nonprofit leader commended MVPD's investigation of a September 15, 2021 Rengstorff Park shooting but criticized the 90\u2013120 day sentence as lenient and raised concerns that victim and witness names were public. She urged stronger accountability for illegal gun use and attention to community safety.",
+          "source": "Margaret Petros : ...case... Reng Strove Park... September 15th, 2021... a gun was used... police... quickly make an arrest... conclusion is 90 to 120 days jail time... how is it that such a light sentence can happen?... names of some victims and the witnesses are public records.",
+          "speaker": "Margaret Petros",
+          "id": "t_006_p_001"
+        },
+        {
+          "text": "Mountain View Police Department performed excellent work making quick arrest and retrieving the gun using smart tactic of claiming they found suspect's lost dog",
+          "source": "Margaret Petros : I think, we think the Mountain View Police Department did an excellent job. They were there. There were many officers who worked hard to very quickly make an arrest and they lured the suspect in by saying they found the lost dog that the family had.",
+          "speaker": "Margaret Petros",
+          "id": "t_006_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Board administrative matters",
+      "points": [
+        {
+          "text": "City Council is scheduled to adopt advisory body work plans on September 12. At the October PSAB meeting, members will be appointed to subcommittees and formal subcommittee names will be clarified in the staff report to address public confusion about committee titles and scopes.",
+          "source": "Rampart : ...City Council adopts the work plans... September 12th, we will have at our October meeting the opportunity to appoint members to subcommittees... That would be a perfect time... to be clear about the names of all the subcommittees.",
+          "speaker": "Rampart",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Arrest details and restorative justice",
+      "points": [
+        {
+          "text": "Unit practices restorative justice by counseling youth to understand impact of actions and referring them to optional programming rather than immediate arrests or citations",
+          "source": "David Shen : We go in with the mindset of if a youth does something, let's say for instance gets in a fight right, we want to make sure we go in with the counseling mindset to help the youth understand what they did",
+          "speaker": "David Shen",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Vaping and substance abuse prevention",
+      "points": [
+        {
+          "text": "Unit partnered with Stanford Reach Lab to develop harm reduction curriculum for cannabis and nicotine use, moving beyond traditional DARE approach",
+          "source": "David Shen : So we've partnered with them to have continuing conversations in regards to youth substance abuse, specifically surrounding the new and trending issue of nicotine or cannabis use",
+          "speaker": "David Shen",
+          "id": "t_009_p_001"
+        },
+        {
+          "text": "Narcan is available in all schools from elementary through high school, with SRO program proactively securing supplies during county-wide shortage",
+          "source": "Canfield : So just to add to that, it was the SRR program that initiated proactively getting Narcan into the schools. And so that's from the high school, middle school into the elementary school especially during a shortage county wide.",
+          "speaker": "Canfield",
+          "id": "t_009_p_002"
+        },
+        {
+          "text": "Unit conducted 8 vaping education presentations to 350 attendees across middle and elementary schools addressing nationwide trend",
+          "source": "David Shen : Vaping education. We did a total of approximately about 8 presentations to 350 attendees across our middle school and elementary schools.",
+          "speaker": "David Shen",
+          "id": "t_009_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Data collection improvements and future goals",
+      "points": [
+        {
+          "text": "SROs began trauma-informed practices training in collaboration with Mountain View High School to access teacher training methods",
+          "source": "David Shen : So we've actually collaborated with our local high school, Mountain View High, so our SRO's can actually get access to some of the training that that the teachers use.",
+          "speaker": "David Shen",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Community partnerships and outreach",
+      "points": [
+        {
+          "text": "Unit partnered with Prognia organization to facilitate comfortable interactions between law enforcement and neurodiverse community members through interactive demonstrations",
+          "source": "David Shen : We've done events with prognia Scroll down a little bit here, which is an organization that helps the newer diverse community interact comfortably with members of law enforcement.",
+          "speaker": "David Shen",
+          "id": "t_011_p_001"
+        },
+        {
+          "text": "SROs regularly attend monthly Challenge Team meetings to listen to school and community input, with recent panel featuring student perspectives on current stressors",
+          "source": "David Shen : This last challenge team meeting was especially eye opening because it had a panel of Mount View, Los Altos High students come and really talk about what their current stressors are",
+          "speaker": "David Shen",
+          "id": "t_011_p_002"
+        },
+        {
+          "text": "Unit partnered with Safe Routes to Schools for bike safety presentations and provided essential bike helmets to families and youth in need",
+          "source": "David Shen : So we've partnered with them to provide bike safety and enforcement presentations and at the same time we've also been able to provide essential bike helmets to those families and those youths in need.",
+          "speaker": "David Shen",
+          "id": "t_011_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Program expansion and staffing considerations",
+      "points": [
+        {
+          "text": "Chief Canfield indicated no immediate need for additional SRO positions but suggested developing internal collateral assignment program to train future SROs",
+          "source": "Canfield : I feel like now a more realistic approach that would get us kind of not just more bang for our buck with people, you know SRO's, but future SRO's being developed is to look at developing an internal program",
+          "speaker": "Canfield",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Vaping Device Disposal",
+      "points": [
+        {
+          "text": "Of roughly 200 seized vaping devices, approximately 50 were donated to Stanford for research; the remainder were kept as evidence per MVPD protocols and subsequently destroyed if not needed",
+          "source": "Unidentified 2 : We talked about the vaping devices and you said 50th of the 200 were donated to Stanford... What happened to the other hundred and fifty... Canfield : Subsequently destroyed once we're done if they're not needed for a case.",
+          "speaker": "Unidentified 2",
+          "id": "t_013_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "text": "Bindu will attend the October PSAB meeting to provide a detailed TRUST program update.",
+      "source": "Unidentified 1 : ...Bindu will be making a guest appearance at our next PCOP meeting in October to give you more details...",
+      "assignee": "Bindu (North County TRUST Director)",
+      "id": "d_001"
+    },
+    {
+      "text": "Provide direct program updates to PSAB twice per year going forward.",
+      "source": "Unidentified 1 : We will have updates from trust, directly from trust twice a year...",
+      "assignee": "North County TRUST program",
+      "id": "d_002"
+    },
+    {
+      "text": "Appoint subcommittee members and clarify formal subcommittee names at the October meeting following Council's work plan adoption.",
+      "source": "Rampart : ...we will have at our October meeting the opportunity to appoint members to subcommittees... be clear about the names of all the subcommittees.",
+      "assignee": "PSAB",
+      "id": "d_003"
+    },
+    {
+      "text": "Unit will implement improved data collection and outcome reporting system including automatic classification of visits and better tracking of seized items",
+      "source": "David Shen : But also one of our main things is we want to improve our data collection and outcome reporting",
+      "assignee": "Youth Services Unit",
+      "id": "d_004"
+    },
+    {
+      "text": "Unit will establish formal quarterly meetings with schools and regular surveys to gather collaborative feedback for program improvement",
+      "source": "David Shen : When we talk about things like the more formal quarterly meetings with our schools and our school administrators with the surveys that we want to push out",
+      "assignee": "Youth Services Unit",
+      "id": "d_005"
+    },
+    {
+      "text": "Staff will clearly name all subcommittees in work plan report during October meeting subcommittee appointments",
+      "source": "Rampart : And that would be a perfect time to, in that report, to be clear about the names of all the subcommittees.",
+      "assignee": "PSAB Staff",
+      "id": "d_006"
+    }
+  ],
+  "metadata": {
+    "topicCount": 13,
+    "pointCount": 28,
+    "decisionCount": 6
+  }
+}

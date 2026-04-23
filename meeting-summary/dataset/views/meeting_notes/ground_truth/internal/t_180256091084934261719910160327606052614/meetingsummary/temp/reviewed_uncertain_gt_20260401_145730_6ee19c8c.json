@@ -1,0 +1,175 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Paseo Entry Design",
+          "points": [
+            {
+              "speaker": "Tom Jess",
+              "text": "Tom Jess agreed to soften the primary paseo entry by widening and shallowing stairs with landings and downplaying the secondary entry, clarifying public hierarchy. They acknowledged the feedback and will study placement to support a more welcoming, pedestrian-oriented frontage.",
+              "source": "Tom Jess : maybe widen this area and shallow the stairs up so that it's a couple stairs... this is clearly inviting and this side's a little bit downplayed so that there's a clear hierarchy.",
+              "validation_note": "validated_unique"
+            },
+            {
+              "speaker": "Linda Pomancini",
+              "text": "Recommendation to push stairs and ramps further back to create significant landing area that feels part of Ellis sidewalk rather than private space",
+              "source": "Linda Pomancini : So maybe there's a way to push those elements back further so that as you come in, you have a significant, what I'll call landing area.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Hotel Massing and Street Wall Design",
+          "points": [
+            {
+              "speaker": "Tom Jess",
+              "text": "The architect agreed to consolidate the street wall plane, simplify colors, adjust window groupings to reserve strong verticality for the corner tower, and explore additional detailing at the recessed patio and café entrance to add interest without fragmenting the overall massing.",
+              "source": "Tom Jess : simplifying the massing... leave [vertical windows] to the tower... simplify the colors... we have the recessed patio... café entrance... add some interest... simplifying the massing... like the diagram does draw your eye more towards here.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Office Building Design Intent",
+          "points": [
+            {
+              "speaker": "Tom Jess",
+              "text": "Design intent was to give office building visual weight through strong statement so it wouldn't get lost relative to hotel scale",
+              "source": "Tom Jess : In order to give it some visual weight, we've had to, we tried to make a big strong statement on that one so that it wouldn't get lost relative to the scale, just the scale of the hotel.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Landscape Improvements",
+          "points": [
+            {
+              "speaker": "Rebecca Shapiro",
+              "text": "Recommendation to work with landscape team to intersperse taller trees along highway frontage where appropriate, beyond smaller ironwood trees",
+              "source": "Rebecca Shapiro : I I would encourage as a a final recommendation for you for you to to work with your landscape team to see if like even in just like a few few appropriate locations along that stretch you might be able to find and and intersperse a tree that's a bit taller",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Tom Jess/Design Team",
+          "text": "Team will study hotel street wall simplification options while maintaining building base breaks to let key corner stand out",
+          "source": "Rebecca Shapiro : And So what we want you to study is sort of ways to you know still give a well defined particularly building base that has those breaks and recesses that we desire",
+          "validation_note": "merged_conflict"
+        },
+        {
+          "assignee": "Tom Jess/Design Team",
+          "text": "Team will make office building lobby entrance more prominent while maintaining strong visual statement for building presence",
+          "source": "Tom Jess : But I mean we could make that statement and still make the the lobby entrance more prominent. We can certainly do that.",
+          "validation_note": "merged_conflict"
+        }
+      ]
+    },
+    "rejected_items": [
+      {
+        "id": "review_001",
+        "item_type": "decision",
+        "original_point": {
+          "text": "Simplify hotel street-wall massing and window groupings to emphasize the key corner tower and reduce vertical segmentation, and strengthen the tower-to-lobby connection (e.g., lowering the awning).",
+          "source": "Russell Sherman : the eye wants to do that... breaking this vertically... makes the eye do the opposite... bring the awning down... Tom Jess : simplifying the massing... adjust window grouping.",
+          "assignee": "Eris Studio Architects"
+        },
+        "reason": "no_evidence",
+        "explanation": "The transcript shows no evidence of Eris Studio Architects being assigned this task. While Russell Sherman and Tom Jess discuss the design concepts, there is no explicit assignment to Eris Studio Architects. The actual assignment is to Tom Jess/Design Team as confirmed by Rebecca Shapiro's directive to 'study' these options."
+      },
+      {
+        "id": "review_002",
+        "item_type": "decision",
+        "original_point": {
+          "text": "Enhance the office building's lobby entry prominence and enrich the Ellis base with materials/landscape so the base aligns with the massing diagram and engages pedestrians.",
+          "source": "Russell Sherman : the framed element is the prominent piece... the entry should be the focal point... Rebecca Shapiro : make the ground plane feel a little bit more special.",
+          "assignee": "Eris Studio Architects"
+        },
+        "reason": "no_evidence",
+        "explanation": "Similar to review_001, there is no transcript evidence showing Eris Studio Architects being assigned this task. Tom Jess explicitly commits to making the lobby entrance more prominent, indicating the assignment is to Tom Jess/Design Team, not Eris Studio Architects."
+      }
+    ],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "exclude",
+        "reasoning": "The transcript shows no evidence of Eris Studio Architects being assigned this task. While the design concepts are discussed by Russell Sherman and Tom Jess, Rebecca Shapiro directs the team to 'study' these options, indicating assignment to Tom Jess/Design Team.",
+        "transcript_evidence": [
+          "Rebecca Shapiro : And So what we want you to study is sort of ways to you know still give a well defined particularly building base that has those breaks and recesses that we desire"
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "exclude",
+        "reasoning": "No transcript evidence shows Eris Studio Architects being assigned this task. Tom Jess explicitly commits to the work, confirming assignment to Tom Jess/Design Team.",
+        "transcript_evidence": [
+          "Tom Jess : But I mean we could make that statement and still make the the lobby entrance more prominent. We can certainly do that."
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "merge",
+        "reasoning": "Tom Jess provides this exact response about widening the area and shallowing stairs with landings. The transcript confirms he acknowledges feedback and proposes specific solutions for creating hierarchy.",
+        "transcript_evidence": [
+          "Tom Jess : maybe widen this area and shallow the stairs up so that it's a couple stairs, a little bit of a landing, a couple stairs, a little bit of a landing",
+          "Tom Jess : So it's a little bit more gradual and less intimidating",
+          "Tom Jess : this is clearly inviting and this side's a little bit downplayed so that there's a clear hierarchy"
+        ]
+      },
+      {
+        "id": "review_004",
+        "decision": "merge",
+        "reasoning": "Tom Jess provides this detailed response about consolidating street wall plane and simplifying colors. The transcript shows he discusses these specific elements in response to feedback.",
+        "transcript_evidence": [
+          "Tom Jess : simplifying the massing... leave [vertical windows] to the tower... simplify the colors",
+          "Tom Jess : we have the recessed patio... café entrance... add some interest",
+          "Tom Jess : simplifying the massing... like the diagram does draw your eye more towards here"
+        ]
+      },
+      {
+        "id": "review_005",
+        "decision": "merge",
+        "reasoning": "Linda Pomancini makes this specific recommendation about pushing stairs and ramps back to create a landing area that feels part of Ellis sidewalk.",
+        "transcript_evidence": [
+          "Linda Pomancini : So maybe there's a way to push those elements back further so that as you come in, you have a significant, what I'll call landing area",
+          "Linda Pomancini : So it feels part more part of the sidewalk along Ellis then it feels like this private space that belongs to the buildings"
+        ]
+      },
+      {
+        "id": "review_006",
+        "decision": "merge",
+        "reasoning": "Tom Jess explains this exact design intent about giving the office building visual weight relative to hotel scale. The transcript confirms this explanation.",
+        "transcript_evidence": [
+          "Tom Jess : In order to give it some visual weight, we've had to, we tried to make a big strong statement on that one so that it wouldn't get lost relative to the scale, just the scale of the hotel"
+        ]
+      },
+      {
+        "id": "review_007",
+        "decision": "merge",
+        "reasoning": "Rebecca Shapiro makes this specific recommendation about interspersing taller trees along the highway frontage beyond smaller ironwood trees.",
+        "transcript_evidence": [
+          "Rebecca Shapiro : I I would encourage as a a final recommendation for you for you to to work with your landscape team to see if like even in just like a few few appropriate locations along that stretch you might be able to find and and intersperse a tree that's a bit taller",
+          "Rebecca Shapiro : I think it's a an ironwood that you're you're showing there"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 7,
+      "merged": 5,
+      "excluded": 2,
+      "modified": 0,
+      "confidence": "High confidence in validation results. All decisions are well-supported by clear transcript evidence. The two excluded items lack any evidence of Eris Studio Architects being assigned tasks, while the five merged items have direct transcript quotes confirming the statements and recommendations."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:57:30.207820+00:00"
+  }
+}

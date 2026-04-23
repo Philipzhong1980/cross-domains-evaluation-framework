@@ -1,0 +1,170 @@
+{
+  "result": {
+    "meeting_context": "This is a Mountain View City Council meeting from January 10, 2023, featuring the first in-person meeting in almost three years due to COVID-19. The meeting included recognition of outgoing Council Member Sally Lieber, outgoing Mayor Lucas Ramirez, and the election of new Mayor Alison Hicks and Vice Mayor Pat Showalter.",
+    "participants": [
+      "Lucas Ramirez",
+      "Heather Glaser",
+      "Alison Hicks",
+      "Ellen Kamei",
+      "Pat Showalter",
+      "Margaret Abe-Koga",
+      "Lisa Matichak",
+      "Sally Lieber",
+      "Joe Simitian",
+      "Meghan Fraley",
+      "Alex Brown",
+      "Thida Cornes",
+      "Anna Eshoo",
+      "Patrick Ahrens",
+      "Maria Marroquin",
+      "Jessica",
+      "Harumo"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Format and Procedures",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "City Council held its first in-person meeting in almost three years, implementing new hybrid format with virtual participation options.",
+            "source": "Lucas Ramirez : Before we begin, I want to welcome members of the public and city staff to the to the council. Chambers tonight and acknowledge that this is our first in person meeting in the chambers in almost three years."
+          },
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "New procedures require blue speaker cards for in-person comments and audio/video presentations must be submitted to city clerk by 4:30 PM on meeting date.",
+            "source": "Lucas Ramirez : For those joining us in person, Please note that due to our hybrid environment, audio and video presentations can no longer be shared from the lectern requests to show an audio or video. Presentation during a council meeting should be directed to city.clerk@mountainview.gov by 4:30 PM on the meeting date."
+          }
+        ]
+      },
+      {
+        "topic": "Sally Lieber Recognition and Departure",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Sally Lieber was elected to California Board of Equalization in November 2022 with her last day on City Council being December 30, 2022.",
+            "source": "Lucas Ramirez : Sally was elected to the California Board of Equalization in November 2022, and her last day with the City Council was December 30th, 2022."
+          },
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "During Lieber's tenure, 2479 net new housing units were approved including 654 affordable units, and 4978 total housing units were built including 559 affordable units.",
+            "source": "Lucas Ramirez : And whereas while Council Member Lieber served on the City Council 2479 net, sorry, new housing units were approved, including 654 affordable units Approved, 4978 total housing units were built, including 559 affordable units built."
+          },
+          {
+            "speaker": "Pat Showalter",
+            "text": "Showalter thanked Lieber for decade-long environmental leadership, specifically bringing San Francisco Bay Restoration Authority legislation to state legislature.",
+            "source": "Pat Showalter : But I also really just want to thank you for your decade long leadership on environmental issues, particularly with respect to the restoration of San Francisco Bay. Sally was the legislator who brought the San Francisco Restoration Authority legislation to the state legislature and had it passed."
+          }
+        ]
+      },
+      {
+        "topic": "Housing Development Achievements",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Gateway Master Plan in North Bayshore was approved allowing up to 2800 units, and Google Middlefield Park Master Plan was approved allowing up to 1900 housing units including 338 affordable units.",
+            "source": "Lucas Ramirez : The Gateway Master Plan in N Bayshore was approved which allows up to 2800 units. The Google Master. The Google Middlefield Park Master Plan was approved allowing up to 1900 housing units including 338 affordable housing units."
+          },
+          {
+            "speaker": "Alison Hicks",
+            "text": "During Mayor Ramirez's tenure in 2022, 914 new housing units were approved including 350 affordable units, and Google Middlefield Park Master Plan was approved.",
+            "source": "Alison Hicks : And whereas while serving as Mayor in twenty 22914 new housing units were approved, including 350 affordable units, the Google Middlefield Park Master Plan was approved allowing up to 1900 housing units, including including 338 affordable units."
+          }
+        ]
+      },
+      {
+        "topic": "Federal Funding and Infrastructure",
+        "points": [
+          {
+            "speaker": "Anna Eshoo",
+            "text": "Congresswoman Eshoo secured $15.6 million for Mountain View through American Rescue Plan, plus $750,000 for Crestview Hotel conversion and $2.5 million for pedestrian undercrossing at Evelyn and Bernardo avenues.",
+            "source": "Anna Eshoo : I'm so proud to have secured $15.6 million for Mountain View through the American Rescue Plan, along with funding for two critical community projects. In the omnibus bill that was signed into law last month, we worked together to secure $750,000 to acquire, rehabilitate and convert the Crestview Hotel into permanent supportive housing."
+          },
+          {
+            "speaker": "Alison Hicks",
+            "text": "City received Development Excellence in North America Award from Urban Land Institute for Life Moves Mountain View, providing support services and housing for up to 124 people experiencing homelessness.",
+            "source": "Alison Hicks : And whereas during Mayor Ramirez tenure, the city received the prestigious Development Excellence in North America Award from the Urban Land Institute in recognition of life moves, Mountain View, which provides support services and housing for up to 124 people experiencing homelessness."
+          }
+        ]
+      },
+      {
+        "topic": "Closed Session Legal Actions",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "City Council denied liability claim by Paul Mansorian seeking $450,000 for alleged Fourth Amendment violation during DUI arrest by Sergeant Scott Thomas.",
+            "source": "Lucas Ramirez : Mr. Mansorian's claim seeks $450,000 in damages based on the alleged violation of his Fourth Amendment right to be free from unlawful seizure when Sergeant Thomas took him into custody for driving under the influence of alcohol. Council voted with six ayes, 0 Nos and 0 abstentions to deny the claim."
+          },
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "City Council denied liability claim by Vijay Kumar seeking millions in damages due to US Post Office incorrectly forwarding his mail to Florida address.",
+            "source": "Lucas Ramirez : Mr. Kumar submitted a claim to the city of Mountain View seeking millions of dollars in damages because the United States Post Office incorrectly forwarded his mail to an individual named Vja Kumar at an address in Florida. Council voted with six ayes, 0 Nos and 0 abstentions to deny that claim."
+          }
+        ]
+      },
+      {
+        "topic": "Leadership Elections and Transitions",
+        "points": [
+          {
+            "speaker": "Ellen Kamei",
+            "text": "Kamei nominated Alison Hicks for mayor, citing her decades of residence, city planning background, and advocacy for Castro Pedestrian Mall, safe parking, and affordable housing.",
+            "source": "Ellen Kamei : It's an honor and pleasure for me to nominate Vice Mayor Allison Hicks to be the next mayor of the city of Mountain View. Vice Mayor Hicks has lived in our city for decades and brings her perspective as a former city planner."
+          },
+          {
+            "speaker": "Margaret Abe-Koga",
+            "text": "Abe-Koga nominated Pat Showalter for vice mayor, highlighting her nine years as Environmental Planning Commissioner, previous mayoral service, and civil engineering expertise in water issues.",
+            "source": "Margaret Abe-Koga : It's with great pleasure that I nominate Council member Pat Showalter for Vice Mayor. Pat is a longtime resident of Mountain View, which she says has been her home for most of her adult life, and she serves a community in many capacities."
+          },
+          {
+            "speaker": "Heather Glaser",
+            "text": "Both mayoral and vice mayoral elections passed unanimously with all council members voting yes.",
+            "source": "Heather Glaser : Motion carries unanimously."
+          }
+        ]
+      },
+      {
+        "topic": "Community Concerns and Public Input",
+        "points": [
+          {
+            "speaker": "Maria Marroquin",
+            "text": "Marroquin requested moratorium on 72-hour parking rule implementation during storms, citing difficulties for people living in cars during emergency weather conditions.",
+            "source": "Maria Marroquin : So now I just want to speak about the situation really difficult for people who lives in their cars in this time of storms and heavy rain and just ask for moratorium for the implementation on 72 hours of parking. Rule."
+          },
+          {
+            "speaker": "Patrick Ahrens",
+            "text": "Foothill de Anza Community College District allocated over $200 million from $898 million bond measure for affordable housing for students, faculty and staff, some potentially in Mountain View.",
+            "source": "Patrick Ahrens : Our $898 million bond measure that was passed in 2020, we've allocated over $200 million for affordable housing for students, faculty and staff, some of which I'm sure we would love to include in Mountain View."
+          }
+        ]
+      },
+      {
+        "topic": "Meeting Closure and Recognition",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Ramirez thanked city staff departments including City Manager Kimbra, City Attorney Jennifer, City Clerk Heather, Public Works, Police, Fire, Community Services, HR, IT, and Communications for their support during his mayoral term.",
+            "source": "Lucas Ramirez : Kimbra, you run a tight ship and we are all grateful to you and to everyone in the City Manager's office for the many long and difficult months you worked during an extended period of emergency operations."
+          },
+          {
+            "speaker": "Alison Hicks",
+            "text": "New Mayor Hicks outlined upcoming priorities including climate crisis response, downtown pedestrian mall, economic vitality plan, safe parking expansion, and active transportation planning.",
+            "source": "Alison Hicks : So those issues will include accelerating our response to the climate crisis, creating a downtown pedestrian mall, nurturing small businesses with our Economic Vitality plan, expanding safe parking, historic preservation in our downtown biodiversity and wildlife management, building affordable housing and fighting displacement."
+          }
+        ]
+      }
+    ],
+    "decisions": [],
+    "metadata": {
+      "topicCount": 8,
+      "pointCount": 18,
+      "decisionCount": 0
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:31:24.250620+00:00"
+  }
+}

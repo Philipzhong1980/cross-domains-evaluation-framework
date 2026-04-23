@@ -1,0 +1,49 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Chair Transition and Appreciation",
+          "points": [
+            {
+              "speaker": "Committee Members",
+              "text": "Committee members expressed appreciation for Chair Haines-Livesay's service, with Rosas saying 'We'll miss you', van Deursen commenting 'It's wonderful to have you as a chair', Almond noting he enjoyed serving with her, and Ramos expressing reluctance for her to leave.",
+              "source": "Rosas : We'll miss you",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "modify",
+        "reasoning": "Both GT versions capture appreciation comments but have different speaker attributions. The transcript shows multiple committee members made appreciation comments: Rosas ('We'll miss you'), van Deursen ('It's wonderful to have you as a chair'), Almond (enjoyed serving together), and Ramos ('I don't want you to leave'). The GT2 attribution of 'Committee Members' is more accurate than GT1's specific attribution to only van Deursen. Combined the specific comments from multiple speakers into one comprehensive point.",
+        "transcript_evidence": [
+          "Rosas : We'll miss you",
+          "Anky van Deursen : It's wonderful to have you as a chair",
+          "Almond : I enjoyed serving with you when I was chair and you were vice chair",
+          "Ramos : I don't want you to leave"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 1,
+      "merged": 0,
+      "excluded": 0,
+      "modified": 1,
+      "confidence": "High confidence - transcript clearly shows multiple committee members making appreciation comments, allowing for accurate speaker attribution correction and comprehensive content combination."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-27T03:06:25.945427+00:00"
+  }
+}

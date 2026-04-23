@@ -1,0 +1,269 @@
+{
+  "meeting_context": "White House press briefing imported from 20210217_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MR. ZIENTS",
+    "DR. WALENSKY",
+    "DR. FAUCI",
+    "DR. NUNEZ-SMITH",
+    "MS. JOHNSON",
+    "MODERATOR",
+    "Tamara Keith",
+    "Carl Zimmer",
+    "Zeke Miller",
+    "Ed O’Keefe",
+    "Tom Christopher"
+  ],
+  "topics": [
+    {
+      "topic": "The White House COVID 19 Response Coordinator provides",
+      "points": [
+        {
+          "text": "The White House COVID-19 Response Coordinator provides an update on the progress made in increasing vaccine supply, mobilizing vaccinators, and creating more vaccination sites, emphasizing the need for continued action and adherence to public health guidance.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky provides an overview of the declining",
+      "points": [
+        {
+          "text": "Dr. Walensky provides an overview of the declining COVID-19 cases and hospital admissions in the past week, with a 22 percent decrease in cases and a 21 percent decline in new hospital admissions.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky highlights the fluctuating number of reported",
+      "points": [
+        {
+          "text": "Dr. Walensky highlights the fluctuating number of reported deaths, the ongoing seriousness of the pandemic despite declining cases and hospitalizations, and the potential threat posed by more transmissible variants.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky discusses two studies released by the",
+      "points": [
+        {
+          "text": "Dr. Walensky discusses two studies released by the CDC that examine the spread of COVID-19 variants, including the B117 variant in Minnesota and the B1351 variant in Zambia, highlighting how individuals were infected and the potential impact of travel and commerce on transmission.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky emphasizes the importance of adhering to",
+      "points": [
+        {
+          "text": "Dr. Walensky emphasizes the importance of adhering to preventive measures, such as mask-wearing, social distancing, avoiding travel and crowds, washing hands frequently, and getting vaccinated, to decrease the spread of COVID-19 variants and prevent the emergence of new variants.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky emphasizes that consistently and correctly wearing",
+      "points": [
+        {
+          "text": "Dr. Walensky emphasizes that consistently and correctly wearing masks, specifically those with two or more layers that completely cover the nose and mouth and fit snugly, is one of the most effective tools to stop the spread of COVID-19.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci discusses studies that suggest a correlation",
+      "points": [
+        {
+          "text": "Dr. Fauci discusses studies that suggest a correlation between lower viral load in individuals who have been vaccinated but still experience breakthrough infections and decreased transmission of COVID-19.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci emphasizes the importance of vaccination not",
+      "points": [
+        {
+          "text": "Dr. Fauci emphasizes the importance of vaccination not only for individual health but also for public health, as studies suggest that vaccinated individuals with breakthrough infections have lower viral loads and can help diminish the dynamics of the COVID-19 outbreak.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Nunez Smith discusses the elements of an",
+      "points": [
+        {
+          "text": "Dr. Nunez-Smith discusses the elements of an equitable COVID-19 response, including vaccination efforts, treatment options, and testing developments.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The federal government will invest 1 6 billion",
+      "points": [
+        {
+          "text": "The federal government will invest $1.6 billion in supporting testing in schools and underserved populations, increasing genomic sequencing, and manufacturing critical testing supplies.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The federal government will invest 650 million to",
+      "points": [
+        {
+          "text": "The federal government will invest $650 million to create regional coordinating centers that will partner with labs to increase testing capacity in schools, underserved communities, and congregate settings, as well as allocate almost $200 million to expand genomic sequencing and $815 million to address the shortage of critical testing supplies.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The importance of testing and the need for",
+      "points": [
+        {
+          "text": "The importance of testing and the need for increased capacity, innovation, and affordability in order to reopen businesses and schools, identify variants early, and address the loss of health insurance due to the pandemic were emphasized by Mr. Zients.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Carole Johnson explains that the resources provided by",
+      "points": [
+        {
+          "text": "Carole Johnson explains that the resources provided by the American Rescue Plan will allow for scaling up testing, including manufacturing capacity and testing services, in order to meet the needs of non-medical settings like schools.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Carole Johnson explains that the resources from the",
+      "points": [
+        {
+          "text": "Carole Johnson explains that the resources from the American Rescue Plan will be used to expand testing options, making them more affordable and accessible, with a focus on easy-to-use and simple options.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The 200 million allocated for genomic surveillance will",
+      "points": [
+        {
+          "text": "The $200 million allocated for genomic surveillance will be used to ensure geographic diversity in the collection of samples and to obtain a more representative sampling across all states, including those with limited resources.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The 200 million allocated for genomic surveillance will",
+      "points": [
+        {
+          "text": "The $200 million allocated for genomic surveillance will be used to increase both volume and geographic diversity by partnering with states, commercial labs, and academia to ensure representation from all states and enhance computational and analytic capacity to understand the collected information.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Zeke Miller asks about the impact of the",
+      "points": [
+        {
+          "text": "Zeke Miller asks about the impact of the current pace of vaccines on reducing new COVID-19 cases and when the effects of the vaccination program will be seen in the data.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky explains that the current level of",
+      "points": [
+        {
+          "text": "Dr. Walensky explains that the current level of vaccination is not yet believed to be the primary factor in reducing COVID-19 cases, as the surge in cases was likely due to holiday-related activities and travel.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky emphasizes that while vaccination efforts are",
+      "points": [
+        {
+          "text": "Dr. Walensky emphasizes that while vaccination efforts are being scaled up, they are not believed to be the primary factor in the current decrease in COVID-19 cases, and she urges against relying solely on vaccination for maintaining low case numbers.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden administration is ensuring equitable distribution of",
+      "points": [
+        {
+          "text": "The Biden administration is ensuring equitable distribution of the Moderna and Pfizer vaccines while also planning for the possibility of receiving a few million doses of the Johnson & Johnson vaccine, with a commitment from Johnson & Johnson to deliver 100 million doses by the end of June.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ed O'Keefe asks about the impact of the",
+      "points": [
+        {
+          "text": "Ed O'Keefe asks about the impact of the weather situation, particularly in Texas, on vaccine distribution rollout and how affected areas can get back on track with the rollout.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The weather delays and closures of vaccination sites",
+      "points": [
+        {
+          "text": "The weather delays and closures of vaccination sites in certain parts of the country, such as Texas, are impacting vaccine distribution, but efforts are being made to extend hours and make up for lost time in administering vaccines efficiently and equitably.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky discusses the challenges of reopening high",
+      "points": [
+        {
+          "text": "Dr. Walensky discusses the challenges of reopening high schools due to increased transmission and difficulty in cohorting students, but highlights that there are opportunities for in-person learning if mitigation strategies are followed and community spread decreases.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci acknowledges the importance of vaccinating teachers",
+      "points": [
+        {
+          "text": "Dr. Fauci acknowledges the importance of vaccinating teachers but clarifies that it is not necessary to vaccinate all teachers before reopening schools, while emphasizing that the risk of infection for teachers primarily comes from the community rather than within the school setting.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci and Mr Zients emphasize that while",
+      "points": [
+        {
+          "text": "Dr. Fauci and Mr. Zients emphasize that while it is important to prioritize vaccinating teachers, the risk of infection within schools primarily reflects the community transmission, and they agree with CDC guidelines that vaccination is not a requirement for reopening schools.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

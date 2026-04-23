@@ -1,0 +1,239 @@
+{
+  "meeting_context": "White House press briefing imported from 20231008_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Yuna",
+    "Steve",
+    "Nadia",
+    "Felicia",
+    "Ben",
+    "Barak",
+    "Asma",
+    "Hiba",
+    "Vivian"
+  ],
+  "topics": [
+    {
+      "topic": "The moderator begins the call apologizes for the",
+      "points": [
+        {
+          "text": "The moderator begins the call, apologizes for the delay, and introduces the senior administration official who will provide information on Hamas's terrorist attack in Israel.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official provides background information and",
+      "points": [
+        {
+          "text": "The senior administration official provides background information and discusses the rocket attacks in Israel that occurred during the night, highlighting their engagement with Israeli and regional counterparts to gather more details.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the series of",
+      "points": [
+        {
+          "text": "The senior administration official discusses the series of calls made by President Biden and his national security team, including offering full support to Israel, coordinating with Israeli and regional counterparts, and remaining in regular contact with leaders such as Prime Minister Netanyahu, King Abdullah of Jordan, and President Herzog of Israel.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official states that President Biden",
+      "points": [
+        {
+          "text": "The senior administration official states that President Biden and his national security team have been actively engaged in coordinating with Israeli and regional counterparts, remaining in regular contact with leaders such as Prime Minister Netanyahu, King Abdullah of Jordan, and President Herzog of Israel, and the engagement is ongoing and likely to continue for some time.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official reaffirms the United States'",
+      "points": [
+        {
+          "text": "The senior administration official reaffirms the United States' support for Israel, condemning the attack by Hamas and offering assistance while emphasizing Israel's right to self-defense.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the ongoing situation",
+      "points": [
+        {
+          "text": "The senior administration official discusses the ongoing situation and the President's involvement in response to the unfolding events.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official confirms ongoing military coordination",
+      "points": [
+        {
+          "text": "The senior administration official confirms ongoing military coordination with Israel and promises continued support during the critical time, while refraining from commenting on specific intelligence or speculating on the impact of the unfolding events on normalization talks.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official reaffirms the commitment to",
+      "points": [
+        {
+          "text": "The senior administration official reaffirms the commitment to Israel's defense, warns against any party hostile to Israel taking advantage of the situation, and emphasizes ongoing discussions with Palestinians while acknowledging the unprovoked assault by Hamas.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges the Israeli consultations",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges the Israeli consultations on how to respond to the situation, expresses concern over the hostages taken by Hamas, and highlights the gravity of the situation.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official refuses to analyze a",
+      "points": [
+        {
+          "text": "The senior administration official refuses to analyze a statement and expresses unfamiliarity with it, before thanking Nadia.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the potential role",
+      "points": [
+        {
+          "text": "The senior administration official discusses the potential role of Congress in providing security assistance and acknowledges the need to work through the unique situation of not having a Speaker of the House, while also mentioning the important role of the Senate and addressing Iran's involvement in supporting Hamas.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official condemns Hamas as a",
+      "points": [
+        {
+          "text": "The senior administration official condemns Hamas as a terrorist group and highlights their recent attacks on Israeli cities, including the murder of innocent people and taking hostages, emphasizing the need to treat Hamas as an international terrorist organization.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The moderator from Haaretz confirms their connection and",
+      "points": [
+        {
+          "text": "The moderator from Haaretz confirms their connection and begins their question to the senior administration official.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges the severity of",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges the severity of the attack by Hamas against Israel and emphasizes the focus on containing the situation in Gaza while working with Israel and other countries, but reiterates that Hamas is not a part of the process of restoring ties with Palestinians.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Barak from Axios asks if President Biden agreed",
+      "points": [
+        {
+          "text": "Barak from Axios asks if President Biden agreed to provide emergency funding for Iron Dome interceptors as requested by Prime Minister Netanyahu during their call.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official did not provide specific",
+      "points": [
+        {
+          "text": "The senior administration official did not provide specific details on whether President Biden agreed to provide emergency funding for Iron Dome interceptors as requested by Prime Minister Netanyahu, but stated that the US has always been committed to replenishing defense systems and would likely continue to do so.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The journalist asks the senior administration official about",
+      "points": [
+        {
+          "text": "The journalist asks the senior administration official about their confidence in a bipartisan response to the recent events, and whether the U.S. will work with allies to offer solutions for Gazans to exit or enter the area.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official expresses hope for a",
+      "points": [
+        {
+          "text": "The senior administration official expresses hope for a united U.S.-Israel response to the assault by a terrorist group, addresses irresponsible claims and misinformation, and clarifies that a previous agreement with Iran had no connection to the current situation.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official dismisses claims that funds",
+      "points": [
+        {
+          "text": "The senior administration official dismisses claims that funds from a previous agreement with Iran are connected to the current situation and emphasizes that none of those funds will ever be accessed by Iran, only used for humanitarian trade, and expresses frustration with misinformation being spread.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes that there is",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes that there is no evidence of Iran's involvement in the current situation, but acknowledges their long-standing support for Hamas and Lebanese Hezbollah, and asserts that the US has conveyed its clear position to all relevant parties.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Vivian asks if the Egyptians have shared intelligence",
+      "points": [
+        {
+          "text": "Vivian asks if the Egyptians have shared intelligence about potential Hamas and Hezbollah attacks and questions why there hasn't been more engagement with Egypt beyond the Secretary of State and foreign minister level.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official states that they have",
+      "points": [
+        {
+          "text": "The senior administration official states that they have been intensively engaged with the Egyptians, including speaking with Abbas Kamel, and while they have general concerns about rising tensions, they have not seen any specific warning or indicator from another country regarding the recent attacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

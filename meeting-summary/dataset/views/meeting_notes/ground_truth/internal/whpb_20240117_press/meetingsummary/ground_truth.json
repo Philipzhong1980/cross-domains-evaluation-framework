@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20240117_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MR. KIRBY",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "The Biden Harris administration proposed a rule to",
+      "points": [
+        {
+          "text": "The Biden-Harris administration proposed a rule to end excessive overdraft fees, which would save millions of families an average of $150 a year and add up to $3.5 billion in savings for Americans, while also highlighting the strength of the economy with record-breaking retail sales during the holiday season.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Biden Harris administration's economic policies have resulted",
+      "points": [
+        {
+          "text": "The Biden-Harris administration's economic policies have resulted in a surprising degree of satisfaction among Americans, with a majority optimistic about their current and future financial situations.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States has designated the Houthis as",
+      "points": [
+        {
+          "text": "The United States has designated the Houthis as a Specially Designated Global Terrorist Group due to their continued attacks on ships in the Red Sea and Gulf of Aden, but emphasized that the designation does not target the Yemeni people and that humanitarian assistance will still be provided.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The decision not to redesignate the Houthis as",
+      "points": [
+        {
+          "text": "The decision not to redesignate the Houthis as a foreign terrorist organization was made in order to provide more flexibility and ensure that aid organizations can provide assistance without violating sanctions.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The meeting with congressional leaders will focus on",
+      "points": [
+        {
+          "text": "The meeting with congressional leaders will focus on the urgent need for weapons and capabilities for Ukraine, as the war continues and the Ukrainians are under attack from Russia.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker affirms that Ukraine urgently needs specific",
+      "points": [
+        {
+          "text": "The speaker affirms that Ukraine urgently needs specific weapons and capabilities due to ongoing combat, while also defending the decision to delist the Houthis as a terrorist organization in 2021 to provide humanitarian assistance.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the delivery of a private",
+      "points": [
+        {
+          "text": "The speaker discusses the delivery of a private message to Iran regarding Houthi attacks, emphasizes the administration's concerns about the Houthis and their support from Iran, and mentions the imposition of sanctions on Iranian entities, while also dismissing claims that the attacks are related to the war in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses questions about the meeting on",
+      "points": [
+        {
+          "text": "The speaker addresses questions about the meeting on Ukraine, emphasizes the focus on Ukraine in the discussion, and assures that the national security team will provide answers to concerns about spending and the endgame in Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the importance of bringing members",
+      "points": [
+        {
+          "text": "The speaker discusses the importance of bringing members of Congress up to speed on the current situation in Ukraine, including the lack of aid and the ongoing war, while also addressing questions about federalizing the Texas National Guard and confirming that there is no intention by the President to do so.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the depletion of certain types",
+      "points": [
+        {
+          "text": "The speaker discusses the depletion of certain types of munitions in Ukraine and the urgency of their situation, particularly in terms of air defense capabilities, while also addressing the recent communication between Defense Secretary Lloyd Austin and President Biden.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker reaffirms the consistent policy of supporting",
+      "points": [
+        {
+          "text": "The speaker reaffirms the consistent policy of supporting the additional sale and modernization of F-16s for Turkey, while also addressing the progress being made in conversations with the Senate regarding Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the impact of the stoppage",
+      "points": [
+        {
+          "text": "The speaker acknowledges the impact of the stoppage of U.S. aid on the battlefield in Ukraine and emphasizes the importance of American leadership in providing support, while also addressing the question of whether designating the Houthi rebels as terrorists will have a noticeable impact on deterrence.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the effectiveness of recent attacks",
+      "points": [
+        {
+          "text": "The speaker discusses the effectiveness of recent attacks on Houthi rebels in degrading their offensive capabilities and emphasizes that further action will be taken if necessary, while stating that there has been no coordination with the EU regarding designating the Houthi rebels as terrorists.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker clarifies that the NSC's statement regarding",
+      "points": [
+        {
+          "text": "The speaker clarifies that the NSC's statement regarding a HuffPost report was in response to inaccurately attributed quotes from a purported document, and not an attempt to question journalistic ethics or cast aspersions on the reporter.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the focus of the meeting",
+      "points": [
+        {
+          "text": "The speaker discusses the focus of the meeting on Ukraine and emphasizes the importance of continuing support for Ukraine, while also mentioning that conversations about immigration may come up but the purpose of the meeting is specifically about Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges Republican obstruction on border security",
+      "points": [
+        {
+          "text": "The speaker acknowledges Republican obstruction on border security and emphasizes the President's willingness to discuss Ukraine while also expressing a desire to work with Republicans in the Senate on finding a bipartisan agreement.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President wants to discuss Ukraine and the",
+      "points": [
+        {
+          "text": "The President wants to discuss Ukraine and the urgency of assisting them, while acknowledging that Speaker Johnson is not the only person in the room and expressing a willingness to hear from other congressional members.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The meeting with congressional leaders regarding Ukraine and",
+      "points": [
+        {
+          "text": "The meeting with congressional leaders regarding Ukraine and national security is closed to the press, but there will be opportunities for members of Congress to provide updates and for a readout of the meeting to be given.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is holding a closed door",
+      "points": [
+        {
+          "text": "The White House is holding a closed-door meeting with congressional leaders to discuss Ukraine and national security, with a focus on supporting Ukraine and negotiations on border security ongoing separately.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson emphasizes that negotiations are",
+      "points": [
+        {
+          "text": "The White House spokesperson emphasizes that negotiations are ongoing for a bipartisan agreement on border security and acknowledges that concessions will need to be made by both sides.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson addresses an apology made",
+      "points": [
+        {
+          "text": "The White House spokesperson addresses an apology made to Governor Hutchinson for a statement that did not reflect President Biden's views and discusses ongoing negotiations on border security in a bipartisan manner.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson emphasizes ongoing negotiations on",
+      "points": [
+        {
+          "text": "The White House spokesperson emphasizes ongoing negotiations on border security in a bipartisan manner and refrains from discussing specific policies or claims while acknowledging the importance of addressing root causes and dealing with a broken immigration system.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The unidentified person challenges the White House spokesperson's",
+      "points": [
+        {
+          "text": "The unidentified person challenges the White House spokesperson's claim that a proposed act would have eliminated 2,000 Border Patrol agents, stating that the bill never had any appropriations and the members in Congress who put it together vowed that it wouldn't affect Border Patrol or veterans' benefits and entitlements.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The unidentified person questions the White House spokesperson",
+      "points": [
+        {
+          "text": "The unidentified person questions the White House spokesperson about the accuracy of their statements regarding a proposed act and the implication that Texas officials were responsible for the deaths of three migrants.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The unidentified person acknowledges the devastating and heartbreaking",
+      "points": [
+        {
+          "text": "The unidentified person acknowledges the devastating and heartbreaking situation of three migrants, including two children and a woman, who died, while urging sensitivity in discussing the matter.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The unidentified person clarifies that the ongoing emergency",
+      "points": [
+        {
+          "text": "The unidentified person clarifies that the ongoing emergency situation mentioned in the statement is separate from the incident where a woman and two children drowned near Eagle Pass, which Texas officials had blocked Border Patrol from accessing.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the press conference an unidentified person questions",
+      "points": [
+        {
+          "text": "During the press conference, an unidentified person questions why the White House statement did not mention that Texas officials had blocked Border Patrol from providing emergency assistance to other migrants in the water near Eagle Pass.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press conference an unidentified person questions",
+      "points": [
+        {
+          "text": "During a press conference, an unidentified person questions why the White House has not reached out to three Palestinian college students who were shot in Vermont, similar to how they have reached out to individuals in other marginalized communities.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press conference an unidentified person asks",
+      "points": [
+        {
+          "text": "During a press conference, an unidentified person asks if the White House is following the trial of pro-democracy advocate Jimmy Lai in Hong Kong and what the President will do if Lai is convicted.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press conference an unidentified person asks",
+      "points": [
+        {
+          "text": "During a press conference, an unidentified person asks about the potential impact of redirected ships in the Red Sea on prices and consumers, to which the White House spokesperson responds that they are closely monitoring the situation but have not seen any major impact on supply chains or energy prices in the US so far.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press conference the White House spokesperson",
+      "points": [
+        {
+          "text": "During a press conference, the White House spokesperson defends President Biden's trip to Allentown, emphasizing the importance of the American Rescue Plan in boosting confidence for small business owners and highlighting the lack of Republican support for such initiatives.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

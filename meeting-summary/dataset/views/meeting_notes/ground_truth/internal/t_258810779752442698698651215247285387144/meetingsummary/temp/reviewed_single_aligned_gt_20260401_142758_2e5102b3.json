@@ -1,0 +1,213 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Meeting Administration and Roll Call",
+          "points": [
+            {
+              "speaker": "John",
+              "text": "Anne Kavanaugh and David Lynn provided excused absences for the meeting due to prior commitments.",
+              "source": "John : Committee member Anne Kavanaugh, she did disclose to me that she was going to be absent. So that is an excused absent... David also did disclose to me that he was not going to be able to make this meeting due to work travel and that is an excused absence as well.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Pamela Brewer",
+              "text": "March 7th, 2023 meeting minutes were approved by committee vote after no corrections or public comments were received.",
+              "source": "Pamela Brewer : OK, the minutes for the March 20 March 7th, 2023 meeting have been delivered to the committee members and have posted on City Hall voting board. Are there any corrections or additions?",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Castro pedestrian mall standards and activation",
+          "points": [
+            {
+              "speaker": "John",
+              "text": "High winds can move standalone rail sections; staff will explore securing end sections. Large planters used as vehicle barriers will be removed; businesses are encouraged to use smaller planters.",
+              "source": "John : ...in Highwind situations we do move...figure out a way to better secure...all the big planters are no longer needed...suggesting types of smaller planters...",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "John",
+              "text": "Public restrooms for the pedestrian mall are not planned during the interim phase. The topic is deferred to a long-term, permanent mall redesign due to necessary plumbing and construction requirements.",
+              "source": "John : So it has come up a few times as part of the engagement with the community as well as businesses at this point time in the interim phase, this kind of next couple year phase. It is not on the table. It is a discussion point on a potential longer term strategy for multitudes of reasons that would require significant plumbing and things of that nature to support.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "Affordable housing site and farmers' market context",
+          "points": [
+            {
+              "speaker": "John",
+              "text": "For the affordable housing project discussed near the downtown corner lot, early estimates anticipated lot closure and activity starting in 2024. The project will not include public parking underneath; the city is addressing public parking through other means.",
+              "source": "John : So early estimates that a lot would be closing in 2024 as they start down... there will be...No...Not with that project. We're solving public parking a different way.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Sewer main replacement technical details",
+          "points": [
+            {
+              "speaker": "Tony Eagles",
+              "text": "The El Camino/Castro intersection is in Caltrans right-of-way and will be open-trenched during daytime under an encroachment permit. Sidewalks will remain open on at least one side during daytime work; street parking will be restricted for staging in construction areas.",
+              "source": "Tony Eagles : So this is in the Caltrans right of way. So we'll be following their encroachment permit and Caltrans standards... This work will be done during the day... sidewalk on one side of the street will be open... street parking would be used to store equipment and materials.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Tony Eagles",
+              "text": "Pipe bursting method will replace 6-inch pipes with 8-inch HDPE pipes, breaking existing pipe while installing new one in same location.",
+              "source": "Tony Eagles : Most of the pipe Castro is 6 inches. We'll be replacing it with eight inches... Pipe bursting is when you insert a pipe from one pit and pull it through to the next pit... The tip in the front will break the existing pipe that's there while pulling through the new pipe.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Tina",
+              "text": "Daytime work decisions will consider business impact, traffic control feasibility, and type of work, balancing efficiency with community disruption.",
+              "source": "Tina : Now all the different type, we have a very mixed type of businesses in downtown. So we need to take consideration if we do daytime work, when is it going to occur and restaurants are going to be impacted... it's a balance. How do we make sure business is not impacted?",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Business communication and support strategies",
+          "points": [
+            {
+              "speaker": "Kira Pasca",
+              "text": "Committee should ensure business impact analysis is included in all downtown project discussions, including mitigation strategies for construction and infrastructure work.",
+              "source": "Kira Pasca : I think this this topic was from my comment... when we discuss topics, we discuss the impacts to businesses... Talk about how is this going to impact businesses and what could be done to potentially buffer that impact.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Mary Yen",
+              "text": "Social media success requires dedicated weekly time commitment and person accountability, with businesses needing to treat it as part of marketing budget investment.",
+              "source": "Mary Yen : And so for the businesses, I think it's really critical for them to recognize that this is important to their business and consider it as part of their advertising slash marketing budget... it actually does. It takes a certain amount of time every single week.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Mary Nikki",
+              "text": "Face-to-face communication through DBA volunteers visiting businesses proves more impactful than written communications, with businesses preferring direct interaction for project information.",
+              "source": "Mary Nikki : And I think that the city can also use the DBA because we have volunteers, block residents that can go from business to business and literally speak to each business... a face to face is really much more impactful than unfortunately.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Kira Pasca",
+              "text": "Business communications should be limited to four bullet points maximum for easy reading, as lengthy city notices with disclaimers often get overlooked.",
+              "source": "Kira Pasca : What I do in my emails to businesses so is make sure it's like there are no more than four bullet points. You can read this super easily and I think that sometimes just because the way the city because of what everything that has to be said by the time they get to the point they blossed over.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "City staff",
+          "text": "Schedule the annual work plan discussion in May and bring it for committee approval in June to align with Council timelines.",
+          "source": "John : So this will occur in May to approve in June to align with council's approach to the work plan.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "City staff",
+          "text": "Add a downtown discussion with the City Manager to the May committee agenda.",
+          "source": "John : ...the city manager's asked to have a conversation with the committee on downtown...That will be added for the next agenda and that will be going in May.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "John",
+          "text": "Bring back the undercrossing/grade separation presentation at a future meeting, with adequate time allocated.",
+          "source": "John : ...we can certainly [bring it] back as there is some work that is occurring related to that project. So bring that back.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "City staff",
+          "text": "Select one standardized fascia pattern for patio railings based on public input and install city-funded barriers accordingly.",
+          "source": "John : ...We are taking public input...One pattern is going to be chosen and that will be the pattern for all the areas that have been implemented...The city will be paying for that and the city will be erecting those...",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "City staff",
+          "text": "Begin city-programmed live entertainment on Castro Street in May in the Social Eddie area.",
+          "source": "John : ...starting in the May time frame, you will start to see some live entertainment out on the street...city programming...in the Social Eddie area.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "City staff",
+          "text": "Conduct another street cleanup by the end of this week and coordinate forklift removal of large planters in the next phase.",
+          "source": "John : ...doing another round at the end of this week...bring in a forklift to remove some of the bigger planters is the next phase of the cleanup...",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "City staff",
+          "text": "Prohibit sewer construction activities during downtown events and coordinate detailed outreach once contractor phasing is set.",
+          "source": "Tony Eagles : ...there will be no construction activities allowed...Once we have a contractor on board...we can start our outreach...",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "City staff",
+          "text": "Present the ARPA small-business program package to the City Council on May 9 for consideration.",
+          "source": "John : This is now going May 9th for Council consideration.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "City staff",
+          "text": "Adjust the parking budget to fund garage maintenance and replace failing car-count technology.",
+          "source": "John : ...we are going to need to put some investment into the garages...we'll be looking to modify our existing parking budget to start supporting that.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "City staff",
+          "text": "Return to the committee with sewer project schedules and impacts after the contractor is on board.",
+          "source": "Tony Eagles : ...once we have that information from the contractor...we will be coming back to the committee to provide an update.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Staff",
+          "text": "Include business impact analysis and outreach communication plans in future project memos to the committee.",
+          "source": "John : So maybe as it relates to potential topics like this, we actually have a line in there of day lighting what we think this is... Maybe actually call that out in a memo of like, have we looked at it from a business lens is what I hear.",
+          "from_gt": "gt2",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 20,
+      "kept": 18,
+      "modified": 2,
+      "dropped": 0,
+      "from_gt1_kept": 11,
+      "from_gt2_kept": 9
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:27:58.981243+00:00"
+  }
+}

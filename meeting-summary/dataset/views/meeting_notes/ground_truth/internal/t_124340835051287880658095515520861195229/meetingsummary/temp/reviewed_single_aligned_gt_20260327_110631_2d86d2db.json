@@ -1,0 +1,50 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Meeting Procedures and Roll Call",
+          "points": [
+            {
+              "speaker": "Haines-Livesay",
+              "text": "Meeting called to order at 7:02 PM with virtual participation by all committee members and public access via mountainview.legistar.com, YouTube, and Comcast Channel 26.",
+              "source": "Haines-Livesay : The meeting is called to order at 7 O 2:00 PM",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "Public Comment Status and Outcomes",
+          "points": [
+            {
+              "speaker": "Haines-Livesay",
+              "text": "No public comments were received on the consent calendar item or during the general oral communications segment.",
+              "source": "Haines-Livesay : OK, not seeing any public comment now.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 2,
+      "kept": 0,
+      "modified": 2,
+      "dropped": 0,
+      "from_gt1_kept": 1,
+      "from_gt2_kept": 1
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-27T03:06:31.143134+00:00"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "result": {
+    "merged_gt": {
+      "meeting_context": "Regular meeting of the Mountain View Human Relations Commission on December 1, 2022, conducted virtually under emergency provisions. This is the final HRC meeting of 2022, focused on farewells to departing commissioners and transition planning. The commission addressed meeting administration, subcommittee updates (housing/security and mental health), staff compliance updates (training, filings, attendance policy), return-to-in-person planning, council appointment timelines, a project update, and farewells to departing commissioners.",
+      "participants": [
+        "IdaRose Sylvester",
+        "Laurel James",
+        "Kevin Ball",
+        "Julie Solomon",
+        "Xavier Webb",
+        "Nirvana Nwokidu",
+        "Annette"
+      ],
+      "topics": [
+        {
+          "topic": "Meeting administration and attendance policy",
+          "topic_merge_note": "normalized_from: ['Meeting administration and attendance policy', 'Meeting administration and minutes approval', 'Attendance Policy Implementation']",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "New attendance policy implemented to align HRC with Council policy K-02 governing advisory bodies, requiring general consensus vote on excused versus unexcused absences with specific justifications rather than commissioners' opinions.",
+              "source": "Laurel James : They want to clarify that this process was introduced to bring the HRC into alignment with Council policy K02 governing Council advisory bodies",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "The commission approved the minutes of the November 3, 2022 regular meeting following a motion by Commissioner Nwokidu and a second by Commissioner Ball; a roll call vote recorded unanimous ayes.",
+              "source": "IdaRose Sylvester : I guess thank you approved motion a motion from Nirvana to approve the minutes",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "Applying Council Policy K-102, the commission used a general consensus process to record Commissioner Rakestraw's absence as excused due to personal illness for this meeting, consistent with the policy's list of qualifying reasons for excused absences.",
+              "source": "IdaRose Sylvester : …Commissioner Raystraw's absence, which is for personal illness, which is considered a qualified excuse to be defined as excused if the commissioners… are in agreement.",
+              "original_priority": "p3",
+              "dedup_note": "from_p3_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Virtual meeting conduct and participation",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "The meeting was conducted virtually under California Government Code 54953(e) during the declared state of emergency, with all commissioners participating by videoconference. Public comments were accepted via Zoom, and any emails received by 5:00 PM were forwarded to the commission for review.",
+              "source": "IdaRose Sylvester : During this declared state of emergency, this meeting will be conducted in accordance with California Government Code Section 54953 E",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "Meeting called to order at 6:33 PM on December 1st, 2022, with three commissioners departing and three new commissioners joining in 2023.",
+              "source": "IdaRose Sylvester : I call this meeting to order at 0633 on December 1st, 2022",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Housing and Security Subcommittee planning",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "The Housing and Security Subcommittee is planning an in-person event in May 2023 and is partnering with Malia Perez of Reach Potential; former Chair Annette Lynn will continue supporting the subcommittee as a community volunteer.",
+              "source": "IdaRose Sylvester : As you all know, we're working with Malia Perez from Reach Potential and Annette Lynn is staying with our subcommittee as a community member and volunteer",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "Event concept involves round table discussions with unstably housed individuals (initially unidentified) followed by storytelling and panel presentations. 'Unstably housed' is broadly defined to include homeless individuals, vehicle residents, couch surfers, subsidized housing residents, and overcrowded housing situations.",
+              "source": "IdaRose Sylvester : Everyone will sit at a round table at different round tables, and each table will have a person who is unstably housed sitting at it, but this person will not be identified as such",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Mental Health Subcommittee progress",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Nirvana Nwokidu",
+              "text": "The Mental Health Subcommittee held its first meeting, focused on brainstorming goals, scope, and partner organizations. The team will research NAMI and possibly Parents Helping Parents as models. No event timeline has been set; they will refine logistics and meeting cadence next.",
+              "source": "Nirvana Nwokidu : It was our first meeting. You know, as we had mentioned the previous meeting, we couldn't meet, but it was still a good meeting",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Training, filings, and compliance updates",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "The City Attorney's Office will host Brown Act training for new and incumbent members in January 2023 via evening virtual sessions. The City Clerk's Office will send invitations in the coming weeks; specifics on session length and scheduling are forthcoming.",
+              "source": "Laurel James : The City Attorney's Office will be hosting a Brown Act Training for all new and incumbent Board, Commission, and committee members in January 2023",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Commissioners were reminded to file Form 700 statements with the Fair Political Practices Commission and to contact the City Clerk's Office with any questions or issues regarding filing or points of contact.",
+              "source": "Laurel James : I want to remind Commissioners that your Form 7 hundreds are due to the Fair Political Practices Commission",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Return to in-person meeting schedule",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "Virtual meeting authorizations will end with the state of emergency, and all board and commission meetings will return to in-person formats starting February 1, 2023. HRC meetings will be at City Hall's Plaza Conference Room without hybrid options initially due to technology limitations.",
+              "source": "Laurel James : All board, Commission and committee meetings from February 1st, 2023 onward will be held in person",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Council appointments and new commissioners",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "The Council Appointments Committee's recommendations for new and incumbent HRC appointments will be considered by the City Council on December 13, 2022.",
+              "source": "Laurel James : So the recommendation from the Council Appointments Committee, including new and incumbent appointments to the HRC will go before the Council for consideration on December 13th",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "There were seven or eight applicants for HRC positions. IdaRose Sylvester and Xavier Webb were nominated for reappointment, and three new members were nominated for first-time appointments, pending City Council action.",
+              "source": "IdaRose Sylvester : I believe there were seven or it may have been 8 applicants for HRC",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Housing history project update",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Julie Solomon",
+              "text": "The subcommittee continues finalizing transcript edits from the history of discrimination and inclusion in housing interviews. Spanish-language interviews require participant sign-off, and work is proceeding with Camilla from Stanford until all transcripts are complete.",
+              "source": "Julie Solomon : So we we have been moving forward with that and specifically for Spanish language interviews, we want to be sure we have sign off from the participants on the transcripts",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting closure and recognition",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "The meeting was adjourned with holiday well-wishes. The next regular HRC meeting is scheduled for January 5, 2023, at 6:30 PM on Zoom, prior to the February return to in-person meetings.",
+              "source": "IdaRose Sylvester : This meeting is adjourned to the next regular meeting of the HRC Commission scheduled for January 5th, 2023 at 6:30 PM on Zoom",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Commissioner farewells and recognition",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "IdaRose Sylvester",
+              "text": "Leadership thanked departing Commissioners Kevin Ball and Julie Solomon and former Chair Annette Lynn for their contributions and lasting impact on the HRC, encouraging them to remain engaged in community efforts and acknowledging the upcoming transition to welcome new members in 2023.",
+              "source": "IdaRose Sylvester : I want to just say the three of you have left enormous impact and shape the HRC in ways that will continue long after you are gone",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Annette",
+              "text": "Former Chair Lynn expressed honor serving as chair and appreciation for thoughtful farewell card from commissioners.",
+              "source": "Annette : Last meeting was my last meeting chairing. And got to say goodbye to the commissioners and Laurel who was able to attend then",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Kevin Ball",
+              "text": "Ball emphasized Mountain View's strong sense of local community compared to other Bay Area cities, crediting HRC members for contributing to city's livability.",
+              "source": "Kevin Ball : I think the people who choose to do HRC are are part of that and I appreciate all of you and the time and energy and and care that you've put into making this a city that is great to live in",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Julie Solomon",
+              "text": "Solomon credited HRC participation with significantly increasing her sense of community and belonging in Mountain View over six years of service.",
+              "source": "Julie Solomon : And it really has been just really far exceeded my expectations at so many levels",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Xavier Webb",
+              "text": "Webb thanked departing commissioners for mentoring new members and creating foundation for future service to Mountain View community.",
+              "source": "Xavier Webb : You guys were so kind and so thoughtful and so giving of yourselves to helping us to become better partners in this process",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Housing and Security Subcommittee",
+          "text": "The Housing and Security Subcommittee will finalize the specific May date for the planned in-person event.",
+          "source": "IdaRose Sylvester : We have an open action item to nail a date, but this will be an in person event in May",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Human Relations Commission",
+          "text": "The commission will review and update subcommittee assignments at the January 2023 meeting.",
+          "source": "IdaRose Sylvester : in January at that meeting, we will have a chance to review subcommittee assignments and people switch out and can switch out or join",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will obtain and share the Brown Act training session length and scheduling details with commissioners.",
+          "source": "Laurel James : …I do not know the length of the training. But I will find that out for you, OK?",
+          "original_priority": "p3",
+          "dedup_note": "from_p3_unique"
+        },
+        {
+          "assignee": "Laurel James",
+          "text": "Laurel James will forward commissioners' feedback regarding the excused absence voting process to the City Clerk's Office.",
+          "source": "Laurel James : I will… give your feedback to the City Clerk's office.",
+          "original_priority": "p3",
+          "dedup_note": "from_p3_unique"
+        }
+      ]
+    },
+    "merge_statistics": {
+      "total_p1_items": 10,
+      "total_p2_items": 8,
+      "total_p3_items": 4,
+      "final_items": 21,
+      "duplicates_removed": 1,
+      "deduplication_details": {
+        "p2_skipped": [
+          {
+            "item_type": "decision",
+            "text": "City Clerk's Office will send Brown Act training invitations within the next few weeks for January 2023 evening virtual sessions.",
+            "source": "Laurel James : the City Clerk's Office will send out invitations to all of you and who are going to be attending the training in the next few weeks",
+            "reason": "duplicate_with_p1: same_semantic_content (Brown Act training invitations timing already covered in P1 training point)"
+          }
+        ],
+        "p3_skipped": []
+      }
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_final_merge/generation_final_merge",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "96d6eff54eb8b4ced496aeb8e349890a5e5d3f8bdf8dd6229ebee2e637c5f8c8",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:27:04.192867+00:00"
+  }
+}

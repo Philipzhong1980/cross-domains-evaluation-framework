@@ -1,0 +1,153 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Virtual meeting logistics and access",
+          "points": [
+            {
+              "speaker": "Pat Showalter",
+              "text": "The meeting was conducted fully virtually in accordance with California Government Code Section 54953(e), with public observation via the city webcast and Spanish interpretation available. Committee members attended by video conference, and there was no physical meeting location.",
+              "source": "Pat Showalter : This meeting will be conducted in accordance with California Government Code Section 54, 953 E as authorized by resolution.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Anna Reynoso",
+              "text": "Attendees remained muted and submitted questions through the Zoom Q&A. Phone-only participants could press *9 to request unmuting for live questions. Pre-submitted questions were addressed first, followed by live Q&A taken from the Q&A box.",
+              "source": "Anna Reynoso : The participants this evening are going to be remain muted... later on during the live questions you can press * nine to ask your question and we will unmute you.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Internet and Utility Service Issues",
+          "points": [
+            {
+              "speaker": "Anna Reynoso",
+              "text": "Staff will research funding options related to addressing internet issues raised during the meeting and will post follow-up information on the city website for residents.",
+              "source": "Anna Reynoso : ...I'll do some more research with the rest of the team and we'll definitely make sure to post that on our website as well.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Traffic Management and Enforcement",
+          "points": [
+            {
+              "speaker": "Lorenzo Lopez",
+              "text": "The city will inspect the reported Sullivan/237 area for faded striping and missing signage and consider enhancements; Police will handle enforcement. Specific times/locations from residents will help target patrols by the traffic enforcement team.",
+              "source": "Lorenzo Lopez : ...we can go out to this site and look at if there's any striping enhancements we can do... We could also look at some signage... and then as far as the enforcement goes... I'll hand that over to the Police Department.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "El Camino Real safety and bikeways",
+          "points": [
+            {
+              "speaker": "Lorenzo Lopez",
+              "text": "For the Sahara Mobile Park driveway on El Camino, an upcoming striping project may shift travel lanes toward the median, improving turns. Because El Camino is Caltrans right-of-way, the city will investigate further and coordinate with Caltrans on feasible safety measures.",
+              "source": "Lorenzo Lopez : ...upcoming project will change the striping... this is Caltrans right of way... It will require further investigation in the field and then contacting Caltrans.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Mobile Home Residents Rights and Protections",
+          "points": [
+            {
+              "speaker": "Martin Eichner",
+              "text": "Mobile home owners have right to form nonprofit corporation and negotiate with park owner for purchase if park is for sale.",
+              "source": "Martin Eichner : Under the mobile home residency law there is a if the park is for sale the the residents or their homeowners have a right to form a nonprofit corporation and to bargain with it park owner",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Cannabis Regulations and Enforcement",
+          "points": [
+            {
+              "speaker": "Audrey Seymour Ramberg",
+              "text": "City smoking ordinance prohibits smoking tobacco products inside multi-family residential units, which would apply to cannabis as well.",
+              "source": "Audrey Seymour Ramberg : I would add that the city has a a a smoking ordinance that relates to multi family residential properties where smoking is prohibited inside units",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "City Services and Community Support",
+          "points": [
+            {
+              "speaker": "Audrey Seymour Ramberg",
+              "text": "City partners with CSA through contracts for rent relief during pandemic and administering Guaranteed Basic Income pilot program.",
+              "source": "Audrey Seymour Ramberg : They received significant funding from the City of Mountain View to support rent relief to residents during the pandemic, and they are also our contract partner to administer the City's Guaranteed Basic Income pilot program.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Dawn Cameron",
+          "text": "Dawn Cameron will contact AT&T about New Frontier Mobile Home Park internet service and assist with any required excavation permit submission.",
+          "source": "Dawn Cameron : We are now reaching out to AT&T to ask them about this and see if there is something we can do to help them submit their permit.",
+          "from_gt": "gt1",
+          "validation_note": "modified"
+        },
+        {
+          "assignee": "Lorenzo Lopez",
+          "text": "Lorenzo Lopez will inspect the Sullivan/237 area for faded striping and missing signage and consider enhancements; Police will handle enforcement.",
+          "source": "Lorenzo Lopez : We... can go out to this site and look at if there's any striping enhancements we can do... We could also look at some signage... and then as far as the enforcement goes... I'll hand that over to the Police Department.",
+          "from_gt": "gt1",
+          "validation_note": "modified"
+        },
+        {
+          "assignee": "John Marchant",
+          "text": "John Marchant will reconvene the North Bayshore stakeholder group prior to the next concert season to discuss concert traffic issues.",
+          "source": "John Marchant : ...we can look at bringing that back prior to the next concert season and engaging that group once again that we can have a conversation.",
+          "from_gt": "gt1",
+          "validation_note": "modified"
+        },
+        {
+          "assignee": "Lorenzo Lopez",
+          "text": "Lorenzo Lopez will revisit the Sahara Mobile Park driveway safety on El Camino and coordinate with Caltrans on feasible improvements.",
+          "source": "Lorenzo Lopez : ...it is something that we would have to go back out and really determine what's out there... and then contacting Caltrans.",
+          "from_gt": "gt1",
+          "validation_note": "modified"
+        },
+        {
+          "assignee": "Micaela Hellman-Tincher",
+          "text": "Micaela Hellman-Tincher will share Rebuilding Together's grant application information and encourage them to apply in December.",
+          "source": "Micaela Hellman-Tincher : ...I'll be sharing with them the information about how to apply.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 12,
+      "kept": 8,
+      "modified": 4,
+      "dropped": 0,
+      "from_gt1_kept": 8,
+      "from_gt2_kept": 4
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:36:34.230483+00:00"
+  }
+}

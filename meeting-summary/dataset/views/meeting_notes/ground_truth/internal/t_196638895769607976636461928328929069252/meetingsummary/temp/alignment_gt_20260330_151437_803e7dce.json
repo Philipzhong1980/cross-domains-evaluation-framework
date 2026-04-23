@@ -1,0 +1,311 @@
+{
+  "result": {
+    "total_aligned_gt": {
+      "meeting_context": "The Performing Arts Committee met to approve prior minutes, receive staff and subcommittee updates, and conduct Peninsula Youth Theatre's annual review covering operations, finances, and outreach. The committee also discussed future booking avenues, upcoming council recognition, and scheduled the next meeting's home company presentations.",
+      "participants": [
+        "Sukanya Kumar",
+        "Noelle Magner",
+        "John Marchant",
+        "John McAlister",
+        "Theresa Yvonne",
+        "Yao",
+        "Carol Donahue",
+        "Connor Day"
+      ],
+      "topics": [
+        {
+          "topic": "Minutes correction and approval",
+          "points": [
+            {
+              "speaker": "John McAlister",
+              "text": "McAlister abstained from minutes approval vote due to absence from previous meeting.",
+              "source": "John McAlister : Since I wasn't there, I'll abstain."
+            }
+          ]
+        },
+        {
+          "topic": "Film Festival subcommittee status",
+          "points": [
+            {
+              "speaker": "Sukanya Kumar",
+              "text": "Sukanya Kumar reported the Film Festival subcommittee met with Chair Donahue and Theresa Yvonne, has an approximate timeline pending specific dates and scope, and is not ready to present. The subcommittee plans to deliver its report at the next PAC meeting.",
+              "source": "Sukanya Kumar : We do have to update that we had a meeting with Chair Donahue as well as Teresa about the potential for the Film Festival. We have approximate timeline in place waiting for dates, specific dates, as well as discussions about what exactly we. Will be able to do."
+            },
+            {
+              "speaker": "Theresa Yvonne",
+              "text": "Theresa Yvonne will prepare a detailed budget summarizing the first film festival's expenditures and estimated costs for the planned event, enabling the committee to determine next steps based on cost information.",
+              "source": "Theresa Yvonne : I will be putting together a very detailed budget of what was spent on the first Film Festival that was successful and estimated costs for the one that's being planned right now so that the committee can make a determination based on that information, yes."
+            }
+          ]
+        },
+        {
+          "topic": "PYT financials and charges clarified",
+          "points": [
+            {
+              "speaker": "Theresa Yvonne",
+              "text": "Theresa Yvonne clarified totals: $73,816 in revenues includes $9,910 in facility use fees paid by patrons; Peninsula Youth Theatre paid $63,906.88 in rent and facility fees. General overhead (utilities, janitorial) is excluded; labor is billed at cost plus 20% per the master fee schedule.",
+              "source": "Theresa Yvonne : So the total amount that that Peninsula Youth Theater paid in rent or in facility fees is 63,906 and $0.88"
+            },
+            {
+              "speaker": "John Marchant",
+              "text": "Responding to requests for broader financial context, John Marchant said staff will revise the financial document to more closely resemble a typical financial spreadsheet and provide updated versions at the next meeting for other home companies and an updated PYT version.",
+              "source": "John Marchant : this is a document that has been historically used and Theresa and I are going to be modifying this so that it looks more similar to a typical financial spreadsheet"
+            }
+          ]
+        },
+        {
+          "topic": "PYT programs and outreach update",
+          "points": [
+            {
+              "speaker": "Connor Day",
+              "text": "School outreach restarted at about eight schools last season and has expanded to 14 schools this fall, including a restart at Bub Elementary, using the School Play in a Box model that supplies scripts, materials, and support for on-site productions.",
+              "source": "Connor Day : However, that being said, we were still able to start and restart programs at about 8 schools last season... This year, we have increased those numbers. We're restarting a program at Bub Elementary in particular, but we actually have 14 other schools that we're serving this fall"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "All seven Stories on Stage school shows for current year are completely sold out to schools, with strong attendance from Mountain View, Cupertino, Sunnyvale and Los Altos areas.",
+              "source": "Connor Day : all seven of our titles for this year at least the school shows are completely sold out to schools"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Summer camps (Theatre in the Park) fully returned in 2022, serving about 600 campers—approximately 80% of 2019 attendance and above expectations. Most sessions required vaccination and masking; limited sessions without vaccine requirements saw low enrollment, and only one such session ran.",
+              "source": "Connor Day : overall throughout 2022 we ended up serving about 600 campers which was about 80% of our 2019 attendance"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Organization received $300,000 SBA loan during pandemic that remains unused as reserve cushion, with gradual repayment initiated.",
+              "source": "Connor Day : we also during the pandemic we received a pretty large SBA loan, but that we haven't even used. It's just been sitting in just reserve as backup... It was about $300,000 that we received"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Current policy recommends but does not require masks for audiences, while maintaining masking requirements for studio rehearsals.",
+              "source": "Connor Day : So currently for audiences we are recommending but not requiring masks to attend shows. We are still requiring masking inside our studio for rehearsals"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Key challenges include rebuilding audiences—Stories on Stage general audiences were roughly 40–70 last year but are improving—and rebuilding the pool of technical staff after pandemic attrition; PYT is increasing wages where possible and documenting volunteer labor to assess sustainability.",
+              "source": "Connor Day : I think rebuilding our audiences especially for SOS... another occasional piece is that we lost a lot of connections to folks who had worked for us to do technical work on our shows"
+            }
+          ]
+        },
+        {
+          "topic": "Booking acts exploration and conferences",
+          "points": [
+            {
+              "speaker": "John McAlister",
+              "text": "John McAlister requested the Executive Director explore options for booking acts and investigate major industry events, then report back with potential shows and alternatives as the committee reviews home companies and the center's programming direction.",
+              "source": "John McAlister : I'd like to be able to explore the ability that our Executive Director would look into possibly attending one of these events to just see what's out there and come back to us and say you know here's here's something to consider"
+            },
+            {
+              "speaker": "Theresa Yvonne",
+              "text": "Theresa Yvonne outlined APAP (New York, early January) and Western Arts Alliance (August/September) conferences, suggesting WAA is more appropriate for the venue. She will contact agents to learn which artists are touring and fee ranges and bring preliminary background information to the committee.",
+              "source": "Theresa Yvonne : The smaller conference is called the Western Arts Alliance and that's for the Western United States and that's usually in August or September of every year"
+            }
+          ]
+        },
+        {
+          "topic": "Staff announcements and next meeting",
+          "points": [
+            {
+              "speaker": "Theresa Yvonne",
+              "text": "Theresa Yvonne announced the National Arts and Humanities Proclamation will go to City Council next Tuesday and she will accept it on the committee's behalf. She will confirm the agenda timing and email details to the group.",
+              "source": "Theresa Yvonne : The National Arts and Humanities Proclamation will go to council next Tuesday, and I'll be accepting that on behalf of the committee at the meeting"
+            },
+            {
+              "speaker": "Carol Donahue",
+              "text": "The next Performing Arts Committee meeting will be held November 16, 2022 at 6:15 PM via video conference, with additional home company presentations. TheatreWorks and Upstage are scheduled to present, and members were encouraged to attend.",
+              "source": "Carol Donahue : the next performing Arts meeting committee meeting will be held on November 16th, 2022 at 6:15 PM... Theresa Yvonne : We'll have Theater Works and Upstage next month"
+            },
+            {
+              "speaker": "Carol Donahue",
+              "text": "Carol Donahue thanked the city for hosting a volunteer appreciation event, noting that she and Sukanya Kumar attended and used the opportunity to connect with members of other committees.",
+              "source": "Carol Donahue : Well, I guess I'd like to thank the the city for its volunteer appreciation event last Monday. Sukanya and I had a nice time"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Noelle Magner",
+          "text": "Noelle Magner will work with the City Clerk to correct 'Vice Chair' in the minutes and bring a revised version to the next meeting.",
+          "source": "Noelle Magner : Let me contact our City Clerk's office and I can go ahead and have that updated and I'll do a revised version of this and bring it to the next meeting"
+        },
+        {
+          "assignee": "Theresa Yvonne",
+          "text": "Theresa Yvonne will prepare a detailed budget of prior festival costs and estimated costs for the planned festival to inform committee decisions.",
+          "source": "Theresa Yvonne : I will be putting together a very detailed budget of what was spent on the first Film Festival that was successful and estimated costs for the one that's being planned right now"
+        },
+        {
+          "assignee": "Theresa Yvonne and John Marchant",
+          "text": "Theresa Yvonne and John Marchant will revise the financial spreadsheet format and provide updated versions at the next PAC meeting.",
+          "source": "John Marchant : this is a document that has been historically used and Theresa and I are going to be modifying this so that it looks more similar to a typical financial spreadsheet"
+        },
+        {
+          "assignee": "Theresa Yvonne",
+          "text": "Theresa Yvonne will contact agents to gather artist rosters, touring status, and fee ranges and report back to the committee.",
+          "source": "Theresa Yvonne : I can bring back more information for the committee to look at that... I could reach out to an agent and say, OK, who's who's back out, what's going on?"
+        }
+      ]
+    },
+    "single_aligned_gt": {
+      "topics": [
+        {
+          "topic": "Minutes correction and approval",
+          "points": [
+            {
+              "speaker": "Noelle Magner",
+              "text": "Noelle Magner stated the minutes should identify Sukanya Kumar as Vice Chair rather than committee member. She will coordinate with the City Clerk to update the document and bring a revised version to the next meeting for approval.",
+              "source": "Noelle Magner : Let me contact our City Clerk's office and I can go ahead and have that updated and I'll do a revised version of this and bring it to the next meeting.",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Sukanya Kumar",
+              "text": "The committee approved the prior minutes with the Vice Chair correction after confirming no public comment. Motion by John McAlister, seconded by Sukanya Kumar; roll call votes: Kumar yes, Yao yes, McAlister abstained due to absence.",
+              "source": "John McAlister : I make a motion that we approve the Minutes.",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "PYT financials and charges clarified",
+          "points": [
+            {
+              "speaker": "Noelle Magner",
+              "text": "Noelle Magner explained the spreadsheet abbreviations (MS mainstage, SSS second stage, APS Park Stage, RS rehearsal stage). She distinguished rents/leases (stage fees) from the facility use fee charged to patrons and described receipt codes used for various company charges.",
+              "source": "Noelle Magner : If we're looking at the Ms. that stands for our mainstage. If we're looking at SSS stands for our second stage and you may see APS that stands for Park stage, Rs stands for our rehearsal stage.",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "John McAlister",
+              "text": "McAlister requested comprehensive CPA budget information including overhead costs and prior year budgets to better understand financial operations.",
+              "source": "John McAlister : I'm just trying to get a baseline idea how things are are done",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "PYT programs and outreach update",
+          "points": [
+            {
+              "speaker": "Connor Day",
+              "text": "Stories on Stage shifted to recorded virtual shows with Zoom talkbacks during the pandemic; spring 2022 school-day performances were canceled due to low interest. This season, school shows for all seven titles are sold out, and 'My Father's Dragon' sold out three performances.",
+              "source": "Connor Day : All seven of our titles for this year at least the school shows are completely sold out to schools.",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Mainstage demand rebounded: 'Descendants' drew the largest post‑pandemic crowds before 'Frozen' surpassed it. School shows for 'All Together Now' and 'Descendants' were canceled due to low interest; 'Fiddler' had two student group shows (98 and 78 attendees). 'SpongeBob' has 791 student group seats sold to date.",
+              "source": "Connor Day : we're really looking forward to the fall as we've already sold 791 as of today student group seats for SpongeBob, which is our upcoming musical.",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Financial updates: 2019 and 2020 IRS Form 990s were provided; 2021 taxes are still being finalized. Both PPP loans were forgiven. An approximately $300,000 SBA loan remains unused as a reserve and is being repaid slowly; new state performing arts grant funding was received.",
+              "source": "Connor Day : It was about $300,000 that we received. So that is sitting as our as our cushion in the bank.",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Health policies: masks are recommended (not required) for audiences; masks remain required in the studio; performers are unmasked on stage. Next year's camps will likely retain vaccination requirements with masks recommended. No COVID outbreaks were traced to PYT programs; parents were largely supportive.",
+              "source": "Connor Day : So currently for audiences we are recommending but not requiring masks to attend shows... I think for camp next year we probably will will continue with the vaccination policy, but not so much masking.",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Committee members were invited to attend upcoming shows. School performances for 'The Ugly Duckling' on November 4 are sold out; general admission matinees are on November 5. Producer complimentary tickets are available via Connor or the box office.",
+              "source": "Connor Day : We have producer comps for all of our shows... our November 5th Saturday matinees... The school shows... are completely sold out.",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Connor Day completed first full season as Director of Business Operations, presenting PYT's 30th operational season results.",
+              "source": "Connor Day : I presented to this committee last year for our review as a very, very green staff member, having only been with PYT for about 6 weeks at that time. Now I'm going on a year and six weeks",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "PYT received grants from local organizations including Kiwanis and Packard Foundation, plus new state Performing Arts Grant Program funding.",
+              "source": "Connor Day : support that we've received from a lot of local organizations including Kiwanis and the state and local foundations including Packard, who we've been awarded grants for this year",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "COVID continued affecting outreach programs with schools not ready for outside programming, though in-person classes and rehearsals resumed at studio.",
+              "source": "Connor Day : So for this season all all of our programs but especially our outreach programs unfortunately continued to be affected by COVID in one way or another",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Connor Day",
+              "text": "Summer camps required vaccination and masking for all campers, achieving strong enrollment despite safety requirements.",
+              "source": "Connor Day : we required all campers to be vaccinated and masked for all of camp, with the exception of a few sessions that we offered with a recommendation, but not a requirement",
+              "from_gt": "gt2"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Film Festival Subcommittee",
+          "text": "The Film Festival subcommittee will present its summary report to the full committee at the next PAC meeting.",
+          "source": "Sukanya Kumar : we will do that in the next pack meeting.",
+          "from_gt": "gt1"
+        },
+        {
+          "assignee": "Theresa Yvonne",
+          "text": "Theresa Yvonne will confirm the council agenda timing for the proclamation and email details to the committee.",
+          "source": "Theresa Yvonne : let me double check the agenda and then I can send that out to the group.",
+          "from_gt": "gt1"
+        },
+        {
+          "assignee": "Connor Day",
+          "text": "Connor will share presentation slides with committee email group after meeting conclusion.",
+          "source": "Connor Day : I'll share these slides out with with the e-mail group once I pop off",
+          "from_gt": "gt2"
+        }
+      ]
+    },
+    "needreview_gt": [
+      {
+        "id": "review_001",
+        "item_type": "point",
+        "issue_type": "equivalence_unclear",
+        "gt1_point": {
+          "text": "Minutes incorrectly listed committee member instead of vice chair in all places requiring correction.",
+          "source": "Sukanya Kumar : I did notice that in the minutes it does say committee member in all places. I don't know if it's routine to say vice chair or because there is chair Donahue, but then committee member, is that a correction or that's how it's supposed to be?",
+          "speaker": "Sukanya Kumar",
+          "location": "topics[0].points[0]"
+        },
+        "gt2_point": {
+          "text": "Noelle Magner stated the minutes should identify Sukanya Kumar as Vice Chair rather than committee member. She will coordinate with the City Clerk to update the document and bring a revised version to the next meeting for approval.",
+          "source": "Noelle Magner : Let me contact our City Clerk's office and I can go ahead and have that updated and I'll do a revised version of this and bring it to the next meeting.",
+          "speaker": "Noelle Magner",
+          "location": "topics[0].points[0]"
+        },
+        "question": "Are these two points describing the same discussion about correcting the minutes, or are they separate statements? GT2 attributes the correction statement to Noelle Magner while GT1 attributes the question to Sukanya Kumar.",
+        "merge_if_valid": "If they are part of the same discussion, merge as: 'Sukanya Kumar noted the minutes incorrectly listed committee member instead of vice chair. Noelle Magner stated she will coordinate with the City Clerk to update the document and bring a revised version to the next meeting for approval.'"
+      }
+    ],
+    "merge_stats": {
+      "total_aligned_points": 9,
+      "total_aligned_decisions": 4,
+      "single_aligned_points_from_gt1": 9,
+      "single_aligned_points_from_gt2": 4,
+      "single_aligned_decisions_from_gt1": 2,
+      "single_aligned_decisions_from_gt2": 1,
+      "points_need_review": 1,
+      "decisions_need_review": 0,
+      "total_output_points": 23,
+      "total_output_decisions": 7,
+      "confidence_level": "high",
+      "notes": "High-quality merge with strong consensus between GTs. Most points aligned well semantically. Only one point needed review due to unclear speaker attribution for the same discussion topic. Both GTs covered the meeting comprehensively with complementary details."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_alignment/generation_alignment",
+    "prompt_version": "v3",
+    "prompt_fingerprint": "fae28f5dd5207c57cdcd5bc1a3c29bc286c4fd8b12a9eae99e41969f0bebb744",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-30T07:14:37.307091+00:00"
+  }
+}

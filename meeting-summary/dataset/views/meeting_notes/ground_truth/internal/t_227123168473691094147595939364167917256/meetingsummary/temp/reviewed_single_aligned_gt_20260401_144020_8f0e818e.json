@@ -1,0 +1,155 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Meeting administration and attendance",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "Annette Lin announced the meeting was conducted under California Government Code 54953(e) with no physical location; all commissioners participated by videoconference, and public comments were accepted via Zoom. Emails received by 5:00 PM were forwarded to the Commission.",
+              "source": "Annette Lin : All members of the HRC will participate in the meeting by video conference with no physical meeting location.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Policy principles and recommendations",
+          "points": [
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "Staff proposed principles to align expenditures with Consolidated Plan goals, administer capital funds flexibly (e.g., direct allocations such as the Crestview conversion or competitive NOFAs), and establish minimum funding thresholds due to federal reporting and monitoring burdens for recipients and the City.",
+              "source": "Harsha Ramchandani : The first principle is that all expenditures should fund activities that further the goals of the City's consolidated plan... staff recommends analyzing the best use and method of allocating the capital funds on an annual basis.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "For public services, staff recommended a $7,500 minimum request for CDBG grants (with a $5,000 hard floor), and applying the same threshold to General Fund public service grants under Council Policy A-8, balancing administrative burden and broad demand for limited funds.",
+              "source": "Harsha Ramchandani : The hard minimum is $5000. Staff commends a grant request of 7500 for the CDBG Public Services grants and per Council policy A8. This threshold would also apply for the General Fund Public Service Grants.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Affordable housing pipeline and funding",
+          "points": [
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "On the $30,000 minor home repair set-aside, staff said the amount reflects nonprofit demand estimates and capacity; they plan to reintroduce and publicize the program, monitor uptake, and adjust funding in future years if demand proves higher to avoid unspent funds penalties.",
+              "source": "Michaela Helman-Tincher : ...we did reach out to some nonprofits... that's how we came up with the 30,000 recommendation... bring back the program, get the word out and if we see that the demand is high, we can adjust it next year as well.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "Staff noted many recommendations formalize existing practice while preserving discretion. Exceptions (e.g., capital requests below $300,000) may be considered case by case, and NOFAs can state HRC/Council discretion alongside published evaluation criteria to be summarized for HRC in March.",
+              "source": "Michaela Helman-Tincher : ...at the discretion of the HRC and and City Council, you know there, there may be exceptions.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "City has four affordable housing projects currently approved by Council to move forward, with two more likely in next year.",
+              "source": "Michaela Helman-Tincher : We have, I believe, have to count think 4 projects that are currently approved by the council to move forward",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "City anticipates funding gap for affordable housing pipeline and Council recently approved funding for Terra Bella housing development.",
+              "source": "Michaela Helman-Tincher : we do anticipate A funding gap for our pipeline at large",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Subcommittee updates",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "The Mental Health project subcommittee has not met and had no updates to report at this meeting.",
+              "source": "Annette Lin : ...we do have another subcommittee from the mental health project, but they haven't. My understanding is they haven't met yet.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Julie Solomon",
+              "text": "Three community members are interested in being interviewed about housing instability experiences, with contact information provided to staff.",
+              "source": "Julie Solomon : there are three members of the community who would be interested potentially to be interviewed together and share their stories together about housing instability",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Events and meeting format",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "Library events include an online talk with Kwame Christian on November 15 at 9:00 AM (registration required) and an in-person film screening on James Baldwin's work on November 19 at 3:00 PM (no advance registration).",
+              "source": "Laurel James : ...author conversation with Kwame Christian... Tuesday, November 15th at 9:00 AM... and the 2nd is a film screening about James Baldwin's work on Saturday, November 19th at 3:00 PM.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Recognition and meeting closure",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "Annette Lin thanked housing staff for their presentation and Q&A. Commissioners expressed appreciation for Annette Lin's service and wished her well as she relocates. The meeting adjourned, with the next regular HRC meeting scheduled for December 1, 2022 at 6:00 PM.",
+              "source": "Annette Lin : I'd like to thank staff for for giving this great presentation... I will go ahead and adjourn to the next regular meeting... December 1st, 2022 at six.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Commissioners",
+              "text": "Commissioners thanked Chair Lin for her service and contributions to the city, wishing her well in her move to San Mateo.",
+              "source": "Jill Rakestraw : thank you for everything you've done for the city and I hope that you enjoy your new home outside Mountain View",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Bystander Intervention Subcommittee",
+          "text": "Subcommittee will meet tomorrow to discuss existing community resources and program explanations.",
+          "source": "Jill Rakestraw : We have our next meeting tomorrow",
+          "from_gt": "gt2",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Housing and Security Subcommittee",
+          "text": "Subcommittee will reconvene in couple weeks to develop framework for housing security project.",
+          "source": "Xavier Webb : We're going to get back together in a couple more weeks to try and keep keep hashing it out to to try and get something, some kind of framework around it",
+          "from_gt": "gt2",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 10,
+      "kept": 9,
+      "modified": 1,
+      "dropped": 0,
+      "from_gt1_kept": 5,
+      "from_gt2_kept": 5
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:40:20.325381+00:00"
+  }
+}

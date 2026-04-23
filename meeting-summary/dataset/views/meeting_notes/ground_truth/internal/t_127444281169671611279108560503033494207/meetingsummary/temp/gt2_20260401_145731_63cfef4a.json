@@ -1,0 +1,217 @@
+{
+  "result": {
+    "meeting_context": "This was a Mountain View City Council Finance Committee and Investment Review Committee meeting focused on reviewing the city's investment portfolio performance and policy. The meeting included a presentation by Chandler Asset Management on portfolio status and economic conditions, followed by staff presentation of the draft fiscal year 2021-22 Investment Review Committee report.",
+    "participants": [
+      "Sally Lieber",
+      "Lisa Matichak",
+      "Jesse Takahashi",
+      "Carlos Oblites",
+      "Victoria Labrador",
+      "Douglaas Radtke",
+      "Steven Permut",
+      "Tyler Cook"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Administration and Minutes Approval",
+        "points": [
+          {
+            "speaker": "Sally Lieber",
+            "text": "Meeting held in accordance with California Government Code Section 54953 E with all members participating by video conference and no physical location.",
+            "source": "Sally Lieber : This meeting is being held in accordance with California Government Code Section 54953 E as authorized by resolution"
+          },
+          {
+            "speaker": "Jesse Takahashi",
+            "text": "September 21st 2021 meeting minutes showed 3-0 vote due to committee vacancy and Steven Permut not being counted in initial roll call despite attending.",
+            "source": "Jesse Takahashi : So what happened back then, Mr. Radke was not yet appointed. So we did have a vacancy on the committee back then in 20 October of 2020"
+          },
+          {
+            "speaker": "Lisa Matichak",
+            "text": "Committee unanimously approved September 21st 2021 meeting minutes after clarification of vote count discrepancy.",
+            "source": "Lisa Matichak : I'll make a motion that we approve the minutes as they stand"
+          }
+        ]
+      },
+      {
+        "topic": "Economic Environment and Federal Reserve Policy",
+        "points": [
+          {
+            "speaker": "Carlos Oblites",
+            "text": "US inflation reached 9.1% in June 2022, highest level since early Reagan era, declining to 8.1% by August.",
+            "source": "Carlos Oblites : Inflation as at least the the what we call the headline number, the number that encompasses all the changes as measured by CPI on the left. I'm looking at the line, the green line on the top on the left that reached 9.1% in June and and it came down in the month of July to 8.3, not much. And it came down to 8.1 at the end of August"
+          },
+          {
+            "speaker": "Carlos Oblites",
+            "text": "Federal Reserve raised target rate five times during fiscal year, from zero to 3.25% range, with 75 basis point increases in final three meetings.",
+            "source": "Carlos Oblites : They have raised the target rate for this for this chart on the right hand side five times the at the first clip they did 25 basis points. They raised it a quarter percent from zero. It was a zero to 25 basis point range, so zero to 25. They raised it 25 basis points, 1/4 of a percent the second time, 2nd, 3rd and 4th. The second they did 50. The 3rd, 4th and 5th, they did 75 basis points apiece"
+          },
+          {
+            "speaker": "Carlos Oblites",
+            "text": "Fed governors indicated rates will continue rising to approximately 4.5% target to combat persistent inflation.",
+            "source": "Carlos Oblites : Fed Governors Bostic and Kashkari and a couple others people that sit on the committee that sets the federal funds target rate have basically come out and said we're not done raising rates. Inflation is still too high. We think that this three and a quarter rate that that we set for for the federal funds target rate, we think we're going to be closer to 4 1/2"
+          },
+          {
+            "speaker": "Carlos Oblites",
+            "text": "Economy generated 315,000 jobs last month with prior months averaging 381,000 new jobs monthly, significantly above pre-COVID levels of 100,000-150,000.",
+            "source": "Carlos Oblites : Over the last month we generated 315,000 jobs and in the prior months before that we were averaging 381,000 jobs a month of new jobs created. A pre COVID, we were needing to generate somewhere around 100,000 to 150,000 jobs a month"
+          },
+          {
+            "speaker": "Carlos Oblites",
+            "text": "Unemployment rate currently at 3.7%, considered very low by economists, with job market showing two openings per job seeker.",
+            "source": "Carlos Oblites : The unemployment rate is currently at 3.7 percent. The the the that's that's considered very low unemployment by by most any economist"
+          }
+        ]
+      },
+      {
+        "topic": "Portfolio Performance and Interest Rate Impact",
+        "points": [
+          {
+            "speaker": "Carlos Oblites",
+            "text": "City's investment portfolio returned -3.38% for fiscal year 2022, driven by unrealized losses from rising interest rates despite positive interest income.",
+            "source": "Carlos Oblites : when we see the one year return at -338, if you're earning an average yield of somewhere around 1.4%, because that's just kind of what I averaged it out to be. If you're picking up interest income somewhere and you've averaged for the year somewhere around 1.4 but you ended up with a 3.4, well it tells you that the values on paper fell more than four or 5% to end up with a -3.38"
+          },
+          {
+            "speaker": "Carlos Oblites",
+            "text": "Portfolio yield to maturity increased from 1.3% three months ago to 1.52% through June 30th, with current market yield around 3.5%.",
+            "source": "Carlos Oblites : Right now the yield to maturity of the portfolio, that's the annualized effective earnings rate for the coming year. Right now that you're set up to earn, the way that you have the portfolio is 1.52% three months ago, this is through June 30th, 3 months ago that number was was 1.3"
+          },
+          {
+            "speaker": "Carlos Oblites",
+            "text": "Two-year Treasury yields rose from 0.7% at beginning of year to peak of 4.3-4.4%, currently at 4.28%.",
+            "source": "Carlos Oblites : So at any point they had you purchase them along this line, the the, the bottom line would have been buying something for two, you know, and putting your money in and earning for two years, for five years, for 10 years. And you can see that for two year treasuries we began the year right around here are at around 70 basis points, .7%. That rate reached 4.3, almost 4.4% at its peak. It's down to about 44.254.28 today"
+          },
+          {
+            "speaker": "Tyler Cook",
+            "text": "City's portfolio earned average earnings rate of 1.3% for fiscal year 2022, reflecting low interest rate environment during COVID when investments were purchased.",
+            "source": "Tyler Cook : This table calculates an average earnings rate. So basically we take the the interest that's the portfolio earned throughout the fiscal year compared to the average size of the portfolio and we get this average earnings rate of 1.3%. Of course that's pretty low but that's because of all the the investments that we purchased throughout COVID when the interest rates were were quite low as well"
+          }
+        ]
+      },
+      {
+        "topic": "Portfolio Composition and Management",
+        "points": [
+          {
+            "speaker": "Carlos Oblites",
+            "text": "Total investment program worth approximately $930 million with portfolio averaging AA to AAA credit rating and 1.89 years average maturity.",
+            "source": "Carlos Oblites : So your earnings are going up right now, you're averaging A, AA, AA, AAA rating and the entire investment program is worth about almost $930 million"
+          },
+          {
+            "speaker": "Carlos Oblites",
+            "text": "Corporate credit component increased from 6.2% to 7.3% of portfolio, with city policy limiting corporate exposure to 15% versus California code allowance of 30%.",
+            "source": "Tyler Cook : Also Carlos talked quite a bit about that just by calling your attention to this, the corporate portion, 7.3% last year that that number was 6.2%. So as as Carlos indicated, they've been able to increase that portion of our portfolio over the course of the last of the last year as well"
+          },
+          {
+            "speaker": "Tyler Cook",
+            "text": "Portfolio size grew from $306.9 million in 2013 to $841.9 million ending June 30th 2022, with general fund representing $192.7 million or 19.8%.",
+            "source": "Tyler Cook : This table also shows you can see how the the portfolio size of the portfolio has grown over the last 10 years 306.9 million in 2013 up to 841.9 million ending June 30th of 2022, a pretty significant rise there"
+          },
+          {
+            "speaker": "Carlos Oblites",
+            "text": "City maintains 21% of portfolio in securities maturing within three months, providing ample liquidity for operations.",
+            "source": "Carlos Oblites : You can see that the city maintains ample liquidity. 21% of its money through June 30th was coming due within the next three months"
+          }
+        ]
+      },
+      {
+        "topic": "New Investment Opportunities and Policy Changes",
+        "points": [
+          {
+            "speaker": "Carlos Oblites",
+            "text": "SEC changed qualified institutional buyer definition to include local governments with $100 million+ investable assets, allowing access to previously restricted securities.",
+            "source": "Carlos Oblites : The Securities and Exchange Commission changed their definition of what will they call a qualified institutional buyer, AQIB, qualified institutional buyer generally. In the past, local governments were excluded from that definition. The Securities and Exchange Commission went through a study. Where they've solicited feedback from various parties and changed the definition of qualified institutional buyer. And they now have included local governments that have investable assets of $100 million or more"
+          },
+          {
+            "speaker": "Carlos Oblites",
+            "text": "Portfolio added New York Life Global Funding (AAA rated, 0.31% of portfolio) and MetLife (0.29% of portfolio) as 144A private placement securities.",
+            "source": "Carlos Oblites : The two securities that we purchased are this New York like funding and MetLife. These these two, one of the the New York, both of them are AA rated or higher. The New York Life is actually AAA rated by by Moody's I believe"
+          },
+          {
+            "speaker": "Steven Permut",
+            "text": "Committee should consider establishing aggregate percentage cap on 144A private placement securities to prevent excessive concentration.",
+            "source": "Steven Permut : That might be something as a committee we might want to consider in the future putting a total percentage cap on 144A securities"
+          }
+        ]
+      },
+      {
+        "topic": "Risk Management and Conservative Approach",
+        "points": [
+          {
+            "speaker": "Steven Permut",
+            "text": "Conservative portfolio approach limited unrealized losses to $27 million and negative 3% return, which would have been significantly worse with longer duration or lower credit quality.",
+            "source": "Steven Permut : I think it's worth just being aware and and noting for the minutes that the loss which is unrealized of $27 million, which is a lot of money, but it's unrealized. And the negative total return of roughly 3%, which is one of the higher negative total returns I've seen since I've been on the committee, would have been a lot worse if we had not been conservative"
+          },
+          {
+            "speaker": "Carlos Oblites",
+            "text": "City's long-term portfolio performance averaged 3.29% annually since 1995, encompassing period when interest rates were below 1% for approximately 10 years.",
+            "source": "Carlos Oblites : The the city's portfolio, the city managed portfolio has been generating 329 per year since 1995. You've been averaging 329 which is great. This encompasses a period of about 10 years when interest rates were below 1%"
+          },
+          {
+            "speaker": "Tyler Cook",
+            "text": "No violations of investment policy occurred during fiscal year regarding duration requirements, diversification, safety, or quality standards.",
+            "source": "Tyler Cook : There were no violations of the investment policy throughout the fiscal year, whether in terms of duration requirements, diversification or safety or quality"
+          }
+        ]
+      },
+      {
+        "topic": "Shoreline Bond Refinancing Discussion",
+        "points": [
+          {
+            "speaker": "Jesse Takahashi",
+            "text": "City is proceeding with Shoreline bond refinancing as private placement despite interest rate increases, with council approval expected in November.",
+            "source": "Jesse Takahashi : we actually are in the process of refinancing as we speak and actually just circulated a request for proposals to to the market. Interesting, we had a discussion on private placements. We are actually contemplating doing this as a private placement for this particular set of bonds despite the increase in interest rates"
+          },
+          {
+            "speaker": "Jesse Takahashi",
+            "text": "All 2011 Shoreline bonds (callable after August 2021, maturing through 2040) will be called in refinancing, creating two-edged impact as city holds some bonds in portfolio.",
+            "source": "Jesse Takahashi : For the 2011, I think they actually go out to like 2040 on the 2011 shoreline bonds. So yeah, they will all be called or they were callable after August of last for this past year"
+          }
+        ]
+      },
+      {
+        "topic": "Committee Operations and Recognition",
+        "points": [
+          {
+            "speaker": "Lisa Matichak",
+            "text": "Committee member expressed appreciation for monthly investment reports and regular financial updates from staff.",
+            "source": "Lisa Matichak : I do want to say I appreciate the monthly reports. I do look at them. So thanks for sending those out"
+          },
+          {
+            "speaker": "Sally Lieber",
+            "text": "Chair thanked Councilmember Matichak, Mayor, and staff for sending letter to CalPERS urging divestment from carbon-related investments.",
+            "source": "Sally Lieber : I wanted to doff my virtual hat to Councilmember Matichak and to the Mayor for and also to staff Mr. Takahashi for getting a letter out to Leif urging divestment from carbon related investments"
+          },
+          {
+            "speaker": "Jesse Takahashi",
+            "text": "Staff confirmed upcoming city celebration event next week with committee members Steven and Doug planning to attend in person.",
+            "source": "Jesse Takahashi : Just one more, I just wanted to confirm. I think we have our celebration next week and I believe our two members, Steven and Doug are gonna be there"
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Committee",
+        "text": "Committee unanimously approved September 21st 2021 meeting minutes after clarification of vote count discrepancy.",
+        "source": "Lisa Matichak : I'll make a motion that we approve the minutes as they stand"
+      },
+      {
+        "assignee": "Jesse Takahashi",
+        "text": "City will proceed with Shoreline bond refinancing with council approval expected in November and closing shortly thereafter.",
+        "source": "Jesse Takahashi : And so we're trying to get that done and actually should be coming back to council in November for the final approval and we expect to close also shortly thereafter in November"
+      }
+    ],
+    "metadata": {
+      "topicCount": 8,
+      "pointCount": 27,
+      "decisionCount": 2
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:57:31.983535+00:00"
+  }
+}

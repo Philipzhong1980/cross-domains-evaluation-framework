@@ -1,0 +1,240 @@
+{
+  "result": {
+    "meeting_context": "City Visual Arts Committee reviewed minutes, public art project updates, and the annual work plan; discussed upcoming September agenda items and a robust set of public art strategy initiatives. The committee also advanced public art inventory/mapping efforts, considered economic impact data to support strategy, and aligned the 2024 Center for Performing Arts (CPA) gallery call and schedule.",
+    "participants": [
+      "John Lang",
+      "Jesse Cupp",
+      "Cliff Grant",
+      "Susi Merhar",
+      "Susie Merhar",
+      "Regina cycles",
+      "Regina Cycles",
+      "Regina Sekos",
+      "Naya",
+      "Jasmin Aber",
+      "John Long"
+    ],
+    "topics": [
+      {
+        "topic": "Approval of prior minutes",
+        "points": [
+          {
+            "speaker": "Jesse Cupp",
+            "text": "Meeting minutes were approved unanimously following a motion by Cliff Grant and a second by Jesse Cupp. John Lang noted that explicit motion/second restatements are not required during recorded meetings because the audio record provides attribution for the vote.",
+            "source": "Jesse Cupp : OK, unanimous."
+          }
+        ]
+      },
+      {
+        "topic": "North Bayshore community space alignment",
+        "points": [
+          {
+            "speaker": "Susi Merhar",
+            "text": "The North Bayshore Master Plan was approved and includes 55,000 square feet for community spaces. Susi Merhar proposed proactively aligning the Visual Arts Strategy to recommend artist studios, galleries, and makerspaces. John Lang confirmed nothing is decided yet and a process will determine specific uses.",
+            "source": "Susi Merhar : Maste plan was approved, right. And I read that there's 55,000 square feet for. Community spaces. ... if we should kind of [recommend] artist spaces, gallery, makerspace."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "John Lang suggested capturing broader policy recommendations so development review can designate arts-related community spaces. He flagged this as an upcoming discussion and linked it to later strategy item 6.4, noting the opportunity to embed guidance into review processes.",
+            "source": "John Lang : ...capturing either policies or recommendations that become part of that development review process that would allow for spaces to be designated as such."
+          }
+        ]
+      },
+      {
+        "topic": "September agenda preview and scheduling",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "September agenda will include: Public Works briefing on Castro Street interim pedestrian mall street treatments; Evelyn Mini Park call for artists; transit grade separation art second-round evaluations; and Rengstorff Park tennis/maintenance building mural concepts narrowing, with artists invited to present.",
+            "source": "John Lang : ...two items... street treatment of Castro Street... And then two will be the Evelyn Mini park call for artists... transit grade separation... and... rank store tennis and maintenance buildings... VAC is going to narrow down a concept."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Given the heavy September workload, the committee may consider an August meeting or two September meetings. John Lang acknowledged the need to keep meetings functional and will explore options, but no scheduling decision was made at this time.",
+            "source": "John Lang : ...happy to explore that... let's put a pin in that... I'd like to be functional"
+          }
+        ]
+      },
+      {
+        "topic": "CIP public art project updates",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Aquatic Center: No new update. Public Works engineering continues coordinating with all three selected artists to prepare their projects for installation. No timeline changes were reported.",
+            "source": "John Lang : ...Aquatic Center, not any new update there. Public works engineer continues to work with all three artists on getting their projects prepped for installation."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Fayette Park: Artist Colin Seelig has completed all three functional art pieces (including a squirrel and a lizard) and is ready to install. The City is finishing pad preparation to enable installation in the park.",
+            "source": "John Lang : ...Colin Seelig... has now completed all three of the functional art pieces and he's actually ready to install. So we're just on the City side trying to wrap up the pads to get this installed in the park."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Rengstorff Park maintenance and tennis buildings: Agreements with artists Fernanda and Harumo are executed. Each was asked to produce three concept renderings for September committee consideration, with small stipends provided. Artists are expected to attend and present.",
+            "source": "John Lang : ...agreements with Fernanda and Harumo have been executed and have asked them to complete 3 concept designs for consideration at your September meeting... This was a small stipend for them to do the renderings."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Transit Grade Separation Access Project: Five of six artists are under contract; the sixth has a W-9 issue being resolved but can meet the deadline. Deliverables (renderings or 3D models) are due July 21, after which Public Works will pre-screen; the committee will score and discuss selections in September.",
+            "source": "John Lang : Five of the six artists are under contract... they have till July 21st... renderings... or 3D model... I'll ask [Public Works] to screen it first. And then out to the committee."
+          }
+        ]
+      },
+      {
+        "topic": "Public art inventory and mapping",
+        "points": [
+          {
+            "speaker": "Susi Merhar",
+            "text": "The subcommittee is updating a comprehensive inventory of public and publicly accessible private artworks, reorganized by year. Notable clusters were documented around Google’s Charleston East campus, including six Burning Man sculptures, with ongoing neighborhood walks and photo documentation.",
+            "source": "Susi Merhar : ...our inventory... I ordered by year... take a walk around shoreline... they worked with the Burning Man people and got 6 sculptures close to each other around their new Charleston East building."
+          },
+          {
+            "speaker": "Cliff Grant",
+            "text": "Two previously cataloged artworks were found missing, including a city-commissioned piece reported disappeared around 1997, and another likely relocated during construction near Google. This gap underscores the need for a formal deaccession process and clearer handling of private art relocations.",
+            "source": "Cliff Grant : ...I didn't find 2 pieces... the artist... said by 1997 it had gone... there was another piece... on the Google buildings no longer there... may have been moved... underscores... de assessing policy."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Next steps: John Lang will work with the City’s GIS team to update the online map using the spreadsheet, explore modern ArcGIS StoryMaps and trail overlays, and consider an intake process for future updates. The current public map was last updated in 2016; publication is planned after updates.",
+            "source": "John Lang : ...ask our GIS team... to update the... data layer... and... story maps... render that... As you heard... they've found quite a few pieces... the last time... updated was in 2016."
+          },
+          {
+            "speaker": "Cliff Grant",
+            "text": "Scope considerations include whether interior works (e.g., hospital hallways) are considered public art and coordinating with El Camino Hospital, which did not respond to public inquiry. The City will engage institutions directly before publishing interior works and clarify inclusion criteria.",
+            "source": "Cliff Grant : ...walking through El Camino... is that public art?... I wrote to them... I never got a response... John Lang : ...before we publish anything... the City can talk to El Camino."
+          }
+        ]
+      },
+      {
+        "topic": "Economic impact support for strategy",
+        "points": [
+          {
+            "speaker": "Jesse Cupp",
+            "text": "Research sources identified to quantify arts’ local economic impact: SV Creates’ 2021 study and Americans for the Arts AEP5 (2017), with AEP6 forthcoming. Plan is to use 2017 spending figures (e.g., $26.27 average per attendee, higher for non-residents) and local attendance to estimate impacts via the AEP calculator.",
+            "source": "Jesse Cupp : ...SV Creates... 2021... Americans for the Arts... 2017... average attendee spends $26.27 per person... plan to use 2017 numbers... and this is the calculator... to estimate... jobs, revenues, household income."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Staff will pair city event attendance data with conservative AEP metrics to communicate arts’ value (e.g., Art & Wine Festival, performances) and support adoption of the Public Art Strategy, acknowledging updated AEP6 data will refine estimates when released.",
+            "source": "John Lang : ...we can kind of plug this in... even just being conservative... use 2017 numbers... a way to frame the value of arts and culture... why it's time to do a public arts strategy."
+          }
+        ]
+      },
+      {
+        "topic": "Work plan update and approval",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Staff revised the annual work plan to specify the council study session timing for the Public Art Strategy; retitle and refocus the utility box program under Sidewalk Studio Phase 2; and clarify collaboration language with the Chamber. Edits primarily affected pages 3–5 of Attachment 1.",
+            "source": "John Lang : ...changes... one will be... when that would go to council... developing phase two of the sidewalk studio pilot program... there was some clean up elements... how we collaborate with the Chamber of Commerce."
+          },
+          {
+            "speaker": "Susi Merhar",
+            "text": "The committee adjusted Item 4 to emphasize promoting the Public Art Strategy, with milestones to update the 1996 public art book, refresh the online map, and update the website content. The work plan was then approved unanimously with this change.",
+            "source": "Susi Merhar : ...title... would work: Publish/promote the public art strategy... milestones would be... art book, map and possibly website... Jesse Cupp : It passes unanimously, OK."
+          }
+        ]
+      },
+      {
+        "topic": "Public art strategy initiatives discussion",
+        "points": [
+          {
+            "speaker": "Susi Merhar",
+            "text": "Members proposed expanding goals to explicitly include diversity, representation, public participation, and art appreciation, and to broaden collaboration beyond arts organizations to include businesses, schools, residents, and government bodies. They also emphasized inclusive artist selection reflecting community diversity.",
+            "source": "Susi Merhar : ...we're leaving out diversity... participation... and representation... pursue opportunities for collaboration with everybody... and make sure [selected art] has greater diversity."
+          },
+          {
+            "speaker": "Jesse Cupp",
+            "text": "Suggested initiative clarifications include: explicitly treating private percent-for-art; improving visibility via guided tours and the online map; recognizing trails, easements, and rights-of-way in siting; enabling interactive and temporary art events; and including public transit routes and a maintenance plan in the utility box program.",
+            "source": "Jesse Cupp : ...clarify... private development... improve visibility through guided tours, online map... include easements and trails... explore interactive... events... add public transit routes and a maintenance plan for utility boxes."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Funding flexibility will be explored, such as whether K5 (public project) art funds can be pooled or reallocated to higher-visibility locations, while noting in-lieu payments on private projects already create a flexible pool. Legal and policy feasibility will be vetted before codifying.",
+            "source": "John Lang : ...is there a way to take the public... K5 and move them someplace else... in-lieu... creates a pool... we need to vet this... you don't want something... if... not feasible."
+          },
+          {
+            "speaker": "Cliff Grant",
+            "text": "Next step agreed: the ad hoc committee will draft revised goals (and consider any vision alignment) for full committee review in September, while staff incorporates feedback and feasibility checks. This approach aims to accelerate revisions by giving the committee a concrete draft to refine.",
+            "source": "Cliff Grant : ...plan would be for... the ad hoc committee [to] work on a draft... we'll bring back then... review it in September."
+          }
+        ]
+      },
+      {
+        "topic": "CPA 2024 gallery call and schedule",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "To realign with CPA’s scheduling cycle, the 2024 gallery call for artists will proceed without a theme. Display space now includes the second floor for more pieces. Staff will return in October to finalize selections and restore a summer call timeline for future years.",
+            "source": "John Lang : ...do you want a theme or just do a call for artists?... The idea is we'll come back... in October to finalize... and then it'll be in basically the June timeframe in 2024 you'll do this again."
+          }
+        ]
+      },
+      {
+        "topic": "Public engagement and meeting closure",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "John Lang explained chat is disabled for decision-making meetings by City policy. He committed to email Jasmin Aber to connect offline and explain VAC processes and engagement options. The meeting adjourned at 8:14 PM.",
+            "source": "John Lang : ...chat is disabled... I'll send you my contact information... we should probably talk... Jesse Cupp : So then it is 814 and this meeting is adjourned."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Visual Arts Committee Ad Hoc Committee",
+        "text": "Draft revised public art goals (and consider vision alignment) for full committee discussion by the September meeting.",
+        "source": "Cliff Grant : ...plan would be for... the ad hoc committee [to] work on a draft... we'll bring back then... review it in September."
+      },
+      {
+        "assignee": "John Lang",
+        "text": "Coordinate with the GIS team to update the online public art map using the new inventory, explore StoryMaps and overlays, and prepare an updated public-facing map.",
+        "source": "John Lang : ...ask our GIS team... to update the... data layer... and... story maps... render that... so you have a sense of what it looks like today."
+      },
+      {
+        "assignee": "Public Works (pre-screen); Visual Arts Committee (score)",
+        "text": "Pre-screen transit grade separation art submissions, then circulate to the committee for scoring and discussion at the September meeting.",
+        "source": "John Lang : ...my intent is to have a public works review at first... I'll ask them to screen it first. And then out to the committee."
+      },
+      {
+        "assignee": "Selected artists (Transit Grade Separation)",
+        "text": "Submit renderings or 3D models for the transit grade separation art by July 21.",
+        "source": "John Lang : ...they have till July 21st... to come up with renderings... or... a 3D model."
+      },
+      {
+        "assignee": "Fernanda and Harumo",
+        "text": "Produce three mural concept designs each and present to the committee in September.",
+        "source": "John Lang : ...have asked them to complete 3 concept designs for consideration at your September meeting... Jesse Cupp : I've asked them to be here. To present the plan."
+      },
+      {
+        "assignee": "City staff",
+        "text": "Proceed with the 2024 CPA call for artists without a theme and return in October to finalize selections and align future calls to the summer schedule.",
+        "source": "John Lang : ...do you want a theme or just do a call for artists?... we'll come back... in October to finalize... and then it'll be... June timeframe... you'll do this again."
+      },
+      {
+        "assignee": "City staff",
+        "text": "Implement the approved annual work plan change to emphasize promoting the Public Art Strategy, including updating the 1996 art book, online map, and website.",
+        "source": "Jesse Cupp : I will make a motion to approve the work plan with that change... It passes unanimously, OK."
+      },
+      {
+        "assignee": "John Lang",
+        "text": "Email Jasmin Aber to arrange an offline discussion on VAC processes and engagement.",
+        "source": "John Lang : I believe I have your e-mail. I'll send you my contact information... we should probably talk."
+      }
+    ],
+    "metadata": {
+      "topicCount": 10,
+      "pointCount": 23,
+      "decisionCount": 8
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "openai",
+    "model": "gpt-5-2025-08-07",
+    "timestamp": "2026-04-01T06:25:38.817083+00:00"
+  }
+}

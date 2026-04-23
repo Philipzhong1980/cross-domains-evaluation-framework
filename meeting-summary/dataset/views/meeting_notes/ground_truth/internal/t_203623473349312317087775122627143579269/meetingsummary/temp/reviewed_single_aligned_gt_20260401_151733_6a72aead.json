@@ -1,0 +1,195 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Downtown development and planning updates",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "For the Robert Green Hope Street hotel, the planning entitlement expires November 27; without a building entitlement by then, the applicant must refile. Maravilla added the proposed office cap won't affect entitled projects, though a resubmittal could face Precise Plan updates.",
+              "source": "John Lang : ...planning entitlement does expire November 27th. If they don't secure their building entitlement, they will need to refile... / Edgar Maravilla : ...this new proposed cap on office space would not impact projects that are entitled... they may get caught up in the downtown Precise Plan phase one update...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Edgar Maravilla",
+              "text": "Three facade improvements (#9, #11, and #12) were removed from the list",
+              "source": "Edgar Maravilla : the changes that that happened on the facade improvements were #9, #11 and formally number 12 were removed from the list",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Castro Street pedestrian mall transition",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Staff is working to declutter Castro Street by removing tents and coordinating with businesses to collect broken or worn items as part of ongoing cleaning activities.",
+              "source": "John Lang : ...decluttering Castro a little bit. We've meant tents going away. We've been working with businesses to pick up some of the items... So we're trying to do some cleaning activity...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Vacancy analysis and potential policy tools",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Council will reopen the Downtown Precise Plan to review allowed uses and is considering 'carrots and sticks' such as vacancy registration or a vacancy tax, as part of the economic vitality strategy to address long-term vacancies.",
+              "source": "John Lang : ...the Precise plan is going to be opened up again... ability to implement policies to maybe incentivize property owners... carrots and sticks... as part of the economic vitality strategy is a vacancy tax or some vacancy registration.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Retail support and incentives agenda item",
+          "points": [
+            {
+              "speaker": "Mike Kasperzak",
+              "text": "After discussion about high tenant improvement costs and retail attrition, the chair directed staff to add a future agenda item on economic incentives, including possible retail grant programs, to encourage brick-and-mortar retail downtown.",
+              "source": "Mike Kasperzak : ...perhaps John, to add to the sort of list of things is a discussion of possible economic incentives including but not limited to like retail grant programs... we'll put that on the list...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Eric Cormier",
+              "text": "Retail businesses face challenges with tenant improvement costs, unlike office and industrial spaces",
+              "source": "Eric Cormier : Traditionally for retail businesses, the business owner is responsible for fronting the money for the build out the tenant improvements and that's not the case in office and industrial",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Pamela Baird",
+              "text": "Committee discussed potential retail grant programs and economic incentives to support downtown businesses",
+              "source": "Pamela Baird : I don't know if we have any of the redevelopment, not redevelopment, but the economic incentives from the federal government if that could be considered",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Pamela Baird",
+              "text": "Jennings Building kitchen store represents loss of potential large retail footprint downtown",
+              "source": "Pamela Baird : the Jennings Lock Museum building, Jennings Building that was recently permitted to have the kitchen store, you dessert story and that's one of the few large footprints in terms of potential retail",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Retail spaces have automatic incentive to stay retail due to no parking in lieu fee requirement",
+              "source": "John Lang : in theory it is cheaper to be retail because when you are retail, you don't have to pay the parking in lieu fee",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Community events and holiday programming",
+          "points": [
+            {
+              "speaker": "Kira Pascoe",
+              "text": "Retailers and service businesses are engaging to tell their stories during events, and the DBA will encourage extended hours and promotions around the tree lighting to drive dining and shopping before and after the ceremony.",
+              "source": "Kira Pascoe : ...the merchants who are coming... It is retailers and services... tell the community your story... / Kira Pascoe : ...downtown businesses are planning to extend hours or have things happening as well...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Maureen Grzn-Pieracci",
+              "text": "Holiday décor will include lighted elements in the 400–500 block medians and wreaths on alley archways (with past theft limiting replacements). Street tree lights are currently on and intended to remain on; no holiday pole banners are planned.",
+              "source": "Maureen Grzn-Pieracci : ...light up Penguins... 400 and 500 block... large wreaths... those alleyways... quite a few of them were stolen... / John Lang : They're, they're on. / Maureen Grzn-Pieracci : ...no [holiday] Pennant banners... over the 10,000 mark... bid process...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Maureen Grzn-Pieracci",
+              "text": "2023 recreation plans include Arbor Day on March 11 at Pioneer Park with interactive elements; KidStock on third Saturdays May–July; Concerts on the Plaza every Friday June–September (larger bands first Fridays); summer outdoor movie nights; National Night Out potentially downtown; and the biannual Multicultural Festival returning in 2024.",
+              "source": "Maureen Grzn-Pieracci : ...return of Arbor Day... March 11th in Pioneer Park... interactive... KidStock... 3rd Saturday... May, June and July... Concerts on the Plaza... every Friday, June through September... summer outdoor movie night series... National Night Out returning potentially downtown... biannual... scheduled... 2024...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Marina Keith",
+              "text": "Upcoming DBA/community events include a Meet the Business Owners night at Monte Carlo on November 2 (6–8 PM) and the Taste of Mountain View on November 9, which has slower ticket sales than last time; holiday promotions like a Santa-thon and 'Elf on a Shelf' are planned.",
+              "source": "Marina Keith : ...at the Monte Carlo... from 6:00 to 8:00 tomorrow night. / Kira Pascoe : ...the taste of Mountain View... Sales are not quite as high as they were... we are not sold out quite yet... / Kira Pascoe : ...looking at some kind of Santa thon... Elf on a Shelf...",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Pamela Baird",
+              "text": "The Mountain View Historical Association will conduct a downtown walking tour on Sunday, November 27 at 2:00 PM, meeting in front of the train station; there will be no tour in December.",
+              "source": "Pamela Baird : ...walking tour on Sunday, November 27th at 2:00 PM and meet in front of the train station... we will not have a tour in December.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Maureen Grzn-Pieracci",
+              "text": "Spring Parade discontinued due to pedestrian mall, exploring alternative spring celebration options",
+              "source": "Maureen Grzn-Pieracci : So we're still looking at ways that we can continue the spirit of a spring celebration",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Remote meetings and 2023 schedule",
+          "points": [
+            {
+              "speaker": "Mike Kasperzak",
+              "text": "The committee readopted the AB 361 resolution to continue meeting virtually; staff noted Council may return to in-person meetings early next year, with hybrid formats under consideration, and the committee intends to meet virtually as long as permitted.",
+              "source": "Mike Kasperzak : ...we do... need to re adopt the resolution... we still need to re adopt the resolution... / Mike Kasperzak : ...that motion passes... / John Lang : ...Council would be going back in person at the beginning of the year... considering hybrid meetings...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting closure and recognition",
+          "points": [
+            {
+              "speaker": "Mike Kasperzak",
+              "text": "Mike Kasperzak thanked attendees, encouraged participation in upcoming events, and extended early Thanksgiving wishes before adjourning the meeting until December.",
+              "source": "Mike Kasperzak : ...we will stand adjourned until December... hope you all have a happy Thanksgiving... And we are adjourned.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "John Lang",
+          "text": "John Lang will add a future agenda item on economic incentives, including possible retail grant programs, to support downtown retail.",
+          "source": "Mike Kasperzak : ...add to the sort of list of things is a discussion of possible economic incentives including... retail grant programs... we'll put that on the list...",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Committee",
+          "text": "Committee adopted 2023 meeting schedule with 9 meetings on first Tuesday at 10 AM, excluding January, July, and August",
+          "source": "Pamela Baird : So I propose that we follow the recommendation in 7.2",
+          "from_gt": "gt2",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 16,
+      "kept": 14,
+      "modified": 2,
+      "dropped": 0,
+      "from_gt1_kept": 9,
+      "from_gt2_kept": 7
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:17:33.490680+00:00"
+  }
+}

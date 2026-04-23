@@ -1,0 +1,133 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "CDBG and HOME Program Overview",
+          "points": [
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "Addressing a question on earthquake retrofitting, Michaela Helman-Tincher said she will research whether federal funds could support such work given restrictions and scale. Wayne Chen added a soft-story retrofit evaluation began about three years ago but was paused due to costs, staff capacity, and the pandemic.",
+              "source": "Michaela Helman-Tincher : The short answer is I'm not quite sure we will do some research.",
+              "validation_note": "validated_unique"
+            },
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "Staff highlighted a robust affordable housing pipeline and anticipated funding gaps; projects include Crestview hotel opening next year, La Avenida starting construction, Montecito and Lot 12 to follow, and Terra Bella funded. HOME funds would be allocated across pipeline projects to meet HUD timelines.",
+              "source": "Michaela Helman-Tincher : ...we do anticipate the Crestview hotel opening next year, the LA Avenida affordable housing development starting construction next year... Montecito... LOT 12... funding for the Terra Bella housing development...",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        },
+        {
+          "topic": "Housing and Security Subcommittee",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "The Housing and Security Subcommittee met (members: Lin, Vice Chair Sylvester, Webb) with input from community member Malia Perez (Reach Potential). They are exploring both events and an online storytelling artifact (e.g., Humans of New York style) to amplify residents' housing experiences; plans remain exploratory.",
+              "source": "Annette Lin : ...we were also able to have... Malia Perez, join us... the idea of... Humans of New York where they tell the stories of local residents... letting their stories be told... and being able to amplify their voices.",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Housing staff",
+          "text": "Housing staff will issue the CDBG and General Fund NOFA in early December 2022 and close it by January 2023.",
+          "source": "Harsha Ramchandani : ...issuing a notice of CDBG and general fund funding availability in early December 2022. The NOFA will close by January of 2023.",
+          "validation_note": "merged_conflict"
+        },
+        {
+          "assignee": "Michaela Helman-Tincher",
+          "text": "Michaela Helman-Tincher will research whether CDBG/HOME funds can support earthquake retrofits and report back.",
+          "source": "Michaela Helman-Tincher : The short answer is I'm not quite sure we will do some research.",
+          "validation_note": "validated_unique"
+        },
+        {
+          "assignee": "Staff",
+          "text": "Staff will bring funding recommendations back to HRC for consideration in March 2023.",
+          "source": "Harsha Ramchandani : Public service and capital funding applications and staff recommendations will be brought back to the HRC for consideration in March 2023",
+          "validation_note": "validated_unique"
+        },
+        {
+          "assignee": "City Council",
+          "text": "City Council will conduct interviews for HRC vacancies on November 21.",
+          "source": "Laurel James : ...interviews will be conducted on November 21st with the City Council.",
+          "validation_note": "validated_unique"
+        }
+      ]
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Transcript clearly shows Harsha Ramchandani speaking about 'Housing staff' issuing the NOFA. While GT2 uses generic 'Staff', the context and speaker make it clear this refers to housing staff specifically.",
+        "transcript_evidence": [
+          "Harsha Ramchandani : I'm Harsha Ram Chandani, housing specialist ONE along with Michaela Helmand, Housing and Neighborhood Services Manager, and Wayne Chen, Assistant Community Development Director.",
+          "Harsha Ramchandani : ...issuing a notice of CDBG and general fund funding availability in early December 2022. The NOFA will close by January of 2023."
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "merge",
+        "reasoning": "These are clearly two separate decisions. GT1 refers to Michaela's specific research commitment about earthquake retrofits, while GT2 refers to staff bringing general funding recommendations back in March. Both are distinct actions with different assignees and timelines.",
+        "transcript_evidence": [
+          "Michaela Helman-Tincher : The short answer is I'm not quite sure we will do some research.",
+          "Harsha Ramchandani : Public service and capital funding applications and staff recommendations will be brought back to the HRC for consideration in March 2023"
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "merge",
+        "reasoning": "Transcript confirms City Council will conduct interviews on November 21st. This is clearly stated as an action item with City Council as the assignee.",
+        "transcript_evidence": [
+          "Laurel James : There were applicants for all of the vacant positions on the HRC, both current and anticipated, and interviews will be conducted on November 21st with the City Council."
+        ]
+      },
+      {
+        "id": "review_004",
+        "decision": "merge",
+        "reasoning": "GT1 provides comprehensive details that are all supported by the transcript. GT2 only captures part of the discussion. GT1's version includes all project names mentioned and provides complete context about the pipeline and funding gaps.",
+        "transcript_evidence": [
+          "Michaela Helman-Tincher : we do anticipate the Crestview hotel opening next year, the LA Avenida affordable housing development starting construction next year, hopefully Montecito housing development and LOT 12 not too far after that. And we just approved funding for the Terra Bella housing development"
+        ]
+      },
+      {
+        "id": "review_005",
+        "decision": "merge",
+        "reasoning": "Transcript confirms this was a single discussion where Julie Solomon asked about earthquake retrofitting, Michaela responded about research, and Wayne provided historical context. The combined point accurately reflects the flow of this conversation.",
+        "transcript_evidence": [
+          "Julie Solomon : I just wondered if any of the funding sources could or would ever be used to help support earthquake retrofitting.",
+          "Michaela Helman-Tincher : The short answer is I'm not quite sure we will do some research.",
+          "Wayne Chen : The City Council actually asked staff to evaluate the issue of soft story retrofits beginning approximately 3 years ago... Due to the estimate of the overall cost of undertaking a complete survey and staff capacity and as we were entering the year of the Pandemic, then that project was paused."
+        ]
+      },
+      {
+        "id": "review_006",
+        "decision": "merge",
+        "reasoning": "GT1 provides specific details about the 'Humans of New York' style storytelling project that are confirmed in the transcript. GT2 is too general. GT1 accurately captures the substantive discussion about the specific project they are exploring.",
+        "transcript_evidence": [
+          "Annette Lin : So we were able to meet earlier this week... we were also able to have I'm a member of the public, Malia Perez, join us as well",
+          "Annette Lin : Something along the lines of... the popular like account called Humans of New York where they tell the stories of local residents... letting their stories be told basically and being able to amplify their voices"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 6,
+      "merged": 6,
+      "excluded": 0,
+      "modified": 0,
+      "confidence": "High confidence in validation. All items had clear transcript evidence supporting the decisions. Conflicts were resolved by identifying the more specific or comprehensive version that accurately reflected the transcript content."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:39:50.571084+00:00"
+  }
+}

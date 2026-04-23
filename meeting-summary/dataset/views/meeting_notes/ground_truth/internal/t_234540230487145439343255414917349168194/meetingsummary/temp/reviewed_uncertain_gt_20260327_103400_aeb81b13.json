@@ -1,0 +1,207 @@
+{
+  "result": {
+    "rejected_items": [
+      {
+        "id": "review_002",
+        "item_type": "point",
+        "original_point": {
+          "text": "September 14th, 2222 meeting minutes approved unanimously by roll call vote",
+          "source": "Jesse Cupp : All right, motion passes.",
+          "speaker": "Jesse Cupp"
+        },
+        "reason": "extraction_criteria_not_met",
+        "explanation": "GT2 contains a clear typo with year '2222' which is obviously incorrect. The transcript shows Jesse Cupp reading '2222' but this appears to be a reading error of the written date. GT1's version with '2022' is factually accurate and provides proper context about the minutes approval process."
+      }
+    ],
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Meeting Administration",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "No members of the public attended the meeting to offer comments during the public communications item, so the committee moved on without public input.",
+              "source": "John Lang : At the present time we do not have any members of the public joining, so we can move on.",
+              "validation_note": "validated_unique"
+            },
+            {
+              "speaker": "Jesse Cupp",
+              "text": "September 14, 2022 meeting minutes were approved by roll-call vote without noted corrections or additions, concluding the Item 3 minutes approval segment.",
+              "source": "Jesse Cupp : All right, motion passes.",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        },
+        {
+          "topic": "Castro Street Pedestrianization",
+          "points": [
+            {
+              "speaker": "Clifford Bryant",
+              "text": "Clifford Bryant noted Castro Street pedestrianization presents tremendous opportunity to introduce public art and inject concept into public mindset with available funding and Downtown Committee interest",
+              "source": "Clifford Bryant : I see that as a tremendous opportunity for us to introduce art into the public mindset, both with the money that's going to be available in that area with plus the interest of the Downtown Committee and revitalizing Castro.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Park Updates",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Pyramid Park had dedication ceremony in September which committee members attended",
+              "source": "John Lang : And then Pyramid Park did have its dedication in September, which I know a few members were able to attend.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Public Art Strategy",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Three strategic approaches identified: develop/augment/refine city policies, create more public art opportunities through partnerships, pursue new collaborations with artists and arts organizations",
+              "source": "John Lang : So one strategy that is going to be deployed is to develop or augment or even refine city policies. So what do I mean by this? Develop a fee for private art. That's a new policy. So develop a new policy. Augment some existing policy, maybe the city's donation policy. Be more reflective of arts, or refine the K5 policy, which was noted earlier.",
+              "validation_note": "validated_unique"
+            },
+            {
+              "speaker": "Toni Hsu",
+              "text": "Toni Hsu emphasized strategy timeframe should be five years with specific measurable goals and review process, as longer timeframes change language and goal specificity",
+              "source": "Toni Hsu : Are we, are we thinking this is a five year strategy or 10 year strategy because for me that depending on that timeline it changes to your point, it changes kind of the goals and like the language, right. Because for example for five years I would want to see I think some of those initiatives be a little more specific and pointed since we our goal is five years",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "CPA Call for Artists",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "John Lang explained annual CPA artist call returns after COVID hiatus, seeking 6-8 artists for year-long exhibitions with 6-8 week individual displays, requiring resume and 10 art piece examples",
+              "source": "John Lang : So every year there historically has been a call for artists and this is for artists to exhibit in the CPA for a year. So artists will exhibit anywhere from 6 to 8 weeks in the CPA.",
+              "validation_note": "validated_unique"
+            },
+            {
+              "speaker": "Jesse Cupp",
+              "text": "Jesse Cupp noted environmental theme had highest participation rate while disability theme had low participation with most artists not submitting theme-related work",
+              "source": "Jesse Cupp : In my opinion, I think the environmental team won probably had the most highest rate of participation from the artists home and the global community one. Those were pretty good and the disability one really good intentions, but I think it kind of bombed to be honest because most artists just didn't submit work related to the theme.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Committee",
+          "text": "Committee will develop series of recommendations at next meeting to present to Castro Street ad hoc committee representing VAC's official position",
+          "source": "Clifford Bryant : The way so would it then be good for us at our next meeting to come up with a series of recommendations that we would vote on to present to that group? So it kind of gives off official should we say official stamp from us and then have Jesse kind of follow up when they meet to kind of represent, you know to have a face there to to to to to represent us with that",
+          "validation_note": "validated_unique"
+        },
+        {
+          "assignee": "John Lang",
+          "text": "John Lang will share Castro Street ad hoc committee agenda and first meeting details to provide context for VAC recommendations",
+          "source": "John Lang : Yes, I can certainly work to get that agenda. As for that conversation to have, I would also be happy to share after this meeting basically what was talked about at the first meeting.",
+          "validation_note": "validated_unique"
+        }
+      ]
+    },
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Transcript clearly confirms John Lang's statement about no public attendance. GT1 accurately captures this factual information.",
+        "transcript_evidence": [
+          "John Lang : At the present time we do not have any members of the public joining, so we can move on."
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "exclude",
+        "reasoning": "GT2 contains obvious typo with year '2222'. While Jesse Cupp did read this from the agenda, GT1's version with '2022' is factually correct and provides better context.",
+        "transcript_evidence": [
+          "Jesse Cupp : The minutes of the September 14th, 2222 meeting have been delivered to committee members",
+          "Jesse Cupp : All right, motion passes."
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "merge",
+        "reasoning": "Transcript confirms Clifford Bryant made this specific comment about Castro Street pedestrianization being a tremendous opportunity for public art.",
+        "transcript_evidence": [
+          "Clifford Bryant : I see that as a tremendous opportunity for us to introduce art into the public mindset, both with the money that's going to be available in that area with plus the interest of the Downtown Committee and revitalizing Castro."
+        ]
+      },
+      {
+        "id": "review_004",
+        "decision": "merge",
+        "reasoning": "Transcript confirms John Lang mentioned Pyramid Park dedication ceremony in September that committee members attended.",
+        "transcript_evidence": [
+          "John Lang : And then Pyramid Park did have its dedication in September, which I know a few members were able to attend."
+        ]
+      },
+      {
+        "id": "review_005",
+        "decision": "merge",
+        "reasoning": "Transcript confirms John Lang outlined these three strategic approaches as a framework for the public art strategy.",
+        "transcript_evidence": [
+          "John Lang : So one strategy that is going to be deployed is to develop or augment or even refine city policies. So what do I mean by this? Develop a fee for private art. That's a new policy. So develop a new policy. Augment some existing policy, maybe the city's donation policy. Be more reflective of arts, or refine the K5 policy, which was noted earlier."
+        ]
+      },
+      {
+        "id": "review_006",
+        "decision": "merge",
+        "reasoning": "Transcript confirms Toni Hsu made this specific comment about five-year timeframe and its impact on goal specificity and language.",
+        "transcript_evidence": [
+          "Toni Hsu : Are we, are we thinking this is a five year strategy or 10 year strategy because for me that depending on that timeline it changes to your point, it changes kind of the goals and like the language, right. Because for example for five years I would want to see I think some of those initiatives be a little more specific and pointed since we our goal is five years"
+        ]
+      },
+      {
+        "id": "review_007",
+        "decision": "merge",
+        "reasoning": "Transcript confirms John Lang provided this background explanation about the CPA call returning after COVID hiatus with specific requirements.",
+        "transcript_evidence": [
+          "John Lang : So every year there historically has been a call for artists and this is for artists to exhibit in the CPA for a year. So artists will exhibit anywhere from 6 to 8 weeks in the CPA."
+        ]
+      },
+      {
+        "id": "review_008",
+        "decision": "merge",
+        "reasoning": "Transcript confirms Jesse Cupp provided this analysis comparing environmental vs disability theme performance.",
+        "transcript_evidence": [
+          "Jesse Cupp : In my opinion, I think the environmental team won probably had the most highest rate of participation from the artists home and the global community one. Those were pretty good and the disability one really good intentions, but I think it kind of bombed to be honest because most artists just didn't submit work related to the theme."
+        ]
+      },
+      {
+        "id": "review_009",
+        "decision": "merge",
+        "reasoning": "Transcript shows this was a proposal by Clifford Bryant that received positive response from Jesse Cupp, indicating committee agreement to develop recommendations.",
+        "transcript_evidence": [
+          "Clifford Bryant : The way so would it then be good for us at our next meeting to come up with a series of recommendations that we would vote on to present to that group? So it kind of gives off official should we say official stamp from us and then have Jesse kind of follow up when they meet to kind of represent, you know to have a face there to to to to to represent us with that",
+          "Jesse Cupp : I think it's again. It's probably more powerful to go and present like here's here's everything that the VAC has agreed upon and this is the VA CS position rather than here's me as an individual"
+        ]
+      },
+      {
+        "id": "review_010",
+        "decision": "merge",
+        "reasoning": "Transcript confirms John Lang made this specific commitment to share agenda and meeting details to provide context for VAC recommendations.",
+        "transcript_evidence": [
+          "John Lang : Yes, I can certainly work to get that agenda. As for that conversation to have, I would also be happy to share after this meeting basically what was talked about at the first meeting."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 10,
+      "merged": 9,
+      "excluded": 1,
+      "modified": 0,
+      "confidence": "High confidence in validation results. All items had clear transcript evidence supporting decisions. The one excluded item (review_002) contained an obvious typo that made it factually incorrect compared to the accurate GT1 version."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-27T02:34:00.171939+00:00"
+  }
+}

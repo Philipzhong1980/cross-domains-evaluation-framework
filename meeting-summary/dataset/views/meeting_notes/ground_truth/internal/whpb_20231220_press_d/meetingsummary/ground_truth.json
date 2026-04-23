@@ -1,0 +1,226 @@
+{
+  "meeting_context": "White House press briefing imported from 20231220_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Jorge",
+    "Louise Radnofsky",
+    "Trevor Honeycutt",
+    "Jennifer Jacobs",
+    "Margaret Brennan",
+    "Eric Tucker"
+  ],
+  "topics": [
+    {
+      "topic": "The moderator informs the participants that the call",
+      "points": [
+        {
+          "text": "The moderator informs the participants that the call is under embargo until the Americans are transferred to the U.S. government, introduces the senior administration officials, acknowledges ongoing events and potential changes, and emphasizes that all remarks are speculative at this point.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official announces that an agreement",
+      "points": [
+        {
+          "text": "The senior administration official announces that an agreement has been reached to secure the release of six Americans who were wrongfully detained in Venezuela, along with four other Americans, and mentions that Leonard Francis, also known as \"Fat Leonard,\" will be extradited from Venezuela.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Leonard Francis also known as Fat Leonard has",
+      "points": [
+        {
+          "text": "Leonard Francis, also known as \"Fat Leonard,\" has been extradited from Venezuela after fleeing house arrest and will now be held accountable for his crimes, while the efforts of the U.S. government have resulted in the release of six Americans who were wrongfully detained in Venezuela and will receive healthcare and support upon their return to the United States.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the prioritization of",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the prioritization of the safe return of Americans held hostage or wrongfully detained abroad, including efforts to bring home hostages from various countries and the difficult decision to grant clemency to Alex Saab in exchange for the release of 10 Americans and the extradition of Leonard Francis.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the release of",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the release of wrongfully detained Americans and Venezuelan prisoners, as well as the ongoing negotiations and consultation with the President.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Senior administration officials discuss the negotiations consultations and",
+      "points": [
+        {
+          "text": "Senior administration officials discuss the negotiations, consultations, and engagement with various stakeholders in Venezuela to achieve concrete outcomes such as the release of wrongfully detained Americans and Venezuelan prisoners, and to lay the groundwork for competitive and inclusive elections in the future.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Senior administration officials discuss their efforts to secure",
+      "points": [
+        {
+          "text": "Senior administration officials discuss their efforts to secure the release of wrongfully detained Americans and Venezuelan prisoners, as well as their focus on achieving competitive and inclusive elections in Venezuela, through close coordination with various stakeholders and leveraging international relationships.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Senior administration officials discuss their efforts to secure",
+      "points": [
+        {
+          "text": "Senior administration officials discuss their efforts to secure the release of wrongfully detained Americans and Venezuelan prisoners, as well as their focus on achieving competitive and inclusive elections in Venezuela.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Senior administration officials discuss the expected release of",
+      "points": [
+        {
+          "text": "Senior administration officials discuss the expected release of 10 Americans, including Fat Leonard, and 20 political prisoners by Venezuela, while addressing concerns about the release of Alex without conviction and whether Maduro agreed to let Maria Corina Machado run in the elections.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that the President",
+      "points": [
+        {
+          "text": "The senior administration official explains that the President exercised his authority to grant clemency to Mr. Saab in exchange for the release of 10 Americans, including those wrongfully detained, and to hold Fat Leonard accountable for his crimes.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that the names",
+      "points": [
+        {
+          "text": "The senior administration official explains that the names of the six wrongfully detained Americans and the other four being released today will not be clarified yet to ensure family notifications are underway before sharing the information.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The journalist asks about the President's change of",
+      "points": [
+        {
+          "text": "The journalist asks about the President's change of decision regarding Alex Saab's case.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that there has",
+      "points": [
+        {
+          "text": "The senior administration official explains that there has been no reversal of decisions and the President made a difficult decision to release 10 Americans, including 6 wrongfully detained, and return a wanted fugitive from justice, with Qatar being an important partner for the United States.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges Qatar's role in",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges Qatar's role in facilitating conversations between Maduro authorities and U.S. officials to work towards a competitive election in 2024 and the release of wrongfully detained Americans.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S is releasing Alex Saab and",
+      "points": [
+        {
+          "text": "The U.S. is releasing Alex Saab and 24 other Venezuelans as part of a commitment to release wrongfully detained Americans and ensure Venezuela's alignment with the Barbados agreement, while clarifying that the U.S. is only releasing Saab and the rest are Venezuelan releases by Venezuela itself.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S has not discussed sanctions relief",
+      "points": [
+        {
+          "text": "The U.S. has not discussed sanctions relief or oil and gas relief in exchange for the release of wrongfully detained Americans, and any discussions regarding sanctions relief have been focused on negotiations with members of the Unitary Platform and representatives of Nicolás Maduro, with the expectation that decisions will be made promptly and in coordination with the Unitary Platform, while continuing to support a negotiated outcome for competitive and inclusive elections.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Margaret Brennan asks if sanctions remain suspended and",
+      "points": [
+        {
+          "text": "Margaret Brennan asks if sanctions remain suspended and inquires about the status of charges against Nicolás Maduro in the United States.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official confirms that charges against",
+      "points": [
+        {
+          "text": "The senior administration official confirms that charges against Nicolás Maduro in the United States are still pending and sanctions relief remains in place, while addressing concerns about potential future hostage taking.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official states that the expectation",
+      "points": [
+        {
+          "text": "The senior administration official states that the expectation is for additional Americans not to be detained in Venezuela and commitments have been secured to that effect, with appropriate actions to be taken if Venezuelans fail to abide by their commitment.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official mentions that commitments have",
+      "points": [
+        {
+          "text": "The senior administration official mentions that commitments have been made to prevent further detentions of Americans in Venezuela, with consequences if Venezuelans do not comply.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The agreement made between the Unitary Platform and",
+      "points": [
+        {
+          "text": "The agreement made between the Unitary Platform and representatives of Nicolás Maduro, as part of the Barbados agreement, includes the release of 20 Venezuelan prisoners and ongoing conversations for the release of all Venezuelan prisoners to ensure competitive and inclusive elections.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

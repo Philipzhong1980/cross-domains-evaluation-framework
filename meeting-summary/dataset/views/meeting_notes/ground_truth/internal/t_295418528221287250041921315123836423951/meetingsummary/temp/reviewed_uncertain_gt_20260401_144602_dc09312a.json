@@ -1,0 +1,57 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Minutes Approval",
+          "points": [
+            {
+              "speaker": "Committee",
+              "text": "Committee unanimously approved minutes for August 9th and September 6th meetings following Maria Lange's motion and Jamil Shaikh's second, with all members voting aye and John Lang confirming passage",
+              "source": "John Lang : All right, that passes.",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Both GT1 and GT2 points describe the same minutes approval process. GT1 provides comprehensive details about the motion, second, and confirmation, while GT2 focuses on Maria's specific motion. These are complementary aspects of the same event that should be merged into one comprehensive point.",
+        "transcript_evidence": [
+          "Maria Lange : I'll move that we adopt the minutes for both meetings.",
+          "Mike Kasperzak : It's been moved by Maria that the minutes be adopted. Is there a second? I think Jamil got in there first, so seconded by Jamil",
+          "John Lang : All right, that passes."
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "merge",
+        "reasoning": "GT2 point about unanimous approval is redundant with the comprehensive GT1 point. The roll call vote in the transcript shows all members voting 'aye' or 'approved', which confirms unanimity, but this information is already captured in the merged comprehensive point.",
+        "transcript_evidence": [
+          "John Lang : Eric Cormier, I read that as approve... Raghav Gupta, Marina Keith, Maria Lang, David Lynn approved... Kara Pascal... Approved... Shamil Shaikh Mary Ann... Approved... Vice Chair, Baird, aye and Mike Kasperzak... Aye.",
+          "John Lang : All right, that passes."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 2,
+      "merged": 2,
+      "excluded": 0,
+      "modified": 0,
+      "confidence": "High confidence - transcript clearly shows both points describe the same minutes approval process with GT1 providing comprehensive coverage and GT2 being redundant. All details verified against transcript evidence."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:46:02.051950+00:00"
+  }
+}

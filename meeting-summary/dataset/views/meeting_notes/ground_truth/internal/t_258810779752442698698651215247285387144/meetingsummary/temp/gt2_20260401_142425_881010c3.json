@@ -1,0 +1,254 @@
+{
+  "result": {
+    "meeting_context": "This is a Downtown Committee meeting focused on reviewing development updates, Castro Street pedestrian mall improvements, infrastructure projects, and ARPA funding programs for small businesses. The committee discussed ongoing downtown initiatives and future agenda planning.",
+    "participants": [
+      "Pamela Brewer",
+      "John",
+      "Mike Kasperszak",
+      "Mary Nikki",
+      "Kira Pasca",
+      "Mary Yen",
+      "Jamil Shaikh",
+      "Tony Eagles",
+      "Tina",
+      "April"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Administration and Roll Call",
+        "points": [
+          {
+            "speaker": "John",
+            "text": "Anne Kavanaugh and David Lynn provided excused absences for the meeting due to prior commitments.",
+            "source": "John : Committee member Anne Kavanaugh, she did disclose to me that she was going to be absent. So that is an excused absent... David also did disclose to me that he was not going to be able to make this meeting due to work travel and that is an excused absence as well."
+          },
+          {
+            "speaker": "Pamela Brewer",
+            "text": "March 7th, 2023 meeting minutes were approved by committee vote after no corrections or public comments were received.",
+            "source": "Pamela Brewer : OK, the minutes for the March 20 March 7th, 2023 meeting have been delivered to the committee members and have posted on City Hall voting board. Are there any corrections or additions?"
+          }
+        ]
+      },
+      {
+        "topic": "Future Agenda Planning and Schedule Changes",
+        "points": [
+          {
+            "speaker": "John",
+            "text": "Annual work plan development will move earlier from June to May approval in June to align with council's approach to work planning.",
+            "source": "John : We need to step it up a little bit earlier. So this will occur in May to approve in June to align with council's approach to the work plan."
+          },
+          {
+            "speaker": "John",
+            "text": "Downtown parking district renewal and city manager discussion about downtown will be added to next month's agenda.",
+            "source": "John : There is also going to be the downtown parking district renewal. This is an annual process that's coming to this committee next month, but I was the city manager would like to talk with this group about downtown next month that is not here."
+          },
+          {
+            "speaker": "Pamela Brewer",
+            "text": "Grade separation project presentation will be rescheduled after running out of time last month, with commitment to allow adequate presentation time.",
+            "source": "Pamela Brewer : One thing that we didn't we unfortunately ran out of time last month was the. Undercrossing... And we have hopefully had some grade separation project. I want to make sure that we allow plenty of time for that we don't stiffen again."
+          }
+        ]
+      },
+      {
+        "topic": "Downtown Development Updates",
+        "points": [
+          {
+            "speaker": "Mike Kasperszak",
+            "text": "110 Castro Street facade modifications permit for Vita restaurant was approved by planning in March, with building permits expected within a month.",
+            "source": "Mike Kasperszak : So I direct you to #16, which is 110 Castro Street and community permit, development review permit to construct style modifications for a restaurant called Vita. That permit was approved by planning on March."
+          },
+          {
+            "speaker": "Mike Kasperszak",
+            "text": "Staff proactively applied for $1.2 million MTC grant for downtown precise plan updates covering 2023-2025 goals, pending council resolution support.",
+            "source": "Mike Kasperszak : In the next two years staff has proactively for 1.2 million brands from MTC and staff will also be going to City Council to ask for a resolution in support of that application for the $1.2 million which we anticipate council will support."
+          },
+          {
+            "speaker": "Mike Kasperszak",
+            "text": "Grand opening dates for businesses cannot be included in reports as the city doesn't collect this data during the permitting process.",
+            "source": "Mike Kasperszak : I also want to highlight, I I did hear all of you last last month and the request to see if we could include grand opening days. Unfortunately we don't have that data."
+          }
+        ]
+      },
+      {
+        "topic": "Castro Street Pedestrian Mall Progress",
+        "points": [
+          {
+            "speaker": "John",
+            "text": "Council Ad Hoc committee approved design standards and guidelines for pedestrian mall, now published online outlining look, feel, furniture and programming plans.",
+            "source": "John : Since this committee last met, the Council Ad hoc committee for the pedestrian mall met, they did end up approving and their approval is basically a recommendation to City Council to approve the design standards and guidelines going forward."
+          },
+          {
+            "speaker": "John",
+            "text": "Three railing pattern demonstrations are displayed on 200 block of Castro Street near Stocks and Blondes, with public input being collected to select one standardized design.",
+            "source": "John : The city does have a demonstration of the railing out on the 200 block of Castro Street... there are three different fascias that are within that demonstration. One is a hexagon pattern, one is a cross hatch pattern and the other is a circle pattern."
+          },
+          {
+            "speaker": "John",
+            "text": "Live entertainment programming will begin in May timeframe in the Social Eddie area, with public seating available without purchase requirements.",
+            "source": "John : And then the last thing I believe I've mentioned, but I will reiterate it is that starting in the May time frame, you will start to see some live entertainment out on the street. And this is the city programming that in the Social Eddie area."
+          },
+          {
+            "speaker": "John",
+            "text": "Cleanup efforts removed broken items from the street with additional rounds planned, including forklift removal of larger planters by transportation team.",
+            "source": "John : And the last comment I wanted to make is we did do pass through in a cleanup effort removing some broken items off the street. We're doing another round at the end of this week and then working with our transportation team who will have to bring in a forklift to remove some of the bigger planters."
+          }
+        ]
+      },
+      {
+        "topic": "Castro Street Infrastructure and Maintenance",
+        "points": [
+          {
+            "speaker": "John",
+            "text": "Parking garage maintenance issues include failing car count technology requiring budget modifications and investment in garage improvements.",
+            "source": "John : Some of the way the that's not the pedestrian, the car count technology is starting to fail on us. So we are going to need to put some investment into the garages. And so we'll be looking to modify our our existing parking budget to start supporting that."
+          },
+          {
+            "speaker": "John",
+            "text": "Parks team conducts daily morning trash pickup with additional weekend cleaning staff added in mid-year budget for downtown maintenance.",
+            "source": "John : We do have our parks team that goes out every morning... there was staff added in the budget, the mid year budget to add for more weekend cleaning and dumping of garbage as well through throughout the downtown."
+          },
+          {
+            "speaker": "Kira Pasca",
+            "text": "Side street businesses sometimes feel underrepresented in downtown discussions, requiring inclusion in parking, cleaning and wayfinding planning.",
+            "source": "Kira Pasca : And I know that with at least the DBAI get some comments sometimes from on side streets that we say not we, but that everything's one thing's Castro... just when we think about what we're going to be doing, why don't we talk about parking or cleaning up or wayfinding and things like that to remember to include and think about the side streets too."
+          }
+        ]
+      },
+      {
+        "topic": "Annual Sewer Main Replacement Project",
+        "points": [
+          {
+            "speaker": "Tony Eagles",
+            "text": "Sewer main replacement will occur on Castro Street from City Hall to California Street and other locations using open trench, spot repairs, and pipe bursting methods.",
+            "source": "Tony Eagles : So the project locations we have Caster Street from City Hall to California St., Caster Street from South of Fairmont, Ave. to 1st St., the intersection of El Camino Real and Caster St."
+          },
+          {
+            "speaker": "Tony Eagles",
+            "text": "Construction primarily scheduled for nighttime 11 PM to 6 AM Sunday through Friday, with limited daytime work opportunities requiring city approval.",
+            "source": "Tony Eagles : And we are suggesting mainly night time work. Night time work at 11 PM, 6:00 AM Sunday to Friday there is some opportunity to do daytime work and that the contractor will have to get the city and the daytime hours if approved are 730 closing 30 AM as well as 1:30 to 4:00 PM."
+          },
+          {
+            "speaker": "Tony Eagles",
+            "text": "Pipe bursting method will replace 6-inch pipes with 8-inch HDPE pipes, breaking existing pipe while installing new one in same location.",
+            "source": "Tony Eagles : Most of the pipe Castro is 6 inches. We'll be replacing it with eight inches... Pipe bursting is when you insert a pipe from one pit and pull it through to the next pit... The tip in the front will break the existing pipe that's there while pulling through the new pipe."
+          },
+          {
+            "speaker": "Tony Eagles",
+            "text": "Construction expected to begin in summer with no work allowed during downtown events, pending completion of El Camino Real work first.",
+            "source": "Tony Eagles : As far as timing goes, we are expecting to go to construction in summer. We are aware of the events that are happening downtown. So there will be no construction activities allowed."
+          },
+          {
+            "speaker": "Tina",
+            "text": "Daytime work decisions will consider business impact, traffic control feasibility, and type of work, balancing efficiency with community disruption.",
+            "source": "Tina : Now all the different type, we have a very mixed type of businesses in downtown. So we need to take consideration if we do daytime work, when is it going to occur and restaurants are going to be impacted... it's a balance. How do we make sure business is not impacted?"
+          }
+        ]
+      },
+      {
+        "topic": "ARPA Small Business Funding Programs",
+        "points": [
+          {
+            "speaker": "John",
+            "text": "Council allocated $500,000 in ARPA funds for small business support, increased from initial $250,000 proposal during June budget conversations.",
+            "source": "John : So back in June of last year as part of the budget conversation, Council was deliberating different uses of the American Recovery Act funding and initially had proposed $250,000 for small businesses... council actually upped the amount of money for doing something with small businesses in the neighborhood of $500,000 worth of ARPA funds."
+          },
+          {
+            "speaker": "John",
+            "text": "Facade matching grant program offers three tiers from $5,000 to $15,000 for property owners and businesses to improve awnings, doors, windows and building exteriors.",
+            "source": "John : So for instance, if you wanted to do a new awning, you could apply under Tier 1 and that's a $5000 grant. What that means is the business is also putting in $5000. So this is really a $10,000 project and as you work your way down the tiers, it gets a little bit greater in terms of the grant availability."
+          },
+          {
+            "speaker": "John",
+            "text": "Outdoor furnishings program provides $5,000 citywide grants for replacing broken umbrellas, chairs, and heaters with lottery system if oversubscribed.",
+            "source": "John : So this is a $5000 grant for any of the things listed here, new heaters, things of that nature... 200,000 dollars, $5000 grants each. So if we are oversubscribed, it will go to a lottery system case."
+          },
+          {
+            "speaker": "John",
+            "text": "Rethink Disposable contract amendment focuses on helping food service businesses transition from disposable to reusable food ware for dine-in service.",
+            "source": "John : Rethink disposable is a program really designed for food service businesses throughout Mountain View really focused on having businesses use usable food Ware instead of the disposable food Ware when you're dining in."
+          },
+          {
+            "speaker": "Kira Pasca",
+            "text": "Chamber partnership will develop $25,000 social media toolkit and training program launching around holidays to help businesses improve online presence and collaboration.",
+            "source": "Kira Pasca : And the launch, if everything goes according to plan, is around the holidays so that they can start getting trained in like September and really have this go in Q. Four when business is so. Important to kind of bring businesses in."
+          }
+        ]
+      },
+      {
+        "topic": "Business Communication and Support Strategies",
+        "points": [
+          {
+            "speaker": "Kira Pasca",
+            "text": "Committee should ensure business impact analysis is included in all downtown project discussions, including mitigation strategies for construction and infrastructure work.",
+            "source": "Kira Pasca : I think this this topic was from my comment... when we discuss topics, we discuss the impacts to businesses... Talk about how is this going to impact businesses and what could be done to potentially buffer that impact."
+          },
+          {
+            "speaker": "Mary Yen",
+            "text": "Social media success requires dedicated weekly time commitment and person accountability, with businesses needing to treat it as part of marketing budget investment.",
+            "source": "Mary Yen : And so for the businesses, I think it's really critical for them to recognize that this is important to their business and consider it as part of their advertising slash marketing budget... it actually does. It takes a certain amount of time every single week."
+          },
+          {
+            "speaker": "Marry Nikki",
+            "text": "Face-to-face communication through DBA volunteers visiting businesses proves more impactful than written communications, with businesses preferring direct interaction for project information.",
+            "source": "Marry Nikki : And I think that the city can also use the DBA because we have volunteers, block residents that can go from business to business and literally speak to each business... a face to face is really much more impactful than unfortunately."
+          },
+          {
+            "speaker": "Kira Pasca",
+            "text": "Business communications should be limited to four bullet points maximum for easy reading, as lengthy city notices with disclaimers often get overlooked.",
+            "source": "Kira Pasca : What I do in my emails to businesses so is make sure it's like there are no more than four bullet points. You can read this super easily and I think that sometimes just because the way the city because of what everything that has to be said by the time they get to the point they blossed over."
+          }
+        ]
+      },
+      {
+        "topic": "Meeting Closure and Administrative Notes",
+        "points": [
+          {
+            "speaker": "Pamela Brewer",
+            "text": "Historical Association conducted walking tour on March 26th with 10 attendees, with next tour scheduled for April 23rd continuing monthly programming.",
+            "source": "Pamela Brewer : So the historical association did a walking tour last Sunday the 26th, and we had 10 attendees who were all very interested. In February we had 13 and we will be doing whatever the 4th Thursday of April will be."
+          },
+          {
+            "speaker": "Jamil Shaikh",
+            "text": "Committee members suggested focusing on keeping meetings to 11:30 AM end time to respect participants' business and scheduling commitments.",
+            "source": "Jamil Shaikh : I think it would really be good if we could really try and stick to what we'll be done by 11:30... people have businesses, people have other places ago."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "John",
+        "text": "John will work with Edgar to update and distribute the downtown development listing to committee members.",
+        "source": "John : Yeah, I'll work with Edgar on. Getting that updated... Get that distributed to the committee."
+      },
+      {
+        "assignee": "John",
+        "text": "John will email committee members images of the three railing styles and information on how to participate in public feedback process.",
+        "source": "John : Yes, yes, absolutely... And then can you also include how we can participate and and it's something that we can forward to friends and neighbors."
+      },
+      {
+        "assignee": "Tony Eagles",
+        "text": "Tony Eagles will provide advanced notification to businesses and residents once contractor is selected and specific construction schedules are determined.",
+        "source": "Tony Eagles : And also we'll be telling them to provide advanced modification to the businesses and the residents in the area. And then once we have that information from the contractor and if there's any more construction impacts or traffic impacts, we will be coming back to the committee to provide an update."
+      },
+      {
+        "assignee": "Staff",
+        "text": "Staff will include business impact analysis and outreach communication plans in future project memos to the committee.",
+        "source": "John : So maybe as it relates to potential topics like this, we actually have a line in there of day lighting what we think this is... Maybe actually call that out in a memo of like, have we looked at it from a business lens is what I hear."
+      }
+    ],
+    "metadata": {
+      "topicCount": 9,
+      "pointCount": 31,
+      "decisionCount": 4
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:24:25.649245+00:00"
+  }
+}

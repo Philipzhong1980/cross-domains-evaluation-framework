@@ -1,0 +1,72 @@
+{
+  "meeting_context": "The Mountain View City Council met via videoconference to handle the closed session portion of its agenda. The City Attorney announced that the Council would conduct public employee performance evaluations under California Government Code Section 54957 and indicated no reportable action would occur. Public comment was invited, none was received, and the Council recessed to closed session.",
+  "participants": [
+    "Lucas Ramirez",
+    "Danica Lowe"
+  ],
+  "topics": [
+    {
+      "topic": "Meeting format and legal notice",
+      "points": [
+        {
+          "text": "All City Council members participated in the meeting by video conference, and no physical meeting location was provided for in-person attendance.",
+          "source": "Lucas Ramirez : All members of the City Council are participating in this meeting by video conference with no physical meeting location.",
+          "speaker": "Lucas Ramirez",
+          "id": "t_001_p_001"
+        },
+        {
+          "text": "The meeting was conducted under a City Council resolution authorizing this format, and members of the public were directed to contact city.clerk@mountainview.gov to obtain copies of the applicable resolutions upon request.",
+          "source": "Lucas Ramirez: As authorized by resolution of the City Council, please contact city.clerk@mountainview.gov to obtain a copy of the applicable resolutions.",
+          "speaker": "Lucas Ramirez",
+          "id": "t_001_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Closed session scope and reportability",
+      "points": [
+        {
+          "text": "The City Council stated that no reportable action would be taken during the closed session, indicating that no decisions requiring public reporting were expected from the session.",
+          "source": "Danica Lowe : City of Clerk and City Manager and Council will not be taking any reportable action in closed session this evening.",
+          "speaker": "Danica Lowe",
+          "id": "t_002_p_001"
+        },
+        {
+          "text": "Lucas Ramirez stated that City Attorney Jennifer Logue would deliver the closed session announcement, but Danica Lowe identified herself as the City Attorney and delivered the announcement.",
+          "source": "Lucas Ramirez: City Attorney Jennifer Logue will provide a brief closed session announcement / Danica Lowe: This is City Attorney Danica Lowe.",
+          "speaker": "Danica Lowe",
+          "id": "t_002_p_002"
+        },
+        {
+          "text": "City Council will conduct public employee performance evaluations in closed session pursuant to California Government Code Section 54957 for City Attorney, City Clerk, and City Manager.",
+          "source": "Danica Lowe : In close session this evening, City Council will be conducting public employee performance evaluations pursuant to California Government Code Section 54957 for the City Attorney. City of Clerk and City Manager and Council will not be taking any reportable action in closed session this evening.",
+          "speaker": "Danica Lowe",
+          "id": "t_002_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Public comment and closed session recess",
+      "points": [
+        {
+          "text": "No members of the public requested to speak on the closed session item, and the City Council proceeded to recess into closed session.",
+          "source": "Lucas Ramirez : Not seeing any member of the public wishing to speak, so we will now recess to closed session.",
+          "speaker": "Lucas Ramirez",
+          "id": "t_003_p_001"
+        },
+        {
+          "text": "The presiding officer invited public comment on the closed session agenda item, providing instructions to raise a hand in Zoom or press Star 9 by phone, and noted that a timer would be displayed during comments.",
+          "source": "Lucas Ramirez: If so, please click the raise hand button and zoom or press Star 9 on your phone.",
+          "speaker": "Lucas Ramirez",
+          "id": "t_003_p_002"
+        }
+      ]
+    }
+  ],
+  "decisions": [],
+  "metadata": {
+    "topicCount": 3,
+    "pointCount": 7,
+    "decisionCount": 0
+  }
+}

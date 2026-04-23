@@ -1,0 +1,176 @@
+{
+  "result": {
+    "meeting_context": "This is a Finance Committee meeting to review the annual financial audit results and comprehensive financial report for fiscal year 2021-2022. The committee received presentations from the external auditor and city staff, discussed audit findings, and made recommendations to City Council.",
+    "participants": [
+      "Sally Lieber",
+      "Lisa Matichak",
+      "Lucas Ramirez",
+      "Victoria labrador",
+      "Jesse Takahashi",
+      "Banjamin Lau",
+      "Grace Zheng"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Procedures and Minutes Approval",
+        "points": [
+          {
+            "speaker": "Sally Lieber",
+            "text": "Committee approved February 28th, 2022 meeting minutes unanimously via roll call vote",
+            "source": "Sally Lieber : OK, all in favor, say aye... Unanimous"
+          }
+        ]
+      },
+      {
+        "topic": "Annual Financial Audit Results Overview",
+        "points": [
+          {
+            "speaker": "Jesse Takahashi",
+            "text": "MGO has served as external auditor for seven years, completing annual financial audit per city charter Section 1106 requirement",
+            "source": "Jesse Takahashi : Mgos been the external auditor for the city for the last seven years now"
+          },
+          {
+            "speaker": "Jesse Takahashi",
+            "text": "General operating fund finished fiscal year 2022 with $17.5 million operating balance",
+            "source": "Jesse Takahashi : the general operating fund finished the year, fiscal year 2022 with a 17 and a half million dollar operating balance"
+          },
+          {
+            "speaker": "Banjamin Lau",
+            "text": "City received clean audit opinion on financial statements with no findings on internal control over financial reporting",
+            "source": "Banjamin Lau : We did not identify any findings on internal control over financial reporting for this year"
+          }
+        ]
+      },
+      {
+        "topic": "New Lease Accounting Standard Implementation",
+        "points": [
+          {
+            "speaker": "Banjamin Lau",
+            "text": "City successfully implemented GASB Statement 87 lease accounting standard, creating $800 million lease receivable with offsetting deferred inflow",
+            "source": "Banjamin Lau : your balance sheet itself has recorded a lease receivable of roughly about 800 million with an offsetting deferred inflow of resources"
+          },
+          {
+            "speaker": "Banjamin Lau",
+            "text": "Large lease receivable balance primarily relates to leases from major tech firm within the city",
+            "source": "Banjamin Lau : it's mainly related to a few leases for one of your gigantic tech firm that is within your city"
+          }
+        ]
+      },
+      {
+        "topic": "Equipment Maintenance and Replacement Fund Analysis",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Equipment maintenance and replacement fund has $26 million balance, significantly higher than historical expenditure patterns over past 15 years",
+            "source": "Lucas Ramirez : the fund balance for the equipment maintenance and replacement fund is $26 million"
+          },
+          {
+            "speaker": "Jesse Takahashi",
+            "text": "Fire apparatus replacement was unusual one-time expenditure, with partial payment made and remaining deliveries expected over 1-2 years",
+            "source": "Jesse Takahashi : we have made a partial payment, but that's going to be overtime because I think it's going to take about somewhere between one and two years to actually receive all of those"
+          },
+          {
+            "speaker": "Jesse Takahashi",
+            "text": "Staff will review equipment replacement fund charges to determine if rates should be adjusted for more reasonable balance",
+            "source": "Jesse Takahashi : that's something that we, we, we certainly can look at and you know get get back to the committee with an update"
+          }
+        ]
+      },
+      {
+        "topic": "Community Benefit Revenue Tracking",
+        "points": [
+          {
+            "speaker": "Jesse Takahashi",
+            "text": "Community benefit funds are tracked through city financial system sub-ledgers but not separately reported in ACFR document",
+            "source": "Jesse Takahashi : we do have a a mechanism for tracking those community benefit funds but but it's not done within say the the ACT for"
+          },
+          {
+            "speaker": "Lisa Matichak",
+            "text": "Some community benefits don't flow through city finances when developers directly provide subsidized rent or infrastructure improvements",
+            "source": "Lisa Matichak : Most of the community benefits are subsidizing rent, building parking spaces, and building out the infrastructure"
+          }
+        ]
+      },
+      {
+        "topic": "ACFR Document Updates and Improvements",
+        "points": [
+          {
+            "speaker": "Lisa Matichak",
+            "text": "Staff will update organizational chart to change 'Mountain View citizens' to 'Mountain View residents' and add Public Safety Advisory Board",
+            "source": "Lisa Matichak : Instead of having Mountain View citizens, it would be Mountain Dew residents"
+          },
+          {
+            "speaker": "Jesse Takahashi",
+            "text": "Staff will work on reformatting ACFR for electronic delivery rather than print format to improve readability",
+            "source": "Jesse Takahashi : we'll definitely get to work on trying to reformat for electronic age"
+          }
+        ]
+      },
+      {
+        "topic": "Single Audit and Federal Compliance",
+        "points": [
+          {
+            "speaker": "Banjamin Lau",
+            "text": "Single audit for federal compliance not yet completed but expected to meet March 31, 2023 statutory deadline",
+            "source": "Banjamin Lau : we expect to meet the statutory deadline of March 31st, 2023"
+          },
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Single audit will include American Rescue Plan Act funds as federal funding subject to compliance review",
+            "source": "Lucas Ramirez : the single the audit will include the American Rescue Plan Act funds since those are federal funds"
+          }
+        ]
+      },
+      {
+        "topic": "Staff Recognition and Transitions",
+        "points": [
+          {
+            "speaker": "Banjamin Lau",
+            "text": "Auditor thanked city finance team led by Jesse Takahashi, Grace Zheng, and Janet for continuous support during audit process",
+            "source": "Banjamin Lau : I would like to thank city staff for continuous support"
+          },
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Committee members thanked Jesse Takahashi for service to city as this was his final Finance Committee meeting",
+            "source": "Lucas Ramirez : I'm sorry that this will be Jesse's last meeting with us. Thank you very much for your service to the city"
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "City Staff",
+        "text": "Staff will review equipment replacement fund charges and provide committee update on potential rate adjustments for more reasonable balance",
+        "source": "Jesse Takahashi : that's something that we, we, we certainly can look at and you know get get back to the committee with an update in terms of maybe where we we can go with that"
+      },
+      {
+        "assignee": "City Staff",
+        "text": "Staff will update ACFR organizational chart to change 'Mountain View citizens' to 'Mountain View residents' and add Public Safety Advisory Board",
+        "source": "Jesse Takahashi : we'll we'll get that corrected"
+      },
+      {
+        "assignee": "City Staff",
+        "text": "Staff will reformat ACFR document for electronic delivery rather than print format to improve readability",
+        "source": "Jesse Takahashi : we'll definitely get to work on trying to reformat for electronic age"
+      },
+      {
+        "assignee": "Finance Committee",
+        "text": "Committee unanimously approved recommendation to City Council to accept the Annual Comprehensive Financial Report and auditor's reports",
+        "source": "Lucas Ramirez : I'm happy to to move the staff recommendation... Victoria labrador: Unanimous"
+      }
+    ],
+    "metadata": {
+      "topicCount": 8,
+      "pointCount": 17,
+      "decisionCount": 4
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:42:16.202491+00:00"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "result": {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Downtown Development",
+          "points": [
+            {
+              "speaker": "John",
+              "text": "Staff will update the downtown project listing and distribute it to committee members, coordinating with Edgar to include recent changes discussed.",
+              "source": "John : Yeah, I'll work with Edgar on...Getting that updated...Get that distributed to the committee.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Parking and Infrastructure Maintenance",
+          "points": [
+            {
+              "speaker": "John",
+              "text": "Parks crews conduct daily downtown cleanups and additional weekend cleaning and garbage dumping service was added in the mid-year budget.",
+              "source": "John : ...parks team...they do take a more holistic approach to kind of cleaning up the town and there was staff added in the budget, the mid year budget to add for more weekend cleaning and dumping of garbage as well through throughout the downtown.",
+              "validation_note": "refined"
+            }
+          ]
+        },
+        {
+          "topic": "Castro Pedestrian Mall",
+          "points": [
+            {
+              "speaker": "John",
+              "text": "Staff will share images of the railing fascia options and instructions for providing feedback with the committee, and will broaden outreach including social media to gather community input on the selected design.",
+              "source": "John : Yes, yes, absolutely.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Sewer Main Replacement",
+          "points": [
+            {
+              "speaker": "Tony Eagles",
+              "text": "Wild Cherry Lane work will be conducted at night to avoid delivery conflicts since Ontario Lane functions as the delivery access way for restaurants; detours and lane closures will be phased.",
+              "source": "Tony Eagles : ...Ontario Lane does function as the delivery access way for these restaurants...we are suggesting only night time construction for this location...",
+              "validation_note": "refined"
+            }
+          ]
+        },
+        {
+          "topic": "Business Communication",
+          "points": [
+            {
+              "speaker": "John",
+              "text": "For future agenda items involving construction, staff will explicitly address business impacts and outreach plans in memos, enabling discussion of mitigations like signage, wayfinding, and parking. The city may leverage DBA volunteers for face-to-face outreach and keep email updates concise for higher engagement.",
+              "source": "John : ...call that out in a memo...from a business lens...Kira Pasca : ...talk about how is this going to impact businesses and what could be done to potentially buffer that impact...Marry Nikki : ...the city can also use the DBA...go from business to business...",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting Closure",
+          "points": [
+            {
+              "speaker": "Pamela Brewer",
+              "text": "Leadership thanked participants, noted a desire to keep meetings focused and end by 11:30, wished Mary well, and adjourned the session.",
+              "source": "Jamil Shaikh : I think it would really be good if we could really try and stick to what we'll be done by 11:30...Pamela Brewer : Thank you, John, for your time. Thank you everybody...Get well, Mary.",
+              "validation_note": "refined"
+            },
+            {
+              "speaker": "Jamil Shaikh",
+              "text": "Committee members suggested focusing on keeping meetings to 11:30 AM end time to respect participants' business and scheduling commitments.",
+              "source": "Jamil Shaikh : I think it would really be good if we could really try and stick to what we'll be done by 11:30... people have businesses, people have other places ago.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "John clearly commits to working with Edgar to update the downtown project listing and distribute it to committee members. The transcript shows this commitment in response to a request for the updated listing.",
+        "transcript_evidence": [
+          "John : Yeah, I'll work with Edgar on",
+          "John : Getting that updated",
+          "John : Get that distributed to the committee"
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "modify",
+        "reasoning": "John mentions parks crews doing daily cleanups and weekend service being added, but the original point incorrectly stated 'mid-year' when transcript shows 'mid year budget'. The substance is correct but needed refinement for accuracy.",
+        "transcript_evidence": [
+          "John : We do have our parks team that goes out every morning",
+          "John : there was staff added in the budget, the mid year budget to add for more weekend cleaning and dumping of garbage as well through throughout the downtown"
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "merge",
+        "reasoning": "John clearly commits with 'Yes, yes, absolutely' to sharing railing images and feedback instructions, and earlier discussion confirms broadening outreach including social media was discussed.",
+        "transcript_evidence": [
+          "John : Yes, yes, absolutely",
+          "Pamela Brewer : And then can you also include how we can participate and and it's something that we can forward to friends and neighbors",
+          "Pamela Brewer : I don't know whether that was considered for outreach, but that seems to be a pretty good way to reach people"
+        ]
+      },
+      {
+        "id": "review_004",
+        "decision": "modify",
+        "reasoning": "Tony Eagles mentions Ontario Lane (not Wild Cherry Lane specifically) as delivery access way and suggests night time construction, but the original point conflated the location. Modified to be accurate to transcript.",
+        "transcript_evidence": [
+          "Tony Eagles : Ontario Lane does function as the delivery access way for these restaurants",
+          "Tony Eagles : we are suggesting only night time construction for this location"
+        ]
+      },
+      {
+        "id": "review_005",
+        "decision": "merge",
+        "reasoning": "The transcript clearly shows John committing to call out business impacts in memos, Kira discussing business impact analysis, and Mary suggesting DBA volunteer outreach. All elements are supported.",
+        "transcript_evidence": [
+          "John : call that out in a memo...from a business lens",
+          "Kira Pasca : talk about how is this going to impact businesses and what could be done to potentially buffer that impact",
+          "Marry Nikki : the city can also use the DBA...go from business to business"
+        ]
+      },
+      {
+        "id": "review_006",
+        "decision": "modify",
+        "reasoning": "The transcript shows meeting closure elements but the timing comment was made by Jamil Shaikh, not an unidentified speaker. Modified to correctly attribute speakers.",
+        "transcript_evidence": [
+          "Jamil Shaikh : I think it would really be good if we could really try and stick to what we'll be done by 11:30",
+          "Pamela Brewer : Thank you, John, for your time. Thank you everybody",
+          "Unidentified : Get well, Mary"
+        ]
+      },
+      {
+        "id": "review_007",
+        "decision": "merge",
+        "reasoning": "The transcript clearly shows Jamil Shaikh making the comment about keeping meetings to 11:30, not an unidentified speaker. The attribution in GT2 is correct.",
+        "transcript_evidence": [
+          "Jamil Shaikh : I think it would really be good if we could really try and stick to what we'll be done by 11:30... people have businesses, people have other places ago"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 7,
+      "merged": 4,
+      "excluded": 0,
+      "modified": 3,
+      "confidence": "High confidence in validation. All reviewed items had clear transcript evidence supporting their inclusion. Three items required minor modifications for accuracy (correcting 'mid-year' to 'mid year budget', clarifying Wild Cherry Lane vs Ontario Lane context, and correcting speaker attribution), while four items were validated as accurate and merged without changes."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:26:55.724553+00:00"
+  }
+}

@@ -1,0 +1,48 @@
+### Overview
+  The Performing Arts Committee meeting covers routine governance and substantive home-company review. The committee approves prior minutes with a correction to references to the Vice Chair and staff (Noelle Magner) will update the City Clerk and circulate a revised version. A Film Festival subcommittee reports preliminary planning but is not ready to present a final recommendation, and staff (Theresa Yvonne) will prepare a detailed budget of past festival expenses to inform decisions. The major discussion centers on the Peninsula Youth Theatre annual review: staff clarify financial reconciliation entries (Noelle Magner) showing gross ticket sales of $73,816 and PYT net charges of $63,906.88, and PYT Director of Business Operations Connor Day presents program successes—sold-out school shows, strong mainstage runs, and summer camps at about 80% of 2019 levels—along with funding updates (two PPP loan forgiveness events and an unused SBA loan reserve of roughly $300,000). Connor also outlines COVID-era policies, operational challenges in rebuilding audiences and technical staffing, and invitations for committee members to attend shows (producer comps available). Staff announces Theresa will accept a National Arts and Humanities Proclamation at City Council and will share timing, and staff agrees to research arts-booking opportunities and agent rosters per John McAlister's request. The meeting concludes with thanks for a volunteer appreciation event and a reminder of the next virtual committee meeting on November 16, 2022 where additional home companies will present.
+  
+  ### Detailed Summary
+  #### Minutes approval correction
+  The committee reviews and approves prior meeting minutes with a correction to the title used for the vice chair. Staff agrees to contact the City Clerk to update the document and circulate a revised version at the next meeting. The minutes receive a roll-call vote with one abstention from a member who was absent at the prior meeting.
+- Sukanya Kumar (Vice Chair) requests changing references from 'committee member' to 'Vice Chair' in the minutes.
+- Noelle Magner (staff) commits to contact the City Clerk and produce a revised version for the next meeting.
+- John McAlister moves to approve the minutes and then abstains from the vote because he was not present at the prior meeting.
+- Noelle Magner conducts a roll-call vote and records the approval with the noted abstention.
+  #### Film Festival subcommittee update
+  The Film Festival subcommittee reports preliminary work but is not yet ready to present a full recommendation. The subcommittee met with Chair Donahue and staff and has an approximate timeline but awaits concrete dates and scope decisions. Staff will provide a more complete report at the next performing arts committee meeting.
+- Sukanya Kumar (subcommittee lead) reports the subcommittee met with Chair Donahue and staff and has an approximate timeline but no final dates.
+- Sukanya Kumar notes the subcommittee is not ready to present a final summary to the main committee and will report at the next meeting.
+- Theresa Yvonne (staff) commits to preparing a detailed budget of prior Film Festival expenses and estimated costs for the planned event to inform committee decisions.
+  #### PYT financial clarification
+  Staff presents a financial reconciliation spreadsheet for Peninsula Youth Theatre (PYT) and answers committee questions about line-item meanings and net amounts. Noelle Magner explains receipt codes and that facility use fees are paid by patrons, while Theresa Yvonne confirms total revenues and the amount PYT actually paid. Committee members request a reorganized, more traditional financial format for future reviews.
+- John McAlister asks for clarification on abbreviations and the difference between rent and facility use fees on the spreadsheet.
+- Noelle Magner explains abbreviations (e.g., MS for Mainstage, SSS for Second Stage) and clarifies that facility use fees are charged to patrons while other line items are charges to PYT.
+- Theresa Yvonne confirms total gross ticket sales of $73,816 and states PYT's net charges paid equal $63,906.88 after removing the $9,910 facility use fee paid by patrons.
+- John Marchant says staff will modify the spreadsheet into a more typical financial format and provide updated reports at future performing arts committee meetings.
+  #### PYT outreach and performances
+  PYT summarizes its season activities, noting continued COVID impacts on outreach but a strong recovery in school bookings and live performances. Connor Day reports increased school engagement with several sold-out school shows, successful mainstage runs (including Descendants, Fiddler, and Frozen), and the return of Theatre in the Park summer camps at about 80% of 2019 attendance. PYT invites committee members to attend upcoming performances and offers producer comps through the box office or direct contact.
+- Connor Day (PYT Director of Business Operations) reports that outreach programs were affected by COVID but that PYT restarted programming at eight schools and plans to expand to 14 schools this fall.
+- Connor Day reports that the recent Story on Stage (SOS) school shows are completely sold out across all seven titles for the year and that multiple local districts are attending.
+- Connor Day describes mainstage successes including strong attendance for Descendants and Frozen and notes special outreach student performances for Fiddler and upcoming high student-seat sales for SpongeBob.
+- Connor Day invites committee members to attend performances and states that producer comps are available via the box office or by contacting him directly.
+  #### PYT operations and funding
+  PYT describes operational matters, donor support, and financial safeguards: summer camps returned with strong enrollment, PYT received grants (including a state performing arts grant) and had PPP loan forgiveness twice, and it holds an unused SBA loan of roughly $300,000 as a reserve. Connor highlights challenges rebuilding audience habits and recruiting/retaining technical staff post-pandemic, and he says PYT is documenting volunteer labor and considering sustainable wage adjustments.
+- Connor Day reports Theatre in the Park camps served about 600 campers in 2022, roughly 80% of 2019 levels.
+- Connor Day states PYT received two PPP loan forgiveness events and holds an unused SBA loan of about $300,000 as a reserve.
+- Connor Day identifies the principal challenges as rebuilding general audiences for SOS and restoring a pool of technical/seasonal staff lost during the pandemic.
+- Connor Day says PYT is documenting volunteer labor and working to balance volunteer contributions with fair compensation to make staffing sustainable and funder-friendly.
+  #### PYT health policies and reception
+  PYT outlines current COVID-related policies and community response: masks are recommended (not required) for audiences, rehearsals still require masks in the studio, and camp vaccination requirements may relax to recommendations next year. Connor reports limited pushback—most concerns centered on camp vaccination policies—and says parents have generally supported safety measures that prevent rehearsal interruptions.
+- Connor Day says audience masking is currently recommended but not required while rehearsals still require masks inside the studio.
+- Connor Day indicates PYT likely will keep vaccination as a strong recommendation for camps next year rather than a strict requirement.
+- Connor Day reports limited parental pushback focused mainly on vaccination policies and says measures aim to prevent rehearsal disruptions and keep programming on schedule.
+  #### Staff announcements and requests
+  Staff announces upcoming civic items and committee opportunities: Theresa Yvonne will accept the National Arts and Humanities Proclamation at next Tuesday's City Council meeting and will share timing with the committee. Committee member John McAlister requests that staff investigate arts-booking conferences and agent contacts to identify touring acts, and Theresa agrees to return information about the Western Arts Alliance and to contact agents for roster and fee data.
+- Theresa Yvonne announces she will accept the National Arts and Humanities Proclamation at the next City Council meeting and will send timing details to the committee.
+- John McAlister asks staff to explore attending arts-booking conferences and gathering background information on available touring acts.
+- Theresa Yvonne explains the major booking events (APAP in New York and the Western Arts Alliance) and agrees to bring information about the Western Arts Alliance and to contact agents for rosters and fee ranges.
+  #### Volunteer event and next meeting
+  Committee members share brief non-action updates and meeting logistics: members thank the city for a volunteer appreciation event and report useful cross-committee networking, and staff confirms the next Performing Arts Committee meeting is scheduled for November 16, 2022 as a video conference where additional home company presentations (TheaterWorks and Upstage) will occur. The meeting adjourns at the stated time.
+- Carol Donahue thanks the city for the volunteer appreciation event and notes it provided networking and collaboration opportunities.
+- Theresa Yvonne confirms that TheaterWorks and Upstage will present at the next performing arts committee meeting on November 16, 2022.
+- Carol Donahue adjourns the meeting and announces the next committee meeting date, time, and virtual format.

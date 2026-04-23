@@ -1,0 +1,80 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "339 Franklin Street Project Approvals",
+          "points": [
+            {
+              "speaker": "Stephanie Williams",
+              "text": "Stephanie Williams noted the entire project at 339 Franklin St. is available to the City Council within 10 calendar days for appeal following the approvals.",
+              "source": "Stephanie Williams : This entire project is available to the City Council within 10 calendar days.",
+              "validation_note": "equivalence_resolved"
+            }
+          ]
+        },
+        {
+          "topic": "El Camino Real Extension Appeal Rights",
+          "points": [
+            {
+              "speaker": "Stephanie Williams",
+              "text": "Stephanie Williams stated the El Camino Real extension item is appealable to the City Council within 10 calendar days after the committee's action.",
+              "source": "Stephanie Williams : This item is appealable to the City Council within 10 calendar days.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Stephanie Williams",
+          "text": "Stephanie Williams approved the planned community permit, development review permit and heritage tree removal for 339 Franklin Street subject to draft findings and conditions of approval.",
+          "source": "Stephanie Williams : And we'll be approving the planned community permit, development review permit and heritage tree removal subject to those draft findings and conditions of approval.",
+          "validation_note": "refined"
+        }
+      ]
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "modify",
+        "reasoning": "The transcript shows Stephanie Williams used future tense 'we'll be approving' during deliberation, indicating this was a decision being made in the meeting, not a past approval. The decision should reflect the actual approval action that occurred.",
+        "transcript_evidence": [
+          "Stephanie Williams : And we'll be approving the planned community permit, development review permit and heritage tree removal subject to those draft findings and conditions of approval."
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "merge",
+        "reasoning": "Both points refer to the same statement about 339 Franklin St. appeal rights. The transcript shows Stephanie Williams specifically said 'This entire project' referring to the 339 Franklin St. project just discussed. GT1's specific reference to 339 Franklin St. is more accurate than GT2's generic 'all approved items'.",
+        "transcript_evidence": [
+          "Stephanie Williams : This entire project is available to the City Council within 10 calendar days."
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "merge",
+        "reasoning": "This is a distinct statement about the El Camino Real extension project being appealable. The transcript shows this was said after approving the El Camino Real extension, separate from the 339 Franklin St. appeal statement. Different projects have separate appeal notifications.",
+        "transcript_evidence": [
+          "Stephanie Williams : This item is appealable to the City Council within 10 calendar days."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 3,
+      "merged": 2,
+      "excluded": 0,
+      "modified": 1,
+      "confidence": "High confidence - all items had clear transcript evidence. The tense correction for the decision was straightforward, and the appeal statements were clearly distinguished by context and timing in the meeting flow."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-26T07:19:37.854007+00:00"
+  }
+}

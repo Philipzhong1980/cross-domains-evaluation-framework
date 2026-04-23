@@ -1,0 +1,65 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Meeting Procedures",
+          "points": [
+            {
+              "speaker": "Ashley Bittle",
+              "text": "Committee achieved quorum with members Gonzalves, Huey, Nichols, Sinha, Tymes, Vice Chair Eragon and Chair Gilfix present.",
+              "source": "Ashley Bittle : We have a quorum",
+              "validation_note": "equivalence_resolved"
+            },
+            {
+              "speaker": "Vicki",
+              "text": "The committee approved the minutes from the July 20 meeting. Elna Tymes moved to approve, Ish Sinha seconded, and members voted in favor; Irigon abstained due to not attending the prior meeting.",
+              "source": "Elna Tymes : I move to approve",
+              "validation_note": "equivalence_resolved"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "modify",
+        "reasoning": "Both points describe the same quorum confirmation event. GT2 provides specific member names that are accurately supported by the transcript, while GT1 focuses on procedural aspects. GT2's member list is factually correct and more informative. The procedural details in GT1 are not substantiated by the transcript evidence for this specific quorum confirmation.",
+        "transcript_evidence": [
+          "Ashley Bittle : Yes, Committee member Gonzalves, committee member Huey, committee member Nichols, committee member Sinha, present committee member, times, vice Chair Eragon and Chair Gilfix.",
+          "Ashley Bittle : We have a quorum."
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "modify",
+        "reasoning": "Both points describe the same minutes approval event. The transcript clearly shows Vicki (the chair) orchestrating the process, Elna making the motion, Ish providing the second, and Irigon abstaining. GT1 has more complete information including the abstention detail, but incorrectly attributes the overall description to 'Vicki' when it should reflect the factual summary. Combining the motion details with the abstention information provides the most accurate account.",
+        "transcript_evidence": [
+          "Vicki : OK, we need to approve the minutes of the meeting of of July 20th.",
+          "Elna Tymes : I move to approve.",
+          "Ashley Bittle : Ish.",
+          "Irigon : I have to abstain.",
+          "Vicki : Yes, You weren't at the meeting."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 2,
+      "merged": 0,
+      "excluded": 0,
+      "modified": 2,
+      "confidence": "High confidence in validation. Both items were clearly supported by transcript evidence with specific quotes confirming member names, voting procedures, and abstention details. The equivalence questions were resolved by combining the most accurate elements from each version."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:14:28.368921+00:00"
+  }
+}

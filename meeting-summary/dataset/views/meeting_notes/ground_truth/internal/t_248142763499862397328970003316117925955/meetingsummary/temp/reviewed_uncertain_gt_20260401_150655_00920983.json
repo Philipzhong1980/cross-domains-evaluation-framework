@@ -1,0 +1,68 @@
+{
+  "result": {
+    "rejected_items": [],
+    "validated_gt": {
+      "topics": [],
+      "decisions": [
+        {
+          "assignee": "All Commissioners",
+          "text": "All commissioners must attend Brown Act Refresher training scheduled for mid-January and complete Form 700 filings via the City's Netfile system (emails from Netfile are legitimate). Staff offered to verify any messages if needed.",
+          "source": "Laurel James : This is a reminder that the City Clerk's Office has sent you invitation for Brown Act Refresher training for mid January, so please don't forget to attend... for those of you who have not yet filed your Form 700 because you are new commissioners, you will receive an e-mail from a platform called Netfile... That is not spam.",
+          "validation_note": "merged_conflict"
+        },
+        {
+          "assignee": "All Commissioners",
+          "text": "Next meeting will be held in person at City Hall Plaza Conference Room (2nd floor) on Thursday, February 2nd, 2023 at 6:30 PM.",
+          "source": "Laurel James : the next HRC meeting will not be virtual. It will be in person at City Hall on, I believe it's Thursday, February the 2nd at 6:30 PM... We will be meeting in the Plaza conference room, which is on the 2nd floor of City Hall.",
+          "validation_note": "merged_conflict"
+        }
+      ]
+    },
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Both GT1 and GT2 refer to the same Brown Act training requirement. GT1 combines the training reminder with Form 700 filing information, while GT2 focuses only on the training attendance. The transcript shows these were part of the same staff announcement by Laurel James. They should be merged into a single comprehensive decision that covers both requirements.",
+        "transcript_evidence": [
+          "Laurel James : This is a reminder that the City Clerk's Office has sent you invitation for Brown Act Refresher training for mid January, so please don't forget to attend",
+          "Laurel James : for those of you who have not yet filed your Form 700 because you are new commissioners, you will receive an e-mail from a platform called Netfile",
+          "Laurel James : That is not spam. It's a third party that we use to collect the Form 700 information"
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "exclude",
+        "reasoning": "This Form 700 filing requirement is not a separate decision but part of the same administrative reminder covered in review_001. The transcript shows Laurel James made these announcements as part of a single staff update, not as separate decisions. Including this separately would create redundancy.",
+        "transcript_evidence": [
+          "Laurel James : for those of you who have not yet filed your Form 700 because you are new commissioners, you will receive an e-mail from a platform called Netfile",
+          "Laurel James : That is not spam"
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "merge",
+        "reasoning": "Both GT1 and GT2 refer to the same meeting location decision. GT2 correctly identifies the assignee as 'All Commissioners' since this applies to all members. GT1 provides more specific location details (2nd floor) which is confirmed in the transcript when Molly Smith asks about the room location.",
+        "transcript_evidence": [
+          "Laurel James : the next HRC meeting will not be virtual. It will be in person at City Hall on, I believe it's Thursday, February the 2nd at 6:30 PM",
+          "Molly Smith : Do we know the room or location?",
+          "Laurel James : We will be meeting in the Plaza conference room, which is on the 2nd floor of City Hall"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 3,
+      "merged": 2,
+      "excluded": 1,
+      "modified": 0,
+      "confidence": "High confidence in validation decisions. All items had clear transcript evidence. The Brown Act training and Form 700 filing were part of the same staff announcement and should be combined. The Form 700 as a separate decision creates redundancy. The meeting location details were clearly stated with additional room specification provided when asked."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:06:55.303045+00:00"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Labor Standards",
+          "points": [
+            {
+              "speaker": "Wing Tam",
+              "text": "Public commenter Wing Tam, representing NorCal Carpenters Union Local 405, urged developers to adopt labor standards on multiple projects, specifically local hiring, healthcare benefits, and prevailing wages. He offered union assistance and provided contact information (wtam@nccrc.org).",
+              "source": "Wing Tam : I want to let the developer know so help help us to to have a provenil wages, healthcare and local hiring for our Labor Standards... So my my e-mail is wtam@nccrc.org.",
+              "validation_note": "refined"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "modify",
+        "reasoning": "Transcript evidence shows Wing Tam made similar comments on both projects (1747 West Evelyn Avenue and 2645-2655 Fayette Drive), indicating a general advocacy for labor standards across multiple projects rather than project-specific comments. GT1's characterization as 'discussed projects' (plural) is more accurate than GT2's implication of a single specific project. However, the text needs refinement to reflect that he spoke on multiple projects during the meeting.",
+        "transcript_evidence": [
+          "Wing Tam : Today I would like to speaking in here and spit out our provenant area standards labor.",
+          "Wing Tam : I want to let the developer know so help help us to to have a provenil wages, healthcare and local hiring for our Labor Standards... So my my e-mail is wtam@nccrc.org."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 1,
+      "merged": 0,
+      "excluded": 0,
+      "modified": 1,
+      "confidence": "High confidence - transcript clearly shows Wing Tam made similar labor standards advocacy comments on both projects discussed in the meeting, supporting the general nature of his advocacy rather than project-specific focus."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:31:36.736092+00:00"
+  }
+}

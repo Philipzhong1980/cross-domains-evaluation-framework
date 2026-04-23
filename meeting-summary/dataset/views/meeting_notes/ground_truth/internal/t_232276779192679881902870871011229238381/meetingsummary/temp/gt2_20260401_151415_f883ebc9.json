@@ -1,0 +1,215 @@
+{
+  "result": {
+    "meeting_context": "This is a Visual Arts Committee meeting for the City of Mountain View covering multiple agenda items including roll call, minutes approval, public communications, upcoming agenda topics, unfinished business updates on Capital Improvement Program public art projects, Center for Performing Arts call for artists results, Transit Center Grade Separation project presentation, guidance on public inquiries, and discussion of stipend thresholds for artist evaluations.",
+    "participants": [
+      "Jesse Cupp",
+      "John Lang",
+      "Clifford Bryant",
+      "Susi Merhar",
+      "Regina Sakols",
+      "Don Whitebread",
+      "Toot Too Thomson",
+      "Bruce England",
+      "Joy Houghton",
+      "Jim Lightbody",
+      "Robert Gonzales"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Administration and Minutes Approval",
+        "points": [
+          {
+            "speaker": "Jesse Cupp",
+            "text": "Committee called meeting to order and conducted roll call with Vice Chair Hsu having excused absence",
+            "source": "Jesse Cupp : I'm calling meeting to order item 2, roll call into a roll call"
+          },
+          {
+            "speaker": "Jesse Cupp",
+            "text": "November 9th, 2022 meeting minutes were approved unanimously by committee vote",
+            "source": "Jesse Cupp : So that passes"
+          }
+        ]
+      },
+      {
+        "topic": "Upcoming Agenda Topics Planning",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Staff provided context on biodiversity strategy integration with art placement and landscaping, noting K5 policy was provided to consultant team",
+            "source": "John Lang : We did provide the K5 policy to the consultant team that's doing the work"
+          },
+          {
+            "speaker": "Susi Merhar",
+            "text": "Committee member requested discussion on artist touchpoint strategies and call for artists process improvements",
+            "source": "Susi Merhar : I actually looked at my notes from last meeting and I think our discussion last time made it clear to me that maybe it would be good if we would"
+          },
+          {
+            "speaker": "Regina Sakols",
+            "text": "Committee member requested original call for artists documentation be included in future packages for better evaluation",
+            "source": "Regina Sakols : I could not find, and I don't know if anybody managed to find the the original call"
+          },
+          {
+            "speaker": "Jesse Cupp",
+            "text": "Committee discussed concerns about CAFE platform difficulty for artists and potential alternative platforms like slide room",
+            "source": "Jesse Cupp : Apparently a lot of artists don't like using the cafe platform"
+          },
+          {
+            "speaker": "Toot Too Thomson",
+            "text": "Committee member proposed future agenda item for call for young artists program to display student artwork",
+            "source": "Toot Too Thomson : I actually talked to my son's middle school art, art, art teacher"
+          }
+        ]
+      },
+      {
+        "topic": "Capital Improvement Program Art Project Updates",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "No substantial changes since last meeting on Reinstorff Park Aquatic Center, Fayette Park, and maintenance building projects",
+            "source": "John Lang : Really, there's no substantial change since your last meeting"
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Updated insurance requirements received for Rankstorff Park maintenance building artists Fernanda and Haroma, allowing agreements to move forward",
+            "source": "John Lang : The one thing I will call your attention to is we did get some updated insurance requirement insurance documents for the artist for Rankstorff Park maintenance"
+          }
+        ]
+      },
+      {
+        "topic": "Center for Performing Arts Artist Selection",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Call for artists received 63 responses from 9-county Bay Area region, with committee scoring resulting in top 11 ranked artists",
+            "source": "John Lang : We had 63 responses"
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Top scoring artist Martinez confirmed artwork weight compatibility with CPA hanging systems after staff inquiry",
+            "source": "John Lang : The artist was kind enough to provide me the weights of these pieces"
+          },
+          {
+            "speaker": "Toot Too Thomson",
+            "text": "Committee member clarified that blank scores were intended as zeros, not null values in evaluation system",
+            "source": "Toot Too Thomson : Because I only scored like maybe 11 or 12 artists I left majority of them blank"
+          },
+          {
+            "speaker": "Regina Sakols",
+            "text": "Committee voted unanimously to select 8 artists instead of 6 for CPA displays with 3 alternates, shortening exhibition periods to accommodate more artists",
+            "source": "Regina Sakols : I do a motion to have eight artists show in the next performance CPA Season of Visual Arts instead of 6"
+          }
+        ]
+      },
+      {
+        "topic": "Transit Center Grade Separation Project Presentation",
+        "points": [
+          {
+            "speaker": "Joy Houghton",
+            "text": "Project currently in final design phase scheduled for completion July 2024, with construction beginning July 2024 through December 2026",
+            "source": "Joy Houghton : The project is currently in final designed phase, which is scheduled to be completed in July of 2024"
+          },
+          {
+            "speaker": "Joy Houghton",
+            "text": "Project includes vehicle ramp from West Evelyn to Shoreline, shared use path, undercrossings for pedestrians and bikes, and new pickup/drop-off areas",
+            "source": "Joy Houghton : This image here shows the major elements of the project"
+          },
+          {
+            "speaker": "Joy Houghton",
+            "text": "Multiple opportunities identified for public art integration including undercrossings, concourse area, surface lighting, landscaping, and architectural elements",
+            "source": "Joy Houghton : There are many opportunities for that in the project"
+          },
+          {
+            "speaker": "Robert Gonzales",
+            "text": "Policy K5 applies with project budget over $90 million, capping visual arts component at $400,000 for art and potential artist stipend models",
+            "source": "Robert Gonzales : So Policy K5 comes into play here"
+          },
+          {
+            "speaker": "Joy Houghton",
+            "text": "Staff will return to VAC in early 2023 with public art location recommendations and initiate call for artists process",
+            "source": "Joy Houghton : Staff will continue to coordinate with the project design team and finalize public art location recommendations and return to the Visual Art Committee early next year"
+          }
+        ]
+      },
+      {
+        "topic": "Public Inquiry Guidance Protocol",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Committee members should forward public inquiries about VAC matters to staff for initial response and coordination with clerk's office",
+            "source": "John Lang : So if you do receive inquiries from members of the public you know what's the city's position on this or what does Mountain View do on this related to art if you would be so kind as to forward that to me"
+          }
+        ]
+      },
+      {
+        "topic": "Artist Stipend Threshold Discussion",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Historical analysis shows VAC provided stipends for three projects: Fire Station #5 ($67,000 budget, $500 stipend), Community Center ($140,000 budget, $5000 stipend), and Rankstorff Aquatic Center ($180,000 budget, $1000 stipend)",
+            "source": "John Lang : There were three projects that actually the VAC committees at those times decided to go through a stipend approach"
+          },
+          {
+            "speaker": "Susi Merhar",
+            "text": "Committee member expressed preference for holistic approach to artist engagement rather than deciding stipend threshold in isolation",
+            "source": "Susi Merhar : I I feel like I'm a little bit uneasy to decide this personally, kind of in a vacuum"
+          },
+          {
+            "speaker": "Clifford Bryant",
+            "text": "Committee member advocated for default stipend approach above threshold with option to waive, noting improved quality from artist stipends",
+            "source": "Clifford Bryant : I would go with an idea that we are going to give a stipend in order to finalize the final design"
+          },
+          {
+            "speaker": "Susi Merhar",
+            "text": "Committee reached consensus on $60,000 threshold triggering automatic discussion about whether to provide artist stipends",
+            "source": "Susi Merhar : It's a trigger for us that we have to have a discussion about a stipend or not"
+          }
+        ]
+      },
+      {
+        "topic": "Meeting Closure and Recognition",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Staff thanked committee members for thoughtful feedback and contributions throughout the year, extending holiday wishes",
+            "source": "John Lang : I want to thank the VAC committee this year"
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Committee",
+        "text": "Committee approved November 9th, 2022 meeting minutes unanimously",
+        "source": "Jesse Cupp : So that passes"
+      },
+      {
+        "assignee": "Committee",
+        "text": "Committee voted unanimously to select 8 artists for CPA displays instead of 6, with 3 alternates, shortening exhibition periods",
+        "source": "Regina Sakols : I do a motion to have eight artists show in the next performance CPA Season of Visual Arts instead of 6"
+      },
+      {
+        "assignee": "John Lang",
+        "text": "Staff will coordinate with Public Works team on stipend timing and return with refined threshold policy incorporating $60,000 trigger for stipend discussion",
+        "source": "John Lang : So let me go back to the public works folks and just try and understand from a timing frame"
+      },
+      {
+        "assignee": "Joy Houghton",
+        "text": "Public Works staff will return to VAC in February 2023 with public art location recommendations and initiate call for artists for Transit Center project",
+        "source": "Joy Houghton : Staff will continue to coordinate with the project design team and finalize public art location recommendations and return to the Visual Art Committee early next year"
+      }
+    ],
+    "metadata": {
+      "topicCount": 8,
+      "pointCount": 24,
+      "decisionCount": 4
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:14:15.527473+00:00"
+  }
+}

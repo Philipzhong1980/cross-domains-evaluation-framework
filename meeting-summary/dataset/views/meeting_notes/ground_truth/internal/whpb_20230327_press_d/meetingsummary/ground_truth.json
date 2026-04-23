@@ -1,0 +1,152 @@
+{
+  "meeting_context": "White House press briefing imported from 20230327_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Unidentified",
+    "Tonya Riley"
+  ],
+  "topics": [
+    {
+      "topic": "The moderator thanks everyone for joining the call",
+      "points": [
+        {
+          "text": "The moderator thanks everyone for joining the call, reminds them of the ground rules, introduces the two speakers, and prepares to start with opening remarks and Q&A.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official announces that President Biden",
+      "points": [
+        {
+          "text": "The senior administration official announces that President Biden will issue an executive order prohibiting the operational use of commercial spyware by the U.S. government due to national security risks and human rights abuses, demonstrating U.S. leadership in countering the misuse of surveillance technology.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the proliferation of",
+      "points": [
+        {
+          "text": "The senior administration official discusses the proliferation of commercial spyware by foreign governments and actors within democratic governments, highlighting the risks it poses to national security, human rights, and the safety of U.S. personnel and their families.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the need for",
+      "points": [
+        {
+          "text": "The senior administration official discusses the need for clear direction and restrictions on the use of commercial spyware tools by U.S. departments and agencies, as well as the executive order that prohibits their operational use due to counterintelligence and security risks.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that the executive",
+      "points": [
+        {
+          "text": "The senior administration official explains that the executive order aims to ensure that the use of commercial spyware by the U.S. government aligns with national security interests and does not contribute to its proliferation or misuse.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that the executive",
+      "points": [
+        {
+          "text": "The senior administration official explains that the executive order aims to protect U.S. government personnel and information systems, intelligence and law enforcement activities, promote international cooperation, and spur reform in the commercial spyware industry to prevent misuse and reduce risks to national security.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The executive order establishes factors to assess the",
+      "points": [
+        {
+          "text": "The executive order establishes factors to assess the risks of commercial spyware, including unauthorized access to U.S. government devices, untrustworthy vendors, human rights abuses, tracking or targeting U.S. persons without legal authorization, and engagement in political repression, while also providing remedial steps and reporting requirements to address these risks and promote international cooperation.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration officials discuss the issuance of",
+      "points": [
+        {
+          "text": "The senior administration officials discuss the issuance of an executive order on commercial spyware and its significance in addressing the spread and misuse of technology, as well as provide an overview of the upcoming second Summit for Democracy and its focus on advancing technology for democracy, countering the misuse of technology, and shaping emerging technologies.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The executive order on commercial spyware aims to",
+      "points": [
+        {
+          "text": "The executive order on commercial spyware aims to prohibit the use of spyware that poses counterintelligence or security risks to the US or risks of misuse abroad, with a focus on accountability and remedial steps, and only specified heads of agencies and departments can make determinations.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that the executive",
+      "points": [
+        {
+          "text": "The senior administration official explains that the executive order on commercial spyware was initiated to proactively address the challenge of commercial spyware vendors attempting to sell their tools to the US federal government, and although there have been few instances of reported use, they cannot provide further details on specific cases.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses their plans to",
+      "points": [
+        {
+          "text": "The senior administration official discusses their plans to make announcements in three areas to counter the misuse of technology and digital authoritarianism, including export controls, human rights initiatives, and the development of guiding principles for governments' use of surveillance technology.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that the executive",
+      "points": [
+        {
+          "text": "The senior administration official explains that the executive order focuses on regulating the U.S. government's use of commercial spyware and mentions that they have other tools at their disposal, such as export control measures and diplomatic engagement, to address the misuse of commercial spyware abroad.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that the executive",
+      "points": [
+        {
+          "text": "The senior administration official explains that the executive order will establish guidelines for agencies to review and certify the use of commercial spyware, with a requirement to terminate operational use if significant counterintelligence or security risks arise.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official confirms that U S",
+      "points": [
+        {
+          "text": "The senior administration official confirms that U.S. personnel overseas have been targeted by commercial spyware, with at least 50 devices associated with U.S. government personnel in 10 countries confirmed or suspected to have been targeted.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

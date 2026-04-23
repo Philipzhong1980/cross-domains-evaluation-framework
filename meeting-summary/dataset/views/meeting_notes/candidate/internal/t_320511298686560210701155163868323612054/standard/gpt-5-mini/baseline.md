@@ -1,0 +1,50 @@
+### Overview
+  City staff from the Multicultural Engagement Program (MEP) lead a substantial update on multilingual outreach, translation and interpretation services, leadership academies (Spanish and newly launched Chinese), ambassador and device-distribution programs, and a language access policy in development, with Nancy Ducos and Lenka Wright reporting recent outputs and ACS language data. The Commission then revisits subcommittee appointments for Housing & Security Storytelling, Bystander Intervention Training, and Mental Health, balancing continuity with Brown Act quorum constraints and agreeing provisional memberships while staff will coordinate start-up meetings. Commissioners provide project follow-ups: the Discrimination & Inclusion oral histories require a signed release before archiving and staff will update the project web page and video hosting; the Police Department requests an LGBT community representative and commissioners volunteer to help identify contacts; and staff notifies members that Council now requires HRC commissioners to file FPPC Form 700 disclosures with initial filings due in October and annual filings thereafter. Finally, staff confirms the Council extended virtual meeting authorization and will advise whether November’s meeting will be in-person.
+  
+  ### Detailed Summary
+  #### Multicultural Engagement Program
+  Staff from the Multicultural Engagement Program (MEP) present an information update on outreach, language access, and leadership development. The presentation highlights translation and interpretation services, digital and community outreach channels, leadership academies in Spanish and Chinese, device distribution and training, and collaboration with housing and other city initiatives. MEP reports concrete outputs from the last year and outlines near-term plans including scheduled academies and a language access policy in development.
+- Nancy Ducos: The MEP translates essential documents, interprets at community meetings, and identifies multilingual outreach opportunities to improve resident involvement in public decision-making.
+- Nancy Ducos: The MEP team has grown from three part-time staff to a seven-person team and now supports events, newsletters, council meetings, and program outreach.
+- Nancy Ducos: In the last year the MEP translated approximately 288 documents and conducted about 89 virtual outreach activities including WhatsApp and WeChat communications.
+- Nancy Ducos: The MEP provides ongoing support to the Housing and Eviction Help Center and the rent stabilization program by translating FAQs, hosting webinars, and providing interpretation.
+- Nancy Ducos: The program runs language-specific Civic Leadership Academies (Spanish and newly launched Chinese) and an Ambassador program that delivered 648 housing flyers door-to-door.
+- Nancy Ducos: In partnership with the Los Altos Mountain View Community Foundation the MEP provided laptops to academy participants and collaborated with the library to provide digital skills training.
+- Nancy Ducos: The MEP is integrating tools like QR codes and mobile platforms to meet community preferences and increase access to city information.
+- Lenka Wright: The city is developing a language access policy to guide which languages receive ongoing translation and interpretation support.
+- Lenka Wright: Based on 2021 ACS estimates, about 53% of Mountain View residents speak only English and nearly 47% speak a language other than English, with notable shares speaking Asian/Pacific Island languages and Spanish.
+#### Subcommittee Appointments Discussion
+The Commission revisits subcommittee appointments approved by Council and balances continuity with Brown Act constraints on quorum. Staff reviews initial interest lists for three subcommittees (Housing & Security Storytelling, Bystander Intervention Training, and Mental Health) and commissioners discuss whether members who will vacate in January should remain engaged to provide continuity. The group agrees on provisional assignments and asks staff to coordinate next steps and scheduling.
+- Laurel James: The Council approved three HRC subcommittees and staff wants to ensure the Housing & Security Storytelling group has no more than three commissioners to avoid Brown Act quorum issues.
+- Kevin Ball: I will withdraw my interest in subcommittees because I will no longer serve on the HRC after January to simplify assignments.
+- Annette Lin: I confirm I will vacate my seat in January and volunteer to serve on a subcommittee through my term to maintain continuity.
+- Julie Solomon: I will focus remaining time on wrapping up the Discrimination and Inclusion and housing projects and may help transition materials to the new subcommittee.
+- Nirvana Nwokidu: I remain interested in serving on the Mental Health Subcommittee given the scope of work I proposed.
+- Laurel James: The group agrees on provisional membership and staff will coordinate subcommittee start-up and meeting cadence with assigned commissioners.
+#### Recruitment and Quorum Concerns
+Commissioners express concern about the unknown size of the applicant pool and the potential impact on Commission membership and subcommittee capacity in January. Staff agrees to request application counts from the City Clerk, and commissioners note that recruiting efforts may continue during the year if openings remain. Commissioners also raise procedural questions about minimum membership and contingencies if the Commission has fewer members.
+- Nirvana Nwokidu: What happens to subcommittees if the Commission lacks new appointees or if multiple commissioners resign?
+- Laurel James: If membership drops, subcommittees would continue with willing commissioners and staff will revisit subcommittee assignments in January when new commissioners are seated.
+- IdaRose Sylvester: I believe the quorum requirement for the seven-member Commission is four, and commissioners should confirm this with staff.
+- Laurel James: I will ask the City Clerk for the number of applications and follow up on recruitment and quorum procedures.
+#### Discrimination & Inclusion Follow-ups
+The Discrimination and Inclusion subcommittee reports progress wrapping up the oral histories and related housing work. A recorded interview requires a signed release form before archiving, and commissioners are contacting people who previously expressed interest in sharing stories to determine their needs and next steps. Staff will update the project web page, add a video gallery, and coordinate hosting or linking of videos.
+- Julie Solomon: I have an appointment to obtain a signed release from a recorded interview subject and expect to upload the interview once the release is in place.
+- Julie Solomon: I contacted four people who expressed interest after the event and will interview them to determine whether they want storytelling, referrals, or other support.
+- Laurel James: Staff will update the web page with a video gallery, oral histories, and final project materials as a punch list item.
+- IdaRose Sylvester: The event video is already on YouTube but currently hosted on an external channel, and staff will seek consent to host or link it directly from the City’s site.
+- Jill Rakestraw: The Palo Alto Historical Association has requested the link and expressed interest in the project.
+#### Police Outreach — LGBT Request
+The Police Department requests an LGBT community representative to broaden perspectives for an outreach effort. Commissioners note that Mountain View lacks a strong organized LGBT network according to prior needs assessments and propose mobilizing an existing listserv and individual contacts while clarifying the intended role. Vice Chair Sylvester offers contacts and volunteers to help assemble appropriate community representatives.
+- Julie Solomon: Captain Canfield of Mountain View PD is seeking a community representative from the local LGBT community and I asked for clarification about the role.
+- Audrey Seymour Remberg: Historical assessments indicate a limited organized LGBT network in Mountain View, which complicates identifying an ongoing community representative.
+- IdaRose Sylvester: I can provide names of long-time local LGBT activists who could serve as starting points for the Police Department's outreach.
+#### Form 700 Filing Requirement
+Staff notifies commissioners that City Council designates HRC members as officials required to file FPPC Form 700 Statements of Economic Interests because HRC provides substantive recommendations to Council. Commissioners must file an initial NetFile declaration covering Sep 27, 2021–Sep 27, 2022 due in October and then file annual statements thereafter; staff will provide NetFile guidance and clarify penalties and exit filing requirements with the City Clerk and City Attorney.
+- Laurel James: The City Council adds the HRC to the list of designated officials required to file Form 700 due to the Commission's substantive recommendations on funding and policy.
+- Laurel James: The initial Form 700 filing will cover September 27, 2021 through September 27, 2022 and is due in October, with annual filings thereafter via NetFile.
+- Laurel James: The Council plans to amend policy to treat failure to file as an unexcused absence for future meetings, and staff will confirm any other penalties or filing details.
+#### Virtual Meetings Status
+Staff reports the City Council extended the virtual meetings authorization in mid-September and will revisit the provision in mid-October. Commissioners should expect an update about whether the HRC November meeting will be virtual or in-person.
+- Laurel James: The Council extends the virtual meetings provision in mid-September and will reconsider it at its mid-October meeting.
+- Laurel James: I will notify the Commission whether November's HRC meeting will remain virtual or move back to in-person.

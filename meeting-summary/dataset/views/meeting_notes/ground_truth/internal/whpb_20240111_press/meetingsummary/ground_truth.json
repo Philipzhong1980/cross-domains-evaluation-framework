@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20240111_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "MS. BRAINARD",
+    "Unidentified",
+    "MR. KIRBY"
+  ],
+  "topics": [
+    {
+      "topic": "National Economic Advisor Lael Brainard discusses President Biden's",
+      "points": [
+        {
+          "text": "National Economic Advisor Lael Brainard discusses President Biden's upcoming trip to Allentown, Pennsylvania, highlighting the town's economic comeback under the Biden administration with job creation, decreased unemployment rates, increased access to high-speed internet, and a record-breaking number of small business applications.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript National Economic",
+      "points": [
+        {
+          "text": "In this section of the transcript, National Economic Advisor Lael Brainard discusses the positive impact of small business growth, decreased inflation, and the focus on lowering costs for American households under President Biden's administration.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The administration is focused on using legislative authorities",
+      "points": [
+        {
+          "text": "The administration is focused on using legislative authorities to tackle elevated prices in specific areas, such as car insurance rates, through actions like insulin and drug price negotiations.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The national security team is monitoring the attacks",
+      "points": [
+        {
+          "text": "The national security team is monitoring the attacks in the Red Sea area and their potential effects on the U.S. economy, but so far there has been little impact and supply chain pressures are back to pre-pandemic levels.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Lael Brainard discusses the importance of housing affordability",
+      "points": [
+        {
+          "text": "Lael Brainard discusses the importance of housing affordability, the need for Congress to pass housing tax credits and proposals for first-generation homebuyers, and the potential relief in the rental market while also mentioning that oil prices have been volatile but retail gas prices are down.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Lael Brainard discusses the potential impacts of tax",
+      "points": [
+        {
+          "text": "Lael Brainard discusses the potential impacts of tax negotiations on inflation and highlights the effectiveness of President Biden's child tax credit policy in lifting children out of poverty.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Lael Brainard emphasizes the importance of extending and",
+      "points": [
+        {
+          "text": "Lael Brainard emphasizes the importance of extending and expanding the child tax credit to reduce child poverty.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Lael Brainard discusses the progress made in the",
+      "points": [
+        {
+          "text": "Lael Brainard discusses the progress made in the regional banking sector, addresses concerns about food prices, highlights the positive economic gains under President Biden's policies, and emphasizes the need to continue lowering costs for hardworking American families.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Lael Brainard highlights the increase in real wages",
+      "points": [
+        {
+          "text": "Lael Brainard highlights the increase in real wages and overall purchasing power, stating that people can buy as much as they could pre-pandemic and have an additional $1,700 to spend.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral John Kirby condemns the apparent seizure of",
+      "points": [
+        {
+          "text": "Admiral John Kirby condemns the apparent seizure of a merchant vessel by Iran and expresses support for media freedom in the conflict in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral John Kirby refuses to give a legal",
+      "points": [
+        {
+          "text": "Admiral John Kirby refuses to give a legal opinion on whether Gaza is occupied by Israel and states that allegations of genocide against Israel are unfounded, while also acknowledging discussions with Israeli counterparts about the responsibility to protect innocent civilians during military operations.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral John Kirby asserts that the Biden administration",
+      "points": [
+        {
+          "text": "Admiral John Kirby asserts that the Biden administration is not in violation of international law despite a judge's call to suspend military operations in Gaza, emphasizing Israel's right to defend itself and the provision of humanitarian assistance while maintaining their position.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral John Kirby refuses to speculate on potential",
+      "points": [
+        {
+          "text": "Admiral John Kirby refuses to speculate on potential penalties or sanctions against Israel if found guilty of genocide by the ICJ, and avoids discussing the extent of US action against Houthi attacks in the Red Sea, emphasizing the need for the Houthis to stop their attacks and stating that discussions with Israel to deescalate fighting are ongoing.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral John Kirby declines to provide details on",
+      "points": [
+        {
+          "text": "Admiral John Kirby declines to provide details on Israel's military operations and emphasizes the need for them to transition to a new phase, while stating ongoing discussions with Israel and urging the Houthis to stop their attacks in the Red Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby acknowledges the oversight responsibilities of Congress",
+      "points": [
+        {
+          "text": "Admiral Kirby acknowledges the oversight responsibilities of Congress regarding foreign military assistance to Israel but declines to comment on specific amendment language and emphasizes ongoing discussions with Israel while stating there are no indications of deliberate violations of the laws of armed conflict.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby acknowledges that the US follows the",
+      "points": [
+        {
+          "text": "Admiral Kirby acknowledges that the US follows the law and expects Israel to adhere to the same standards of accountability when it comes to the use of American weapons provided for their defense against Hamas.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby confirms that there is a process",
+      "points": [
+        {
+          "text": "Admiral Kirby confirms that there is a process in place for tracking the general location of Cabinet officials through daily check-ins, but acknowledges that the situation with Secretary Austin's hospitalization was a problem and should not happen again.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby acknowledges the need for improved protocols",
+      "points": [
+        {
+          "text": "Admiral Kirby acknowledges the need for improved protocols in tracking Cabinet officials' locations and responds humorously to a question about poodles.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Defense IG report reveals that American Defense",
+      "points": [
+        {
+          "text": "The Defense IG report reveals that American Defense officials did not fully account for nearly 40,000 weapons provided to Ukraine, highlighting the need for improved accountability measures while acknowledging the challenges posed by the wartime environment.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to comment on former President",
+      "points": [
+        {
+          "text": "The spokesperson declines to comment on former President Trump's views on NATO and emphasizes President Biden's commitment to strengthening alliances, including NATO, in the context of the war in Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson defers questions about threats against judges",
+      "points": [
+        {
+          "text": "The spokesperson defers questions about threats against judges to the Justice Department and emphasizes the responsibility of protecting ships and international commerce in the Red Sea, while also mentioning the involvement of other nations in Operation Prosperity Guardian.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson acknowledges the rising risk of Hezbollah",
+      "points": [
+        {
+          "text": "The spokesperson acknowledges the rising risk of Hezbollah striking Americans in the Middle East or the United States, but emphasizes that they are monitoring the situation closely and will do everything to ensure the safety of American citizens traveling overseas.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to comment on the support",
+      "points": [
+        {
+          "text": "The spokesperson declines to comment on the support of Arab countries for South Africa in the ICJ case and promises to provide a response regarding the outcome of the DRC election, while also expressing condolences for a fellow journalist's passing and discussing religious fanaticism.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The journalist suggests creating a platform to promote",
+      "points": [
+        {
+          "text": "The journalist suggests creating a platform to promote religious harmony and the spokesperson expresses condolences for the journalist's loss, reiterates the importance of human and civil rights, including religious freedom, and addresses concerns about humanitarian assistance in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson acknowledges the food security issues in",
+      "points": [
+        {
+          "text": "The spokesperson acknowledges the food security issues in Gaza and expresses dissatisfaction with the current level of humanitarian assistance, emphasizing the need to increase the volume and speed of aid delivery, while also addressing concerns about military assistance to Ukraine and condemning threats or violence against judges.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson addresses concerns about House",
+      "points": [
+        {
+          "text": "The White House spokesperson addresses concerns about House Republicans potentially reneging on a spending deal and emphasizes the need to keep the government open, while also discussing the withdrawal of judicial nominees and stating that each case is unique.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden has been on a three day",
+      "points": [
+        {
+          "text": "President Biden has been on a three-day swing, visiting four states and addressing the American people on important topics such as democracy and small businesses.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press conference Ms Jean Pierre defends",
+      "points": [
+        {
+          "text": "During a press conference, Ms. Jean-Pierre defends President Biden's recent three-day swing, highlighting his meetings with Paul Whelan's sister and his commitment to bringing home American hostages, while addressing allegations of giving tours of the Oval Office to wealthy campaign donors.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press conference Ms Jean Pierre discusses",
+      "points": [
+        {
+          "text": "During a press conference, Ms. Jean-Pierre discusses President Biden's commitment to bringing home American hostages, including Paul Whelan and Evan Gershkovich, while addressing the lack of progress on a deal and avoiding questions about the President's role in his son's defense.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the press conference Ms Jean Pierre discusses",
+      "points": [
+        {
+          "text": "During the press conference, Ms. Jean-Pierre discusses the importance of transitioning to electric vehicles, reducing gas prices, and ensuring that Americans benefit from corporation profits in relation to oil production, while expressing confidence in Julie Su's nomination for Secretary of Labor.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre discusses the President's commitment to",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre discusses the President's commitment to addressing the gun violence epidemic in the country, highlighting the executive actions and comprehensive legislation passed, while expressing willingness to work with localities and states to prevent gun violence.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

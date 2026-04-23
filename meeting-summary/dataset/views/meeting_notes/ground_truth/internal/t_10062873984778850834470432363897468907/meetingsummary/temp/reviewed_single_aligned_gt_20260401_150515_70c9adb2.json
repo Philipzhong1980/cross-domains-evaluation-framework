@@ -1,0 +1,215 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Meeting procedures and roll call",
+          "points": [
+            {
+              "speaker": "Cleave Frink",
+              "text": "Meeting conducted under California Government Code 54953 during declared state of emergency with all members participating via video conference.",
+              "source": "Cleave Frink : This meeting will be conducted in accordance with the California Government Code 54953 as authorized by resolution of the City Council",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Audrey Ramberg",
+              "text": "All seven Public Safety Advisory Board members were present for the meeting.",
+              "source": "Audrey Ramberg : All members are present",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Minutes approval process details",
+          "points": [
+            {
+              "speaker": "Kavita Aiyar",
+              "text": "Member Aiyar abstained from voting on meeting minutes due to absence from previous meeting.",
+              "source": "Kavita Aiyar : If I wasn't at the last meeting, do I abstain from voting on the meeting minutes?",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Homelessness services coordination",
+          "points": [
+            {
+              "speaker": "Kimberly Thomas",
+              "text": "City balances unhoused needs with neighborhood needs through collaboration between Police, Fire, Public Works, Community Services, and City Attorney's Office.",
+              "source": "Kimberly Thomas : The City balances the unhoused homeless needs with neighbourhood needs through collaboration and coordination",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Safe parking program details",
+          "points": [
+            {
+              "speaker": "Kimberly Thomas",
+              "text": "City operates three safe parking lots at Shoreline, Evelyn, and Terra Bella, plus faith community partnerships.",
+              "source": "Kimberly Thomas : So we have the two, we have three city lots that are all either our the ours that we own or that we lease. So there's Shoreline, there's Evelyn, there's Terra Bella",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Safe parking services and amenities",
+          "points": [
+            {
+              "speaker": "Parneet Dhindsa",
+              "text": "Safe parking sites provide ADA accessible restrooms, mobile showers and laundry through Dignity on Wheels, and medical care through Valley Healthcare.",
+              "source": "Parneet Dhindsa : So we do have on site restrooms, ADA accessible restrooms for participants at our safe parking program sites, all three of them",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Kimberly Thomas",
+              "text": "City provides water on site at all three safe parking locations, facilitated by public works and utilities crews during COVID-19.",
+              "source": "Kimberly Thomas : In addition, we do provide water on site and that was something that was facilitated during COVID-19",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Police outreach hiring process",
+          "points": [
+            {
+              "speaker": "Scott Nelson",
+              "text": "Community outreach officer selection process included one community member on the panel.",
+              "source": "Scott Nelson : our most recent selection for that position did include one member of the community on the panel member for that selection process",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Measure C litigation details",
+          "points": [
+            {
+              "speaker": "Scott Nelson",
+              "text": "Lawsuit filed in July 2021 led to stipulation suspending enforcement until tentative agreement reached in September 2022.",
+              "source": "Scott Nelson : In July of 2021, a lawsuit was filed over the Voter Approved Narrow Streets Ordinance. After the lawsuit was filed, the City agreed to a stipulation where we did not enforce Measure C until the ordinance reached a tentative agreement in September of 2022",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Enforcement complaint trends",
+          "points": [
+            {
+              "speaker": "Scott Nelson",
+              "text": "Complaint volume for 72-hour violations spiked in October-November 2022 but significantly declined over the subsequent month and a half, with increased voluntary compliance reducing proactive enforcement workload.",
+              "source": "Scott Nelson : ...first couple months we did receive just a real influx of complaints... the last month, month and a half, those complaints have really slowed down... people have been voluntarily complying...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Board member concerns and suggestions",
+          "points": [
+            {
+              "speaker": "Kavita Aiyar",
+              "text": "Member Aiyar challenged city's restroom strategy, arguing vehicle residents on Independence cannot access Hope's Corner facilities, especially at night.",
+              "source": "Kavita Aiyar : If I live over on independence, how the heck am I supposed to get over to hope and mercy to use the restroom, right?",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Kalwant Sandhu",
+              "text": "Member Sandhu asked about programs to help residents with non-functional vehicles move without charges and fire safety checks for cooking in vehicles.",
+              "source": "Kalwant Sandhu : Is there a plan to help them move it without charging them? That's number one. Number two, are there any procedures and plans to say check on the safety, any fire hazards",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Joan Brodovsky",
+              "text": "Member Brodovsky questioned ratios of people seeking help versus available placements and clarification of sheltered versus unsheltered definitions.",
+              "source": "Joan Brodovsky : how many people ask for help and don't and can't get it. That's one, because you don't have any place for them or what",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Public comment suggestions",
+          "points": [
+            {
+              "speaker": "Marguerite",
+              "text": "Ortega Avenue resident requested porta potties at Klein Park, reinterpretation of 72-hour rule for oversized vehicles, and funding reallocation from enforcement to services.",
+              "source": "Marguerite : porta potties or even better a permanent restroom at Klein Park, which is on Ortega Ave. #2 reinterpretation of the 72 hour enforcement that ideally suspends this rule for oversized vehicles",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Dana PD",
+              "text": "NBC Pref inquired about residential parking permit program for vehicle residents as mutually beneficial solution to reduce enforcement costs.",
+              "source": "Dana PD : I heard a rumour that there was a residential parking permit program that had been either floated but never created or created but never implemented",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Tim McKenzie",
+              "text": "Community member praised transition from sworn officer to civilian position for homelessness outreach, avoiding criminalization of poverty.",
+              "source": "Tim McKenzie : there was the transition. Hiring someone, closing out a sworn officer role in hiring someone else, not having police deal with people, unsheltered people, unhoused people trying to avoid criminalizing poverty",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Residential parking permits and legal constraints",
+          "points": [
+            {
+              "speaker": "Kimberly Thomas",
+              "text": "The city operates residential permit parking for fixed housing areas, but prior legal analysis (circa 2017-2018) found that permitting specific street locations for people living in vehicles would not be lawful; staff will compile previously published materials for board review.",
+              "source": "Kimberly Thomas : ...City of Mountain View has a residential parking permit program... looked... at whether you could permit particular locations for residents... in a mobile unit. And that was deemed... to be not something that would be legal... We can certainly pull them together...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "dropped_points": [
+      {
+        "item_type": "point",
+        "original_text": "Public right-of-way supports transportation and critical utilities and must maintain safety and access for pedestrians, cyclists, and vehicles. Parking regulations promote turnover; maintenance and environmental compliance require temporary no-parking for work like street sweeping, pavement and utility repairs.",
+        "original_source": "Matthew Atkins : ...public right of way... for public use as a street and for... sanitary sewers, water mains, storm drains... also provides a limited supply of on street public parking... regulate for environmental protections... temporary no parking for pavement... utilities... street sweeping...",
+        "original_speaker": "Matthew Atkins",
+        "from_gt": "gt1",
+        "reason": "too_vague",
+        "explanation": "While the transcript contains fragments about public right-of-way management, the point synthesizes multiple scattered statements into a comprehensive policy overview that goes beyond what was explicitly stated. The source citation shows fragmented quotes that don't support the detailed, structured explanation provided in the point.",
+        "transcript_evidence": [
+          "Matthew Atkins : The City's owns its right of way, both in fee and in St. easements over private property. Both right of way types are legally defined as being for public use as a street and for the purposes of laying and stalling, maintaining, repairing, protecting and replacing sanitary sewers, water mains, storm drains, gas mains poles, overhead and underground, electrical and telephone, wire, cable television, and other municipal uses.",
+          "Matthew Atkins : There are also a variety of parking restrictions, including time limitations. The purpose is to promote parking turnover in order to keep the parking available for general public use.",
+          "Matthew Atkins : We also regulate for environmental protections with state and regional standards. The purpose is to clear the parking lane for maintenance, repairs and constructions in the right of way. Examples include temporary no parking for pavement, sidewalk, curb, tree, storm drain or utility."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 13,
+      "kept": 11,
+      "modified": 1,
+      "dropped": 1,
+      "from_gt1_kept": 2,
+      "from_gt2_kept": 10
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:05:15.941206+00:00"
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "meeting_context": "White House press briefing imported from 20210126_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. PSAKI",
+    "AMBASSADOR RICE",
+    "Peter",
+    "Cecilia",
+    "Mario Parker",
+    "Jonathan",
+    "Unidentified",
+    "Mario",
+    "Yamiche",
+    "Marek Wałkuski"
+  ],
+  "topics": [
+    {
+      "topic": "Susan Rice discusses the racial inequities in America",
+      "points": [
+        {
+          "text": "Susan Rice discusses the racial inequities in America and the urgent need for federal action to address systemic racism, economic disparities, and the disproportionate impact of COVID-19 on communities of color.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ambassador Rice discusses President Biden's plans to advance",
+      "points": [
+        {
+          "text": "Ambassador Rice discusses President Biden's plans to advance racial justice and equity, including historic investments in underserved communities, embedding equity throughout the administration, and signing executive actions to address housing bias, private prisons, tribal consultation, and xenophobia against Asian Americans and Pacific Islanders.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ambassador Rice discusses the efforts being made to",
+      "points": [
+        {
+          "text": "Ambassador Rice discusses the efforts being made to address vaccine skepticism and ensure equitable access to communities of color during the COVID-19 pandemic.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript Peter asks",
+      "points": [
+        {
+          "text": "In this section of the transcript, Peter asks Ambassador Rice about President Biden's promise to repeal liability protection for gun manufacturers and close background check loopholes, to which Ambassador Rice responds by highlighting the administration's early executive actions and emphasizing that there is still a long time left in President Biden's first term.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ambassador Rice discusses the administration's efforts to address",
+      "points": [
+        {
+          "text": "Ambassador Rice discusses the administration's efforts to address the threat of white nationalism and domestic violent extremism, including ordering a comprehensive assessment and establishing a capacity within the National Security Council, while also mentioning that the executive order on prison contracts only applies to Department of Justice-run prisons and is silent on ICE facilities.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ambassador Rice discusses the administration's commitment to addressing",
+      "points": [
+        {
+          "text": "Ambassador Rice discusses the administration's commitment to addressing criminal justice reform, including matters related to policing, and expresses concern over efforts to roll back access to the ballot, emphasizing the need to encourage and enable all eligible Americans to vote.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jonathan asks Ambassador Rice about the possibility of",
+      "points": [
+        {
+          "text": "Jonathan asks Ambassador Rice about the possibility of codifying the executive actions on criminal justice reform to make them permanent and prevent them from being reversed by a future President.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ambassador Rice explains that while executive actions can",
+      "points": [
+        {
+          "text": "Ambassador Rice explains that while executive actions can be taken, it is important to also seek legislation to codify and make lasting changes in criminal justice reform.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President and his team have been focused",
+      "points": [
+        {
+          "text": "The President and his team have been focused on increasing vaccine supply and cooperation with state and local leaders to accelerate the vaccination process.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President will provide an update on efforts",
+      "points": [
+        {
+          "text": "The President will provide an update on efforts to increase vaccine supply and work with state and local leaders, including briefing governors, to accelerate the vaccination process.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Vice President Kamala Harris will visit the National",
+      "points": [
+        {
+          "text": "Vice President Kamala Harris will visit the National Institutes of Health to receive her second dose of the Moderna vaccine and advocate for the immediate passage of the American Rescue Plan, which includes $20 billion for local community vaccine distribution centers in heavily impacted areas.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House Press Secretary discusses President Biden's",
+      "points": [
+        {
+          "text": "The White House Press Secretary discusses President Biden's stance on the impeachment trial and his hope for the Senate to balance their constitutional responsibilities with other urgent matters.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden believes that the Senate has the",
+      "points": [
+        {
+          "text": "President Biden believes that the Senate has the constitutional duty to hold the former President accountable, but as the President of the United States, his focus is on delivering on his promises for the American people and he has spoken with Leader McConnell a couple of times since his inauguration.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is engaging in one on",
+      "points": [
+        {
+          "text": "The White House is engaging in one-on-one and small group conversations with members of Congress from both parties to move the COVID relief package forward, while President Biden is pushing his team to deliver results as quickly as possible and expects a broad swath of the population to be vaccinated in the coming months, with more updates on vaccine supply to be provided later in the day.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki addresses questions",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki addresses questions about FEMA reallocating funds for climate change projects, President Biden's hopes for Senate impeachment trial progress, and the review of violence in Portland by the national security team.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki discusses the",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki discusses the opposition from Republicans to the COVID relief package and their expressions of support and questions about its size and targeting.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki discusses the",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki discusses the steps being taken to address states' concerns about vaccine supply, coordination, and information, including providing more vaccine supply, ensuring the availability of qualified vaccinators, and giving states more advance notice.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki discusses President",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki discusses President Biden's commitment to addressing climate change and the need for additional funding to respond to the COVID-19 emergency.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki discusses the",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki discusses the administration's efforts to accelerate the pace of vaccinations, provide guidance to states and localities, and address potential challenges in meeting the goal of administering 100 million shots in 100 days.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki is asked",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki is asked about the White House's stance on overturning Small Business Administration language that prohibits people with records from accessing PPP relief, and she says she will circle back with an answer.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki discusses the",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki discusses the challenges of vaccine distribution, including vaccine hesitancy and the need for better communication, as well as the importance of collecting racial data on vaccinations.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki discusses the",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki discusses the executive order signed by President Biden that prioritizes racial equity and addresses issues of racial disparities in health, lending, housing, and discrimination.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki discusses the",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki discusses the possibility of bringing back the Skype seat for reporters during daily briefings and defers to the national security team on the issue of funding for a Palestinian consulate, while emphasizing President Biden's commitment to unity and addressing the needs of all Americans.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki states that",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki states that President Biden believes Nord Stream 2 is a bad deal for Europe and that they will be reviewing the measures imposed by the previous administration on activities related to the pipeline.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Press Secretary Jen Psaki addresses concerns",
+      "points": [
+        {
+          "text": "White House Press Secretary Jen Psaki addresses concerns about vaccine supply and distribution challenges, stating that the President's goal is to ensure greater availability in the spring and that it will take months for a broad swath of the population to be vaccinated.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter asks Press Secretary Psaki about the",
+      "points": [
+        {
+          "text": "The reporter asks Press Secretary Psaki about the potential complications in the vaccine rollout effort if the COVID vaccines need to be modified due to emerging variants.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Press Secretary Psaki discusses the evaluation of vaccine",
+      "points": [
+        {
+          "text": "Press Secretary Psaki discusses the evaluation of vaccine efficacy against emerging variants and emphasizes the administration's commitment to honesty and transparency.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Press Secretary Psaki discusses the administration's commitment to",
+      "points": [
+        {
+          "text": "Press Secretary Psaki discusses the administration's commitment to addressing the humanitarian situation in Venezuela, conducting a review of Trump administration positions, acknowledging health disparities in communities of color and the need for increased accessibility to healthcare, and President Biden's opposition to putting additional restrictions on healthcare access.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Press Secretary Psaki states that the Arkansas Republican",
+      "points": [
+        {
+          "text": "Press Secretary Psaki states that the Arkansas Republican gubernatorial primary is not high on President Biden's list of priorities, as he is focused on getting the pandemic under control and politics is not front and center for him at this time.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden spoke with President Putin to discuss",
+      "points": [
+        {
+          "text": "President Biden spoke with President Putin to discuss extending New START, reaffirm support for Ukraine sovereignty, and raise concerns about various issues including the SolarWinds hack, bounties on US soldiers, election interference, Navalny's poisoning, and treatment of peaceful protestors by Russian security forces.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden intended to convey to President Putin",
+      "points": [
+        {
+          "text": "President Biden intended to convey to President Putin that the United States will take strong action to defend its national interests in response to Russia's malign actions.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

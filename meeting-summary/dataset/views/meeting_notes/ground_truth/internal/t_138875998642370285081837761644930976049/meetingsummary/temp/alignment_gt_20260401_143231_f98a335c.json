@@ -1,0 +1,309 @@
+{
+  "result": {
+    "merge_stats": {
+      "total_aligned_points": 12,
+      "total_aligned_decisions": 5,
+      "single_aligned_points_from_gt1": 4,
+      "single_aligned_points_from_gt2": 0,
+      "single_aligned_decisions_from_gt1": 0,
+      "single_aligned_decisions_from_gt2": 0,
+      "points_need_review": 5,
+      "decisions_need_review": 0,
+      "total_output_points": 21,
+      "total_output_decisions": 5,
+      "confidence_level": "high",
+      "notes": "Strong consensus between GTs with 12 aligned points and 5 aligned decisions. GT1 provides 4 unique high-quality points with specific details. Only 5 points need review due to minor differences or unclear equivalence."
+    },
+    "total_aligned_gt": {
+      "meeting_context": "The Mountain View City Council held a hybrid meeting (first in-person in nearly three years) on January 10, 2023, including a closed session on liability claims, a recognition for former Council Member Sally Lieber, and council reorganization. The agenda covered consent calendar approvals, external funding updates, elections of the Mayor and Vice Mayor, and a closed session report denying two claims.",
+      "participants": [
+        "Lucas Ramirez",
+        "Heather Glaser",
+        "Alison Hicks",
+        "Sally Lieber",
+        "Ellen Kamei",
+        "Pat Showalter",
+        "Margaret Abe-Koga",
+        "Lisa Matichak",
+        "Joe Simitian",
+        "Meghan Fraley",
+        "Alex Brown",
+        "Thida Cornes",
+        "Anna Eshoo",
+        "Patrick Ahrens",
+        "Maria Marroquin",
+        "Jessica",
+        "Harumo"
+      ],
+      "topics": [
+        {
+          "topic": "Hybrid meeting procedures and logistics",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "The council convened its first in-person meeting in nearly three years and first hybrid meeting. Audio/video for presentations must be emailed to city.clerk@mountainview.gov by 4:30 PM on the meeting date, and in-person speakers must submit a blue speaker card for each item.",
+              "source": "Lucas Ramirez : Presentation during a council meeting should be directed to city.clerk@mountainview.gov by 4:30 PM on the meeting date. Additionally, due to our hybrid environment, we will no longer have speakers line up... must complete a Blue Speaker card."
+            }
+          ]
+        },
+        {
+          "topic": "Sally Lieber recognition and departure",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "During Council Member Sally Lieber's recent tenure, 2,479 new housing units were approved (654 affordable), and 4,978 units were built (559 affordable).",
+              "source": "Lucas Ramirez : ...while Council Member Lieber served on the City Council 2479 new housing units were approved, including 654 affordable... 4978 total housing units were built, including 559 affordable..."
+            },
+            {
+              "speaker": "Pat Showalter",
+              "text": "Showalter thanked Lieber for decade-long environmental leadership, specifically bringing San Francisco Bay Restoration Authority legislation to state legislature.",
+              "source": "Pat Showalter : But I also really just want to thank you for your decade long leadership on environmental issues, particularly with respect to the restoration of San Francisco Bay. Sally was the legislator who brought the San Francisco Restoration Authority legislation to the state legislature and had it passed."
+            }
+          ]
+        },
+        {
+          "topic": "Housing development achievements",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Gateway Master Plan in North Bayshore was approved allowing up to 2800 units, and Google Middlefield Park Master Plan was approved allowing up to 1900 housing units including 338 affordable units.",
+              "source": "Lucas Ramirez : The Gateway Master Plan in N Bayshore was approved which allows up to 2800 units. The Google Master. The Google Middlefield Park Master Plan was approved allowing up to 1900 housing units including 338 affordable housing units."
+            },
+            {
+              "speaker": "Alison Hicks",
+              "text": "During Mayor Ramirez's tenure in 2022, 914 new housing units were approved including 350 affordable units, and Google Middlefield Park Master Plan was approved.",
+              "source": "Alison Hicks : And whereas while serving as Mayor in twenty 22914 new housing units were approved, including 350 affordable units, the Google Middlefield Park Master Plan was approved allowing up to 1900 housing units, including including 338 affordable units."
+            }
+          ]
+        },
+        {
+          "topic": "Federal funding and infrastructure",
+          "points": [
+            {
+              "speaker": "Anna Eshoo",
+              "text": "Congresswoman Eshoo secured $15.6 million for Mountain View through American Rescue Plan, plus $750,000 for Crestview Hotel conversion and $2.5 million for pedestrian undercrossing at Evelyn and Bernardo avenues.",
+              "source": "Anna Eshoo : I'm so proud to have secured $15.6 million for Mountain View through the American Rescue Plan, along with funding for two critical community projects. In the omnibus bill that was signed into law last month, we worked together to secure $750,000 to acquire, rehabilitate and convert the Crestview Hotel into permanent supportive housing."
+            },
+            {
+              "speaker": "Patrick Ahrens",
+              "text": "Foothill–De Anza's $898 million 2020 bond includes over $200 million allocated for affordable housing for students, faculty, and staff, with interest in siting some in Mountain View.",
+              "source": "Patrick Ahrens : Our $898 million bond measure that was passed in 2020, we've allocated over $200 million for affordable housing for students, faculty and staff, some of which I'm sure we would love to include in Mountain View."
+            }
+          ]
+        },
+        {
+          "topic": "Closed session legal actions",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "City Council denied Paul Mansorian's $450,000 liability claim alleging Fourth Amendment violation during DUI arrest by Sergeant Scott Thomas (vote 6-0-0).",
+              "source": "Lucas Ramirez : Mr. Mansorian's claim seeks $450,000 in damages based on the alleged violation of his Fourth Amendment right to be free from unlawful seizure when Sergeant Thomas took him into custody for driving under the influence of alcohol. Council voted with six ayes, 0 Nos and 0 abstentions to deny the claim."
+            },
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "City Council denied Vijay Kumar's liability claim seeking millions in damages due to US Post Office incorrectly forwarding his mail to Florida address (vote 6-0-0).",
+              "source": "Lucas Ramirez : Mr. Kumar submitted a claim to the city of Mountain View seeking millions of dollars in damages because the United States Post Office incorrectly forwarded his mail to an individual named Vja Kumar at an address in Florida. Council voted with six ayes, 0 Nos and 0 abstentions to deny that claim."
+            }
+          ]
+        },
+        {
+          "topic": "Leadership elections and transitions",
+          "points": [
+            {
+              "speaker": "Ellen Kamei",
+              "text": "Kamei nominated Alison Hicks for mayor, citing her decades of residence, city planning background, and advocacy for Castro Pedestrian Mall, safe parking, and affordable housing.",
+              "source": "Ellen Kamei : It's an honor and pleasure for me to nominate Vice Mayor Allison Hicks to be the next mayor of the city of Mountain View. Vice Mayor Hicks has lived in our city for decades and brings her perspective as a former city planner."
+            },
+            {
+              "speaker": "Margaret Abe-Koga",
+              "text": "Abe-Koga nominated Pat Showalter for vice mayor, highlighting her nine years as Environmental Planning Commissioner, previous mayoral service, and civil engineering expertise in water issues.",
+              "source": "Margaret Abe-Koga : It's with great pleasure that I nominate Council member Pat Showalter for Vice Mayor. Pat is a longtime resident of Mountain View, which she says has been her home for most of her adult life, and she serves a community in many capacities."
+            },
+            {
+              "speaker": "Heather Glaser",
+              "text": "Both mayoral and vice mayoral elections passed unanimously with all council members voting yes.",
+              "source": "Heather Glaser : Motion carries unanimously."
+            }
+          ]
+        },
+        {
+          "topic": "Community concerns and public input",
+          "points": [
+            {
+              "speaker": "Maria Marroquin",
+              "text": "Marroquin requested moratorium on 72-hour parking rule implementation during storms, citing difficulties for people living in cars during emergency weather conditions.",
+              "source": "Maria Marroquin : So now I just want to speak about the situation really difficult for people who lives in their cars in this time of storms and heavy rain and just ask for moratorium for the implementation on 72 hours of parking. Rule."
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "City Council",
+          "text": "City Council unanimously elected Alison Hicks as Mayor.",
+          "source": "Heather Glaser : Motion carries unanimously."
+        },
+        {
+          "assignee": "City Council",
+          "text": "City Council unanimously elected Pat Showalter as Vice Mayor.",
+          "source": "Heather Glaser : Motion carries unanimously."
+        },
+        {
+          "assignee": "City Council",
+          "text": "City Council denied Paul Mansorian's $450,000 liability claim alleging Fourth Amendment violation during DUI arrest (vote 6-0-0).",
+          "source": "Lucas Ramirez : Council voted with six ayes, 0 Nos and 0 abstentions to deny the claim."
+        },
+        {
+          "assignee": "City Council",
+          "text": "City Council denied Vijay Kumar's liability claim seeking millions due to USPS misdirected mail (vote 6-0-0).",
+          "source": "Lucas Ramirez : Council voted with six ayes, 0 Nos and 0 abstentions to deny that claim."
+        },
+        {
+          "assignee": "City Council",
+          "text": "City Council unanimously approved the consent calendar, including AB361 virtual meetings continuation and bus-only lanes on Charleston Rd (Landings Dr to Shoreline Blvd) with a CEQA exemption.",
+          "source": "Ellen Kamei : Adopt ... continuing virtual meetings... pursuant to AB361... Adopt ... bus only lanes along Charleston Rd... From Landings Drive to Shoreline Blvd... finding the resolution to be exempt from the California Environmental Quality Act..."
+        }
+      ]
+    },
+    "single_aligned_gt": {
+      "topics": [
+        {
+          "topic": "Sally Lieber recognition and service",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Lieber supported local gun safety ordinances and state actions to restrict assault weapons and non-serialized firearms, encourage safe storage, and limit firearm marketing to children. She championed climate action, helped establish the SF Bay Restoration Authority, supported Proposition 1 on reproductive freedom, and advanced programs aiding vulnerable residents, including Elevate MV and ARPA-funded services.",
+              "source": "Lucas Ramirez : ...supported the City's adoption of local gun safety ordinances... further restricting assault weapons and non serialized firearms... advocating for safe storage... limiting the marketing... support of climate action... pass the law to create the San Francisco Bay Restoration Authority... championed women's personal reproductive freedom via support of California's Proposition One... launch of Elevate MV... allocation of American Rescue Plan Act funds...",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Outgoing mayor 2022 achievements",
+          "points": [
+            {
+              "speaker": "Alison Hicks",
+              "text": "Ramirez prioritized community support and economic recovery: allocating ARPA funds to vulnerable residents, advancing the Crestview Hotel affordable housing project, supporting the Safe Parking program, launching the Elevate MV guaranteed basic income pilot, advocating reproductive rights, and supporting the Castro Street Pedestrian Mall and the City's Economic Vitality strategy.",
+              "source": "Alison Hicks : ...helped allocate federal American Rescue Plan Act funds to the most vulnerable... continued efforts to develop the Crestview Hotel as affordable housing... supported the city's continued implementation of the safe Parking program, launched the Elevate Mountain View Guaranteed Basic Income Pilot... supported and assisted small businesses... establishing a Castro Street Pedestrian Mall... Economic Vitality strategy...",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Reflecting on the role, Ramirez emphasized that a mayor's primary power is to convene stakeholders rather than unilaterally set policy, and that effectively leveraging convening authority can create a lasting and meaningful impact.",
+              "source": "Lucas Ramirez : The power of the mayor is to convene... the mayor is not empowered to achieve policy goals, not unilaterally at least... leveraging this great and subtle power will leave behind a legacy of lasting and profound impact.",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Incoming leadership priorities",
+          "points": [
+            {
+              "speaker": "Pat Showalter",
+              "text": "Vice Mayor Showalter emphasized maintaining council civility, robust community involvement, and regional collaboration. Policy priorities include responsible housing growth, pedestrian and bicycle-friendly infrastructure, reducing greenhouse gas emissions, adapting to climate impacts with sea level rise protection and recycled water policies, and supporting vulnerable community members.",
+              "source": "Pat Showalter : ...long standing tradition of civility... a great deal of community involvement... provide the policy behind city services... responsible viewpoint for increased housing... pedestrian and bicycle friendly infrastructure... reduce our greenhouse gas emissions, adapting to the new climate realities with our sea level rise protection program and our recycled water policies... support the most vulnerable members of our community.",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Ellen Kamei",
+              "text": "Council Member Kamei's second-term focus includes creating more housing opportunities (including for the missing middle and multigenerational households), improving transportation and bike/ped connectivity, advancing environmental sustainability and climate action, aiding small businesses, developing a displacement strategy, and following up on middle-income housing in upcoming goal setting.",
+              "source": "Ellen Kamei : ...Creating more housing opportunities... for our moderate income households and our missing middle. Developing transportation, bicycle and pedestrian infrastructure... environmental sustainability and addressing climate change... aid our small businesses, help our most vulnerable through our upcoming displacement strategy and middle income housing, report back and tackle long standing issues in our goal setting process.",
+              "from_gt": "gt1"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "needreview_gt": [
+      {
+        "id": "review_001",
+        "item_type": "point",
+        "issue_type": "equivalence_unclear",
+        "gt1_point": {
+          "text": "The closed session agenda included two liability claims under Government Code Section 54956.9: Item 2.1 by claimant Paul Mansorian and Item 2.2 by claimant Vijay Kumar. Public comment was invited, none was received, and the council recessed to closed session.",
+          "source": "Lucas Ramirez : Item 2.1 is a conference with legal counsel regarding a liability claim... The name of the claimant is Paul Mansorian... Item 2.2... The name of the claimant is Vijay Kumar... seeing no members of the public wishing to speak, the council will now recess to closed session.",
+          "speaker": "Lucas Ramirez",
+          "location": "topics[1].points[0]"
+        },
+        "gt2_point": null,
+        "question": "Does the transcript contain Lucas Ramirez announcing the closed session agenda items and procedures as described in GT1?",
+        "merge_if_valid": "Include GT1 version in closed session topic as it provides procedural context"
+      },
+      {
+        "id": "review_002",
+        "item_type": "point",
+        "issue_type": "equivalence_unclear",
+        "gt1_point": {
+          "text": "In 2022 under Mayor Lucas Ramirez, 914 housing units were approved (350 affordable), and the Google Middlefield Park Master Plan was approved (up to 1,900 units, including 338 affordable). The city received ULI's North America Development Excellence Award for LifeMoves Mountain View, and opened Mora Park and Pyramid Park.",
+          "source": "Alison Hicks : ...while serving as Mayor in 2022 914 new housing units were approved, including 350 affordable units... Google Middlefield Park Master Plan was approved allowing up to 1900 housing units, including 338 affordable units... the city received the prestigious Development Excellence in North America Award... opening of Mora Park and Pyramid Park.",
+          "speaker": "Alison Hicks",
+          "location": "topics[3].points[0]"
+        },
+        "gt2_point": {
+          "text": "City received Development Excellence in North America Award from Urban Land Institute for Life Moves Mountain View, providing support services and housing for up to 124 people experiencing homelessness.",
+          "source": "Alison Hicks : And whereas during Mayor Ramirez tenure, the city received the prestigious Development Excellence in North America Award from the Urban Land Institute in recognition of life moves, Mountain View, which provides support services and housing for up to 124 people experiencing homelessness.",
+          "speaker": "Alison Hicks",
+          "location": "topics[3].points[1]"
+        },
+        "question": "Does GT1's version about parks (Mora Park and Pyramid Park) appear in the transcript, and should it be combined with GT2's more detailed award description?",
+        "merge_if_valid": "Combine both versions to capture all achievements mentioned"
+      },
+      {
+        "id": "review_003",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": {
+          "text": "Council approved the consent calendar, including continuing virtual meetings of City Council committees, boards, and commissions pursuant to AB361, and designating exclusive bus-only lanes along Charleston Road from Landings Drive to Shoreline Boulevard with a CEQA exemption; the motion passed unanimously.",
+          "source": "Ellen Kamei : Adopt ... continuing virtual meetings... pursuant to AB361... Adopt ... designating... bus only lanes along Charleston Rd. From Landings Drive to Shoreline Blvd... finding the resolution to be exempt from the California Environmental Quality Act...",
+          "speaker": "Ellen Kamei",
+          "location": "topics[4].points[0]"
+        },
+        "gt2_point": null,
+        "question": "Does the transcript contain Ellen Kamei's statement about consent calendar approval including AB361 and bus lanes as described in GT1?",
+        "merge_if_valid": "Include in consent calendar topic if validated"
+      },
+      {
+        "id": "review_004",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": {
+          "text": "City Clerk Heather Glaser administered the oath of office to re-elected Council Members Alison Hicks, Ellen Kamei, and Lucas Ramirez, formally seating them for new terms.",
+          "source": "Lucas Ramirez : ...item 7.3, administration of oath of office to elected council members Allison Hicks, Ellen Kamey and Lucas Ramirez.",
+          "speaker": "Lucas Ramirez",
+          "location": "topics[6].points[0]"
+        },
+        "gt2_point": null,
+        "question": "Does the transcript contain the oath of office administration ceremony as described in GT1?",
+        "merge_if_valid": "Include in council reorganization topic if validated"
+      },
+      {
+        "id": "review_005",
+        "item_type": "point",
+        "issue_type": "equivalence_unclear",
+        "gt1_point": {
+          "text": "Mayor Hicks outlined priorities for 2023: accelerating climate action; creating a downtown pedestrian mall; nurturing small businesses via the Economic Vitality plan; expanding Safe Parking; historic preservation downtown; biodiversity and wildlife management; advancing affordable housing and anti-displacement; updating the Tree Master Plan and parks/open space plans; and creating an Active Transportation Plan and community-controlled affordable housing (COPA/CLTs).",
+          "source": "Alison Hicks : ...accelerating our response to the climate crisis, creating a downtown pedestrian mall... Economic Vitality plan, expanding safe parking, historic preservation... biodiversity and wildlife management, building affordable housing and fighting displacement... Tree master Plan... parks and open space Plan, creating an active transportation plan... COPA CLTS... community controlled affordable housing.",
+          "speaker": "Alison Hicks",
+          "location": "topics[7].points[0]"
+        },
+        "gt2_point": {
+          "text": "New Mayor Hicks outlined upcoming priorities including climate crisis response, downtown pedestrian mall, economic vitality plan, safe parking expansion, and active transportation planning.",
+          "source": "Alison Hicks : So those issues will include accelerating our response to the climate crisis, creating a downtown pedestrian mall, nurturing small businesses with our Economic Vitality plan, expanding safe parking, historic preservation in our downtown biodiversity and wildlife management, building affordable housing and fighting displacement.",
+          "speaker": "Alison Hicks",
+          "location": "topics[7].points[1]"
+        },
+        "question": "Should GT1's more comprehensive list of priorities be used, or does GT2's version better reflect what was actually stated in the transcript?",
+        "merge_if_valid": "Use the version that more accurately reflects the transcript content"
+      }
+    ]
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_alignment/generation_alignment",
+    "prompt_version": "v3",
+    "prompt_fingerprint": "fae28f5dd5207c57cdcd5bc1a3c29bc286c4fd8b12a9eae99e41969f0bebb744",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:32:31.718804+00:00"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Staff Recommendation",
+          "points": [
+            {
+              "speaker": "Brittany Whitehill",
+              "text": "Staff reviewed the proposed project and comments and based on analysis, findings, and conditions, recommends conditional approval of the project and the associated lot line adjustment.",
+              "source": "Brittany Whitehill : Staff has reviewed the proposed project and comments and based on this analysis and the findings and conditions, recommends conditional approval, approval of the project and the associated lot line adjustment.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting Closure and Instructions",
+          "points": [
+            {
+              "speaker": "Diana Pancholi",
+              "text": "Diana Pancholi closed the public hearing at 4:14 PM, directed follow-up questions to the listed project planner, thanked participants, and extended holiday wishes.",
+              "source": "Diana Pancholi : And with that we'll the public hearing today at 4:14 PM. If anyone has any any follow up questions or any of the items on this agenda, please contact the listed Project Planner accordingly. ... Thank you everybody for participating and wish you all a very happy.",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Subdivision Committee",
+          "text": "Diana Fazely motioned to approve the lot line adjustment at 1155 and 1185 Terabella Ave, seconded by Diana Pancholi, and passed unanimously by the subdivision committee with the decision appealable to City Council within 10 calendar days.",
+          "source": "Diana Fazely : And I do want to make a motion to approve the lot line adjustment at 1155 and 1185 Terabella Ave.",
+          "validation_note": "refined"
+        }
+      ]
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Transcript clearly shows Brittany Whitehill explicitly stating staff's recommendation for conditional approval. This is a distinct staff recommendation that occurred before the actual committee vote, making it substantive and non-redundant.",
+        "transcript_evidence": [
+          "Brittany Whitehill : Staff has reviewed the proposed project and comments and based on this analysis and the findings and conditions, recommends conditional approval, approval of the project and the associated lot line adjustment."
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "modify",
+        "reasoning": "Both elements occurred in the transcript - Diana Pancholi did close the hearing at 4:14 PM, provided follow-up instructions about contacting the project planner, thanked participants, and extended holiday wishes. These should be combined into one comprehensive point.",
+        "transcript_evidence": [
+          "Diana Pancholi : And with that we'll the public hearing today at 4:14 PM.",
+          "Diana Pancholi : If anyone has any any follow up questions or any of the items on this agenda, please contact the listed Project Planner accordingly.",
+          "Diana Pancholi : Thank you everybody for participating and wish you all a very happy."
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "modify",
+        "reasoning": "GT2 is more accurate about who made and seconded the motion. Diana Fazely made the motion and Diana Pancholi seconded it. However, the final summary by Diana Pancholi about unanimous approval and appeal rights should also be included for completeness.",
+        "transcript_evidence": [
+          "Diana Fazely : And I do want to make a motion to approve the lot line adjustment at 1155 and 1185 Terabella Ave.",
+          "Diana Pancholi : OK. And I'm going to 2nd that motion.",
+          "Diana Pancholi : So a motion of approval for item 5.1 was made and passed unanimously by the subdivision committee. The decision of approval is appealable to the City Council within 10 calendar days."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 3,
+      "merged": 1,
+      "excluded": 0,
+      "modified": 2,
+      "confidence": "High confidence - all items had clear transcript evidence supporting validation decisions. Staff recommendation was explicitly stated, meeting closure elements were all present and combined appropriately, and motion details were clearly documented with specific speakers identified."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:59:27.739231+00:00"
+  }
+}

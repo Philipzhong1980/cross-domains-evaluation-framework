@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20230613_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MR. KIRBY",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "Tom Perez has been announced as the Senior",
+      "points": [
+        {
+          "text": "Tom Perez has been announced as the Senior Advisor, Assistant to the President, and Director of Intergovernmental Affairs, bringing his decades of experience in local, state, and federal government to continue implementing the administration's agenda.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker refers the questioner to the Office",
+      "points": [
+        {
+          "text": "The speaker refers the questioner to the Office of the Director of National Intelligence for updates on the national security assessment regarding documents at Mar-a-Lago.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges China's intelligence gathering efforts in",
+      "points": [
+        {
+          "text": "The speaker acknowledges China's intelligence-gathering efforts in Cuba and the hemisphere, assures that steps have been taken to mitigate vulnerabilities, expresses confidence in protecting national secrets, explains the delay in confirming the reports due to sensitivity of information, and emphasizes the seriousness of the situation while highlighting limitations on sharing further details.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the close consultation and shared",
+      "points": [
+        {
+          "text": "The speaker emphasizes the close consultation and shared concerns with Israel regarding Iran's destabilizing behavior in the region, while also expressing the ongoing efforts to achieve a ceasefire and transition to civilian authority in Sudan through diplomacy.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes that they do not have",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes that they do not have much information on the arrest of an American citizen in Russia on drug charges and refers the question to the State Department, while also stating that consular officers were present at his arraignment and they will continue to monitor the case; regarding the counteroffensive in Ukraine, they refrain from providing an assessment and state that it is up to President Zelenskyy to characterize it, but they are focused on ensuring Ukraine's success on the battlefield and will provide additional assistance.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson refuses to provide details on classified",
+      "points": [
+        {
+          "text": "The spokesperson refuses to provide details on classified information related to the Trump indictment and emphasizes the importance of protecting national secrets.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to comment on the Wall",
+      "points": [
+        {
+          "text": "The spokesperson declines to comment on the Wall Street Journal report and reaffirms the United States' support for NATO's open-door policy regarding Ukraine's potential membership.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to provide specific information on",
+      "points": [
+        {
+          "text": "The spokesperson declines to provide specific information on China's establishment of a base and states that the next NATO Secretary General should be someone who can lead the Alliance into a transformative future, while also mentioning that the US has expressed concerns to the Cuban government and does not have a position on the ceasefire between the Colombian government and ELN.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "There are no current plans for President Biden",
+      "points": [
+        {
+          "text": "There are no current plans for President Biden to visit Angola to see the solar facility investment, and there is no known effort to find the source of the leak on the Cuba base.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The previous administration had access to the same",
+      "points": [
+        {
+          "text": "The previous administration had access to the same intelligence about the existence of a Chinese spy base in Cuba, but it is unknown if they were aware of it or took any action.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is being questioned about their",
+      "points": [
+        {
+          "text": "The White House is being questioned about their involvement and oversight in relation to the events surrounding the Trump indictment, but they are avoiding discussing the ongoing case and deferring to the Justice Department.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson cannot confirm reports about Israeli plans",
+      "points": [
+        {
+          "text": "The spokesperson cannot confirm reports about Israeli plans for new housing units in the occupied West Bank and reiterates the US's concerns about settlements.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson addresses concerns about Chinese pressure tactics",
+      "points": [
+        {
+          "text": "The spokesperson addresses concerns about Chinese pressure tactics on South Korea and dismisses any impact on the US's nuclear readiness due to Russian deployment in Belarus.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The unidentified person asks the spokesperson to comment",
+      "points": [
+        {
+          "text": "The unidentified person asks the spokesperson to comment on the Trump case and raises concerns about Americans detained in foreign countries.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The unidentified person asks the spokesperson if Donald",
+      "points": [
+        {
+          "text": "The unidentified person asks the spokesperson if Donald Trump's enrollment in the American criminal justice system provides reassurance to the American people and raises questions about the existence of Americans who are rightfully detained in foreign countries.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson defers to the State Department regarding",
+      "points": [
+        {
+          "text": "The spokesperson defers to the State Department regarding the categorization of individuals wrongfully detained and states that while some Americans are wrongfully detained for political reasons, others who violate local laws must answer for their actions, but does not have a specific figure on the number of Americans wrongfully detained in foreign countries.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson acknowledges that the President is aware",
+      "points": [
+        {
+          "text": "The spokesperson acknowledges that the President is aware of Lieutenant Alkonis's situation and states that they are working with the Japanese government to address it in the most appropriate and legally feasible manner.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson jokes about Mauritius being prepared and",
+      "points": [
+        {
+          "text": "The spokesperson jokes about Mauritius being prepared and mentions a root canal procedure that was expected to be underway according to a doctor's note.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson confirms that the President's root canal",
+      "points": [
+        {
+          "text": "The spokesperson confirms that the President's root canal procedure was successfully completed and explains that it is a routine dental procedure that millions of Americans undergo, while dismissing the notion of disclosing further details about the President's dental hygiene.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson confirms that the President's root canal",
+      "points": [
+        {
+          "text": "The spokesperson confirms that the President's root canal procedure was routine and performed with local anesthesia, while declining to provide further details about the President's dental health.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson jokingly responds to a question about",
+      "points": [
+        {
+          "text": "The spokesperson jokingly responds to a question about the President's dental procedure and local anesthesia, creating a lighthearted atmosphere.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson discusses the President's dental procedure clarifying",
+      "points": [
+        {
+          "text": "The spokesperson discusses the President's dental procedure, clarifying that it was a routine root canal performed under local anesthesia and assures that he is fine and able to work.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to comment on the severity",
+      "points": [
+        {
+          "text": "The spokesperson declines to comment on the severity of a former President's case and the potential threat to national security, deferring to previous statements made by her colleague and the Admiral.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes that the President respects the",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes that the President respects the rule of law, values the independence of the Department of Justice, and declines to comment on the case or potential national security implications, redirecting inquiries to the Department of Justice and ODNI.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson discusses the President's focus on lowering",
+      "points": [
+        {
+          "text": "The spokesperson discusses the President's focus on lowering costs for the American people, reducing the deficit in a fiscally responsible way, and ensuring that the wealthy pay their fair share, while expressing openness to a conversation about tax deals that align with these principles.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson welcomes a new reporter from NPR",
+      "points": [
+        {
+          "text": "The spokesperson welcomes a new reporter from NPR and acknowledges the ongoing Canadian wildfires, but does not provide an update on the coordination between the White House and the Canadian government.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson confirms that the US has sent",
+      "points": [
+        {
+          "text": "The spokesperson confirms that the US has sent over 600 firefighters and personnel to assist Canada with the ongoing wildfires and states that President Biden has directed the National Interagency Fire Center to respond promptly to any additional requests for assistance from Canada.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson mentions that Secretary Buttigieg has been",
+      "points": [
+        {
+          "text": "The spokesperson mentions that Secretary Buttigieg has been in touch with the governor and mayor, and discusses the federal government's preparedness to offer support for supply chain disruptions and investigate the collapse in Philadelphia, emphasizing the importance of the bipartisan infrastructure legislation.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson offers condolences on the passing of",
+      "points": [
+        {
+          "text": "The spokesperson offers condolences on the passing of former Italian Prime Minister Silvio Berlusconi and emphasizes the longstanding friendship between Italy and the United States.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson reiterates the President's respect for the",
+      "points": [
+        {
+          "text": "The spokesperson reiterates the President's respect for the Department of Justice, emphasizes the need to restore its integrity, and states that they will not politicize any specific cases while focusing on delivering for the American people in a bipartisan manner.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the press briefing the spokesperson declines to",
+      "points": [
+        {
+          "text": "During the press briefing, the spokesperson declines to comment on Kamala Harris's substitution for the President at an event, expresses disappointment in Senator Tuberville's hold on military officials' confirmation, and states that Jared Bernstein has the full support of the President for his confirmation.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20230425_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MS. CHAIKEN",
+    "MS. HAILEY"
+  ],
+  "topics": [
+    {
+      "topic": "This section of the transcript highlights the importance",
+      "points": [
+        {
+          "text": "This section of the transcript highlights the importance of visibility and representation for the LGBTQI+ community, particularly in media and government, while acknowledging the ongoing attacks and challenges they face.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the event Ilene Chaiken and Leisha Hailey",
+      "points": [
+        {
+          "text": "During the event, Ilene Chaiken and Leisha Hailey express the importance of visibility and representation for the LGBTQI+ community in media and government, acknowledging the ongoing attacks they face while celebrating the progress made under President Biden's leadership.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ilene Chaiken and Leisha Hailey emphasize the importance",
+      "points": [
+        {
+          "text": "Ilene Chaiken and Leisha Hailey emphasize the importance of visibility and representation for the LGBTQI+ community, acknowledging specific challenges faced by different individuals and communities while celebrating progress made under President Biden's leadership.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The transcript highlights the negative impact of Speaker",
+      "points": [
+        {
+          "text": "The transcript highlights the negative impact of Speaker McCarthy's proposed bill, including increased odds of a recession, job losses, reduced access to healthcare, fewer teachers in classrooms, and cuts to education and support services.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden commends Washington Governor Jay Inslee and",
+      "points": [
+        {
+          "text": "President Biden commends Washington Governor Jay Inslee and legislative leaders, as well as advocates, survivors, and elected officials, for their efforts in enacting gun control measures to make communities in the state safer and more secure.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the White House's commitment to",
+      "points": [
+        {
+          "text": "The speaker discusses the White House's commitment to following the rule of law and complying with the Hatch Act, as well as referring to the 2024 presidential reelection campaign for further information.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the upcoming visit of the",
+      "points": [
+        {
+          "text": "The speaker discusses the upcoming visit of the President and First Lady of South Korea, reassures the commitment to safeguarding intelligence and security partnerships with allies, and acknowledges the President's plans to mark the anniversary of his 2020 campaign launch.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker declines to provide information on the",
+      "points": [
+        {
+          "text": "The speaker declines to provide information on the President's personal decision regarding his intention to run for re-election in 2024 and refers to his previous statements on the matter.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the efforts of the President's",
+      "points": [
+        {
+          "text": "The speaker discusses the efforts of the President's senior national security team to engage with Sudanese military leaders and regional partners in order to urge a ceasefire, implement a temporary ceasefire agreement, and work towards a permanent ceasefire and return to civilian government in Sudan.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker defers to the Treasury Department regarding",
+      "points": [
+        {
+          "text": "The speaker defers to the Treasury Department regarding the timeline for when the extraordinary measures taken by Secretary Yellen will run out and the debt ceiling will be reached.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker reiterates that naval assets are being",
+      "points": [
+        {
+          "text": "The speaker reiterates that naval assets are being relocated to assist with potential contingency off the coast of Port of Sudan, emphasizing the importance of the situation to the President.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press conference Ms Jean Pierre addresses",
+      "points": [
+        {
+          "text": "During a press conference, Ms. Jean-Pierre addresses Senator Manchin's threat to vote against repealing his own legislation and emphasizes the administration's strong relationship with him, highlighting their successful collaborations on historic pieces of legislation that will positively impact millions of Americans, while also affirming their commitment to faithfully implementing the Inflation Reduction Act, even parts they may not like.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre suggests referring to the 2024",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre suggests referring to the 2024 reelection campaign for answers and offers to connect the reporter with the appropriate individuals.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre discusses President Biden's focus on",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre discusses President Biden's focus on \"finishing the job\" and highlights his accomplishments, while addressing concerns about his age and low excitement among Democratic-leaning voters for a potential reelection in 2024.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre states that she learned about",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre states that she learned about President Biden's decision to seek reelection at the same time as everyone else.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre states that House Republicans are",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre states that House Republicans are demanding that the Senate and President Biden agree with every agenda in their bill, which is not negotiable and would have devastating effects on the American people, and emphasizes that they will not negotiate on avoiding default, but are open to discussing spending cuts in the budget.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre accuses Speaker McCarthy and the",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre accuses Speaker McCarthy and the MAGA wing of the Republican Party of holding the American economy hostage by refusing to do their constitutional duty to avoid default.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre refuses to speculate on whether",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre refuses to speculate on whether the Limit, Save, Grow Act becoming a mainstream Republican position and emphasizes that the bill is detrimental and dangerous to American families, while also stating that the President does not support it and there will be no negotiations over avoiding default.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre expresses that the President has",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre expresses that the President has been calling gun violence a public health epidemic and his team has analyzed the legal grounds for declaring it a public health emergency, concluding that it would not provide meaningful funds or authorities, emphasizing the need for more funding for ATF and new legislation to ban assault weapons and require safer storage for firearms, while also stating grave concerns about Uganda's anti-LGBTQ+ law.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre expresses the U S 's",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre expresses the U.S.'s grave concerns about Uganda's anti-LGBTQ+ law and states that President Biden's discussions with South Korean President Yoon regarding sending weapons and ammunition to Ukraine will be determined during their upcoming meeting.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre states that the White House",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre states that the White House has been consistent in expressing concerns about the recent developments in Israel and is calling for a compromise before moving forward with judicial overhaul proposals, both publicly and privately.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter raises concerns about rising energy and",
+      "points": [
+        {
+          "text": "The reporter raises concerns about rising energy and food prices, job losses in manufacturing, and inflation outpacing wages, questioning how the President can justify continuing with these economic policies.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson defends the President's economic policies by",
+      "points": [
+        {
+          "text": "The spokesperson defends the President's economic policies by highlighting the decrease in inflation, increase in wages and jobs, and the implementation of legislation aimed at addressing concerns such as manufacturing job losses and high costs.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson reiterates the White House's support for",
+      "points": [
+        {
+          "text": "The spokesperson reiterates the White House's support for an open-door policy for NATO accession and emphasizes the focus on providing economic and humanitarian assistance to Ukraine in its fight against Russian aggression.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House supports the Equal Rights Amendment",
+      "points": [
+        {
+          "text": "The White House supports the Equal Rights Amendment and urges Congress to promptly take action to ensure that no one's rights are denied based on their sex, emphasizing the need to enshrine the principle of gender equality in the Constitution.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President and his administration emphasize the importance",
+      "points": [
+        {
+          "text": "The President and his administration emphasize the importance of gender equality for economic prosperity, security, and the health of democracy.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The question is asking for the White House's",
+      "points": [
+        {
+          "text": "The question is asking for the White House's reaction to a police detective who shot and killed Breonna Taylor being hired by a nearby sheriff's office.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson acknowledges the tragedy of",
+      "points": [
+        {
+          "text": "The White House spokesperson acknowledges the tragedy of Breonna Taylor's death and reiterates President Biden's commitment to accountability in law enforcement, including the need for legislation such as the George Floyd Justice Policing Act.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson declines to provide specific",
+      "points": [
+        {
+          "text": "The White House spokesperson declines to provide specific details about the upcoming state visit between President Yoon and President Biden, as well as any potential discussions regarding frozen assets held by Korea or South Africa's relationship with the ICC.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson declines to provide specific",
+      "points": [
+        {
+          "text": "The White House spokesperson declines to provide specific details about Domestic Policy Advisor Susan Rice's departure, the concerns over countries not using the dollar for transactions, and the President's position on Supreme Court ethics, while mentioning that the State Department and Department of Homeland Security will have more information soon regarding Title 42 lifting and that there is currently no information available on who is running Intergovernmental Affairs.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Karine Jean Pierre expresses concern",
+      "points": [
+        {
+          "text": "White House spokesperson Karine Jean-Pierre expresses concern over Senator Tommy Tuberville's abortion-related holds on Defense Department nominations and emphasizes the negative impact it could have on military readiness, national security, and military families.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

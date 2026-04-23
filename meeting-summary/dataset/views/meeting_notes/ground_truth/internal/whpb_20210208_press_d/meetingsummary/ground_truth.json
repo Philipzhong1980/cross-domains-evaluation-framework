@@ -1,0 +1,207 @@
+{
+  "meeting_context": "White House press briefing imported from 20210208_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "ACTING ADMINISTRATOR SLAVITT",
+    "DR. WALENSKY",
+    "DR. FAUCI",
+    "MODERATOR",
+    "Kaitlan Collins",
+    "Brian Karem",
+    "Unidentified",
+    "Kristen Welker",
+    "Isaac Stanley-Becker"
+  ],
+  "topics": [
+    {
+      "topic": "Acting Administrator Slavitt discusses the impact of wearing",
+      "points": [
+        {
+          "text": "Acting Administrator Slavitt discusses the impact of wearing masks in saving lives, the ongoing efforts to vaccinate those most at risk, and the focus on prioritizing the elderly, seniors, frontline healthcare workers, and essential workers.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Acting Administrator Slavitt discusses the progress of vaccination",
+      "points": [
+        {
+          "text": "Acting Administrator Slavitt discusses the progress of vaccination efforts, particularly in long-term care facilities and among the elderly, while acknowledging the need to prioritize vaccinations for racial and ethnic communities that have been disproportionately affected by the pandemic.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky provides an update on the declining",
+      "points": [
+        {
+          "text": "Dr. Walensky provides an update on the declining COVID-19 cases and hospital admissions, but emphasizes the need to remain vigilant due to the presence of variants and urges people to continue wearing masks, practicing social distancing, avoiding crowded spaces, and getting vaccinated.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci explains that while there is a",
+      "points": [
+        {
+          "text": "Dr. Fauci explains that while there is a discussion about the possibility of studying the efficacy of a single dose of the COVID-19 vaccine, it is not practical due to the time it would take and the availability of vaccines, and emphasizes that getting both doses is important for maximum protection against the virus and its variants.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Kaitlan Collins asks Dr Fauci about the estimated",
+      "points": [
+        {
+          "text": "Kaitlan Collins asks Dr. Fauci about the estimated number of COVID-19 variants and the potential benefits of requiring testing for domestic flights.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky explains that the increasing number of",
+      "points": [
+        {
+          "text": "Dr. Walensky explains that the increasing number of reported variants is partly due to increased sequencing efforts, which have revealed more variants and are expected to uncover even more in the future.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky explains that they are planning to",
+      "points": [
+        {
+          "text": "Dr. Walensky explains that they are planning to increase sequencing efforts in collaboration with state labs, commercial labs, and academic labs in order to better understand the number and proportion of variants.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky and Acting Administrator Slavitt emphasize that",
+      "points": [
+        {
+          "text": "Dr. Walensky and Acting Administrator Slavitt emphasize that they are unable to provide an estimate on the actual higher number of variants at the moment, but advise against domestic travel due to current circumstances.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky and Acting Administrator Slavitt emphasize the",
+      "points": [
+        {
+          "text": "Dr. Walensky and Acting Administrator Slavitt emphasize the importance of increased screening in places where people gather, particularly airports, to detect asymptomatic cases, while also advising against domestic travel and suggesting testing as a mitigation measure if necessary.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci states that there is currently no",
+      "points": [
+        {
+          "text": "Dr. Fauci states that there is currently no evidence to suggest that the mutant strains of the virus are becoming less virulent, and it is uncertain if the efficacy of current vaccines will be dampened or lessen as a result.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci states that it is currently uncertain",
+      "points": [
+        {
+          "text": "Dr. Fauci states that it is currently uncertain if the mutant strains of the virus will become less virulent or if the efficacy of current vaccines will be affected, and further observation and studies over the next couple of years will provide more information.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci emphasizes that currently the vaccines are",
+      "points": [
+        {
+          "text": "Dr. Fauci emphasizes that currently, the vaccines are highly effective against the dominant wild-type virus in the country, with an efficacy rate of 94 to 95 percent.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Fauci expresses concern that the 117 variant",
+      "points": [
+        {
+          "text": "Dr. Fauci expresses concern that the 117 variant could become dominant by the end of March, but reassures that the current vaccines are effective against it and emphasizes the importance of vaccinating as many people as possible and implementing public health measures.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Acting Administrator Slavitt addresses questions about the total",
+      "points": [
+        {
+          "text": "Acting Administrator Slavitt addresses questions about the total number of doses set aside for the long-term care program and the potential integration of separate registration systems for the new pharmacy program, emphasizing the need for more supply and assistance in finding vaccination locations.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Kristen Welker asks for the Acting Administrator's assessment",
+      "points": [
+        {
+          "text": "Kristen Welker asks for the Acting Administrator's assessment of states that have relaxed their COVID-19 protocols, specifically mentioning Iowa.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky discourages states and local jurisdictions from",
+      "points": [
+        {
+          "text": "Dr. Walensky discourages states and local jurisdictions from relaxing COVID-19 protocols, emphasizing the need for continued mitigation measures due to the ongoing high number of cases and the threat of emerging variants.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Dr Walensky emphasizes that the majority of COVID",
+      "points": [
+        {
+          "text": "Dr. Walensky emphasizes that the majority of COVID-19 infections in schools come from the community, and to ensure safe school reopenings, it is crucial to decrease community spread through continued adherence to mitigation measures such as social distancing and masking.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Isaac Stanley Becker asks about the administration's efforts",
+      "points": [
+        {
+          "text": "Isaac Stanley-Becker asks about the administration's efforts to communicate CDC guidance and discourage governors from relaxing mitigation measures.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The administration is actively communicating with states including",
+      "points": [
+        {
+          "text": "The administration is actively communicating with states, including through weekly governors calls and one-on-one conversations, to encourage them to decrease community spread and follow sensible public health measures in order to combat the virus and its variants.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

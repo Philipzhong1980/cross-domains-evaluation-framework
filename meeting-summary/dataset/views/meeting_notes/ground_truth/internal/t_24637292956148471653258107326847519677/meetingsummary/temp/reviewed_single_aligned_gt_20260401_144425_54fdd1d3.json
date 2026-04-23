@@ -1,0 +1,38 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Public Comments and Adjournment",
+          "points": [
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "No public speakers addressed oral communications, the consent calendar items, or item 4.1. After inviting comments and seeing no hands raised, the zoning administrator closed each public comment period without testimony.",
+              "source": "Lindsay Hagan : Seeing no one, we will go ahead and close the public comment period on this item.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 1,
+      "kept": 0,
+      "modified": 1,
+      "dropped": 0,
+      "from_gt1_kept": 1,
+      "from_gt2_kept": 0
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:44:25.966423+00:00"
+  }
+}

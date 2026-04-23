@@ -1,0 +1,113 @@
+{
+  "meeting_context": "White House press briefing imported from 20230720_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. DALTON",
+    "Darlene",
+    "Akayla",
+    "Eugene",
+    "AIR FORCE ONE FLIGHT CREW"
+  ],
+  "topics": [
+    {
+      "topic": "President Biden will visit the Philly Shipyard in",
+      "points": [
+        {
+          "text": "President Biden will visit the Philly Shipyard in Philadelphia for a steel-cutting ceremony for the Acadia, a vessel that will support the construction of offshore wind farms and create new union jobs, while also announcing the first-ever offshore wind sale in the Gulf of Mexico.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden will be joined by several political",
+      "points": [
+        {
+          "text": "President Biden will be joined by several political figures, including Congresswoman Mary Gay Scanlon and Philadelphia Mayor Jim Kenney, during his visit to the Philly Shipyard in Philadelphia for a steel-cutting ceremony for the Acadia, where he will also announce the first-ever offshore wind sale in the Gulf of Mexico.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is actively working with various",
+      "points": [
+        {
+          "text": "The White House is actively working with various partners to determine the location and ensure the safety of Private King, while also addressing the challenge of bringing him back to America if North Korea refuses to engage in discussions.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is actively monitoring and expressing",
+      "points": [
+        {
+          "text": "The White House is actively monitoring and expressing deep concern over the Russian attacks on port cities in the Black Sea, including their potential to target civilian vessels carrying grain, which could have a significant impact on global food security.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President may be concerned that some of",
+      "points": [
+        {
+          "text": "The President may be concerned that some of his priorities, such as the TSMC manufacturing plant in Arizona, will not be completed until the end of his term due to worker shortages and higher prices.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the historic investments and job",
+      "points": [
+        {
+          "text": "The speaker emphasizes the historic investments and job creation resulting from the CHIPS and Science Act, expressing confidence in the workforce provisions of the act to ensure the completion of projects like the TSMC manufacturing plant in Arizona.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Dalton discusses the economic gains and resilience",
+      "points": [
+        {
+          "text": "Ms. Dalton discusses the economic gains and resilience in the US economy, acknowledging that it will take time for Americans to fully feel the impact, and mentions the purpose of their visit to Philadelphia to show how Bidenomics is delivering.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Dalton calls on Senator Tuberville to stop",
+      "points": [
+        {
+          "text": "Ms. Dalton calls on Senator Tuberville to stop playing politics with the military and the NDAA process, highlighting the negative consequences already seen, such as the absence of a Marine Commandant and the impact on military families.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Dalton urges Senator Tuberville to cease his",
+      "points": [
+        {
+          "text": "Ms. Dalton urges Senator Tuberville to cease his political interference with the military and the NDAA process, emphasizing the harmful consequences already observed and calling on Republicans in Congress to oppose such behavior.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript Ms Dalton",
+      "points": [
+        {
+          "text": "In this section of the transcript, Ms. Dalton is interrupted and asked to sit down by the Air Force One flight crew.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

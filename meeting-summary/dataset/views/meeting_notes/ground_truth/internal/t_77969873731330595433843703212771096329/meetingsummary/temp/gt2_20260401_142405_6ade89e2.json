@@ -1,0 +1,308 @@
+{
+  "result": {
+    "meeting_context": "This is a Police Services Advisory Board (PSAB) meeting focused on reviewing the School Resource Officer (SRO) Youth Services Unit annual report and discussing mental health crisis response coordination. The meeting included presentations on SRO programs, data analysis, and updates on 988/911 dispatch coordination efforts.",
+    "participants": [
+      "Rampart",
+      "Unidentified 1",
+      "Schauer",
+      "Chang",
+      "Ayer",
+      "Langton",
+      "Barovski",
+      "Frank",
+      "Canfield",
+      "Margaret Petros",
+      "David Shen",
+      "Wahed Magee",
+      "Bruce England",
+      "Tim MacKenzie"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Administration and Roll Call",
+        "points": [
+          {
+            "speaker": "Rampart",
+            "text": "Chair weighing is absent today with pre-notice and unexcused absence, roll call conducted for remaining board members",
+            "source": "Rampart : Chair weighing is absent today with a pre notice and unexcused absence and then calling the role for Vice Chair, Tay Member, Ayer Member, Burdowski Member, Frank, member, Langton and member."
+          },
+          {
+            "speaker": "Rampart",
+            "text": "April 27 meeting minutes approved unanimously by all present board members",
+            "source": "Rampart : Motion carries."
+          }
+        ]
+      },
+      {
+        "topic": "Public Comment on Gun Violence Case",
+        "points": [
+          {
+            "speaker": "Margaret Petros",
+            "text": "Margaret Petros from Mothers Against Murder reported on September 15, 2021 gang shooting at Rank Strove Park involving families and children, resulting in only 90-120 days jail time for perpetrator",
+            "source": "Margaret Petros : This evening. I want to it to bring to your attention a case that happened in Mountain View that involved a gun at Rank Strove Park nearly two years ago on September 15th, 2021."
+          },
+          {
+            "speaker": "Margaret Petros",
+            "text": "Mountain View Police Department performed excellent work making quick arrest and retrieving the gun using smart tactic of claiming they found suspect's lost dog",
+            "source": "Margaret Petros : I think, we think the Mountain View Police Department did an excellent job. They were there. There were many officers who worked hard to very quickly make an arrest and they lured the suspect in by saying they found the lost dog that the family had."
+          }
+        ]
+      },
+      {
+        "topic": "Youth Services Unit Structure and Values",
+        "points": [
+          {
+            "speaker": "David Shen",
+            "text": "David Shen introduced himself as new Youth Services Unit Sergeant, replacing Scott Thomas in March, overseeing unit with three SROs and program coordinator Liz Mendez",
+            "source": "David Shen : Just to introduce myself real quick. My name is David Shen. I'm a Sergeant for the Youth Services unit, so if you knew Scott Thomas, I am the new Scott Thomas"
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Youth Services unit operates on four core values: building trust, safe school community, restorative justice, and empowering youth, which must all exist for unit success",
+            "source": "David Shen : So building trust, safe school, community, restorative justice and empowering youth. And through our programming that we offer, that's how we hope to deliver on each one of these tenants"
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Unit's primary goal is reducing referrals to criminal justice system by looking beyond immediate arrests and citations to address root problems through relationships and programming",
+            "source": "David Shen : And one of our greatest goals within the Youth Services unit is we want to reduce our referrals to the criminal justice system."
+          }
+        ]
+      },
+      {
+        "topic": "Annual Program Outcomes and Statistics",
+        "points": [
+          {
+            "speaker": "David Shen",
+            "text": "Unit conducted 264 SRO-led events reaching over 2000 participants, with 113 SRO-assisted incidents resulting in only 2 custodial arrests and 1 juvenile contact report",
+            "source": "David Shen : In totality, we've done 264 sessions of Sr. LED events which really reached the total of approximately 2000, a little over 2000 participants."
+          },
+          {
+            "speaker": "David Shen",
+            "text": "SROs completed 154 hours of specialized training including school safety, active shooter prevention, cannabis education, and crisis intervention",
+            "source": "David Shen : In totality for that school year they've completed upwards of 154 hours of SRO training."
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Unit conducted 61 home visits: 27 for truancy, 15 for support, 16 for wellness checks, and 3 for intervention purposes",
+            "source": "David Shen : We conducted a total of 61 home visits, 27 having to do with truancy, 15 support, 16 Wellness checks and three intervention."
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Approximately 200 vaping devices were seized, representing a nationwide trend and major focus area for upcoming school year",
+            "source": "David Shen : Approximately an anecdotally 200 vaping devices seized. I will get into that again, but this is certainly one of the areas that we're putting a lot of energy in for this upcoming school year"
+          }
+        ]
+      },
+      {
+        "topic": "Dreams and Futures Program Success",
+        "points": [
+          {
+            "speaker": "David Shen",
+            "text": "Dreams and Futures summer program served 128 participants with 40 counselors, of which 24 were past program participants demonstrating program's lasting impact",
+            "source": "David Shen : So a total of 128 participants, we actually have 40 counsellors. So these counsellors can be high school age. They're generally about high school age, right about going into college, aged youths and really kind of the the the neat point about this number is out of the 40 councillors that we had this past year, 24 of them were actually past participants of dreams and futures."
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Unit launched new ROAR mentoring program at Graham Middle School with 30 participants, using exemplary students as mentors for at-risk youth",
+            "source": "David Shen : Roar Mentoring, which again is a pelmentary program that we've actually rolled out to our at Graham Middle School in the first year for the last school year for 2020, 2023."
+          }
+        ]
+      },
+      {
+        "topic": "School Visit Data and Classifications",
+        "points": [
+          {
+            "speaker": "David Shen",
+            "text": "Unit made 280 school visits: 50% for YSU programming, 37% school-initiated, 10% administrative meetings, 2% dispatched calls, 2% incident follow-ups, and 2% proactive visits",
+            "source": "David Shen : About 50% are school in, I'm sorry about 50. Now the Blues are are are mixing up, 50% are school initiated, I'm sorry, 50% are why is she programs apologies on that, 50% are why is she programming, 37% are school initiated"
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Proactive visits numbered only 10, primarily at elementary schools, though Shen acknowledged this number is likely under-reported due to data collection issues",
+            "source": "David Shen : And then this proactive number which is about 10, this is a general visit that's not classified by any other means and these are primarily related to our elementary school."
+          }
+        ]
+      },
+      {
+        "topic": "Arrest Details and Restorative Justice",
+        "points": [
+          {
+            "speaker": "David Shen",
+            "text": "Three arrests occurred during school year: 15-year-old for cannabis possession (7.7 grams), 17-year-old for attempted murder via stabbing, and 18-year-old for spring-loaded dagger possession",
+            "source": "David Shen : So in the 2022-2023 school year there have been 3 arrests as detailed and the case numbers are there."
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Three arrests represented only 3% of 113 total school-related incidents, reflecting unit's commitment to restorative justice principles over punitive measures",
+            "source": "David Shen : So out of the three arrests, one of the more important things to talk about is the three arrests made-up 3% of the incidents that we had related to our school campuses."
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Unit practices restorative justice by counseling youth to understand impact of actions and referring them to optional programming rather than immediate arrests or citations",
+            "source": "David Shen : We go in with the mindset of if a youth does something, let's say for instance gets in a fight right, we want to make sure we go in with the counseling mindset to help the youth understand what they did"
+          }
+        ]
+      },
+      {
+        "topic": "Vaping and Substance Abuse Prevention",
+        "points": [
+          {
+            "speaker": "David Shen",
+            "text": "Unit partnered with Stanford Reach Lab to develop harm reduction curriculum for cannabis and nicotine use, moving beyond traditional DARE approach",
+            "source": "David Shen : So we've partnered with them to have continuing conversations in regards to youth substance abuse, specifically surrounding the new and trending issue of nicotine or cannabis use"
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Narcan is available in all schools from elementary through high school, with SRO program proactively securing supplies during county-wide shortage",
+            "source": "Canfield : So just to add to that, it was the SRR program that initiated proactively getting Narcan into the schools. And so that's from the high school, middle school into the elementary school especially during a shortage county wide."
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Unit conducted 8 vaping education presentations to 350 attendees across middle and elementary schools addressing nationwide trend",
+            "source": "David Shen : Vaping education. We did a total of approximately about 8 presentations to 350 attendees across our middle school and elementary schools."
+          }
+        ]
+      },
+      {
+        "topic": "Data Collection Improvements and Future Goals",
+        "points": [
+          {
+            "speaker": "David Shen",
+            "text": "Unit identified need to improve data collection and outcome reporting, including automatic classification of visits and better tracking of seized items and search procedures",
+            "source": "David Shen : But also one of our main things is we want to improve our data collection and outcome reporting, right, Looking at some of the data, looking at the program we use, while I think it's a great start for our first year reporting, I think there's certain aspects where we can be incredibly more robust"
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Unit plans to implement formal quarterly meetings with schools and regular surveys to gather collaborative feedback for program improvement",
+            "source": "David Shen : When we talk about things like the more formal quarterly meetings with our schools and our school administrators with the surveys that we want to push out, again our regular surveys to them."
+          },
+          {
+            "speaker": "David Shen",
+            "text": "SROs began trauma-informed practices training in collaboration with Mountain View High School to access teacher training methods",
+            "source": "David Shen : So we've actually collaborated with our local high school, Mountain View High, so our SRO's can actually get access to some of the training that that the teachers use."
+          }
+        ]
+      },
+      {
+        "topic": "Community Partnerships and Outreach",
+        "points": [
+          {
+            "speaker": "David Shen",
+            "text": "Unit partnered with Prognia organization to facilitate comfortable interactions between law enforcement and neurodiverse community members through interactive demonstrations",
+            "source": "David Shen : We've done events with prognia Scroll down a little bit here, which is an organization that helps the newer diverse community interact comfortably with members of law enforcement."
+          },
+          {
+            "speaker": "David Shen",
+            "text": "SROs regularly attend monthly Challenge Team meetings to listen to school and community input, with recent panel featuring student perspectives on current stressors",
+            "source": "David Shen : This last challenge team meeting was especially eye opening because it had a panel of Mount View, Los Altos High students come and really talk about what their current stressors are"
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Unit partnered with Safe Routes to Schools for bike safety presentations and provided essential bike helmets to families and youth in need",
+            "source": "David Shen : So we've partnered with them to provide bike safety and enforcement presentations and at the same time we've also been able to provide essential bike helmets to those families and those youths in need."
+          }
+        ]
+      },
+      {
+        "topic": "Program Expansion and Staffing Considerations",
+        "points": [
+          {
+            "speaker": "Canfield",
+            "text": "Chief Canfield indicated no immediate need for additional SRO positions but suggested developing internal collateral assignment program to train future SROs",
+            "source": "Canfield : I feel like now a more realistic approach that would get us kind of not just more bang for our buck with people, you know SRO's, but future SRO's being developed is to look at developing an internal program"
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Unit seeks to expand mentoring programs beyond SROs to include other police officers, particularly female officers, to develop broader relationships with youth",
+            "source": "David Shen : To answer the first part of your question, that's actually one of our goals or one of the areas that we want to put more energy in for the 2324 school year is really expanding the mentoring program outside of just our school resource officers"
+          },
+          {
+            "speaker": "David Shen",
+            "text": "Unit has capability to offer parent-facing training in Spanish through Spanish-speaking officers, which could enhance community outreach effectiveness",
+            "source": "David Shen : So the trainings that we've done, generally they are offered in English. However, we have the capability of offering them in Spanish."
+          }
+        ]
+      },
+      {
+        "topic": "Mental Health Crisis Response Coordination",
+        "points": [
+          {
+            "speaker": "Unidentified 1",
+            "text": "Mental Health Crisis Response Subcommittee met with North County Trust Director Bindu Corona Brown to discuss trust implementation status and data collection limitations",
+            "source": "Unidentified 1 : We met to discuss our scope as proposed in the fiscal year 2324 Workman to support the implementation of trust and MCRT 988 and behavioral services, the Director of North County Trust been due Corona Brown"
+          },
+          {
+            "speaker": "Canfield",
+            "text": "Police Department is pausing 988/911 dispatch coordination procedures while state upgrades systems to work more like traditional 911 call centers",
+            "source": "Canfield : We are pausing the procedures that we have in place at the moment or that we've been working on with 988 through our tri-cities."
+          },
+          {
+            "speaker": "Canfield",
+            "text": "Current 988 system only receives area code information from callers, creating challenges for information sharing and call routing between 988 and police dispatch",
+            "source": "Canfield : The only information that 988 receives is the area code where the call is from. That presents some challenges and difficulties in sharing information from 988 to the Police Department"
+          },
+          {
+            "speaker": "Rampart",
+            "text": "Mountain View's proactive engagement in mental health crisis response through PSAB work and federal earmark funding has positioned city as regional leader in supporting alternative response programs",
+            "source": "Rampart : I think the fact that we have our Police Department involved with the other two agencies is a testament to the fact that we as a city have been so engaged around supporting alternative mental health crisis response programs"
+          }
+        ]
+      },
+      {
+        "topic": "Board Administrative Matters",
+        "points": [
+          {
+            "speaker": "Rampart",
+            "text": "SRO subcommittee no longer exists as its work plan item was completed with assessment and recommendations to City Council, culminating in annual report process",
+            "source": "Rampart : There is not an SRO subcommittee. The work plan item that that subcommittee was created to complete has been completed with the assessment and set of recommendations that went to the City Council last year."
+          },
+          {
+            "speaker": "Rampart",
+            "text": "Subcommittee appointments will occur at October meeting after City Council adopts work plans on September 12, with clear naming of all subcommittees",
+            "source": "Rampart : So if I may, after the City Council adopts the work plans for all advisory bodies which they will have on their agenda September 12th, we will have at our October meeting the opportunity to appoint members to subcommittees."
+          },
+          {
+            "speaker": "Unidentified 1",
+            "text": "Board members requested clearer formal naming of subcommittees in work plan, particularly regarding traffic stop/RIPA subcommittee designation",
+            "source": "Unidentified 1 : So there's our request to clearly name those in the current work plan and to just clarify that information."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Youth Services Unit",
+        "text": "Unit will implement improved data collection and outcome reporting system including automatic classification of visits and better tracking of seized items",
+        "source": "David Shen : But also one of our main things is we want to improve our data collection and outcome reporting"
+      },
+      {
+        "assignee": "Youth Services Unit",
+        "text": "Unit will establish formal quarterly meetings with schools and regular surveys to gather collaborative feedback for program improvement",
+        "source": "David Shen : When we talk about things like the more formal quarterly meetings with our schools and our school administrators with the surveys that we want to push out"
+      },
+      {
+        "assignee": "Bindu Corona Brown",
+        "text": "North County Trust Director will provide guest appearance at October PSAB meeting to give fuller update on trust implementation",
+        "source": "Unidentified 1 : And Bindu will be making a guest appearance at our next PCOP meeting in October to give you more details"
+      },
+      {
+        "assignee": "PSAB Staff",
+        "text": "Staff will clearly name all subcommittees in work plan report during October meeting subcommittee appointments",
+        "source": "Rampart : And that would be a perfect time to, in that report, to be clear about the names of all the subcommittees."
+      }
+    ],
+    "metadata": {
+      "topicCount": 13,
+      "pointCount": 37,
+      "decisionCount": 4
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:24:05.002622+00:00"
+  }
+}

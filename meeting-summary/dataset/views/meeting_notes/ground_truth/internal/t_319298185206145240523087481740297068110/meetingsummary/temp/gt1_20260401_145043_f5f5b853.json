@@ -1,0 +1,128 @@
+{
+  "result": {
+    "meeting_context": "Regular Environmental Planning Commission (EPC) meeting covering approval of prior minutes, 2023–2031 Housing Element status and a continuance, officer elections for 2023, and upcoming meeting logistics including a return to council chambers. Public commenters provided feedback on the Housing Element draft and staff outlined next steps and timelines.",
+    "participants": [
+      "Cranston",
+      "Whitehall",
+      "Clark",
+      "Dempsey",
+      "Gutierrez",
+      "Haymeyer",
+      "Nunez",
+      "Yen",
+      "Eric Anderson",
+      "Stephanie",
+      "Sandy",
+      "Allie Saperman",
+      "Kevin Ma",
+      "David Watson"
+    ],
+    "topics": [
+      {
+        "topic": "Approval of December 7 minutes",
+        "points": [
+          {
+            "speaker": "Clark",
+            "text": "The Commission unanimously approved the minutes from the December 7, 2022 EPC meeting following no public comments. Clark moved to approve and Yen seconded, and the roll call vote recorded unanimous ‘aye’ responses from all commissioners present.",
+            "source": "Clark : Move approval of the Minutes."
+          }
+        ]
+      },
+      {
+        "topic": "2023–2031 Housing Element status and continuance",
+        "points": [
+          {
+            "speaker": "Eric Anderson",
+            "text": "Eric Anderson reported HCD gave additional substantive comments on the draft Housing Element, requesting recategorization of pipeline versus inventory sites, more findings and programs, and expanded non‑English outreach. Staff advised the EPC not to act until revisions are made, and will post a revised draft and schedule a new hearing.",
+            "source": "Eric Anderson : Based on this, staff is not recommending that the EPC act on the draft. A revised draft will be posted and made publicly available and a new hearing will be scheduled and noticed at a later date"
+          },
+          {
+            "speaker": "Allie Saperman",
+            "text": "Allie Saperman, for the Housing Action Coalition, argued many non‑vacant sites lack evidence existing uses will cease, urged adding more sites, noted about 1,500 units counted in the prior RHNA cycle, and requested prioritizing high‑opportunity, transit‑adjacent areas; she offered to meet with staff and commissioners.",
+            "source": "Allie Saperman : There is a number of non vacant sites that are listed in the pipeline site inventory, but it’s there has not been an evidence based analysis of whether the existing use of these sites will cease… amount to about 1500 units that work counted in the past… encourage adding more sites"
+          },
+          {
+            "speaker": "Kevin Ma",
+            "text": "Kevin Ma, for the League of Women Voters, supported staff’s further work but criticized program vagueness, late timing for fair housing actions, low assumed densities on church sites, unclear ADU fee support, and weak ties to displacement/homelessness programs; he urged firmer commitments to tools like COPA and CLT.",
+            "source": "Kevin Ma : We are remain concerned about the vagueness of the programs… fair housing concerns… programs… deficient… density for the church sites are still low… Adu fee structure is still vague… programs to address homelessness and displacement are still… letters… demand for things like Copa and CLT still too vague"
+          },
+          {
+            "speaker": "Stephanie",
+            "text": "Stephanie explained there is no fixed metric for adequate translation; staff will document translation efforts to date, ensure materials are translated and available earlier for upcoming phases, and continue an open dialogue with HCD about whether opportunities for non‑English speakers remain a concern.",
+            "source": "Stephanie : I don’t think that there is an objective measurement… making sure that we’re clear with HCD… about how we have made attempts… and for the next phases… keeping that in mind… keeping that conversation open with them"
+          },
+          {
+            "speaker": "Eric Anderson",
+            "text": "Eric Anderson clarified HCD seeks findings showing nothing prevents residential use on non‑vacant sites rather than proof or guarantees. Staff is developing the analysis and findings, and will continue engaging Spanish‑speaking advocacy organizations with meetings timed for productivity once draft revisions are more concrete.",
+            "source": "Eric Anderson : The evidence that non vacant sites will can accommodate residential uses… is not a proof… We’re just making sure that there’s nothing that’s going to keep it from happening… we’ve met with a couple of the Spanish speaking advocacy organizations… looking at ways of making sure that they’re as productive as they can be"
+          },
+          {
+            "speaker": "Eric Anderson",
+            "text": "Eric Anderson indicated staff will work quickly, informally targeting late March for council adoption to align with grant application timelines, while acknowledging analysis scope is uncertain. The primary goal is to preserve eligibility for as many funding opportunities as possible.",
+            "source": "Eric Anderson : Application dates… start around the end of March… kind of an informal target for us is to try to meet that for council adoption… our major goal is to try to make sure that we’re eligible for as many grants as we can"
+          }
+        ]
+      },
+      {
+        "topic": "Leadership elections and transition",
+        "points": [
+          {
+            "speaker": "Cranston",
+            "text": "The Commission elected Yen as EPC Chair and Dempsey as Vice Chair for 2023. Public comment was offered on both items with no speakers. Cranston will complete this meeting, and the newly elected officers will preside beginning with the next meeting.",
+            "source": "Cranston : Everyone congratulations new chair yen and New Vice Chair Dempsey."
+          }
+        ]
+      },
+      {
+        "topic": "Upcoming meetings and chamber return",
+        "points": [
+          {
+            "speaker": "Eric Anderson",
+            "text": "Eric Anderson announced no agenda items for January 18 (no meeting). A tentative February 1 agenda includes an affordable housing project and a Public Storage project on Terra Bella, with a return to the council chambers. Staff will email to schedule small‑group chamber reorientation visits.",
+            "source": "Eric Anderson : We actually don’t have anything scheduled for the 18th… February 1st, we do have a tentative item… return to the Chambers on February 1st… send out emails… reacquaint themselves with the chambers… in groups of three or less"
+          }
+        ]
+      },
+      {
+        "topic": "Meeting closure and recognition",
+        "points": [
+          {
+            "speaker": "Cranston",
+            "text": "Commissioners thanked Cranston for two years of service as chair and welcomed Chair Yen and Vice Chair Dempsey. The Environmental Planning Commission meeting of January 4 was adjourned at 7:38 PM.",
+            "source": "Cranston : And we will adjourn the Environmental Planning Commission meeting of January 4th at 7:38 PM."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "EPC",
+        "text": "EPC voted unanimously to continue the 2023–2031 Housing Element item to a future date pending staff revisions responsive to HCD comments.",
+        "source": "Whitehall : Motion carries unanimously."
+      },
+      {
+        "assignee": "Yen",
+        "text": "Yen was elected and will serve as EPC Chair for 2023; public comment was offered and no speakers came forward.",
+        "source": "Cranston : Everyone congratulations new chair yen and New Vice Chair Dempsey."
+      },
+      {
+        "assignee": "Dempsey",
+        "text": "Dempsey was elected and will serve as EPC Vice Chair for 2023; no public comments were received.",
+        "source": "Whitehall : Motion carries."
+      }
+    ],
+    "metadata": {
+      "topicCount": 5,
+      "pointCount": 10,
+      "decisionCount": 3
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "openai",
+    "model": "gpt-5-2025-08-07",
+    "timestamp": "2026-04-01T06:50:43.207579+00:00"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Meeting Opening and Structure",
+          "points": [
+            {
+              "speaker": "Diana Pancholi",
+              "text": "Meeting called to order at 4:03 PM with Diana Pancholi presiding as zoning administrator, Diana Fazely from City Attorney's office present, Ed Arango from public works absent.",
+              "source": "Diana Pancholi : I would like to bring the meeting to order at 4 O 3:00 PM.",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Diana Pancholi",
+              "text": "No consent calendar items listed on agenda, proceeding directly to joint committee portion with one item for discussion.",
+              "source": "Diana Pancholi : But on today's agenda, we have no consent items listed.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Staff Analysis and Findings",
+          "points": [
+            {
+              "speaker": "Brittany Whitehill",
+              "text": "Staff found proposed office building and site improvements consistent with ML and MMM zoning district requirements, with project complying with Mountain View Zoning Code, General Plan and Subdivision Map Act.",
+              "source": "Brittany Whitehill : Staff has found that the proposed office building and site improvements are consistent with the respective requirements of the ML and MMM zoning districts",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Committee Deliberation",
+          "points": [
+            {
+              "speaker": "Diana Fazely",
+              "text": "Diana Fazely inquired about finding requirements for consolidated single zone parcel regarding neighborhood compatibility and site layout.",
+              "source": "Diana Fazely : I'm hoping I can hear from staff about the the finding that we're to make that the consolidated single zone parcel would not result in greater neighborhood compatibility and a superior site layout if possible.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Diana Pancholi",
+              "text": "Diana Pancholi reviewed materials and confirmed project's consistency with Zoning Ordinance and General Plan based on information presented and posted online.",
+              "source": "Diana Pancholi : I've reviewed the materials posted online, including the findings report and concur on the project's consistency with the Zoning Ordinance and the General Plan.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Public Comment Details",
+          "points": [
+            {
+              "speaker": "Weng Tam",
+              "text": "Weng Tam representing Norcal Carpenter Union Local 405 and 7000+ carpenters in Santa Clara County advocated for local hiring standards and area labor language for the project.",
+              "source": "Weng Tam : My name is Wing Tam. I'm a few representative from Norcal Carpenter Union Local 4/05. I'm also represent 7000 plus Carpenter in Santa Cara County.",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Weng Tam",
+              "text": "Weng Tam cited reduced traffic, lower greenhouse gases, apprenticeships, and local economic benefits as reasons for local hiring and carpenter labor standards.",
+              "source": "Weng Tam : Local hiring is so important … Also reducing traffics less greenhouse gases and we can bring up apprentices opportunity…",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 6,
+      "kept": 5,
+      "modified": 1,
+      "dropped": 0,
+      "from_gt1_kept": 1,
+      "from_gt2_kept": 5
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:59:41.790899+00:00"
+  }
+}

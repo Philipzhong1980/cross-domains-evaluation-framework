@@ -1,0 +1,246 @@
+{
+  "meeting_context": "White House press briefing imported from 20240112_press_2_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "SENIOR MILITARY OFFICIAL",
+    "Aamer Madhani",
+    "Natasha Bertrand",
+    "Jennifer Rubin",
+    "Jennifer Jacobs",
+    "Nick Schifrin"
+  ],
+  "topics": [
+    {
+      "topic": "The moderator introduces the senior administration official and",
+      "points": [
+        {
+          "text": "The moderator introduces the senior administration official and senior military official who will be delivering remarks and taking questions on background during the call.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official announces that joint strikes",
+      "points": [
+        {
+          "text": "The senior administration official announces that joint strikes were conducted against Houthi-controlled areas in Yemen in response to ongoing Iranian-enabled Houthi attacks on commercial shipping in the Red Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official announces that joint strikes",
+      "points": [
+        {
+          "text": "The senior administration official announces that joint strikes were conducted against Houthi-controlled areas in Yemen in response to ongoing Iranian-enabled Houthi attacks on commercial shipping in the Red Sea, specifically targeting Houthi missile, radar, and UAV capabilities that are crucial to their campaign against commercial shipping.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official highlights the global consensus",
+      "points": [
+        {
+          "text": "The senior administration official highlights the global consensus and condemnation of the ongoing Houthi attacks on commercial shipping, citing the recent U.N. Security Council resolution, and emphasizes the need for collective action to defend vessels against these attacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official highlights the global consensus",
+      "points": [
+        {
+          "text": "The senior administration official highlights the global consensus and condemnation of Houthi attacks on commercial shipping, including the U.N. Security Council resolution, the establishment of Operation Prosperity Guardian, and multilateral statements condemning Houthi interference, with President Biden being actively involved in diplomatic responses and discussions on options moving forward after the recent attacks on a Denmark-owned ship.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President has directed his team to accelerate",
+      "points": [
+        {
+          "text": "The President has directed his team to accelerate work at the UN, build a multinational coalition for potential military action, refine possible targets, issue a final warning statement with allies, and develop military options in response to Houthi attacks on commercial vessels in the Red Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President directed his national security team to",
+      "points": [
+        {
+          "text": "The President directed his national security team to present military options for a collective response and subsequently instructed Secretary Austin to carry out strikes in response to the attack.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official mentions that the collective",
+      "points": [
+        {
+          "text": "The senior administration official mentions that the collective action, led by the United States and the United Kingdom, was supported by additional countries and endorsed by others, indicating a growing coalition against the backdrop of escalating tensions in the Middle East region.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes that the collective",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes that the collective action taken by the United States and its allies is aimed at protecting global commerce, ensuring freedom of navigation, and addressing the indiscriminate attacks on vessels by the Houthis in international waterways.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior military official explains that the joint",
+      "points": [
+        {
+          "text": "The senior military official explains that the joint strike conducted by the US and UK, with support from other countries, targeted Houthi-controlled facilities in Yemen using air, surface, and subsurface platforms.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior military official explains that precision guided",
+      "points": [
+        {
+          "text": "The senior military official explains that precision-guided munitions were used to destroy Houthi-controlled facilities in Yemen, emphasizing that these strikes are separate from Operation Prosperity Guardian, and that the US and UK forces remain prepared to defend themselves and contribute to the defense of maritime traffic as part of the coalition.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Aamer Madhani asks about the extent of the",
+      "points": [
+        {
+          "text": "Aamer Madhani asks about the extent of the degradation of the Houthis' capability, the support provided by Australia, Bahrain, Canada, and the Netherlands, and whether other countries were asked to carry out strikes.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior military official stated that the aim",
+      "points": [
+        {
+          "text": "The senior military official stated that the aim of the strikes was to remove the Houthis' capability to target maritime vessels, and while they couldn't provide an exact percentage, they characterized the degradation of Houthi capability as significant, and mentioned that the UK participated materially with fighter aircraft in the strikes.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior military official defers to other partners",
+      "points": [
+        {
+          "text": "The senior military official defers to other partners to disclose their level of support while discussing the degradation of Houthi capability and the UK's participation in the strikes.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The journalist asks the senior military official about",
+      "points": [
+        {
+          "text": "The journalist asks the senior military official about the alleged retaliatory attacks by the Houthis on US and UK warships in the Red Sea and questions how they determined that a US vessel was specifically targeted.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The journalist asks the senior military official about",
+      "points": [
+        {
+          "text": "The journalist asks the senior military official about alleged retaliatory attacks by the Houthis on US and UK warships in the Red Sea and questions how they determined a US vessel was specifically targeted.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges the possibility of",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges the possibility of a retaliatory response from the Houthis and explains that the recent attack targeted US vessels in the Red Sea, which were successfully defended against drones, ballistic missiles, and cruise missiles.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior military official states that as of",
+      "points": [
+        {
+          "text": "The senior military official states that as of now, there has been no retaliatory action from the Houthis in the Red Sea, Bab el-Mandeb, or Gulf of Aden, and emphasizes the ability of professional crews to detect and determine precisely the targeting of their vessels.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges Iran's involvement in",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges Iran's involvement in supporting and enabling the Houthis, and states that Iran is held responsible for their actions and that there are ongoing consequences as part of the pressure campaign against Iran.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official acknowledges that Iran sponsors",
+      "points": [
+        {
+          "text": "The senior administration official acknowledges that Iran sponsors various groups, including Hamas, Hezbollah, Shia militia groups in Iraq and Syria, and the Houthis, who conduct attacks on Israel on a daily basis.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior military official discusses the existence of",
+      "points": [
+        {
+          "text": "The senior military official discusses the existence of response options, including kinetic targeting, for the Houthi threat in Yemen, but does not disclose specific details about the targets or their success.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "A Western official suggests that the option for",
+      "points": [
+        {
+          "text": "A Western official suggests that the option for strikes against the Houthi threat in Yemen was considered, and there is uncertainty about the ability to deter future attacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "A senior military official and a senior administration",
+      "points": [
+        {
+          "text": "A senior military official and a senior administration official discuss the success of the strikes against the Houthi threat in Yemen, emphasizing that they were specifically selected to minimize collateral damage and that further measures may be taken to protect against future attacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

@@ -1,0 +1,586 @@
+{
+  "result": {
+    "merge_stats": {
+      "total_aligned_points": 15,
+      "total_aligned_decisions": 1,
+      "single_aligned_points_from_gt1": 7,
+      "single_aligned_points_from_gt2": 4,
+      "single_aligned_decisions_from_gt1": 1,
+      "single_aligned_decisions_from_gt2": 0,
+      "points_need_review": 21,
+      "decisions_need_review": 1,
+      "total_output_points": 47,
+      "total_output_decisions": 3,
+      "confidence_level": "medium",
+      "notes": "Good consensus on economic conditions and portfolio performance metrics. Many points need review due to different levels of detail and some potential conflicts in specific figures and attributions."
+    },
+    "total_aligned_gt": {
+      "meeting_context": "Joint meeting of the Council, Finance Committee, and Investment Review Committee focused on the city's investment portfolio, market conditions, and policy compliance. The agenda covered a market and portfolio status briefing by the city's advisor, the FY2021-22 Investment Review Committee draft report, a Shoreline bonds refinancing update, and approval of prior minutes.",
+      "participants": [
+        "Sally Lieber",
+        "Lisa Matichak",
+        "Jesse Takahashi",
+        "Victoria Labrador",
+        "Carlos Oblites",
+        "Douglaas Radtke",
+        "Steven Permut",
+        "Tyler Cook"
+      ],
+      "topics": [
+        {
+          "topic": "Economic conditions impacting portfolio",
+          "points": [
+            {
+              "speaker": "Carlos Oblites",
+              "text": "High inflation (headline CPI peaked at 9.1% in June, easing to 8.1% by August) led the Federal Reserve to raise the federal funds target to about 3.25%, with officials signaling roughly 4.5%. Two-year Treasury yields climbed from ~0.7% to ~4.3%, creating volatility and pressuring bond valuations.",
+              "source": "Carlos Oblites : ...headline number... reached 9.1% in June... came down... to 8.1 at the end of August... we're now at 3 1/4... we think we're going to be closer to 4 1/2... two year treasuries... around 70 basis points... reached 4.3..."
+            },
+            {
+              "speaker": "Carlos Oblites",
+              "text": "The labor market remains strong (315,000 jobs last month; ~381,000 average in prior months; unemployment 3.7%) while GDP posted two negative quarters in early 2022. Mortgage rates neared 7%, with housing and manufacturing indicators softening; core PCE ticked up, indicating further Fed tightening likely.",
+              "source": "Carlos Oblites : Over the last month we generated 315,000 jobs... averaging 381,000... The unemployment rate is currently at 3.7 percent... the first quarter... and then the second quarter... both of those were negative... 30 year fixed rate mortgages... reached 7%... core PCE... ticked back up a little bit..."
+            }
+          ]
+        },
+        {
+          "topic": "City investment portfolio status and performance",
+          "points": [
+            {
+              "speaker": "Carlos Oblites",
+              "text": "The city's conservative, code-compliant bond portfolio (AA minimum for corporates, maturities ≤5 years) recorded negative one-year returns (about -3.38% overall; consolidated ~-3.41%) driven by fair-value declines from rising rates, but outperformed benchmarks. Losses are unrealized given a hold-to-maturity approach, so they do not impact the operating budget.",
+              "source": "Carlos Oblites : ...California government code... single A or higher... the city additionally limited to AA or higher... These are those negative returns... one year return at -338... consolidated basis... we were down about 3.41... you did better than the market... you won't realize them generally... The budget focuses on spendable dollars..."
+            },
+            {
+              "speaker": "Carlos Oblites",
+              "text": "As of June 30, the portfolio's average duration was roughly 1.89 years, and yield to maturity 1.52%, up from 1.3% three months earlier. By early October, market yields for comparable structures were around 3.5%, implying higher interest income as maturing funds are reinvested at current rates.",
+              "source": "Carlos Oblites : ...the portfolio averaged 1.89 years... Right now the yield to maturity... 1.52% three months ago... was 1.3... through yesterday that level is like in the 3, 1/2% range... your earnings are going up..."
+            },
+            {
+              "speaker": "Carlos Oblites",
+              "text": "The investment program was near $930 million with average AA/AAA credit quality. Liquidity was ample, with about 21% maturing within three months (as of June 30). Allocations emphasized U.S. Treasuries, LAIF (~16%), supranationals, a money market sweep, and a modest corporate sleeve.",
+              "source": "Carlos Oblites : ...the entire investment program is worth about almost $930 million... 21% of its money through June 30th was coming due within the next three months... part of your investments... in the state pool about 16%... Supranationals... money fund is just a sweep vehicle..."
+            },
+            {
+              "speaker": "Carlos Oblites",
+              "text": "Long-term performance remains competitive; the city-managed portfolio has averaged approximately 3.29% annually since 1995, despite a decade of sub-1% rates. This reflects a sustained conservative approach prioritizing safety and liquidity while achieving solid earnings over time.",
+              "source": "Carlos Oblites : ...the city's portfolio... has been generating 329 per year since 1995... This encompasses a period of about 10 years when interest rates were below 1%..."
+            }
+          ]
+        },
+        {
+          "topic": "Corporate holdings and 144A policy considerations",
+          "points": [
+            {
+              "speaker": "Carlos Oblites",
+              "text": "SEC changes expanded Qualified Institutional Buyer eligibility to local governments with at least $100 million in investable assets, enabling purchase of 144A private placements. The city added AA/AAA MetLife and New York Life issues (~0.29% and ~0.31% of the program), enhancing diversification without significant liquidity concerns.",
+              "source": "Carlos Oblites : ...changed their definition of... qualified institutional buyer... included local governments that have investable assets of $100 million or more... MetLife makes up .29%... New York Life... .31%... we have no concerns from a liquidity standpoint."
+            },
+            {
+              "speaker": "Steven Permut",
+              "text": "Steven Permut proposed the committee consider adding a cap on aggregate 144A (private placement) holdings as a percentage of corporate assets in future policy updates to limit exposure, noting the portfolio has not previously emphasized private placements.",
+              "source": "Steven Permut : ...might be something as a committee we might want to consider in the future putting a total percentage cap on 144A securities... as a percent of the total corporate holdings."
+            }
+          ]
+        },
+        {
+          "topic": "Shoreline bonds refinancing plan",
+          "points": [
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "The city is actively refinancing the 2011 Shoreline bonds, circulating RFPs and contemplating a private placement. Despite rate increases, advisors still project savings (less than the earlier ~$7 million estimate). Staff plan to seek council approval in November and close shortly thereafter; city-held bonds will be called.",
+              "source": "Jesse Takahashi : ...we are in the process of refinancing... circulated a request for proposals... contemplating doing this as a private placement... still are actually savings to be had... should be coming back to council in November... expect to close also shortly thereafter in November... those will get called."
+            }
+          ]
+        },
+        {
+          "topic": "Investment Review Committee FY2021-22 report",
+          "points": [
+            {
+              "speaker": "Tyler Cook",
+              "text": "For FY2021-22, the total rate of return was -3.3%, reflecting the rising-rate environment. The portfolio's average duration was 2.08 versus a 1.97 benchmark, staying within the policy's 15% duration bands and meeting quarterly 3% rebalancing requirements.",
+              "source": "Tyler Cook : ...the 2022 fiscal year, the -3.3%... the average duration for the fiscal year in the city's portfolio was two point OA measured against the benchmark of 1.97... we stay within that 15% throughout the fiscal year... rebalance within 3% at least on a quarterly basis..."
+            },
+            {
+              "speaker": "Tyler Cook",
+              "text": "Average earnings rate was 1.3% due to low-rate COVID-era purchases. The portfolio grew from $306.9 million in 2013 to $841.9 million by June 30, 2022; a separate fund breakdown lists a total portfolio of $971.5 million. Corporate holdings increased to 7.3% from 6.2% year over year.",
+              "source": "Tyler Cook : ...average earnings rate of 1.3%... portfolio has grown... 306.9 million in 2013 up to 841.9 million ending June 30th of 2022... total portfolio, one 971.5 million... the corporate portion, 7.3%... last year was 6.2%."
+            },
+            {
+              "speaker": "Tyler Cook",
+              "text": "There were no violations of the investment policy in FY2021-22 across duration, diversification, or credit quality. Staff are not recommending any changes to the investment policy at this time and will incorporate any committee comments before forwarding the report to the council.",
+              "source": "Tyler Cook : There were no violations of the investment policy... staff's not recommending any changes to the policy at this time... this is a draft report... can be added before we afford it to the council as a whole."
+            }
+          ]
+        },
+        {
+          "topic": "Minutes approval and clarification",
+          "points": [
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "Addressing a question about a prior 3-0 minutes vote, Jesse Takahashi explained the October 2020 meeting had a vacancy (Douglaas Radtke appointed in December 2020) and Steven Permut's initial roll call wasn't counted, clarifying the recorded outcome.",
+              "source": "Jesse Takahashi : ...Mr. Radke was not yet appointed... we only had four members... Mr. Permute was there on the call but somehow was not counted in their initial roll call... That's how we end up with A30."
+            },
+            {
+              "speaker": "Lisa Matichak",
+              "text": "The committee approved the September 21, 2021 meeting minutes as presented by unanimous vote following a motion by Lisa Matichak and a second, with no opposition noted.",
+              "source": "Lisa Matichak : ...I'll make a motion that we approve the minutes as they stand. / Sally Lieber : Any opposed? ... It's unanimous approval there..."
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Finance Department",
+          "text": "Finance staff will forward the FY2021-22 Investment Review Committee report to the City Council after incorporating any committee comments.",
+          "source": "Tyler Cook : ...this is a draft report... any comments that are made can be added before we afford it to the council as a whole."
+        }
+      ]
+    },
+    "single_aligned_gt": {
+      "topics": [
+        {
+          "topic": "Virtual meeting compliance and attendance",
+          "points": [
+            {
+              "speaker": "Sally Lieber",
+              "text": "The meeting was conducted under California Government Code Section 54953(e) via videoconference without a physical location; the roll call reflected all committee members present. Public participation was available via website, Zoom, and phone, and no public or email comments were received.",
+              "source": "Sally Lieber : This meeting is being held in accordance with California Government Code Section 54953 E... And we can let the the role reflect that all the members of the committee are present. / Jesse Takahashi : And I'll just add that there were no communications by e-mail that were submitted as well.",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "City investment portfolio status and performance",
+          "points": [
+            {
+              "speaker": "Carlos Oblites",
+              "text": "Within a 15% corporate policy limit (state code allows 30%), Chandler increased the corporate allocation by about one percentage point over three months. Reduced federal agency issuance and lower relative yields supported a preference for Treasuries' liquidity and similar or better yields.",
+              "source": "Carlos Oblites : ...policy allows up to 15% in corporate credit... we were able to increase that from three months ago about 1%... federal agencies... curtailed their issuance... pushes their yields down... we'd rather have the liquidity of the treasury... for similar or even higher yields.",
+              "from_gt": "gt1"
+            },
+            {
+              "speaker": "Carlos Oblites",
+              "text": "A previously downgraded Toyota Motor Corp position that fell below the minimum credit quality had been held for strategic reasons but has since rolled out of the portfolio, eliminating the exception.",
+              "source": "Carlos Oblites : ...Toyota Motor Corp which had been downgraded beneath the minimum credit quality... was made to hold it... That's now rolled out of the portfolio. It's no longer there.",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Corporate holdings and 144A policy considerations",
+          "points": [
+            {
+              "speaker": "Carlos Oblites",
+              "text": "In response to questions, Chandler affirmed that active bond management (selling at a loss to reinvest at higher yields) can add value, but the city's policy is to hold to maturity, and Chandler respects and follows this conservative policy for the city's portfolio.",
+              "source": "Carlos Oblites : ...active management actually does add value... it's been the policy of the city that the city simply holds to maturity... we've been respectful of that policy...",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Chandler advisory engagement history",
+          "points": [
+            {
+              "speaker": "Carlos Oblites",
+              "text": "Chandler provided portfolio accounting and reporting services since the mid-2000s. The city retained Chandler for limited corporate investment advisory services in 2018 for 2019, with the engagement renewed in 2021.",
+              "source": "Carlos Oblites : We've been working with you since the mid 2000s to provide accounting reporting... in 2018 for 2019 you retained our services to provide investment advisory on a limited basis... then you renew that in 2021.",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "SRI outreach and meeting closure",
+          "points": [
+            {
+              "speaker": "Sally Lieber",
+              "text": "Sally Lieber thanked Councilmember Lisa Matichak, the Mayor, and staff (including Jesse Takahashi) for sending a letter to LAIF urging divestment from carbon-related investments, thanked participants for their contributions, and suggested the full council should receive the investment advisor's report for broader policy context.",
+              "source": "Sally Lieber : ...thank Councilmember Matichak and to the Mayor... and also to staff Mr. Takahashi for getting a letter out to Leif urging divestment from carbon related investments... we very much appreciate your report... it would be very beneficial for council to as a whole to receive the report...",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Economic Environment and Federal Reserve Policy",
+          "points": [
+            {
+              "speaker": "Carlos Oblites",
+              "text": "Federal Reserve raised target rate five times during fiscal year, from zero to 3.25% range, with 75 basis point increases in final three meetings.",
+              "source": "Carlos Oblites : They have raised the target rate for this for this chart on the right hand side five times the at the first clip they did 25 basis points. They raised it a quarter percent from zero. It was a zero to 25 basis point range, so zero to 25. They raised it 25 basis points, 1/4 of a percent the second time, 2nd, 3rd and 4th. The second they did 50. The 3rd, 4th and 5th, they did 75 basis points apiece",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Carlos Oblites",
+              "text": "Fed governors indicated rates will continue rising to approximately 4.5% target to combat persistent inflation.",
+              "source": "Carlos Oblites : Fed Governors Bostic and Kashkari and a couple others people that sit on the committee that sets the federal funds target rate have basically come out and said we're not done raising rates. Inflation is still too high. We think that this three and a quarter rate that that we set for for the federal funds target rate, we think we're going to be closer to 4 1/2",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Committee Operations and Recognition",
+          "points": [
+            {
+              "speaker": "Lisa Matichak",
+              "text": "Committee member expressed appreciation for monthly investment reports and regular financial updates from staff.",
+              "source": "Lisa Matichak : I do want to say I appreciate the monthly reports. I do look at them. So thanks for sending those out",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "Staff confirmed upcoming city celebration event next week with committee members Steven and Doug planning to attend in person.",
+              "source": "Jesse Takahashi : Just one more, I just wanted to confirm. I think we have our celebration next week and I believe our two members, Steven and Doug are gonna be there",
+              "from_gt": "gt2"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Finance Department",
+          "text": "Finance staff will bring the Shoreline bonds refinancing to the City Council for approval in November and aim to close the transaction shortly thereafter.",
+          "source": "Jesse Takahashi : ...should be coming back to council in November for the final approval and we expect to close also shortly thereafter in November.",
+          "from_gt": "gt1"
+        }
+      ]
+    },
+    "needreview_gt": [
+      {
+        "id": "review_001",
+        "item_type": "point",
+        "issue_type": "conflict",
+        "gt1_point": {
+          "text": "For FY2021-22, the total rate of return was -3.3%, reflecting the rising-rate environment. The portfolio's average duration was 2.08 versus a 1.97 benchmark, staying within the policy's 15% duration bands and meeting quarterly 3% rebalancing requirements.",
+          "source": "Tyler Cook : ...the 2022 fiscal year, the -3.3%... the average duration for the fiscal year in the city's portfolio was two point OA measured against the benchmark of 1.97... we stay within that 15% throughout the fiscal year... rebalance within 3% at least on a quarterly basis...",
+          "speaker": "Tyler Cook",
+          "location": "topics[5].points[0]"
+        },
+        "gt2_point": {
+          "text": "City's investment portfolio returned -3.38% for fiscal year 2022, driven by unrealized losses from rising interest rates despite positive interest income.",
+          "source": "Carlos Oblites : when we see the one year return at -338, if you're earning an average yield of somewhere around 1.4%, because that's just kind of what I averaged it out to be. If you're picking up interest income somewhere and you've averaged for the year somewhere around 1.4 but you ended up with a 3.4, well it tells you that the values on paper fell more than four or 5% to end up with a -3.38",
+          "speaker": "Carlos Oblites",
+          "location": "topics[2].points[0]"
+        },
+        "question": "What was the exact total rate of return for FY2021-22: -3.3% or -3.38%? Who reported this figure?",
+        "merge_if_valid": "Use the correct figure and appropriate speaker attribution based on transcript verification"
+      },
+      {
+        "id": "review_002",
+        "item_type": "point",
+        "issue_type": "equivalence_unclear",
+        "gt1_point": {
+          "text": "The meeting was conducted under California Government Code Section 54953(e) via videoconference without a physical location; the roll call reflected all committee members present. Public participation was available via website, Zoom, and phone, and no public or email comments were received.",
+          "source": "Sally Lieber : This meeting is being held in accordance with California Government Code Section 54953 E... And we can let the the role reflect that all the members of the committee are present. / Jesse Takahashi : And I'll just add that there were no communications by e-mail that were submitted as well.",
+          "speaker": "Sally Lieber",
+          "location": "topics[0].points[0]"
+        },
+        "gt2_point": {
+          "text": "Meeting held in accordance with California Government Code Section 54953 E with all members participating by video conference and no physical location.",
+          "source": "Sally Lieber : This meeting is being held in accordance with California Government Code Section 54953 E as authorized by resolution",
+          "speaker": "Sally Lieber",
+          "location": "topics[0].points[0]"
+        },
+        "question": "Are these two points describing the same compliance statement, or are there additional details in GT1 that should be preserved?",
+        "merge_if_valid": "Merge into comprehensive version including public participation details and no comments received"
+      },
+      {
+        "id": "review_003",
+        "item_type": "point",
+        "issue_type": "source_mismatch",
+        "gt1_point": {
+          "text": "Portfolio yield to maturity increased from 1.3% three months ago to 1.52% through June 30th, with current market yield around 3.5%.",
+          "source": "Carlos Oblites : Right now the yield to maturity of the portfolio, that's the annualized effective earnings rate for the coming year. Right now that you're set up to earn, the way that you have the portfolio is 1.52% three months ago, this is through June 30th, 3 months ago that number was was 1.3",
+          "speaker": "Carlos Oblites",
+          "location": "topics[2].points[1]"
+        },
+        "gt2_point": {
+          "text": "As of June 30, the portfolio's average duration was roughly 1.89 years, and yield to maturity 1.52%, up from 1.3% three months earlier. By early October, market yields for comparable structures were around 3.5%, implying higher interest income as maturing funds are reinvested at current rates.",
+          "source": "Carlos Oblites : ...the portfolio averaged 1.89 years... Right now the yield to maturity... 1.52% three months ago... was 1.3... through yesterday that level is like in the 3, 1/2% range... your earnings are going up...",
+          "speaker": "Carlos Oblites",
+          "location": "topics[1].points[1]"
+        },
+        "question": "Both mention same yield figures but GT2 includes duration information. Are these from the same part of the transcript or different sections?",
+        "merge_if_valid": "Combine into comprehensive version including both yield and duration information"
+      },
+      {
+        "id": "review_004",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "Two-year Treasury yields rose from 0.7% at beginning of year to peak of 4.3-4.4%, currently at 4.28%.",
+          "source": "Carlos Oblites : So at any point they had you purchase them along this line, the the, the bottom line would have been buying something for two, you know, and putting your money in and earning for two years, for five years, for 10 years. And you can see that for two year treasuries we began the year right around here are at around 70 basis points, .7%. That rate reached 4.3, almost 4.4% at its peak. It's down to about 44.254.28 today",
+          "speaker": "Carlos Oblites",
+          "location": "topics[2].points[3]"
+        },
+        "question": "Is this additional detail about Treasury yield progression that GT1 missed, or is it redundant with information already captured in GT1?",
+        "merge_if_valid": "Include as additional economic context if not redundant"
+      },
+      {
+        "id": "review_005",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "Conservative portfolio approach limited unrealized losses to $27 million and negative 3% return, which would have been significantly worse with longer duration or lower credit quality.",
+          "source": "Steven Permut : I think it's worth just being aware and and noting for the minutes that the loss which is unrealized of $27 million, which is a lot of money, but it's unrealized. And the negative total return of roughly 3%, which is one of the higher negative total returns I've seen since I've been on the committee, would have been a lot worse if we had not been conservative",
+          "speaker": "Steven Permut",
+          "location": "topics[5].points[0]"
+        },
+        "question": "Is this Steven Permut commentary on risk management that GT1 missed, or is it covered elsewhere in GT1?",
+        "merge_if_valid": "Include as risk management perspective if not already captured"
+      },
+      {
+        "id": "review_006",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "All 2011 Shoreline bonds (callable after August 2021, maturing through 2040) will be called in refinancing, creating two-edged impact as city holds some bonds in portfolio.",
+          "source": "Jesse Takahashi : For the 2011, I think they actually go out to like 2040 on the 2011 shoreline bonds. So yeah, they will all be called or they were callable after August of last for this past year",
+          "speaker": "Jesse Takahashi",
+          "location": "topics[6].points[1]"
+        },
+        "question": "Are these additional technical details about the Shoreline bonds that GT1 missed, or is this information already captured in GT1's Shoreline discussion?",
+        "merge_if_valid": "Include as additional technical details if not redundant"
+      },
+      {
+        "id": "review_007",
+        "item_type": "decision",
+        "issue_type": "assignee_conflict",
+        "gt1_point": {
+          "text": "Committee unanimously approved September 21st 2021 meeting minutes after clarification of vote count discrepancy.",
+          "source": "Lisa Matichak : I'll make a motion that we approve the minutes as they stand",
+          "assignee": "Committee",
+          "location": "decisions[0]"
+        },
+        "gt2_point": {
+          "text": "City will proceed with Shoreline bond refinancing with council approval expected in November and closing shortly thereafter.",
+          "source": "Jesse Takahashi : And so we're trying to get that done and actually should be coming back to council in November for the final approval and we expect to close also shortly thereafter in November",
+          "assignee": "Jesse Takahashi",
+          "location": "decisions[1]"
+        },
+        "question": "GT1 has Committee approving minutes, GT2 has Jesse Takahashi handling refinancing. Are these the same decision or different decisions that should both be included?",
+        "merge_if_valid": "Include both as separate decisions if they are distinct actions"
+      },
+      {
+        "id": "review_008",
+        "item_type": "point",
+        "issue_type": "speaker_minor",
+        "gt1_point": {
+          "text": "Sally Lieber thanked Councilmember Lisa Matichak, the Mayor, and staff (including Jesse Takahashi) for sending a letter to LAIF urging divestment from carbon-related investments, thanked participants for their contributions, and suggested the full council should receive the investment advisor's report for broader policy context.",
+          "source": "Sally Lieber : ...thank Councilmember Matichak and to the Mayor... and also to staff Mr. Takahashi for getting a letter out to Leif urging divestment from carbon related investments... we very much appreciate your report... it would be very beneficial for council to as a whole to receive the report...",
+          "speaker": "Sally Lieber",
+          "location": "topics[8].points[0]"
+        },
+        "gt2_point": {
+          "text": "Chair thanked Councilmember Matichak, Mayor, and staff for sending letter to CalPERS urging divestment from carbon-related investments.",
+          "source": "Sally Lieber : I wanted to doff my virtual hat to Councilmember Matichak and to the Mayor for and also to staff Mr. Takahashi for getting a letter out to Leif urging divestment from carbon related investments",
+          "speaker": "Sally Lieber",
+          "location": "topics[7].points[1]"
+        },
+        "question": "Both reference Sally Lieber thanking for divestment letter. GT1 mentions LAIF, GT2 mentions CalPERS. Which organization was actually mentioned?",
+        "merge_if_valid": "Use correct organization name and merge the more complete version"
+      },
+      {
+        "id": "review_009",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "Portfolio size grew from $306.9 million in 2013 to $841.9 million ending June 30th 2022, with general fund representing $192.7 million or 19.8%.",
+          "source": "Tyler Cook : This table also shows you can see how the the portfolio size of the portfolio has grown over the last 10 years 306.9 million in 2013 up to 841.9 million ending June 30th of 2022, a pretty significant rise there",
+          "speaker": "Tyler Cook",
+          "location": "topics[3].points[2]"
+        },
+        "question": "GT2 includes general fund breakdown ($192.7M, 19.8%) that GT1 doesn't have. Is this additional detail that should be preserved?",
+        "merge_if_valid": "Include general fund breakdown if it adds valuable detail"
+      },
+      {
+        "id": "review_010",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "Portfolio added New York Life Global Funding (AAA rated, 0.31% of portfolio) and MetLife (0.29% of portfolio) as 144A private placement securities.",
+          "source": "Carlos Oblites : The two securities that we purchased are this New York like funding and MetLife. These these two, one of the the New York, both of them are AA rated or higher. The New York Life is actually AAA rated by by Moody's I believe",
+          "speaker": "Carlos Oblites",
+          "location": "topics[4].points[1]"
+        },
+        "question": "GT2 provides specific ratings (AAA for New York Life) that GT1 doesn't include. Should this additional detail be preserved?",
+        "merge_if_valid": "Include specific rating information if it adds valuable detail"
+      },
+      {
+        "id": "review_011",
+        "item_type": "point",
+        "issue_type": "equivalence_unclear",
+        "gt1_point": {
+          "text": "Corporate credit component increased from 6.2% to 7.3% of portfolio, with city policy limiting corporate exposure to 15% versus California code allowance of 30%.",
+          "source": "Tyler Cook : Also Carlos talked quite a bit about that just by calling your attention to this, the corporate portion, 7.3% last year that that number was 6.2%. So as as Carlos indicated, they've been able to increase that portion of our portfolio over the course of the last of the last year as well",
+          "speaker": "Tyler Cook",
+          "location": "topics[3].points[1]"
+        },
+        "gt2_point": {
+          "text": "Corporate holdings increased to 7.3% from 6.2% year over year.",
+          "source": "Tyler Cook : ...the corporate portion, 7.3%... last year was 6.2%.",
+          "speaker": "Tyler Cook",
+          "location": "topics[5].points[1]"
+        },
+        "question": "Both mention same corporate percentage increase. GT2 includes policy limits (15% vs 30%). Are these the same point or should policy context be preserved?",
+        "merge_if_valid": "Merge preserving the policy context from GT2"
+      },
+      {
+        "id": "review_012",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": {
+          "text": "Unemployment rate currently at 3.7%, considered very low by economists, with job market showing two openings per job seeker.",
+          "source": "Carlos Oblites : The unemployment rate is currently at 3.7 percent. The the the that's that's considered very low unemployment by by most any economist",
+          "speaker": "Carlos Oblites",
+          "location": "topics[1].points[4]"
+        },
+        "gt2_point": null,
+        "question": "GT2 includes additional context about unemployment being 'very low by economists' and 'two openings per job seeker' that GT1 doesn't have. Should this context be preserved?",
+        "merge_if_valid": "Include additional economic context if it provides valuable insight"
+      },
+      {
+        "id": "review_013",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": {
+          "text": "Economy generated 315,000 jobs last month with prior months averaging 381,000 new jobs monthly, significantly above pre-COVID levels of 100,000-150,000.",
+          "source": "Carlos Oblites : Over the last month we generated 315,000 jobs and in the prior months before that we were averaging 381,000 jobs a month of new jobs created. A pre COVID, we were needing to generate somewhere around 100,000 to 150,000 jobs a month",
+          "speaker": "Carlos Oblites",
+          "location": "topics[1].points[3]"
+        },
+        "gt2_point": null,
+        "question": "GT2 includes pre-COVID comparison (100K-150K jobs) that GT1 doesn't have. Should this historical context be preserved?",
+        "merge_if_valid": "Include pre-COVID comparison if it adds valuable historical context"
+      },
+      {
+        "id": "review_014",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "City's long-term portfolio performance averaged 3.29% annually since 1995, encompassing period when interest rates were below 1% for approximately 10 years.",
+          "source": "Carlos Oblites : The the city's portfolio, the city managed portfolio has been generating 329 per year since 1995. You've been averaging 329 which is great. This encompasses a period of about 10 years when interest rates were below 1%",
+          "speaker": "Carlos Oblites",
+          "location": "topics[5].points[1]"
+        },
+        "question": "Both GTs have similar long-term performance information. Is GT2's version redundant with GT1 or does it provide additional context?",
+        "merge_if_valid": "Merge if GT2 provides additional valuable context not in GT1"
+      },
+      {
+        "id": "review_015",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "No violations of investment policy occurred during fiscal year regarding duration requirements, diversification, safety, or quality standards.",
+          "source": "Tyler Cook : There were no violations of the investment policy throughout the fiscal year, whether in terms of duration requirements, diversification or safety or quality",
+          "speaker": "Tyler Cook",
+          "location": "topics[5].points[2]"
+        },
+        "question": "GT2 provides more specific breakdown of policy compliance areas. Is this additional detail that GT1 missed?",
+        "merge_if_valid": "Include specific compliance areas if they add valuable detail"
+      },
+      {
+        "id": "review_016",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "City is proceeding with Shoreline bond refinancing as private placement despite interest rate increases, with council approval expected in November.",
+          "source": "Jesse Takahashi : we actually are in the process of refinancing as we speak and actually just circulated a request for proposals to to the market. Interesting, we had a discussion on private placements. We are actually contemplating doing this as a private placement for this particular set of bonds despite the increase in interest rates",
+          "speaker": "Jesse Takahashi",
+          "location": "topics[6].points[0]"
+        },
+        "question": "GT2 emphasizes 'despite interest rate increases' context that GT1 doesn't highlight. Is this additional context worth preserving?",
+        "merge_if_valid": "Include rate environment context if it adds valuable insight"
+      },
+      {
+        "id": "review_017",
+        "item_type": "point",
+        "issue_type": "equivalence_unclear",
+        "gt1_point": {
+          "text": "Committee should consider establishing aggregate percentage cap on 144A private placement securities to prevent excessive concentration.",
+          "source": "Steven Permut : That might be something as a committee we might want to consider in the future putting a total percentage cap on 144A securities",
+          "speaker": "Steven Permut",
+          "location": "topics[4].points[2]"
+        },
+        "gt2_point": {
+          "text": "Steven Permut proposed the committee consider adding a cap on aggregate 144A (private placement) holdings as a percentage of corporate assets in future policy updates to limit exposure, noting the portfolio has not previously emphasized private placements.",
+          "source": "Steven Permut : ...might be something as a committee we might want to consider in the future putting a total percentage cap on 144A securities... as a percent of the total corporate holdings.",
+          "speaker": "Steven Permut",
+          "location": "topics[3].points[1]"
+        },
+        "question": "Both capture Steven Permut's 144A cap suggestion. GT1 adds context about 'percentage of corporate assets' and 'not previously emphasized'. Are these the same point?",
+        "merge_if_valid": "Merge preserving the additional context from GT1"
+      },
+      {
+        "id": "review_018",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "City's investment portfolio earned average earnings rate of 1.3% for fiscal year 2022, reflecting low interest rate environment during COVID when investments were purchased.",
+          "source": "Tyler Cook : This table calculates an average earnings rate. So basically we take the the interest that's the portfolio earned throughout the fiscal year compared to the average size of the portfolio and we get this average earnings rate of 1.3%. Of course that's pretty low but that's because of all the the investments that we purchased throughout COVID when the interest rates were were quite low as well",
+          "speaker": "Tyler Cook",
+          "location": "topics[2].points[4]"
+        },
+        "question": "GT2 provides COVID context for low earnings rate that GT1 doesn't explicitly mention. Is this additional context worth preserving?",
+        "merge_if_valid": "Include COVID context if it provides valuable explanation"
+      },
+      {
+        "id": "review_019",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "City maintains 21% of portfolio in securities maturing within three months, providing ample liquidity for operations.",
+          "source": "Carlos Oblites : You can see that the city maintains ample liquidity. 21% of its money through June 30th was coming due within the next three months",
+          "speaker": "Carlos Oblites",
+          "location": "topics[3].points[3]"
+        },
+        "question": "GT2 emphasizes 'providing ample liquidity for operations' context. Is this additional interpretation that GT1 missed?",
+        "merge_if_valid": "Include liquidity context if it adds valuable insight"
+      },
+      {
+        "id": "review_020",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "Total investment program worth approximately $930 million with portfolio averaging AA to AAA credit rating and 1.89 years average maturity.",
+          "source": "Carlos Oblites : So your earnings are going up right now, you're averaging A, AA, AA, AAA rating and the entire investment program is worth about almost $930 million",
+          "speaker": "Carlos Oblites",
+          "location": "topics[3].points[0]"
+        },
+        "question": "GT2 combines portfolio size, credit rating, and maturity in one point. Is this redundant with information already captured separately in GT1?",
+        "merge_if_valid": "Include if it provides a useful consolidated summary not already captured"
+      },
+      {
+        "id": "review_021",
+        "item_type": "point",
+        "issue_type": "unique_uncertain",
+        "gt1_point": null,
+        "gt2_point": {
+          "text": "SEC changed qualified institutional buyer definition to include local governments with $100 million+ investable assets, allowing access to previously restricted securities.",
+          "source": "Carlos Oblites : The Securities and Exchange Commission changed their definition of what will they call a qualified institutional buyer, AQIB, qualified institutional buyer generally. In the past, local governments were excluded from that definition. The Securities and Exchange Commission went through a study. Where they've solicited feedback from various parties and changed the definition of qualified institutional buyer. And they now have included local governments that have investable assets of $100 million or more",
+          "speaker": "Carlos Oblites",
+          "location": "topics[4].points[0]"
+        },
+        "question": "GT2 provides more detailed background on SEC definition change process. Is this additional context that GT1 missed?",
+        "merge_if_valid": "Include detailed SEC background if it adds valuable regulatory context"
+      }
+    ]
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_alignment/generation_alignment",
+    "prompt_version": "v3",
+    "prompt_fingerprint": "fae28f5dd5207c57cdcd5bc1a3c29bc286c4fd8b12a9eae99e41969f0bebb744",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:59:53.775222+00:00"
+  }
+}

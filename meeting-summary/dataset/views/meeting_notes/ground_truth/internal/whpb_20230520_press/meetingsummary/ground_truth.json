@@ -1,0 +1,320 @@
+{
+  "meeting_context": "White House press briefing imported from 20230520_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "MR. SULLIVAN"
+  ],
+  "topics": [
+    {
+      "topic": "National Security Advisor Jake Sullivan discusses the unity",
+      "points": [
+        {
+          "text": "National Security Advisor Jake Sullivan discusses the unity and alignment among G7 countries on issues such as support for Ukraine, holding Russia accountable, approach to the PRC, economic security, and commitment to the clean energy transition.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the G7 summit National Security Advisor Jake",
+      "points": [
+        {
+          "text": "During the G7 summit, National Security Advisor Jake Sullivan discusses the shared approach of G7 countries towards China, the need for bold action to accelerate the clean energy transition, and the announcement of further projects in emerging economies through the Partnership on Global Infrastructure and Investment.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "National Security Advisor Jake Sullivan discusses the agenda",
+      "points": [
+        {
+          "text": "National Security Advisor Jake Sullivan discusses the agenda and upcoming tasks at the G7 summit, expressing optimism and openness to questions.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan explains that the decision to provide",
+      "points": [
+        {
+          "text": "Jake Sullivan explains that the decision to provide training for F-16s to Ukraine is based on the evolving needs of the conflict and the future force required to deter and defend against Russian aggression, and that the timing of the training aligns with when it will be most beneficial for Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan explains that the timing and duration",
+      "points": [
+        {
+          "text": "Jake Sullivan explains that the timing and duration of the F-16 training for Ukraine will be determined by military experts, highlighting that the Western coalition has already supported Ukraine's existing air force with spare parts and other necessary components.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan confirms that the G7 will endorse",
+      "points": [
+        {
+          "text": "Jake Sullivan confirms that the G7 will endorse the concept of outbound investment screening, but the details and timing of implementing this measure will be determined by each individual country.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan cannot share any information about President",
+      "points": [
+        {
+          "text": "Jake Sullivan cannot share any information about President Zelenskyy's travel to Japan or the extent of US involvement in keeping him safe, but it is likely that President Biden will meet him one-on-one.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan states that he cannot disclose details",
+      "points": [
+        {
+          "text": "Jake Sullivan states that he cannot disclose details about President Zelenskyy's travel arrangements to the United States, but clarifies that the United States did not fly him there.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden will seek opportunities to speak with",
+      "points": [
+        {
+          "text": "President Biden will seek opportunities to speak with President Lula and President Modi about their countries' constructive roles in supporting sovereignty and territorial integrity, as well as discuss topics beyond Ukraine such as investment mobilization, multilateral development banks, and debt burdens.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The discussion covered topics such as the provision",
+      "points": [
+        {
+          "text": "The discussion covered topics such as the provision of F-16s to Ukraine, the importance of artificial intelligence, and the concern over submarine cables and the need for trusted and secure construction.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The discussion focused on the importance of supporting",
+      "points": [
+        {
+          "text": "The discussion focused on the importance of supporting Ukraine's defense of its sovereignty and territorial integrity while avoiding World War Three, as well as the desire for nuclear disarmament and the need for arms support to Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The discussion addresses the development of tools to",
+      "points": [
+        {
+          "text": "The discussion addresses the development of tools to combat economic coercion from China, the rescheduling of Secretary Blinken's trip to Beijing, and the alignment of concerns with China among international partners.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Jake Sullivan discusses the alignment of concerns with",
+      "points": [
+        {
+          "text": "Jake Sullivan discusses the alignment of concerns with China among international partners, the President's conversation with President Macron, and the significance of President Zelenskyy's visit to the Arab League.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the ongoing differences between parties",
+      "points": [
+        {
+          "text": "The speaker discusses the ongoing differences between parties regarding the debt limit and emphasizes the President's priorities of economic progress, future investment, cutting wasteful spending, and reducing the deficit.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the President's budget plan which",
+      "points": [
+        {
+          "text": "The speaker emphasizes the President's budget plan, which aims to reduce the deficit by $3 trillion over 10 years by cutting wasteful spending, investing in the future, and creating a reasonable bipartisan agreement to avoid a default that could lead to an economic recession and job losses.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker mentions that the President will be",
+      "points": [
+        {
+          "text": "The speaker mentions that the President will be returning to the White House from Hiroshima, Japan on Sunday evening.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President and the First Lady will welcome",
+      "points": [
+        {
+          "text": "The President and the First Lady will welcome the LSU Tigers women's basketball team and the University of Connecticut Huskies men's basketball team to the White House to celebrate their NCAA championship seasons, travel to Camp David, Wilmington, Delaware, and attend Memorial Day events at Arlington National Cemetery.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President is confident that a deal can",
+      "points": [
+        {
+          "text": "The President is confident that a deal can be reached on the budget if both sides negotiate in good faith, understanding that compromises will need to be made, with a focus on cutting the deficit and addressing wasteful spending.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker is questioning the White House's position",
+      "points": [
+        {
+          "text": "The speaker is questioning the White House's position on the debt limit and whether the President will communicate with Speaker McCarthy regarding the recent setback in negotiations.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker affirms that the President is being",
+      "points": [
+        {
+          "text": "The speaker affirms that the President is being regularly updated on the negotiations and remains optimistic about reaching a bipartisan budget agreement, while declining to negotiate in public.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker expresses optimism about reaching a bipartisan",
+      "points": [
+        {
+          "text": "The speaker expresses optimism about reaching a bipartisan budget agreement but suggests that both sides need to negotiate in good faith and gives the negotiators time and space to continue the conversation.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker defends Vice President Harris' involvement in",
+      "points": [
+        {
+          "text": "The speaker defends Vice President Harris' involvement in budget negotiations and expresses the President's optimism and continued engagement in the conversations.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker defends the President's decision to give",
+      "points": [
+        {
+          "text": "The speaker defends the President's decision to give negotiators space and time for budget conversations, stating that he will continue to be updated regularly.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker defends the President's decision to give",
+      "points": [
+        {
+          "text": "The speaker defends the President's decision to give negotiators space and time for budget conversations, stating that he will continue to be updated regularly and expresses optimism about finding a path forward.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is not negotiating over the",
+      "points": [
+        {
+          "text": "The White House is not negotiating over the debt ceiling, but rather having separate conversations about the budget and regular order, with a firm stance that default is not negotiable and expressing confidence in reaching a bipartisan budget agreement.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is engaging in separate discussions",
+      "points": [
+        {
+          "text": "The White House is engaging in separate discussions about the budget and regular order, emphasizing the importance of reaching an agreement while firmly stating that default is not up for negotiation.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House emphasizes that the debt limit",
+      "points": [
+        {
+          "text": "The White House emphasizes that the debt limit should be dealt with by Congress as it has been 78 times since 1960, stating that default is not negotiable and warning of potential catastrophic economic consequences if it does not get done.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House emphasizes that the negotiations on",
+      "points": [
+        {
+          "text": "The White House emphasizes that the negotiations on the budget and raising the debt ceiling are separate conversations, with default being non-negotiable, and that a responsible bipartisan agreement needs to be reached for both Democrats and Republicans to review and vote on.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson defends the President's stance",
+      "points": [
+        {
+          "text": "The White House spokesperson defends the President's stance on reducing the deficit and increasing taxes on the wealthy to cut wasteful spending, while dismissing any negative impact on the President's stature due to the lack of a deal on the debt ceiling.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson emphasizes the importance of",
+      "points": [
+        {
+          "text": "The White House spokesperson emphasizes the importance of the President's meetings with foreign leaders and addresses the decision to cancel part of the trip due to domestic issues.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson emphasizes the importance of",
+      "points": [
+        {
+          "text": "The White House spokesperson emphasizes the importance of reaching a reasonable bipartisan budget agreement while expressing optimism that negotiations can be successful, and also affirms the President's ability to handle multiple issues simultaneously, including addressing concerns about China at the G7 summit.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

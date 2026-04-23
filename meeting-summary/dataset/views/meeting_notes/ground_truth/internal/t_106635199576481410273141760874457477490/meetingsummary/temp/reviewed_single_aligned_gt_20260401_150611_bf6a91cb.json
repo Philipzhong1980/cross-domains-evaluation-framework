@@ -1,0 +1,76 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Meeting Setup and Roll Call",
+          "points": [
+            {
+              "speaker": "Nicole Haynes",
+              "text": "Meeting called to order at 7:04 PM with all committee members participating by video conference.",
+              "source": "Nicole Haynes : Now I am calling the meeting to order at 7 O 4:00 PM",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Unidentified 1",
+              "text": "Roll call confirmed attendance: Grunwald, Almond, Pardo Dazella, Emily Ramos present; Rosas absent.",
+              "source": "Unidentified 1 : Committee member Rosas is absent committee member Almond",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Public Comment on COVID Concerns",
+          "points": [
+            {
+              "speaker": "Steven",
+              "text": "Steven supported continued virtual meetings citing new COVID variants, moderate to high wastewater levels in Santa Clara County, and poor air circulation in City Council chambers.",
+              "source": "Steven : The wastewater situation is still moderate to high in in Santa Clara County and that's the reason why both the state and the Federal Emergency regarding COVID has been continued",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "Status Report Enhancement Plans",
+          "points": [
+            {
+              "speaker": "Emily Ramos",
+              "text": "Vice Chair Ramos expressed excitement about mobile home park resident data separation and registry compliance numbers inclusion.",
+              "source": "Emily Ramos : I'm kind of very curious about the separation and separating out of the mobile Home Park residents so that we can actually have more ingrained data there",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Grunwald",
+              "text": "Committee member Grunwald requested petition volume tracking over time by type and information request volume trends for annual review.",
+              "source": "Grunwald : Yeah, Do we have, and maybe I missed this, but do we have another view that has petitions over time by petition type?",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 4,
+      "kept": 3,
+      "modified": 1,
+      "dropped": 0,
+      "from_gt1_kept": 0,
+      "from_gt2_kept": 4
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:06:11.253926+00:00"
+  }
+}

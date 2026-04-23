@@ -1,0 +1,131 @@
+{
+  "result": {
+    "merged_gt": {
+      "meeting_context": "Regular Rental Housing Committee meeting held January 9, 2023 via video conference. The committee handled the consent calendar, took roll, received no public comments, approved continuing virtual meetings under AB 361, heard the chair's resignation announcement, and discussed a potential scheduling conflict for the late-January meeting.",
+      "participants": [
+        "Haines-Livesay",
+        "Andrea Kennedy",
+        "Rosas",
+        "Almond",
+        "Ramos",
+        "Anky van Deursen"
+      ],
+      "topics": [
+        {
+          "topic": "Roll Call and Attendance Status",
+          "topic_merge_note": "normalized_from: ['Roll Call and Attendance Status', 'Meeting Procedures and Roll Call']",
+          "points": [
+            {
+              "speaker": "Andrea Kennedy",
+              "text": "Roll call conducted with committee members Grunwald and Pardo Dazella absent, while Rosas, Almond, Ramos, and Chair Haines-Livesay present.",
+              "source": "Andrea Kennedy : We will begin with a committee member Grunwald, who is absent. Next we will call on committee member Pardo Dazella, who is also absent",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Haines-Livesay",
+              "text": "Meeting called to order at 7:02 PM with virtual participation by all committee members and public access via mountainview.legistar.com, YouTube, and Comcast Channel 26.",
+              "source": "Haines-Livesay : The meeting is called to order at 7 O 2:00 PM",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Consent Calendar Approval",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Almond",
+              "text": "Committee unanimously approved resolution to continue virtual meetings pursuant to Brown Act provisions as amended by AB 361.",
+              "source": "Almond : I'll make a motion to adopt A resolution to continue virtual meetings pursuant to Brown Act provisions as amended by AB 361",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Chair Resignation and Transition Announcement",
+          "topic_merge_note": "normalized_from: ['Chair Resignation and Transition Announcement', 'Chair Transition and Appreciation']",
+          "points": [
+            {
+              "speaker": "Haines-Livesay",
+              "text": "Chair Haines-Livesay announced resignation effective after January meeting due to failing to meet residency requirements in February.",
+              "source": "Haines-Livesay : I just wanted to let the committee and the public know that regretfully, next meeting, the meeting at the end of January will be my last meeting because I will have to step down and February I won't meet the residency test",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Committee Members",
+              "text": "Committee members expressed appreciation for Chair Haines-Livesay's service, with Rosas saying 'We'll miss you', van Deursen commenting 'It's wonderful to have you as a chair', Almond noting he enjoyed serving with her, and Ramos expressing reluctance for her to leave.",
+              "source": "Rosas : We'll miss you",
+              "original_priority": "p3",
+              "dedup_note": "from_p3_unique"
+            }
+          ]
+        },
+        {
+          "topic": "January Meeting Scheduling Conflict",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Anky van Deursen",
+              "text": "Staff reported a potential conflict: City Council scheduled an additional meeting on January 30, the same date as the Rental Housing Committee meeting. Staff will poll committee members to determine if the meeting date should be changed.",
+              "source": "Anky van Deursen : I will pull all the Rental Housing Committee members separately to see if the date needs to be changed. It seems like the City Council just planned an extra meeting for January 30, which is the same date as we have a Rental Housing Committee meeting",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Haines-Livesay",
+              "text": "Meeting adjourned at 7:08 PM with next meeting tentatively scheduled for January 30th at 7:00 PM, pending potential date change.",
+              "source": "Haines-Livesay : The meeting is adjourned at 7 O 8:00 PM. This Rental housing committee meeting is scheduled to be held maybe on Monday, January 30th at 7:00 PM or maybe a different day",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Public Comment Status and Outcomes",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Haines-Livesay",
+              "text": "No public comments were received on the consent calendar item or during the general oral communications segment.",
+              "source": "Haines-Livesay : OK, not seeing any public comment now.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Anky van Deursen",
+          "text": "Staff will poll all Rental Housing Committee members to determine if January 30th meeting date needs to be changed due to City Council conflict.",
+          "source": "Anky van Deursen : I will pull all the Rental Housing Committee members separately to see if the date needs to be changed",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        }
+      ]
+    },
+    "merge_statistics": {
+      "total_p1_items": 6,
+      "total_p2_items": 2,
+      "total_p3_items": 1,
+      "final_items": 7,
+      "duplicates_removed": 2,
+      "deduplication_details": {
+        "p2_skipped": [],
+        "p3_skipped": []
+      }
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_final_merge/generation_final_merge",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "96d6eff54eb8b4ced496aeb8e349890a5e5d3f8bdf8dd6229ebee2e637c5f8c8",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-27T03:06:46.155196+00:00"
+  }
+}

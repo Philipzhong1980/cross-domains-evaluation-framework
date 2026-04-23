@@ -1,0 +1,194 @@
+{
+  "meeting_context": "White House press briefing imported from 20231222_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Andrea Shalal",
+    "Missy Ryan",
+    "Alan Rappeport",
+    "Aamer"
+  ],
+  "topics": [
+    {
+      "topic": "The United States is taking strong and decisive",
+      "points": [
+        {
+          "text": "The United States is taking strong and decisive actions, including imposing sanctions and export control measures, to disrupt Russia's military industrial base and prevent its aggression in Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States in coordination with partners and",
+      "points": [
+        {
+          "text": "The United States, in coordination with partners and allies, is taking strong actions including imposing sanctions and export control measures to disrupt Russia's military industrial base and curtail its revenue from various sectors.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States has been using sanctions and",
+      "points": [
+        {
+          "text": "The United States has been using sanctions and export controls for over two years to hold Russia accountable for its actions in Ukraine, aiming to disrupt Russia's military capabilities and limit the impact on allies and partners.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States has used sanctions and export",
+      "points": [
+        {
+          "text": "The United States has used sanctions and export controls to disrupt Russia's military capabilities, limit their resources, and put economic pressure on them, resulting in significant losses to Russia's military equipment, decreased defense spending, drop in energy revenues, isolation in global economic trade, brain drain, and an underperforming economy.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The lack of alternative options has forced Russia",
+      "points": [
+        {
+          "text": "The lack of alternative options has forced Russia to shift its economy towards weapons production for the war in Ukraine, weakening their domestic economy and leading to under-investments, low productivity growth, and labor shortages, while the Kremlin has also been investing resources in evading sanctions and export controls.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The new executive order will provide the US",
+      "points": [
+        {
+          "text": "The new executive order will provide the US with a tool to target financial institutions that continue to support Russia's military industrial complex and incentivize behavior that strengthens Russia's ability to build weapons used in Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The executive order provides the US with a",
+      "points": [
+        {
+          "text": "The executive order provides the US with a new tool to hold financial institutions accountable for supporting Russia's economy and strengthens their ability to target institutions aiding and abetting Russia's invasion of Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The executive order provides a targeted tool to",
+      "points": [
+        {
+          "text": "The executive order provides a targeted tool to hold financial institutions accountable for supporting Russia's military industrial complex and disrupt their access to goods and technology for weapon building.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The executive order aims to target financial institutions",
+      "points": [
+        {
+          "text": "The executive order aims to target financial institutions that support Russia's military industrial complex and force them to choose between ensuring goods are not going to Russia's military or facing sanctions.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The executive order targets financial institutions responsible for",
+      "points": [
+        {
+          "text": "The executive order targets financial institutions responsible for facilitating the transfer of goods to Russia's military, aiming to slow down Russia's efforts to fuel its war in Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The executive order aims to hold banks accountable",
+      "points": [
+        {
+          "text": "The executive order aims to hold banks accountable and prevent Russia's military industrial complex from accessing materials necessary for building weapons of war by utilizing the financial system as a potential chokepoint, with the hope that jurisdictions and financial institutions will take actions to stop this behavior before the tool provided by the executive order needs to be used.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The executive order will allow relevant departments to",
+      "points": [
+        {
+          "text": "The executive order will allow relevant departments to implement bans on products that originated in Russia but were substantially transformed outside of Russia, such as the import of Russian diamonds that have been processed in another country.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that American and",
+      "points": [
+        {
+          "text": "The senior administration official explains that American and European financial firms are not currently doing much business with Russia, but they play a role as correspondent banks for other banks conducting business in third countries, and the administration plans to work with these banks to ensure they take steps to prevent themselves from facilitating transactions that would violate the sanctions.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official states that while American",
+      "points": [
+        {
+          "text": "The senior administration official states that while American and European financial firms are not currently doing much business with Russia, they play a role as correspondent banks for other banks conducting business in third countries, and the administration plans to work with these banks to ensure they take steps to prevent themselves from facilitating transactions that would violate the sanctions.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Aamer asks if the President will make remarks",
+      "points": [
+        {
+          "text": "Aamer asks if the President will make remarks during the signing of the executive order and if there is a renewed push to consider seizing Russian bank assets to help Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official confirms that discussions with",
+      "points": [
+        {
+          "text": "The senior administration official confirms that discussions with G7 partners are ongoing to determine the most appropriate measures to ensure Russia pays back Ukraine for the damage caused and to engage Russia in ceasing its illegal aggression.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official confirms ongoing discussions with",
+      "points": [
+        {
+          "text": "The senior administration official confirms ongoing discussions with G7 partners to determine appropriate measures for Russia to pay back Ukraine for damages and cease its illegal aggression, while emphasizing the strategic aim of not allowing Russia to choose when and if it compensates Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The call is on background and the information",
+      "points": [
+        {
+          "text": "The call is on background and the information provided by senior administration officials is embargoed until 6:00 a.m. Eastern on Friday, December 22nd.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

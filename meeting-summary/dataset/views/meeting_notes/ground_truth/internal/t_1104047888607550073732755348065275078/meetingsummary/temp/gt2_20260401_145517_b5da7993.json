@@ -1,0 +1,209 @@
+{
+  "result": {
+    "meeting_context": "City Council Special meeting to interview Environmental Planning Commission (EPC) applicant candidates. Seven applicants were interviewed using a panel format with standardized questions, followed by council deliberation and voting to recommend two candidates for four-year terms.",
+    "participants": [
+      "Lucas Ramirez",
+      "Heather Glaser",
+      "Margaret Abekoga",
+      "Ellen Kamei",
+      "Sally Lieber",
+      "Lisa Matichak",
+      "Alison Hicks",
+      "Patricia Walter",
+      "Anne Cavanaugh",
+      "Bill Cranston",
+      "Paul Donahue",
+      "Jose Gutierrez",
+      "Silja Paymer",
+      "Molly Smith",
+      "Li Zhang"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Setup and Process",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "City is piloting Zoom automated captioning for this meeting with disclaimer about accuracy",
+            "source": "Lucas Ramirez : To interview Environmental Planning Commission applicant applicants, the City is piloting the use of Zoom automated captioning for this meeting."
+          },
+          {
+            "speaker": "Heather Glaser",
+            "text": "Council has quorum with Council Member Schwalter absent",
+            "source": "Heather Glaser : You have a quorum with Council Member Schwalter absent."
+          },
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Council will interview 7 applicants using panel format with same time allocation and randomized round Robin order",
+            "source": "Lucas Ramirez : The Council will interview 7 applicants for the Environmental Planning Commission for the selection process outlined in Council Policy Number K2."
+          }
+        ]
+      },
+      {
+        "topic": "Interview Question Modifications",
+        "points": [
+          {
+            "speaker": "Lisa Matichak",
+            "text": "Matichak suggested modifying first question to ask incumbents what they've contributed versus asking non-incumbents what they would bring",
+            "source": "Lisa Matichak : So maybe it could be amended to include what have you personally done to make a contribution to the EPC or if you are not an incumbent, what what do you think you would bring to the EPC"
+          },
+          {
+            "speaker": "Heather Glaser",
+            "text": "Policy requires asking everyone same questions with same time allocation for fairness",
+            "source": "Heather Glaser : Yeah, the policy discussed is asking everyone the same questions and giving everyone the same amount of time."
+          },
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "First question modified to ask what candidates have contributed or would bring that is unique to EPC",
+            "source": "Lucas Ramirez : So the first question would be modified to what have you personally done to make a contribution to the EPC or if you are not currently serving, what would you bring to the EPC that is unique"
+          }
+        ]
+      },
+      {
+        "topic": "Applicant Interview Responses",
+        "points": [
+          {
+            "speaker": "Anne Cavanaugh",
+            "text": "Cavanaugh brings 22 years Mountain View residency, downtown resident and small landlord perspective, and talent for perspective taking",
+            "source": "Anne Cavanaugh : So I think probably the most unique thing that I would bring to the EPCI mean I've been a resident of Mountain View for many years, 22 years."
+          },
+          {
+            "speaker": "Bill Cranston",
+            "text": "Cranston brings small business owner perspective with employees in below market rate and moderate income categories",
+            "source": "Bill Cranston : I'm a small business owner and one of the things that has what I've tried to do is bring the perspective of somebody who's trying to work with with that has employees who are trying to live in the Bay Area."
+          },
+          {
+            "speaker": "Paul Donahue",
+            "text": "Donahue has 16 years experience on city advisory bodies including 7 years PRC, 8 years library board, and 9 years Airport Land Use Commission",
+            "source": "Paul Donahue : I've been involved in the city on various advisory bodies for the last 16 years, seven years on the PRC, eight years on the library board."
+          },
+          {
+            "speaker": "Jose Gutierrez",
+            "text": "Gutierrez is single parent, 22+ year community member, ethnic minority, and has worked on affordable housing partnerships including charities program",
+            "source": "Jose Gutierrez : I'm a single parent. I'm got two beautiful girls. I've been a member of the community for now over 22 plus years."
+          },
+          {
+            "speaker": "Silja Paymer",
+            "text": "Paymer brings environmental science teaching background, daily bike commuting experience, and inside view of city-school relationships",
+            "source": "Silja Paymer : And I think one unique perspective I bring is that I've been an environmental science teacher."
+          },
+          {
+            "speaker": "Molly Smith",
+            "text": "Smith is newer resident from Boulder with environmental studies degree and train commuting experience",
+            "source": "Molly Smith : I am newer to the area. I have been here just over 2 years. I've came from Boulder, Co"
+          },
+          {
+            "speaker": "Li Zhang",
+            "text": "Zhang has lived in Mountain View over 20 years, has PhD in chemistry, and wants to bring sustainability perspective and remove housing development restraints",
+            "source": "Li Zhang : I also lived in Mountain View for over 20 years, and I've lived here since I was single."
+          }
+        ]
+      },
+      {
+        "topic": "General Plan and Precise Plans Discussion",
+        "points": [
+          {
+            "speaker": "Bill Cranston",
+            "text": "General Plan implemented 8 years ago with change areas including Bayshore, San Antonio, El Camino and E Wiseman having significant development impact",
+            "source": "Bill Cranston : So the the general plan was put in place about eight years ago. A lot of things were included in that with the the change areas"
+          },
+          {
+            "speaker": "Jose Gutierrez",
+            "text": "Gutierrez supports General Plan revision due to changed times and COVID impacts, believes it would strengthen city's negotiating position with developers",
+            "source": "Jose Gutierrez : I like to see it revised. I like for us to be able to, for the City Council to sit down together as a team, work through that because times have changed, needs have changed."
+          },
+          {
+            "speaker": "Paul Donahue",
+            "text": "Donahue opposes reopening General Plan, noting it took 4 years to complete and shouldn't spend 4 out of every 10 years redoing it",
+            "source": "Paul Donahue : I mean the the General Plan was put in place about 10 years ago and I my recollection is it took about four years to to get that thing through"
+          },
+          {
+            "speaker": "Li Zhang",
+            "text": "Zhang notes General Plan finalized in 2012, reworking would take 3-4 years, and council needs to evaluate available resources",
+            "source": "Li Zhang : I understood the general plan was this, I was finalized in 2012, it was quite some time ago, but it was a visionary plan."
+          }
+        ]
+      },
+      {
+        "topic": "Property Rights and Community Benefits Balance",
+        "points": [
+          {
+            "speaker": "Paul Donahue",
+            "text": "Donahue generally leans toward public open space over private as it benefits entire community",
+            "source": "Paul Donahue : generally I would, I would lean towards public open space that can be used by all of the the community"
+          },
+          {
+            "speaker": "Silja Paymer",
+            "text": "Paymer leans toward public benefit in denser development since residents need shared spaces when lacking private backyards",
+            "source": "Silja Paymer : So I think probably if it was a set of scales, I'd probably learn more towards public benefit when I was thinking about the property rights, especially as we're going more dense."
+          },
+          {
+            "speaker": "Bill Cranston",
+            "text": "Cranston believes property owners should work within existing rules, but density bonus law limits cities' ability to ask for community benefits",
+            "source": "Bill Cranston : So when it comes to public versus private, I'm a pretty strong believer in that somebody who owns property should be able to look at the rules that the city has"
+          }
+        ]
+      },
+      {
+        "topic": "Council Deliberation and Process Improvements",
+        "points": [
+          {
+            "speaker": "Ellen Kamei",
+            "text": "Kamei recommends Commission training 101 and clarity on EPC's advisory capacity questions",
+            "source": "Ellen Kamei : So I I did take the opportunity to watch several EPC meetings and thought that something I believe the the city clerk has brought up and I believe our city manager has brought up or worth pursuing and I'm not sure how we do that which is a a Commission or board training 101."
+          },
+          {
+            "speaker": "Alison Hicks",
+            "text": "Hicks praised Cranston for asking smartest questions during Google walking tour and EPC meetings",
+            "source": "Alison Hicks : I have to say I first became familiar with his work when I was on a Google walking tour with a bunch of people and he was just asking, I have to say this, the smartest questions in the tour group."
+          },
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Ramirez noted Molly and Ann have been recommended for appointments to other advisory bodies",
+            "source": "Lucas Ramirez : It didn't make a difference in this context, but I think it is important to note that both, if unless I'm mistaken, correct me if I'm wrong, Council Appointments Review committee. But Molly and Ann have been recommended for appointments to other advisory bodies"
+          }
+        ]
+      },
+      {
+        "topic": "Final Voting Results and Next Steps",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Council voted to recommend Bill Cranston and Jose Gutierrez for reappointment to four-year EPC terms",
+            "source": "Lucas Ramirez : So congratulations, Commissioner Cranston, Unless the Council deviates from this recommendation, it looks like you will have an opportunity to continue your service."
+          },
+          {
+            "speaker": "Heather Glaser",
+            "text": "Formal resolution for reappointments will be brought to Council on December 13th",
+            "source": "Heather Glaser : So on December 13, we'll bring a resolution to the council formally reappointing Bill and Jose for those next terms."
+          },
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Next City Council meeting scheduled for December 6th, 2022, meeting adjourned at 6:38 PM",
+            "source": "Lucas Ramirez : The next City Council meeting will be held on December 6th, 2022. Until then, stay healthy. The meeting is adjourned at 6:38 PM."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "City Council",
+        "text": "Council will bring formal resolution on December 13th to reappoint Bill Cranston and Jose Gutierrez for four-year EPC terms",
+        "source": "Heather Glaser : So on December 13, we'll bring a resolution to the council formally reappointing Bill and Jose for those next terms."
+      }
+    ],
+    "metadata": {
+      "topicCount": 7,
+      "pointCount": 26,
+      "decisionCount": 1
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:55:17.398978+00:00"
+  }
+}

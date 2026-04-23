@@ -1,0 +1,57 @@
+### Overview
+  Chair Pamela Brewer leads a meeting focused on downtown projects, program funding, and process improvements with city staff (John) and committee members including Mike Kasperszak, Tony Eagles, Kira Pasca, Mary Yen, Jamil Shaikh and others. The committee approves past minutes and agrees staff will move the annual work plan discussion to May to align with Council, while adding a downtown parking district renewal item to the May agenda. Downtown updates note Planning approved façade work at 110 Castro (Vita) and staff plans to seek City Council support for a $1.2M MTC grant to update the downtown precise plan. The Castro pedestrian mall ad hoc recommends design standards and staff presents three railing fascia demos, plans for standardized railings and smaller planters, new public seating and live entertainment beginning in May, and ongoing street cleanup. Public Works outlines a sewer main replacement on Castro and Wild Cherry using pipe bursting, open trenching and spot repairs with recommended night work (11 PM–6 AM) to reduce business impacts; staff will provide contractor schedules and outreach when available. John presents a proposed $500,000 ARPA package for small businesses—composed of façade matching grants, $5,000 outdoor furnishings grants, an expanded Rethink Disposable contract, and a $25,000 Chamber social media partnership—to go to Council on May 9, and committee members offer practical suggestions on training, recordings, low‑cost support and communication. Across topics the committee stresses clearer, concise memos that document business impacts and outreach plans, face‑to‑face engagement through DBA/Chamber, and continuous communication during multimonth projects; staff agrees to incorporate these expectations and return with updates.
+
+  ### Detailed Summary
+  #### Agenda scheduling change
+  Staff proposes moving the annual work plan development earlier in the calendar so the committee discusses the next fiscal year's work plan in May and approves it in June to align with City Council timelines. John also announces that the City Manager requests a discussion about the downtown parking district renewal be added to the May agenda. The committee notes a previously tabled grade separation/undercrossing item should be returned for presentation.
+- John states staff will move the annual work plan discussion to May so the committee can approve it in June to align with council timelines.
+- John reports the City Manager requests adding a downtown parking district renewal conversation to the May agenda.
+- Pamela Brewer asks that the undercrossing/grade separation item be brought back for adequate presentation time as it was tabled previously.
+#### Downtown development updates
+  Staff provides two downtown project updates: Planning approved façade modifications at 110 Castro Street for a restaurant (Vita) and the downtown precise plan update is anticipated over the next two years with external funding support. Mike reports Planning approved the Vita façade permit and staff plans to seek a City Council resolution to support a $1.2 million MTC grant application to update subareas of the downtown precise plan.
+- Mike Kasperszak reports Planning approved a development review permit for façade modifications at 110 Castro Street for the restaurant Vita.
+- Mike Kasperszak says staff will ask City Council for a resolution supporting a $1.2 million MTC grant application to update downtown precise plan subareas.
+- Mike Kasperszak notes council expressed priorities for the downtown precise plan update spanning 2023–2025 and staff expects to kick off proposals if funding is awarded.
+#### Castro pedestrian mall
+  Staff reports the Council ad hoc committee recommends design standards and guidelines for the Castro pedestrian mall and presents a demonstration of three patio railing fascia patterns on the 200 block for community input. The City will standardize on one chosen fascia, will install railing and select smaller planters, plans public seating and live entertainment starting in May, and is conducting street cleanup including removal of large planters.
+- John reports the Council ad hoc committee recommends approval of design standards and guidelines for the pedestrian mall.
+- John describes a demonstration of three railing fascia patterns on the 200 block and says staff is soliciting public and business input to select one standard pattern.
+- John states the city will provide and install the patio railings and the businesses will be responsible for activating the leased outdoor spaces.
+- John announces the city plans to introduce public seating and live entertainment in the pedestrian mall starting in May.
+- John explains staff recommends smaller standardized planters and is removing large planters as part of a street cleanup effort.
+- John explains public toilets are a long‑term item and are currently on the parking lot for discussion when the street is raised for a permanent pedestrian mall.
+#### Parking and maintenance concerns
+  Discussion identifies maintenance needs for the downtown parking garage and ongoing cleaning efforts funded in the mid‑year budget. John says parking garage car‑count technology is failing and staff will consider modifying the parking budget to support garage maintenance; additional staff were added for weekend cleaning.
+- John reports the parking garage requires additional maintenance and that existing car‑count technology is starting to fail.
+- John says staff will look to modify the parking budget to increase support for garage upkeep.
+- John notes the mid‑year budget added staff for additional weekend downtown cleaning and that parks staff perform daily street pickup.
+#### Sewer replacement project
+  Public Works presents the annual water and sewer main replacement work planned for segments of Castro Street and Wild Cherry Lane after televising found defects. Tony Eagles explains the project will use open trenching, spot repairs and pipe bursting depending on segment length, recommends predominantly night work (11:00 PM–6:00 AM) to reduce business impacts, and indicates construction schedule and phasing depend on contractor selection and coordination with other projects.
+- Tony Eagles explains televising identified multiple defects on Castro Street and triggered the annual sewer main replacement project.
+- Tony Eagles describes three construction methods: open trenching, spot trenching, and pipe bursting, and explains pipe bursting breaks the old pipe in place while pulling in a new HDPE pipe.
+- Tony Eagles states staff recommends night work (11:00 PM–6:00 AM Sunday–Friday) for many stretches to minimize business disruptions, with limited daytime work allowed with city approval.
+- Tony Eagles warns the hydraulic unit used for pipe bursting is noisy and that night noise and impacts to restaurants and residents are a concern to be mitigated through outreach.
+- Tony Eagles indicates the project anticipates a summer construction start but cannot provide a firm duration until a contractor and phasing are determined.
+#### Business impacts and outreach
+  Committee members emphasize the need to assess and communicate business impacts for downtown construction and maintenance projects, suggesting concise notices, face‑to‑face outreach via the DBA/Chamber, use of Ask Mountain View for complaints, and continual updates during multimonth work. Staff agrees to provide clearer memos that daylight business impacts and outreach plans and to return with contractor schedules when available.
+- Kira Pasca requests staff include explicit analysis of business impacts and recommended mitigation measures in memos for projects affecting downtown businesses.
+- Marry Nikki urges continuous, face‑to‑face communication with affected businesses during extended construction periods and suggests leveraging DBA volunteers for outreach.
+- John agrees staff will present clearer memos that note business impacts, outreach approaches, and opportunities for committee feedback and will notify businesses once contractor schedules are firm.
+#### ARPA small business programs
+  Staff presents a proposed allocation of $500,000 in ARPA funds for small business support via four programs: a façade matching grant with three tiers and one‑to‑one matching, a $5,000 outdoor furnishings grant program (lottery if oversubscribed), an expanded Rethink Disposable contract to reduce disposables in food service, and a $25,000 Chamber partnership to create social media toolkits and trainings. The package is scheduled for City Council consideration on May 9 and committee members offer suggestions on workshop formats, recorded sessions, low‑cost options and volunteer/college partnerships.
+- John explains Council allocated $500,000 for small business programs and staff proposes four initiatives to distribute those funds.
+- John describes a façade matching grant with three tiers that requires an early staff consultation and functions as a one‑to‑one match.
+- John outlines an outdoor furnishings grant of $5,000 per business that will use a lottery if demand exceeds available funds.
+- John requests a contract amendment to expand Rethink Disposable work with the Clean Water Fund to promote reusable ware in dine‑in settings and more hostable disposables for takeout.
+- John states staff proposes a $25,000 partnership with the Chamber to develop social media toolkits, workshops and a potential hand‑holding component for businesses.
+- Kira Pasca and Mary Yen recommend recorded workshops, peer sharing of best practices, low‑cost student or volunteer support, and clarity about the time commitment required for sustained social media impact.
+#### Committee process discussion
+  Staff asks for guidance on whether to add a standing business‑issues section to agendas or to handle business concerns through future agenda items and memos, noting the need to be clear to the public about scope. Committee members prefer that staff memos explicitly daylight business impacts, outreach plans, and mitigation options for specific projects rather than a free‑form standing 'rant' item.
+- John requests committee guidance on structuring a business‑issues agenda item and whether it should be a standing item or handled through targeted memos.
+- Kira Pasca recommends ensuring project discussions explicitly include impacts to businesses and potential measures to buffer those impacts.
+- Committee members suggest staff memos should include outreach methods and suggested communications templates so the committee and stakeholders can evaluate public notification efforts.
+#### Committee reports and wrap-up
+  Members share brief announcements: the Historical Association reports successful walking tours with growing attendance and the committee discusses keeping meetings to scheduled end times and exploring Downtown Ambassador programs. Staff notes follow‑ups on items raised and commits to returning with updates as projects progress.
+- Pamela Brewer reports the Historical Association held walking tours with 10–13 attendees and announces the next tour on the fourth Thursday of April.
+- Jamil Shaikh references the idea of reintroducing Downtown Ambassadors and John notes preliminary discussions with Police and other staff.
+- An unidentified committee member requests meetings finish by 11:30 AM to respect participants' schedules and John acknowledges follow‑up actions on items raised during the meeting.

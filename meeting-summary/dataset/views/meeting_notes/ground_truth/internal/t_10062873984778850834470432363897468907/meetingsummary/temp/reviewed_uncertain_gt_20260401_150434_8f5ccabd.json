@@ -1,0 +1,170 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Hygiene and Restroom Services",
+          "points": [
+            {
+              "speaker": "Kimberly Thomas",
+              "text": "Post-COVID, the city narrowed distributed hygiene services and now focuses on 24/7 restrooms at safety-net providers (CSA and Hope's Corner) and dawn-to-dusk access at city facilities. Temporary COVID-era dispersed placements (8-11 sites) were discontinued; some services were recently added back at CSA and Hope's Corner.",
+              "source": "Kimberly Thomas: ...emergency related programs like hygiene that's not operational now... recently added back some hygiene services at our CSA and Hope's Corner location... our strategy is to provide those restrooms at our key safety net providers... available 24/7... during COVID we placed upwards of 8 to 11 different locations...",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        },
+        {
+          "topic": "Fire Safety and Outreach",
+          "points": [
+            {
+              "speaker": "Kimberly Thomas",
+              "text": "Following recent vehicle fires at a safe parking lot and in the right-of-way, the Fire Department conducted direct outreach on safe practices; educational materials in English and Spanish are routinely distributed by outreach staff to promote safety for vehicle dwellers.",
+              "source": "Kimberly Thomas: ...we had a recent fire... our fire department did do a couple of rounds... to share that brochure, talk with them about safety... Jan Leah does distribute this information...",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Enforcement Statistics and Process",
+          "points": [
+            {
+              "speaker": "Matthew Atkins",
+              "text": "A three-phase 72-hour process uses chalking, then warnings after 72 hours, then citations after another 72 hours. From Oct 13-31, 2022: 211 passenger vehicles pamphleted (8 cited), 127 oversized vehicles pamphleted (23 cited), 1 tow. November: 116 passenger pamphlets (0 cited), 89 oversized (14 cited), 0 tows. December: 12 passenger pamphlets (2 cited), 115 oversized (34 cited), 3 tows.",
+              "source": "Matthew Atkins: ...three phase enforcement... Oct 13-31... approximately 211 passenger vehicles... 8... cited... 127 oversized... 23... cited... one vehicle was towed... November... 116 passenger... 0... 89 oversized... 14... cited... December... 12 passenger... 2... cited... 115 oversized... 34... cited... Three vehicles were towed...",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Towing Incident Response",
+          "points": [
+            {
+              "speaker": "Janleah McPherson",
+              "text": "Following an elderly resident's tow, outreach staff offered shelter in Sunnyvale (declined), secured a temporary place in a friend's van, and coordinated with case managers (Day Worker Center and Hope's Corner) to obtain a donated working vehicle. Safe parking and transitional housing were offered but declined.",
+              "source": "Janleah McPherson: ...We did offer to take him to a shelter in Sunnyvale but he refused... a friend... offered his vehicle... case manager... provided him with... a new vehicle... He's still living out on the street... offered him to go to the safe parking and also... transitional housing... he declined...",
+              "validation_note": "merged_conflict"
+            },
+            {
+              "speaker": "Eva Tang",
+              "text": "Elderly gentleman's vehicle was towed despite working with NES unit due to communication breakdown between responding officer and outreach team.",
+              "source": "Eva Tang : what I had heard was that this gentleman had the had the indication on his vehicle that he had been working with Jan Lynn or or and you know people within that unit. But the officer responding at the moment had, and I said, you know, I don't know anything about that",
+              "validation_note": "validated_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Tow Release Process",
+          "points": [
+            {
+              "speaker": "Scott Nelson",
+              "text": "The tow release process requires obtaining a police release (with a statutory fee) before paying tow company storage charges that accrue daily; in limited cases, police waived fees and community groups covered tow costs when appropriate.",
+              "source": "Scott Nelson: ...come to the Police Department to get a release... there is a storage fee... around $150... tow company does charge... daily rates... we have also waived the fees in a few limited circumstances... community groups... helped...",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [
+      {
+        "id": "review_004",
+        "item_type": "point",
+        "original_point": {
+          "text": "Public commenters challenged the enforcement approach as inconsistent with the ordinance's letter and intent, asserting it targets abandoned vehicles and allows returning to the same spot if moved 1,000 feet, and expressing privacy concerns regarding odometer checks.",
+          "source": "Tim McKenzie: ...The ordinance says move 1000 feet and the odometer will be a valid mark... someone could move and return to the exact same spot... the spirit of the law... about an abandoned vehicle...",
+          "speaker": "Tim McKenzie"
+        },
+        "reason": "extraction_criteria_not_met",
+        "explanation": "While Tim McKenzie's comments are captured in the transcript, this represents public commentary/opinion rather than factual outcomes or decisions from the meeting. Ground Truth extraction focuses on substantive outcomes, decisions, and factual information rather than public opinions or challenges to policy interpretation."
+      }
+    ],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Both GT1 and GT2 describe the same restroom strategy with GT1 providing historical context and GT2 current status. The transcript confirms both aspects - the COVID-era changes and current 24/7 strategy at safety-net providers plus dawn-to-dusk city facilities.",
+        "transcript_evidence": [
+          "Kimberly Thomas: ...emergency related programs like hygiene that's not operational now... recently added back some hygiene services at our CSA and Hope's Corner location",
+          "Kimberly Thomas: our strategy is to provide those restrooms at our key safety net providers. They are available 24/7 in addition to all the city facilities that are open during dawn to dusk",
+          "Kimberly Thomas: during COVID we placed upwards of 8 to 11 different locations"
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "merge",
+        "reasoning": "The transcript confirms recent vehicle fires and Fire Department outreach with educational materials. This represents substantive safety response with specific actions taken, meeting extraction criteria for factual outcomes.",
+        "transcript_evidence": [
+          "Kimberly Thomas: we had a recent fire at a safe parking one of our safe parking lots as well as a couple that occurred in our public right of way",
+          "Kimberly Thomas: our fire department did do a couple of rounds going directly to our residents where they are at to share that brochure, talk with them about safety",
+          "Kimberly Thomas: Jan Leah does distribute this this information associated with how to be safe living in your in your vehicle"
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "merge",
+        "reasoning": "The detailed enforcement statistics in GT1 are fully supported by the transcript with exact numbers matching Lieutenant Atkins' presentation. This provides valuable factual data about enforcement outcomes.",
+        "transcript_evidence": [
+          "Matthew Atkins: From October 13th and October 31st, there's approximately 211 passenger vehicles that were provided with pamphlets. Of those 211 vehicles, approximately 8 passenger vehicles were issued citations",
+          "Matthew Atkins: There are approximately 127 oversized vehicles provided with pamphlets. Of those 127 vehicles, there are approximately 23 oversized vehicles that were cited. One vehicle was towed",
+          "Matthew Atkins: For November... approximately 116 passenger vehicles... 0 passenger vehicles were cited... 89 oversized vehicles... 14 were cited",
+          "Matthew Atkins: For December... approximately 12 vehicles passenger vehicles... two of those vehicles were cited... 115 oversized vehicles... 34 oversized vehicles were cited. Three vehicles were towed"
+        ]
+      },
+      {
+        "id": "review_004",
+        "decision": "exclude",
+        "reasoning": "While Tim McKenzie's comments are accurately captured in the transcript, they represent public commentary and opinion about ordinance interpretation rather than factual outcomes or decisions from the meeting. Ground Truth extraction focuses on substantive results rather than public opinions.",
+        "transcript_evidence": [
+          "Tim McKenzie: The ordinance says move 1000 feet and and the odometer will be a valid mark of that, which would mean someone could move and return to the exact same spot",
+          "Tim McKenzie: the spirit of the law... it said it was about an abandoned vehicle thing"
+        ]
+      },
+      {
+        "id": "review_005",
+        "decision": "merge",
+        "reasoning": "Both GT1 and GT2 describe the same incident with GT1 providing comprehensive details about services offered/declined and GT2 focusing on successful outcomes. The transcript supports both accounts as accurate descriptions of the same case.",
+        "transcript_evidence": [
+          "Janleah McPherson: We did offer to take him to a shelter in Sunnyvale but he refused",
+          "Janleah McPherson: a friend of his offered his vehicle for him to stay in",
+          "Janleah McPherson: he worked with Maria at the the Day worker Center also at the Hope's corner. He has a case manager there. Her name is Claire, who provided him with the with the new vehicle",
+          "Janleah McPherson: offered him to go to the safe parking and also to you know go to the shelter... transitional housing... but he declined the services"
+        ]
+      },
+      {
+        "id": "review_006",
+        "decision": "merge",
+        "reasoning": "The transcript confirms the detailed tow release process including police release requirements, storage fees, daily charges, and instances of fee waivers and community assistance. This procedural information is factually accurate and substantive.",
+        "transcript_evidence": [
+          "Scott Nelson: The first step on that is coming to the Police Department to get a release notification signed",
+          "Scott Nelson: there is a storage fee that they pay to the department... I think it's around $150",
+          "Scott Nelson: the tow company does charge them based upon how long it's been there... They are allowed to charge daily rates",
+          "Scott Nelson: We have also waived the fees in a few limited circumstances... we have had some very generous community groups that have helped with those, the fees"
+        ]
+      },
+      {
+        "id": "review_007",
+        "decision": "merge",
+        "reasoning": "Eva Tang's account of the communication breakdown that led to the towing incident provides important context about coordination issues between departments. The transcript confirms her statement about the officer not being aware of the NES unit's involvement.",
+        "transcript_evidence": [
+          "Eva Tang: what I had heard was that this gentleman had the had the indication on his vehicle that he had been working with Jan Lynn or or and you know people within that unit. But the officer responding at the moment had, and I said, you know, I don't know anything about that"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 7,
+      "merged": 6,
+      "excluded": 1,
+      "modified": 0,
+      "confidence": "High confidence in validation quality. All items had clear transcript evidence supporting decisions. The one excluded item (review_004) represents public commentary rather than factual outcomes, which is outside GT extraction criteria. All merged items contain substantive, factually-supported information about city services, enforcement data, and incident responses."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:04:34.121447+00:00"
+  }
+}

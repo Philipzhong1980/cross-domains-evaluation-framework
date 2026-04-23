@@ -1,0 +1,321 @@
+{
+  "meeting_context": "White House press briefing imported from 20240104_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "MR. KIRBY",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "White House spokesperson Karine Jean Pierre addresses the",
+      "points": [
+        {
+          "text": "White House spokesperson Karine Jean-Pierre addresses the tragic school shooting in Iowa, expresses condolences to the victims' families, and calls for further action to reduce gun violence.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Karine Jean Pierre expresses condolences",
+      "points": [
+        {
+          "text": "White House spokesperson Karine Jean-Pierre expresses condolences for the victims' families and calls for further action to reduce gun violence in response to the tragic school shooting in Iowa.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States has revealed that Russia received",
+      "points": [
+        {
+          "text": "The United States has revealed that Russia received ballistic missile launchers and missiles from North Korea, which were used in multiple attacks on Ukraine, resulting in the deaths of innocent civilians and causing concern over an escalation in North Korea's support for Russia.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is concerned about Russia seeking",
+      "points": [
+        {
+          "text": "The United States is concerned about Russia seeking military assistance from North Korea and Iran, including acquiring close-range ballistic missiles, which violates U.N. Security Council resolutions, and is taking steps to hold Russia accountable and provide Ukraine with necessary defense capabilities.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US government has obtained information from various",
+      "points": [
+        {
+          "text": "The US government has obtained information from various intelligence sources suggesting that Russia is still reliant on munitions and missiles from North Korea, and while there is no evidence of them consummating a deal for close-range ballistic missiles with Iran, they are deeply concerned about the ongoing relationship between Russia and these countries.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US government believes that Russia's defense industry",
+      "points": [
+        {
+          "text": "The US government believes that Russia's defense industry has been impacted by international pressure, but they are concerned about Russia's ability to improve and increase their defense capabilities through deals with Iran and North Korea.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the ongoing Israeli operation against",
+      "points": [
+        {
+          "text": "The speaker discusses the ongoing Israeli operation against Hamas and emphasizes the need for effective measures to protect innocent lives while targeting the leadership of Hamas.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges that there has not been",
+      "points": [
+        {
+          "text": "The speaker acknowledges that there has not been a formal assessment by the United States government to analyze Israel's compliance with international law in their military operations.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges their mistake in discussing the",
+      "points": [
+        {
+          "text": "The speaker acknowledges their mistake in discussing the transfer of Palestinian taxes and clarifies that the revenues should be released to the Palestinian people.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker defends the decision to provide humanitarian",
+      "points": [
+        {
+          "text": "The speaker defends the decision to provide humanitarian aid to Iran while acknowledging that the Iranian regime prioritizes military capabilities over the well-being of its people.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the lack of support from",
+      "points": [
+        {
+          "text": "The speaker discusses the lack of support from House Republicans for increasing the number of Border Patrol agents and addresses claims about the elimination of 2,000 Border Patrol agents.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the importance of U S",
+      "points": [
+        {
+          "text": "The speaker discusses the importance of U.S. leadership in supporting Ukraine and highlights that allies and adversaries, such as Vladimir Putin and President Xi, are watching to see if the United States will prove to be a reliable partner.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the ongoing conflict in the",
+      "points": [
+        {
+          "text": "The speaker discusses the ongoing conflict in the Middle East, the importance of replenishing Ukraine's air defense systems, and the need to address the humanitarian crisis in Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the U S 's support",
+      "points": [
+        {
+          "text": "The speaker discusses the U.S.'s support for Taiwan's democratic institutions, the U.S.'s view on the use of hospitals by Hamas in Gaza, and the safe passage of Americans out of Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker cannot provide specific details on the",
+      "points": [
+        {
+          "text": "The speaker cannot provide specific details on the number of ballistic missiles Russia is hoping to get from Iran and how many are remaining from North Korea that can still be shot into Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker declines to provide further details on",
+      "points": [
+        {
+          "text": "The speaker declines to provide further details on Senator Menendez's access to sensitive information and states that it is up to the Senate leadership to decide on his resignation.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is calling on Congress to",
+      "points": [
+        {
+          "text": "The White House is calling on Congress to act on gun safety and gun control, highlighting the President's past actions and initiatives aimed at addressing the epidemic of gun violence.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre states that President",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre states that President Biden supports a tax deal that includes expanding the child tax credit and renewing expired research tax credits, emphasizing the importance of cutting taxes for working families and reducing child poverty.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre defends President Biden's",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre defends President Biden's actions on immigration and criticizes House Republicans for obstructing efforts to address border security.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House spokesperson Jean Pierre declines to negotiate",
+      "points": [
+        {
+          "text": "White House spokesperson Jean-Pierre declines to negotiate and get involved in discussions with House Republicans regarding immigration policy and the supplemental request.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson states that they are",
+      "points": [
+        {
+          "text": "The White House spokesperson states that they are currently having productive conversations with Senate Republicans and Democrats regarding immigration policy, while criticizing House Republicans for leaving in mid-December and playing politics instead of engaging in real discussions.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson mentions that House Republicans",
+      "points": [
+        {
+          "text": "The White House spokesperson mentions that House Republicans left in mid-December, leaving the Senate to continue conversations on border security and immigration policy with both Republicans and Democrats.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson mentions that House Republicans",
+      "points": [
+        {
+          "text": "The White House spokesperson mentions that House Republicans left in mid-December, leaving the Senate to continue conversations on border security and immigration policy with both Republicans and Democrats.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson mentions that the President",
+      "points": [
+        {
+          "text": "The White House spokesperson mentions that the President has met with a diverse group of historians to discuss their thoughts on democracy in preparation for an important national moment related to January 6th.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson discusses the President's belief",
+      "points": [
+        {
+          "text": "The White House spokesperson discusses the President's belief in hearing diverse voices and the ongoing efforts to improve the federal financial aid application process for college students.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson discusses the President's belief",
+      "points": [
+        {
+          "text": "The White House spokesperson discusses the President's belief in investing in Black communities and highlights the positive economic indicators for Black Americans, including job gains, decreased unemployment, increased Black wealth, growing Black business ownership, and the creation of clean energy jobs in communities of color.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson defends the increase in",
+      "points": [
+        {
+          "text": "The White House spokesperson defends the increase in electric vehicle sales and emphasizes the importance of clean energy and addressing climate change.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson declines to comment on",
+      "points": [
+        {
+          "text": "The White House spokesperson declines to comment on resignations within the Department of Education and states that people have the right to voice their opinions, while also avoiding discussing the President's upcoming speech on democracy.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson emphasizes that it is",
+      "points": [
+        {
+          "text": "The White House spokesperson emphasizes that it is up to individual Americans to decide how they want to protect themselves from COVID-19, including through vaccination, testing, and treatments, and that the government will not regulate masking.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript the speaker",
+      "points": [
+        {
+          "text": "In this section of the transcript, the speaker responds to a question and expresses their love for someone named James.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript the speaker",
+      "points": [
+        {
+          "text": "In this section of the transcript, the speaker discusses the importance of gun control legislation and expresses the need for further action to address the ongoing issue of gun violence in the country.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

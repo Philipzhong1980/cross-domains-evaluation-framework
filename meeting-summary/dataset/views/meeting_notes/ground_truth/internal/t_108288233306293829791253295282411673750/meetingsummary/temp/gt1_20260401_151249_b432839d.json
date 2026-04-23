@@ -1,0 +1,151 @@
+{
+  "result": {
+    "meeting_context": "The committee convened to approve prior minutes, hear a guest presentation from Friendly Voices on combating senior isolation, receive updates from the Communications and Senior Survey subcommittees, and get Senior Center operational and program updates. The meeting concluded with recognition and closure.",
+    "participants": [
+      "Vicki",
+      "Ashley Bittle",
+      "Elna Tymes",
+      "Irigon",
+      "Laura Steuer",
+      "Jim Nichols",
+      "Ish Sinha"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting administration and minutes approval",
+        "points": [
+          {
+            "speaker": "Ashley Bittle",
+            "text": "Quorum was confirmed at the start of the meeting after roll call. The chair requested a motion to approve prior minutes, and voting procedures were coordinated to ensure clear attribution of the motion, second, and votes.",
+            "source": "Ashley Bittle : We have a quorum."
+          },
+          {
+            "speaker": "Vicki",
+            "text": "The committee approved the minutes from the July 20 meeting. Elna Tymes moved to approve, Ish Sinha seconded, and members voted in favor; Irigon abstained due to not attending the prior meeting.",
+            "source": "Elna Tymes : I move to approve."
+          }
+        ]
+      },
+      {
+        "topic": "Friendly Voices program overview and expansion",
+        "points": [
+          {
+            "speaker": "Laura Steuer",
+            "text": "Friendly Voices connects isolated seniors with trained, background-checked volunteers for weekly one-to-one phone calls. Volunteers are mentored and supervised, safety is prioritized, calls are documented, and relationships are continuous rather than rotating. The program is entirely volunteer-run, Bay Area–based, and collaborates with multiple local agencies.",
+            "source": "Laura Steuer : We train them, we mentor them, we background check them, we supervise them. We document every call... we match each senior and each volunteer 1 to 1... We are entirely volunteer run."
+          },
+          {
+            "speaker": "Laura Steuer",
+            "text": "Operations are virtual: volunteers call seniors from their personal phones. The program currently serves about 70 seniors with roughly 50 volunteers (often two seniors per volunteer). A new grant from the Joseph and Vera Long Foundation will support scaling to approximately 250 seniors annually within two years; a waitlist is expected to reopen around November 1.",
+            "source": "Laura Steuer : We just received a grant... to triple that in the next two years. So within two years we will be serving 250 seniors a year."
+          },
+          {
+            "speaker": "Laura Steuer",
+            "text": "Most senior clients are referred by agency social workers (e.g., Mountain View’s Community Services Agency), reaching low‑income, homebound seniors without computers or cars. Some self‑refer online. Reaching unconnected seniors remains challenging; limited flyer distribution and outreach talks help, but effectiveness is variable.",
+            "source": "Laura Steuer : Most of our senior clients come to us through referrals from senior agencies... We have some seniors who sign up on their own... that is a challenge."
+          },
+          {
+            "speaker": "Elna Tymes",
+            "text": "Members suggested outreach avenues: connect with the Alzheimer’s Association 24/7 line (primarily serving caregivers), present briefly at the Senior Center’s nutrition program lunch, and speak at local senior organizations. Friendly Voices noted a planned mention in Saratoga Area Senior Center’s newsletter in December and potential follow‑up with Senior Center staff.",
+            "source": "Elna Tymes : ...the Alzheimer's 24 by 7 line... caregivers... I would suggest very strongly that you explore that connection."
+          }
+        ]
+      },
+      {
+        "topic": "Communications subcommittee and outreach",
+        "points": [
+          {
+            "speaker": "Ashley Bittle",
+            "text": "The Communications Subcommittee update was deferred due to connectivity issues and Kieran being out of the country until December. Ashley asked that Vicki or the vice chair email Ish with expectations and request a subcommittee update for the November meeting.",
+            "source": "Ashley Bittle : ...maybe if one of you two... shoot him an e-mail and just let him know, you know what kind of update we'd like for the November"
+          },
+          {
+            "speaker": "Ish Sinha",
+            "text": "Ish proposed exploring a local friendly visitor program in Mountain View, based on his successful Alameda County experience. He emphasized that in‑person visits build trust more than phone calls and suggested preparing and distributing flyers to increase senior outreach and awareness.",
+            "source": "Ish Sinha : ...a friendly visitors program in Alameda County and it was a very successful program... visiting somebody's house is much better... I think we should start it in our county... we had some flies ready to distribute"
+          }
+        ]
+      },
+      {
+        "topic": "Senior survey planning and vendor option (CASOA)",
+        "points": [
+          {
+            "speaker": "Elna Tymes",
+            "text": "The subcommittee retrieved Mountain View’s 2019 senior survey and believes its questions remain valid. They identified CASOA, a private senior survey program used by Saratoga, Cupertino, Los Gatos, Sunnyvale, and others, which combines mailed outreach with online responses using standard statistical methods to deliver city‑specific findings.",
+            "source": "Elna Tymes : CASOA... a senior survey... They are doing... Saratoga... Palo Alto... Cupertino... Los Gatos... Sunnyvale... They do most of their surveys online, but they also mail out questions."
+          },
+          {
+            "speaker": "Elna Tymes",
+            "text": "Contracting CASOA for Mountain View would cost about $20,000 and require City Council approval via staff. SAC lacks its own budget. The team is awaiting additional vendor details by email and plans to circulate them. Data would be Mountain View–specific, with privacy protected (e.g., address-based linkage without names).",
+            "source": "Elna Tymes : It would cost us a Mountain View about 20,000 dollars... I will be able to send that around to people as soon as it gets here... identity would be protected."
+          }
+        ]
+      },
+      {
+        "topic": "Senior Center programs and operations update",
+        "points": [
+          {
+            "speaker": "Ashley Bittle",
+            "text": "A new Senior Center Recreation Coordinator, Anthony Kukar, has started, replacing Alejandra, who laterally transferred to the Community Center within the same division and continues to assist as needed. Members are encouraged to meet Anthony during visits to the center.",
+            "source": "Ashley Bittle : ...new recreation coordinator at the Senior Center. His name is Anthony Kukar... Alejandra... made a lateral move to the Community Center... still around and still helping us out."
+          },
+          {
+            "speaker": "Ashley Bittle",
+            "text": "October programming emphasized transportation and safety: MVPD presented on cybercrime trends affecting seniors; El Camino Health’s Roadrunners transportation workshop ran last week; VTA will present tomorrow. The Holiday Bazaar returns Saturday, November 19, with about 40 of 43 typical vendor slots already filled, first time since 2019.",
+            "source": "Ashley Bittle : ...Mountain View Police Department... latest trends in crime prevention... Roadrunners transportation workshop... we have another... tomorrow with VTA... holiday bazaar... Saturday, November 19th... we have 40 right now."
+          },
+          {
+            "speaker": "Ashley Bittle",
+            "text": "City Council extended virtual public meeting authorization through November 10; future extensions are decided monthly. Given expected winter respiratory illness spikes, in‑person meetings may not resume until spring 2023. SAC does not meet in December; Ashley will inform members once meeting format changes are confirmed.",
+            "source": "Ashley Bittle : ...virtual meetings would continue until November 10th... I will contact... I don't anticipate them returning in till spring of 2023... We don't meet in December."
+          }
+        ]
+      },
+      {
+        "topic": "Recognition and meeting closure",
+        "points": [
+          {
+            "speaker": "Ashley Bittle",
+            "text": "Members recognized Ish for representing the Senior Advisory Committee at the Celebration of Service event and delivering a well‑received presentation; multiple attendees provided positive feedback on his remarks.",
+            "source": "Ashley Bittle : ...thank... on behalf of the SAC at the celebration of service... Great job to ish."
+          },
+          {
+            "speaker": "Vicki",
+            "text": "With no further business raised during roundtable, the chair adjourned the meeting.",
+            "source": "Vicki : Being no further business before the committee, I will adjourn the meeting."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Elna Tymes",
+        "text": "Elna will circulate additional CASOA survey information to the committee as soon as it is received.",
+        "source": "Elna Tymes : I will be able to send that around to people as soon as it gets here."
+      },
+      {
+        "assignee": "Ashley Bittle",
+        "text": "Ashley will notify the committee when there is an update on resuming in‑person meetings or any change to meeting format.",
+        "source": "Ashley Bittle : As soon as I know you guys are the 1st, I will contact SO."
+      },
+      {
+        "assignee": "Friendly Voices",
+        "text": "Friendly Voices will expand to serve approximately 250 seniors annually within two years under the new Long Foundation grant.",
+        "source": "Laura Steuer : ...to triple that in the next two years. So within two years we will be serving 250 seniors a year."
+      }
+    ],
+    "metadata": {
+      "topicCount": 6,
+      "pointCount": 15,
+      "decisionCount": 3
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "openai",
+    "model": "gpt-5-2025-08-07",
+    "timestamp": "2026-04-01T07:12:49.445700+00:00"
+  }
+}

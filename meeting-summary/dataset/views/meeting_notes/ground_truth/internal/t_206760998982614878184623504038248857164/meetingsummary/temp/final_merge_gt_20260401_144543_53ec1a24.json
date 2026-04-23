@@ -1,0 +1,301 @@
+{
+  "result": {
+    "merged_gt": {
+      "meeting_context": "The Council Finance Committee of Mountain View met virtually to review the FY2021–22 Annual Comprehensive Financial Report (ACFR) and external audit results. The committee received presentations from the external auditor and city staff, discussed audit findings, and made recommendations to City Council.",
+      "participants": [
+        "Sally Lieber",
+        "Lisa Matichak",
+        "Lucas Ramirez",
+        "Victoria labrador",
+        "Jesse Takahashi",
+        "Banjamin Lau",
+        "Grace Zheng"
+      ],
+      "topics": [
+        {
+          "topic": "Annual Financial Audit Results Overview",
+          "topic_merge_note": "normalized_from: ['Annual Financial Audit Results Overview', 'FY2022 ACFR Audit Results and Highlights']",
+          "points": [
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "MGO has served as the City's external auditor for seven years, and the City Charter (Section 1106) requires an independent CPA to perform the annual audit.",
+              "source": "Jesse Takahashi : Mgos been the external auditor for the city for the last seven years now... city charter Section 11 O Six that specifies that an independent CPA needs to perform this function",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "The General Operating Fund finished fiscal year 2022 with an operating balance of approximately $17.5 million.",
+              "source": "Jesse Takahashi : the general operating fund finished the year, fiscal year 2022 with a 17 and a half million dollar operating balance",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Banjamin Lau",
+              "text": "City received clean audit opinion on financial statements with no findings on internal control over financial reporting.",
+              "source": "Banjamin Lau : We did not identify any findings on internal control over financial reporting for this year",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Banjamin Lau",
+              "text": "MGO completed the City's FY2022 financial statement audit and issued a clean opinion with an emphasis of matter for GASB 87 lease implementation. No internal control findings or unrecorded misstatements were identified.",
+              "source": "Banjamin Lau : In summary, we have completed our audit ... have issued A modified opinions ... In other words, it's a clean opinion ... We did not identify any findings on internal control over financial reporting for this year.",
+              "original_priority": "p2",
+              "dedup_note": "partial_overlap_complementary"
+            },
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "A Council consent item to accept the ACFR and related audit reports is scheduled for December 13, pending this committee's recommendation.",
+              "source": "Jesse Takahashi : a consent item ... scheduled for the December 13th agenda ... pending a recommendation from this committee today.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "New Lease Accounting Standard Implementation",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Banjamin Lau",
+              "text": "Implementation of GASB 87 resulted in recording about $800 million of lease receivables and offsetting deferred inflows on the balance sheet, primarily from large tech-related leases.",
+              "source": "Banjamin Lau : your balance sheet itself has recorded a lease receivable of roughly about 800 million with an offsetting deferred inflow of resources... mainly related to a few leases for one of your gigantic tech firm",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Equipment Maintenance and Replacement Fund Analysis",
+          "topic_merge_note": "normalized_from: ['Equipment Maintenance and Replacement Fund Analysis', 'Equipment Replacement Fund Balance and Charges']",
+          "points": [
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "Fire apparatus replacement was unusual one-time expenditure, with partial payment made and remaining deliveries expected over 1-2 years.",
+              "source": "Jesse Takahashi : we have made a partial payment, but that's going to be overtime because I think it's going to take about somewhere between one and two years to actually receive all of those",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "Staff will review equipment replacement fund charges to determine if rates should be adjusted for more reasonable balance.",
+              "source": "Jesse Takahashi : that's something that we, we, we certainly can look at and you know get get back to the committee with an update",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Banjamin Lau",
+              "text": "The $26 million equipment maintenance and replacement fund balance shown as \"cash and investments\" reflects the fund's share of the City's pooled cash and investments, not a separate account. The pooling approach maximizes returns while maintaining liquidity to meet operational needs.",
+              "source": "Banjamin Lau : the city operate as a whole has a pool of cash... the dollar amount that you're seeing is the internal service funds respective portion of the whole pool... one of the criterias is always about liquidity.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "Charges are set to amortize replacement costs (including inflation) over asset lives, aiming for 100% funding without overcollecting. Longer-than-expected vehicle service lives can slow spending and increase balances; staff acknowledged reviewing funding levels and potential charge adjustments could be appropriate.",
+              "source": "Jesse Takahashi : those are amortized at an expected replacement value... we typically don't over fund... we may not spend as quickly as we initially project... maybe we can lower charges ... we ... can look at and ... get back to the committee with an update.",
+              "original_priority": "p2",
+              "dedup_note": "partial_overlap_complementary"
+            }
+          ]
+        },
+        {
+          "topic": "Community Benefit Revenue Tracking",
+          "topic_merge_note": "normalized_from: ['Community Benefit Revenue Tracking', 'Community Benefit Revenues Tracking and Reporting', 'Community Benefits Tracking']",
+          "points": [
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "Community benefit contributions are tracked in detail within the City's financial system subledgers, but the ACFR aggregates them with other developer fees and does not separately report them.",
+              "source": "Jesse Takahashi : we do have a mechanism for tracking those community benefit funds... it's done within the city's financial system ledgers... it's not something that is reported or shown within this document",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "Some community benefits are provided directly by developers (e.g., below-market rents, parking, infrastructure) and do not flow through the City; these are not recorded on City ledgers, so external reports may present an incomplete picture of total benefits delivered.",
+              "source": "Jesse Takahashi : to the extent the city's not receiving the cash payment... that would not get recorded on our on our ledger's... we may have an incomplete picture from that standpoint.",
+              "original_priority": "p2",
+              "dedup_note": "partial_overlap_complementary"
+            }
+          ]
+        },
+        {
+          "topic": "Single Audit and Federal Compliance",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Banjamin Lau",
+              "text": "The Single Audit over federal awards has not yet been completed, but MGO expects to meet the statutory deadline of March 31, 2023 for submission.",
+              "source": "Banjamin Lau : we expect to meet the statutory deadline of March 31st, 2023",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Single audit will include American Rescue Plan Act funds as federal funding subject to compliance review",
+              "source": "Lucas Ramirez : the single the audit will include the American Rescue Plan Act funds since those are federal funds",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "ACFR Document Updates and Improvements",
+          "topic_merge_note": "normalized_from: ['ACFR Document Updates and Improvements', 'ACFR Updates and Corrections']",
+          "points": [
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "Staff agreed to reformat the ACFR for better electronic readability, responding to feedback that the current print-oriented layout makes side-by-side comparisons difficult in digital form.",
+              "source": "Jesse Takahashi : we'll definitely get to work on trying to reformat for electronic age",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Staff Recognition and Transitions",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Committee members thanked Jesse Takahashi for service to city as this was his final Finance Committee meeting.",
+              "source": "Lucas Ramirez : I'm sorry that this will be Jesse's last meeting with us. Thank you very much for your service to the city",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Top Employers Schedule Clarification and Context",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Banjamin Lau",
+              "text": "The ACFR's top employers schedule lists only the current top ten, with a cutoff around 500 employees; an employer like LinkedIn may not appear if below that threshold, not necessarily indicating zero employees. The schedule also shows the top ten from ten years ago for historical comparison.",
+              "source": "Banjamin Lau : this schedule only showed us a top 10 ... the cut off for this year is at 500... if they have 499, it doesn't get to this list. / Jesse Takahashi : it also shows what the top ten were up 10 years ago.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Public Safety Expenditure Variance Explanation",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Grace Zheng",
+              "text": "A decrease in public safety expenses reflected in the ACFR relates to GASB 68 pension accounting: significant CalPERS investment income reduced entity-wide pension expense, and the public safety pension plan's impact appears specifically in the public safety category.",
+              "source": "Grace Zheng : including Gatsby 68 for Cowper's pension... significant investment income earning... positive impact reduce our entity wide expenditure... the public safety plan hits the public safety category only.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "State Budget Impact Briefing Request",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Sally Lieber",
+              "text": "The Chair requested staff provide the Council with information on how the State's projected budget shortfalls (approximately $25 billion, potentially $50 billion next year) could affect City programs that currently rely on anticipated state funding.",
+              "source": "Sally Lieber : the legislative analysts report was concerning of $25 billion hole ... growing to a potential $50 billion ... information for council on how that will impact some of the programs that we've made a commitment to would be great.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting Procedures and Minutes Approval",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Sally Lieber",
+              "text": "Committee approved February 28th, 2022 meeting minutes unanimously via roll call vote",
+              "source": "Sally Lieber : OK, all in favor, say aye... Unanimous",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Finance Committee",
+          "text": "Committee unanimously approved recommendation to City Council to accept the Annual Comprehensive Financial Report and auditor's reports.",
+          "source": "Lucas Ramirez : I'm happy to to move the staff recommendation... Victoria labrador: Unanimous",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Finance Department staff",
+          "text": "Staff will reformat ACFR document for electronic delivery rather than print format to improve readability.",
+          "source": "Jesse Takahashi : we'll definitely get to work on trying to reformat for electronic age",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Finance Department staff",
+          "text": "Review Equipment Maintenance and Replacement Fund funding levels and charges and report back to the committee with potential rate adjustments to maintain reasonable balances.",
+          "source": "Jesse Takahashi : that's something that we, we, we certainly can look at and you know get get back to the committee with an update",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "MGO (external auditor)",
+          "text": "Complete and submit the Single Audit by the March 31, 2023 statutory deadline.",
+          "source": "Banjamin Lau : we have not audited yet, but we expect to meet the statutory deadline of March 31st, 2023.",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "Finance Department staff",
+          "text": "Update ACFR exhibits to replace \"citizens\" with \"residents\" and include the Public Safety Advisory Board.",
+          "source": "Jesse Takahashi : we need to make that change also here in that for... We'll get that corrected.",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        }
+      ]
+    },
+    "merge_statistics": {
+      "total_p1_items": 10,
+      "total_p2_items": 11,
+      "total_p3_items": 2,
+      "final_items": 18,
+      "duplicates_removed": 5,
+      "deduplication_details": {
+        "p2_skipped": [
+          {
+            "item_type": "point",
+            "text": "Equipment maintenance and replacement fund has $26 million balance, significantly higher than historical expenditure patterns over past 15 years",
+            "source": "Lucas Ramirez : the fund balance for the equipment maintenance and replacement fund is $26 million",
+            "speaker": "Lucas Ramirez",
+            "reason": "duplicate_with_p1: same_topic_numeric_match ($26 million balance mentioned in P1 context)"
+          }
+        ],
+        "p3_skipped": [
+          {
+            "speaker": "Lisa Matichak",
+            "text": "A request was made to replace \"Mountain View citizens\" with \"Mountain View residents\" and to add the Public Safety Advisory Board in the ACFR exhibits. Staff acknowledged the discrepancy and agreed to correct these references in the ACFR.",
+            "source": "Lisa Matichak : Instead of having Mountain View citizens, it would be Mountain View residents... add Public Safety Advisory Board. / Jesse Takahashi : we need to make that change also here in that for... We'll get that corrected.",
+            "reason": "duplicate_with_p2: same_semantic_content (ACFR corrections for citizens/residents and Public Safety Advisory Board)"
+          },
+          {
+            "speaker": "Lisa Matichak",
+            "text": "Some community benefits don't flow through city finances when developers directly provide subsidized rent or infrastructure improvements",
+            "source": "Lisa Matichak : Most of the community benefits are subsidizing rent, building parking spaces, and building out the infrastructure",
+            "reason": "duplicate_with_p2: same_topic_paraphrase (community benefits not flowing through city = developers providing direct benefits)"
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_final_merge/generation_final_merge",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "96d6eff54eb8b4ced496aeb8e349890a5e5d3f8bdf8dd6229ebee2e637c5f8c8",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:45:43.392007+00:00"
+  }
+}

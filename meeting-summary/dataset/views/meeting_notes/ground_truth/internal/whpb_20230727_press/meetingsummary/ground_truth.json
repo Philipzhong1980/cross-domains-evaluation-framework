@@ -1,0 +1,321 @@
+{
+  "meeting_context": "White House press briefing imported from 20230727_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MR. KIRBY"
+  ],
+  "topics": [
+    {
+      "topic": "President Biden will announce additional actions to protect",
+      "points": [
+        {
+          "text": "President Biden will announce additional actions to protect communities from extreme heat conditions, including investments through NOAA to improve weather predictions and grants through the Department of Interior to bring clean drinking water to communities across the West.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During an event President Biden will hear from",
+      "points": [
+        {
+          "text": "During an event, President Biden will hear from FEMA Administrator Deanne Criswell and NOAA Administrator Dr. Rick Spinrad about steps being taken to protect Americans impacted by extreme heat, with mayors from Phoenix and San Antonio also discussing the climate crisis and the administration's efforts to safeguard communities; President Biden also announced his intent to nominate former Maryland Governor Martin O'Malley as Commissioner of the Social Security Administration, expressing gratitude to the acting commissioner and addressing questions regarding Hunter Biden's personal matter.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "White House Deputy Press Secretary Karine Jean Pierre",
+      "points": [
+        {
+          "text": "White House Deputy Press Secretary Karine Jean-Pierre defers questions about Hunter Biden to the Department of Justice and Hunter's legal team, and introduces Admiral John Kirby to address foreign policy questions and preview President Biden's upcoming bilateral meeting with the Prime Minister of Italy.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral John Kirby discusses the upcoming bilateral meeting",
+      "points": [
+        {
+          "text": "Admiral John Kirby discusses the upcoming bilateral meeting between President Biden and Prime Minister Meloni of Italy, highlighting the strong partnership between the two nations and their collaboration on important global challenges such as Russia's war against Ukraine and the climate crisis.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby discusses the importance of diversity in",
+      "points": [
+        {
+          "text": "Admiral Kirby discusses the importance of diversity in the US military and condemns the detention of Niger's President Bazoum, urging for his release and monitoring the situation closely.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby expresses concern about the impact of",
+      "points": [
+        {
+          "text": "Admiral Kirby expresses concern about the impact of Russia's decision to pull out of a grain deal on African nations, particularly in terms of food instability and rising prices.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby emphasizes that the integration of the",
+      "points": [
+        {
+          "text": "Admiral Kirby emphasizes that the integration of the military demonstrates that patriotism is not limited to one group and highlights the contributions and sacrifices made by people of color in defending the country.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The most efficient way to deliver grain from",
+      "points": [
+        {
+          "text": "The most efficient way to deliver grain from Ukraine is by ship, as it allows for the maximum amount of grain to be transported in a timely manner.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S is working with its allies",
+      "points": [
+        {
+          "text": "The U.S. is working with its allies to determine the locations and timing for F-16 training for Ukrainian pilots, with Romania and Denmark being considered as potential sites, while also mentioning the possibility of other sites.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S is not aware of any",
+      "points": [
+        {
+          "text": "The U.S. is not aware of any specific regional discussions on Niger and believes that the decision for Italy to leave the Belt and Road Initiative is up to the Italians to decide and speak on.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the increasing awareness of risks",
+      "points": [
+        {
+          "text": "The speaker discusses the increasing awareness of risks and lack of rewards for economic partnerships with China, particularly in Africa, and mentions the alternative of the Partnership for Global Investment and Infrastructure (PGII) while also addressing a query about the situation in Niger and any protective measures being taken by the U.S. embassy and troops there.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the reports of the detention",
+      "points": [
+        {
+          "text": "The speaker acknowledges the reports of the detention of a president and expresses the need for transparency regarding unidentified aerial phenomena, stating that the government is taking the issue seriously and conducting ongoing investigations.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the President's positive working relationship",
+      "points": [
+        {
+          "text": "The speaker acknowledges the President's positive working relationship with Prime Minister Meloni and highlights Italy's support as a NATO ally and their assistance to Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker declines to take a position on",
+      "points": [
+        {
+          "text": "The speaker declines to take a position on whether the United States believes in the existence of extraterrestrial life.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the existence of unexplained aerial",
+      "points": [
+        {
+          "text": "The speaker acknowledges the existence of unexplained aerial phenomena that have impacted training ranges and pilots' abilities, but states that they do not have answers about what these phenomena are and have not communicated with Russian officials about Trevor Reed's injury.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker reiterates that the US government did",
+      "points": [
+        {
+          "text": "The speaker reiterates that the US government did not encourage or have any involvement in Trevor Reed's decision to be in Ukraine and that his presence should not be connected to the efforts to secure the release of two wrongfully detained Americans in Russia.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker cannot confirm reports of the Russian",
+      "points": [
+        {
+          "text": "The speaker cannot confirm reports of the Russian defense minister discussing importing weapons from North Korea, but acknowledges that Putin has been reaching out to other countries for help in fighting his war in Ukraine, including potential outreach to North Korea.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US government is providing support to Ukraine's",
+      "points": [
+        {
+          "text": "The US government is providing support to Ukraine's counteroffensive in their conflict with Russia, acknowledging that progress is slower than desired but emphasizing the importance of giving Ukraine the tools they need to continue moving forward.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In the upcoming meeting with the Prime Minister",
+      "points": [
+        {
+          "text": "In the upcoming meeting with the Prime Minister of Italy, President Biden is expected to discuss a range of issues, including their good relationship and cooperation on foreign policy, while also potentially addressing concerns about LGBTQ rights in Italy.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson for the Department of Defense affirms",
+      "points": [
+        {
+          "text": "The spokesperson for the Department of Defense affirms that Ukraine has received all the military support they have requested and continues to receive assistance in their counteroffensive against Russia.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson for the Department of Defense addresses",
+      "points": [
+        {
+          "text": "The spokesperson for the Department of Defense addresses the Tuberville situation, stating that over 300 nominations are being held, impacting military families and causing delays in retirements, while also defending the funding of travel-related expenses for abortions for military members.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson states that the President and First",
+      "points": [
+        {
+          "text": "The spokesperson states that the President and First Lady support their son as he rebuilds his life, but does not provide any information on the President's promised visit to Africa.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson reiterates the President and First Lady's",
+      "points": [
+        {
+          "text": "The spokesperson reiterates the President and First Lady's gratitude towards the Secret Service and Residence staff for keeping the family safe, but does not address any apology or regret regarding their dog's behavior.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson addresses the upcoming announcement of actions",
+      "points": [
+        {
+          "text": "The spokesperson addresses the upcoming announcement of actions to address extreme weather and climate change, declines to comment on the President's involvement in Hunter's legal proceedings, and expresses frustration with Senator Tuberville's hold on military promotions.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to comment on a specific",
+      "points": [
+        {
+          "text": "The spokesperson declines to comment on a specific legal case and emphasizes the independence of the investigation, while also discussing the President's interview on mental health and his upcoming toast to Louisa Terrell.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson avoids giving a direct answer regarding",
+      "points": [
+        {
+          "text": "The spokesperson avoids giving a direct answer regarding the President's previous remarks on his son's business dealings and insists that nothing has changed in regards to the matter.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson is unsure about the President's son's",
+      "points": [
+        {
+          "text": "The spokesperson is unsure about the President's son's business dealings and needs to gather more information.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Methane Summit the first ever White House",
+      "points": [
+        {
+          "text": "The Methane Summit, the first-ever White House event of its kind, brought together federal, state, and local leaders to discuss the need to reduce methane emissions, protect public health, and create union jobs while highlighting cutting-edge detection technology and state and tribal responses to dangerous emissions events.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the press briefing Karine Jean Pierre discusses",
+      "points": [
+        {
+          "text": "During the press briefing, Karine Jean-Pierre discusses President Biden's aggressive climate agenda and the formation of a new EV charging company by major automakers, highlighting it as progress towards tackling the climate crisis and creating union jobs.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the press briefing Karine Jean Pierre addresses",
+      "points": [
+        {
+          "text": "During the press briefing, Karine Jean-Pierre addresses various topics including the UN, DOD, and State Department's involvement in tackling the climate crisis, the Federal Reserve's interest rate hike, a federal judge blocking the administration's asylum rules, and a U.S. drone being damaged by a Russian military jet over Syria.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the press briefing Karine Jean Pierre discusses",
+      "points": [
+        {
+          "text": "During the press briefing, Karine Jean-Pierre discusses the violation of established protocols and international norms by Russia's close approach to and deployment of flares over U.S. drones in Syria, while also emphasizing the President's commitment to lowering costs for the American people and highlighting the decrease in inflation over the past 12 months due to his economic policies.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

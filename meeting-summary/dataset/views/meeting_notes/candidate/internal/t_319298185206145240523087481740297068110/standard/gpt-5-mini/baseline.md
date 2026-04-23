@@ -1,0 +1,38 @@
+### Overview
+  The Environmental Planning Commission convenes, approves the December 7, 2022 minutes, and spends the bulk of the meeting addressing the 2023–2031 Housing Element after staff (Advanced Planning Manager Eric Anderson) reports substantive informal comments from the Department of Housing and Community Development (HCD). Staff recommends continuing the hearing so they can revise the draft to address HCD concerns—principally reclassification of pipeline versus inventory sites, additional findings, clearer programs, and improved non‑English outreach—and the Commission unanimously votes to continue while staff prepares a revised, publicly posted draft and a new hearing date. Public commenters (Allie Saperman of the Housing Action Coalition, Kevin Ma of the League of Women Voters, and David Watson) urge stronger evidence for non‑vacant pipeline sites, more sites in high‑opportunity locations, and clearer, binding program commitments on fair housing, ADU fees, and displacement; staff confirms ongoing outreach and an iterative process with HCD and identifies an informal grant‑timing target around late March. The Commission also elects Vice Chair Yen as Chair and Commissioner Dempsey as Vice Chair for 2023, hears brief staff announcements that there is no meeting January 18 and that a February 1 meeting is tentatively set for an affordable housing and a Public Storage project and to return to Chambers, and adjourns at 7:38 PM.
+  
+  ### Detailed Summary
+  #### Minutes approval
+  The Commission reviews and adopts the minutes from the December 7, 2022 Environmental Planning Commission meeting. A motion to approve the minutes is made, seconded, and carried by unanimous roll call. The clerk records the unanimous vote.
+- Commissioner Clark moves to approve the December 7, 2022 minutes.
+- Vice Chair Yen seconds the motion as recorded by Chair Cranston.
+- Clerk Whitehall conducts the roll call and records aye votes from all commissioners which carries the motion unanimously.
+#### Housing Element review
+  Staff (Advanced Planning Manager Eric Anderson) summarizes HCD's informal, substantive comments on the 2023–2031 Housing Element and recommends continuing the public hearing so staff can revise the draft. HCD's comments include reclassifying certain sites as pipeline versus inventory, requesting additional findings and programs, and urging greater opportunity for non‑English speakers to participate; staff will prepare a revised draft, post it publicly, and schedule a new hearing. Multiple public commenters and local organizations raise concerns about statutory compliance, evidence for non‑vacant pipeline sites, vagueness of programs (including fair housing, ADU fee structures, and displacement response), and request more and clearer commitments; commissioners ask clarifying questions about alignment with HCD, outreach to Spanish‑speaking communities, and timeline. The Commission votes unanimously to continue the item.
+- Eric Anderson (Advanced Planning Manager) reports that HCD provided substantive comments and recommends continuing the hearing so staff can prepare a revised draft for public review.
+- Eric Anderson states HCD asks staff to recategorize certain sites, provide additional findings, add programs, and improve opportunities for non‑English speakers to comment.
+- Allie Saperman of the Housing Action Coalition states that without significant changes the draft will not comply with law and that the city must provide evidence that non‑vacant pipeline sites will be repurposed for housing.
+- Allie Saperman requests that the city identify additional sites, including high‑opportunity, transit‑proximate locations, to maximize housing capacity.
+- Kevin Ma representing the League of Women Voters states concern about vague program commitments in the draft, unclear timelines for fair housing actions, low assumed densities for church sites, and an imprecise ADU fee program.
+- Kevin Ma asserts that displacement and homelessness programs remain insufficiently tied to existing city processes and that proposals like CO‑ops and community land trusts appear noncommittal in wording.
+- David Watson indicates his organization shares the League's concerns and directs commissioners to their website for a consolidated set of recommendations.
+- Commissioner Gutierrez asks whether community groups that submitted letters may engage directly with staff, and Eric Anderson confirms staff is available for meetings and ongoing outreach.
+- Commissioner Nunez asks how HCD feedback aligns with community input, and Eric Anderson explains HCD acts as a statutory reviewer whose comments reflect public input and that addressing HCD comments is an iterative public process.
+- Stephanie (staff) notes there is no absolute objective measure for translation adequacy and recommends documenting how the city has provided translated materials and keeping an ongoing dialogue with HCD about outreach sufficiency.
+- Eric Anderson confirms staff has a plan of attack to address legal and technical comments, including analysis and drafting findings regarding whether non‑vacant sites can accommodate residential uses.
+- Eric Anderson identifies an informal internal target of late March to support grant application timelines while cautioning that analysis needs may affect that schedule.
+- Commissioner Clark makes the motion to continue the item and Commissioner Nunez seconds, and the clerk records a unanimous vote to continue the housing element hearing.
+#### Chair and Vice election
+  The Commission conducts nominations and votes for 2023 leadership. Vice Chair Yen accepts nomination for Chair and the Commission approves the appointment following roll call; Commissioner Dempsey accepts nomination for Vice Chair and the Commission approves that appointment. The Commission provides an opportunity for public comment on the elections but receives none.
+- Commissioner Nunez nominates Vice Chair Yen for Chair and Vice Chair Yen accepts the nomination.
+- Clerk Whitehall conducts a roll call for the chair nomination and the Commission approves the appointment.
+- Sandy requests a public comment opportunity after the initial vote and staff confirms no members of the public wish to speak on the item.
+- Vice Chair Yen nominates Commissioner Dempsey for Vice Chair and Commissioner Dempsey accepts the nomination.
+- The Commission conducts a roll call for Vice Chair and records the appointment of Commissioner Dempsey as Vice Chair.
+#### Commission announcements and schedule
+  Staff and commissioners provide closing announcements and brief status updates. Eric Anderson confirms there is no meeting scheduled for January 18, identifies a tentative February 1 hearing for an affordable housing project and a Public Storage project on Terra Bella, and states the Commission will return to Chambers on February 1 and that staff will arrange familiarization visits. Commissioners offer thanks and recognition to outgoing Chair Cranston during the transition.
+- Commissioner Haymeyer thanks Chair Cranston for his service over two terms, and Chair Cranston expresses appreciation for serving.
+- Vice Chair Yen and Commissioner Dempsey each thank Chair Cranston and offer transitional remarks upon assuming leadership roles.
+- Eric Anderson announces there is no scheduled meeting for January 18 and that a tentative agenda item for February 1 includes an affordable housing project and a Public Storage project on Terra Bella.
+- Eric Anderson states the Commission will return to Chambers on February 1 and that staff will organize small‑group visits to reacquaint commissioners with the chambers.
+- Chair Cranston adjourns the Environmental Planning Commission meeting at 7:38 PM.

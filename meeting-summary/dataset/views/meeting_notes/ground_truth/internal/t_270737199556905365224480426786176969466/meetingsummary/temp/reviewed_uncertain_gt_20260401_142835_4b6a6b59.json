@@ -1,0 +1,44 @@
+{
+  "result": {
+    "rejected_items": [],
+    "validated_gt": {
+      "topics": [],
+      "decisions": [
+        {
+          "assignee": "Visual Arts Committee Ad Hoc Committee",
+          "text": "Subcommittee will work on draft revisions to public art strategy goals and bring back to full committee in September",
+          "source": "Cliff Grant : ...plan would be for... the ad hoc committee [to] work on a draft... we'll bring back then... review it in September.",
+          "validation_note": "merged_conflict"
+        }
+      ]
+    },
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Both GT1 and GT2 refer to the same entity and task. Cliff Grant explicitly states 'the ad hoc committee [to] work on a draft... we'll bring back then... review it in September.' The full name 'Visual Arts Committee Ad Hoc Committee' is more specific and accurate than just 'Ad hoc committee'. The task descriptions are essentially the same - working on draft revisions to public art strategy goals for September committee review.",
+        "transcript_evidence": [
+          "Cliff Grant : So, so, so the plan would be for this the ad hoc committee work on a draft we'll bring.",
+          "Cliff Grant : We'll bring back then.",
+          "Susi Merhar : We'll bring it back to the city, city will make changes.",
+          "Cliff Grant : And then we'll review it in September."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 1,
+      "merged": 1,
+      "excluded": 0,
+      "modified": 0,
+      "confidence": "High confidence - transcript clearly shows both GTs refer to the same ad hoc committee and same task assignment. The assignee name 'Visual Arts Committee Ad Hoc Committee' is more specific and should be used."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:28:35.805261+00:00"
+  }
+}

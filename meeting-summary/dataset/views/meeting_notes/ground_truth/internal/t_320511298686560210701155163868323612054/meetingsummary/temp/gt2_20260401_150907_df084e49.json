@@ -1,0 +1,304 @@
+{
+  "result": {
+    "meeting_context": "This is a Human Relations Commission (HRC) meeting for the City of Mountain View conducted virtually during a declared state of emergency. The meeting covered updates from the Multicultural Engagement Program, subcommittee appointments for the new fiscal year, and various administrative matters including new disclosure requirements for commissioners.",
+    "participants": [
+      "Annette Lin",
+      "Laurel James",
+      "Kevin Ball",
+      "Nirvana Nwokidu",
+      "Jill Rakestraw",
+      "Julie Solomon",
+      "IdaRose Sylvester",
+      "Nancy Ducos",
+      "Lenka Wright",
+      "Xavier Webb"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Procedures and Roll Call",
+        "points": [
+          {
+            "speaker": "Annette Lin",
+            "text": "Meeting conducted virtually under California Government Code Section 54953 during declared state of emergency with all commissioners participating by video conference",
+            "source": "Annette Lin : during this declared state of emergency, this meeting will be conducted in accordance with California Government Code Section 54953, Section E"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "Roll call confirmed attendance of Commissioners Ball, Nwokidu, Rakestraw, Solomon, Vice Chair Sylvester, and Chair Lin with Commissioner Webb arriving late",
+            "source": "Laurel James : Commissioner Webb will be late this evening"
+          },
+          {
+            "speaker": "Annette Lin",
+            "text": "September 1st, 2022 regular meeting minutes approved unanimously by commissioners",
+            "source": "Annette Lin : I'll go ahead and make a motion to approve the minutes"
+          }
+        ]
+      },
+      {
+        "topic": "Multicultural Engagement Program Update",
+        "points": [
+          {
+            "speaker": "Nancy Ducos",
+            "text": "MEP team expanded from part-time staff to seven full-time employees including interpreters, translators, and outreach workers over past eight years",
+            "source": "Nancy Ducos : So we now we are a team of 7-8 years ago it was only a part time me and three of three very part time employees"
+          },
+          {
+            "speaker": "Nancy Ducos",
+            "text": "Program translated 288 documents and conducted 89 virtual outreach activities in past year including WhatsApp and WeChat engagement",
+            "source": "Nancy Ducos : in in in last year we had around 288 documents translated and around 89 virtual outreach activities"
+          },
+          {
+            "speaker": "Nancy Ducos",
+            "text": "Spanish Language Civic Leadership Academy recruited 18 Latino community members in November 2021 with successful completion through Zoom format",
+            "source": "Nancy Ducos : we were able to recruit 18 members of the Latino community and the Academy was very successful"
+          },
+          {
+            "speaker": "Nancy Ducos",
+            "text": "Chinese Language Civic Leadership Academy launched in April 2022 with 17 participants achieving 100% retention rate",
+            "source": "Nancy Ducos : We had 17 participants and we have 100% retention"
+          },
+          {
+            "speaker": "Nancy Ducos",
+            "text": "Ambassador program graduates delivered 648 housing information flyers door-to-door in community outreach efforts",
+            "source": "Nancy Ducos : they were able to provide to go door to door and deliver 648 Flyers regarding housing"
+          },
+          {
+            "speaker": "Nancy Ducos",
+            "text": "Partnership with Los Altos Mountain View Community Foundation provided brand new laptops to Spanish Academy participants and ambassadors lacking working devices",
+            "source": "Nancy Ducos : we were able to provide brand new laptop to participants as well as ambassador that did not have a device"
+          }
+        ]
+      },
+      {
+        "topic": "Language Access and Census Data",
+        "points": [
+          {
+            "speaker": "Lenka Wright",
+            "text": "City developing language access policy to guide translation and interpretation service decisions based on community needs assessment",
+            "source": "Lenka Wright : we are exploring the development of a language access policy"
+          },
+          {
+            "speaker": "Lenka Wright",
+            "text": "2021 American Community Survey shows 53% of Mountain View residents speak only English while 47% speak other languages at home",
+            "source": "Lenka Wright : In regards to only speaking English for Mountain View, it's about 53% of the total population"
+          },
+          {
+            "speaker": "Lenka Wright",
+            "text": "Spanish speakers comprise 13.5% of population with 3,600 residents speaking English less than very well",
+            "source": "Lenka Wright : speaking Spanish, it's about 13.5% of Mountain View's population. With speaking English less than very well. The number is about 3600 individuals"
+          },
+          {
+            "speaker": "Lenka Wright",
+            "text": "Asian Pacific Island language speakers represent 19% of population with 5,700 residents having limited English proficiency",
+            "source": "Lenka Wright : speaking Asian Pacific Island languages, it's about 19% of the population. And then for speaking English less than very well, it's about 5700"
+          },
+          {
+            "speaker": "Nancy Ducos",
+            "text": "Program occasionally receives requests for Hindi and other languages related to housing issues, handled through contracted phone interpretation services",
+            "source": "Nancy Ducos : sometimes we do really have requests for people like Hindi or Modern other languages all related to housing"
+          }
+        ]
+      },
+      {
+        "topic": "Civic Leadership Academy Outcomes",
+        "points": [
+          {
+            "speaker": "Nancy Ducos",
+            "text": "Spanish Academy graduates include Fernando who served on HRC, two members serving on Environmental Planning Commission, and founders of Community Action Team and Solidarity Fund",
+            "source": "Nancy Ducos : You have Fernando that was here with you, the HRC. We have two members that are part of the EPC"
+          },
+          {
+            "speaker": "Nancy Ducos",
+            "text": "Chinese Academy graduate appointed to performing arts committee immediately after graduation and expressing interest in civic opportunities",
+            "source": "Nancy Ducos : We have a person that is yeah it's a it's in the performing art grew a performing arts committee and she as soon as she graduated"
+          },
+          {
+            "speaker": "Nancy Ducos",
+            "text": "Fall 2023 Spanish Leadership Academy scheduled for September-October with spring 2024 Chinese Academy planned based on optimal timing for each community",
+            "source": "Nancy Ducos : we are going to have the Spanish Leadership Academy going to be September, October and then for the Chinese Academy we like to do it in the spring"
+          }
+        ]
+      },
+      {
+        "topic": "Subcommittee Appointments Discussion",
+        "points": [
+          {
+            "speaker": "Laurel James",
+            "text": "City Council approved HRC work plan on September 13th establishing three subcommittees: Housing and Security Storytelling, Bystander Intervention Training, and Mental Health",
+            "source": "Laurel James : The Council did approve the HR CS work plan on the September 19th, excuse me, September 13th meeting"
+          },
+          {
+            "speaker": "Kevin Ball",
+            "text": "Commissioner Ball withdrew interest from Housing and Security Storytelling subcommittee as departing member to simplify decision-making process",
+            "source": "Kevin Ball : I would happily withdraw my interest at this point to make the decision making here simpler"
+          },
+          {
+            "speaker": "Annette Lin",
+            "text": "Chair Lin announced resignation from HRC due to relocation to San Mateo at end of year despite term not expiring",
+            "source": "Annette Lin : even though my term is not up, I will unfortunately have to resign my my spot on the HRC because I'll be moving to San Mateo"
+          },
+          {
+            "speaker": "Julie Solomon",
+            "text": "Commissioner Solomon volunteered to focus remaining time on closing Discrimination and Inclusion housing project activities rather than joining new subcommittees",
+            "source": "Julie Solomon : I think that closing out some of the activities from the Discrimination and Inclusion and housing project, I think that would be a helpful use of my time"
+          }
+        ]
+      },
+      {
+        "topic": "Final Subcommittee Assignments",
+        "points": [
+          {
+            "speaker": "Laurel James",
+            "text": "Mental Health Subcommittee assigned to Commissioners Nwokidu, Rakestraw, and Vice Chair Sylvester, all continuing members",
+            "source": "Laurel James : Mental Health Subcommittee, the interest is in Commissioners Noakito and Rick Straw and Vice Chair Sylvester, who will all be be continuing"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "Bystander Intervention Training Subcommittee includes Commissioner Ball (departing) and Commissioners Rakestraw and Webb (continuing)",
+            "source": "Laurel James : Bystander Intervention Training has interest from Commissioners Ball, Rick Straw, and Webb, so one person who will be vacating and two who will be continuing"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "Housing and Security Storytelling Subcommittee assigned to Chair Lin (departing), Vice Chair Sylvester, and Commissioner Webb (both continuing)",
+            "source": "Laurel James : Housing and Security Storytelling has interest from Commissioners Commissioner Webb and Vice Chair Sylvester, who will be continuing as well as all three Commissioners will be vacating"
+          }
+        ]
+      },
+      {
+        "topic": "Commission Recruitment and Transitions",
+        "points": [
+          {
+            "speaker": "IdaRose Sylvester",
+            "text": "Vice Chair Sylvester recruited two candidates who have applied for vacant HRC positions",
+            "source": "IdaRose Sylvester : I recruited 2 amazing candidates, both who I believe have applied"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "Staff requested information from City Clerk's office about number of applications received for vacant commissioner positions",
+            "source": "Laurel James : I have asked the City Clerk's office if I can have the number of applications and if I'm able to share it with you"
+          },
+          {
+            "speaker": "IdaRose Sylvester",
+            "text": "Commission requires minimum of four members present to meet quorum assuming seven total positions available",
+            "source": "IdaRose Sylvester : I believe it's four, so the minimum to meet a quorum, assuming that the body has seven people or 7 openings"
+          }
+        ]
+      },
+      {
+        "topic": "Housing Project Follow-up Activities",
+        "points": [
+          {
+            "speaker": "Julie Solomon",
+            "text": "Commissioner Solomon scheduled meeting to obtain signed release form from interview participant for archival purposes",
+            "source": "Julie Solomon : I do have an appointment with her tomorrow to meet her and I believe that she will be signing a release form tomorrow morning"
+          },
+          {
+            "speaker": "Julie Solomon",
+            "text": "Four community members provided email addresses expressing interest in sharing stories, with follow-up contacts initiated to assess their needs and interests",
+            "source": "Julie Solomon : There were four individuals who had provided e-mail addresses indicating they were interested to speak with us"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "Website updates planned including video gallery addition, oral histories upload, and expanded information about community event",
+            "source": "Laurel James : adding a video gallery, eventually adding the oral histories and or videos that are available and meant to be shared more publicly"
+          }
+        ]
+      },
+      {
+        "topic": "Form 700 Disclosure Requirements",
+        "points": [
+          {
+            "speaker": "Laurel James",
+            "text": "City Council added HRC to designated officials list requiring annual Statement of Economic Interest filing due to substantive CDBG and HOME funds recommendations",
+            "source": "Laurel James : the City Council added the HRC to the list of designated officials for the city that are required to file a Statement of economic Interest"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "Form 700 filing covers 12-month period from September 27, 2021 through September 27, 2022 with October deadline",
+            "source": "Laurel James : It's the 12 months prior to the effective date, which was September 27th. So the period will be September 27th, 2021 through September 27th, 2022"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "Future policy will exclude commissioners from meetings as unexcused absence if Form 700 not filed by due date",
+            "source": "Laurel James : The Council will be amending city policy in the future to require any advisory body member who has not without the form to be excluded from meetings"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "Annual filing requirement continues each spring around tax time with exit forms required when leaving commission",
+            "source": "Laurel James : Forms 700 have to be filed annually. So this would be the first filing and then typically they're due in the spring around text time"
+          }
+        ]
+      },
+      {
+        "topic": "Meeting Logistics and Future Plans",
+        "points": [
+          {
+            "speaker": "Laurel James",
+            "text": "City Council extended virtual meeting provision through mid-October with determination for November HRC meeting format pending review",
+            "source": "Laurel James : the council did in mid-september extend the virtual meetings provision. They will revisit it again in mid-october"
+          },
+          {
+            "speaker": "IdaRose Sylvester",
+            "text": "Celebration of service event scheduled for Monday at Shoreline Amphitheater with commissioner attendance planned",
+            "source": "IdaRose Sylvester : everyone aware of and going to the the little events on Monday, the celebration of service"
+          },
+          {
+            "speaker": "Annette Lin",
+            "text": "Next HRC meeting scheduled for November 3rd, 2022 at 6:30 PM",
+            "source": "Annette Lin : until the next scheduled meeting, which will be on November 3rd, 2022 at 6:30"
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Mental Health Subcommittee (Commissioners Nwokidu, Rakestraw, Vice Chair Sylvester)",
+        "text": "Mental Health Subcommittee will begin meeting with three continuing commissioners to develop mental health initiatives",
+        "source": "Laurel James : Mental Health Subcommittee, the interest is in Commissioners Noakito and Rick Straw and Vice Chair Sylvester, who will all be be continuing"
+      },
+      {
+        "assignee": "Bystander Intervention Training Subcommittee (Commissioners Ball, Rakestraw, Webb)",
+        "text": "Bystander Intervention Training Subcommittee will commence work with one departing and two continuing commissioners",
+        "source": "Laurel James : Bystander Intervention Training has interest from Commissioners Ball, Rick Straw, and Webb"
+      },
+      {
+        "assignee": "Housing and Security Storytelling Subcommittee (Chair Lin, Vice Chair Sylvester, Commissioner Webb)",
+        "text": "Housing and Security Storytelling Subcommittee will start with one departing and two continuing commissioners until new appointments in January",
+        "source": "Laurel James : perhaps it makes sense, Chair Lynn, for you to serve on the Housing and Security Subcommittee until such a time as your term ends"
+      },
+      {
+        "assignee": "Commissioner Solomon",
+        "text": "Commissioner Solomon will focus remaining time on closing activities from Discrimination and Inclusion housing project",
+        "source": "Julie Solomon : I think that closing out some of the activities from the Discrimination and Inclusion and housing project, I think that would be a helpful use of my time"
+      },
+      {
+        "assignee": "Laurel James",
+        "text": "Staff will reach out to subcommittees to schedule initial meetings after today's assignments",
+        "source": "Annette Lin : my understanding is, Laurel, you'll be reaching out to the subcommittees and just trying to schedule that time after today's meeting"
+      },
+      {
+        "assignee": "City staff",
+        "text": "Website updates will be made including video gallery and oral histories for housing discrimination project",
+        "source": "Laurel James : adding a video gallery, eventually adding the oral histories and or videos that are available and meant to be shared more publicly"
+      },
+      {
+        "assignee": "All commissioners",
+        "text": "Form 700 disclosure forms must be filed by October deadline covering September 2021-2022 period with annual filing required thereafter",
+        "source": "Laurel James : Forms 700 have to be filed annually. So this would be the first filing and then typically they're due in the spring"
+      }
+    ],
+    "metadata": {
+      "topicCount": 10,
+      "pointCount": 37,
+      "decisionCount": 7
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:09:07.291216+00:00"
+  }
+}

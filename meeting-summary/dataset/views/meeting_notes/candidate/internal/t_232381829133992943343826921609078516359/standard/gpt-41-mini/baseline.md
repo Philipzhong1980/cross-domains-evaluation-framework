@@ -1,0 +1,22 @@
+### Overview
+The Joint Administrative, Zoning and Subdivision Committee convened on November 9th to consider several permit extension requests and modifications for projects within Mountain View. Key participants included Assistant Community Development Director Lindsay Hagan, project planners Aki Snelling, Eric Anderson, and Jeffrey Tsumura, as well as representatives from project applicants and the Norcal Carpenter Union Local 405. The committee approved an extension of operating hours for a cold weather shelter at Trinity United Methodist Church to better accommodate families with school-aged children, reflecting community support and alignment with city plans. Additionally, a two-year extension was granted for a commercial building project at 1747 W Evelyn Ave, with staff noting compliance with the Downtown Precise Plan and parking strategy; labor union representatives advocated for local hiring and labor standards during public comment. Lastly, a one-year extension was approved for a 44-unit condominium project at Fayette Drive, with the applicant progressing toward building permit submission and the committee endorsing staff's recommendations. All approvals included conditions of approval and a 10-day appeal period, ensuring procedural transparency and community engagement.
+  
+### Detailed Summary
+#### Cold Weather Shelter Hours Extension
+The committee reviewed a request from Trinity United Methodist Church and Home First Services to extend the operating hours of their cold weather shelter for unhoused women and families. The extension aims to align shelter hours with school schedules, providing a safe place for families before and after school during the cold months. The project was supported by the community and found consistent with local plans and regulations, with no concerns from relevant departments.
+- Aki Snelling, project planner, explained the request to extend shelter hours from 4:00 PM to 3:00 PM start and from 6:30 AM to 9:00 AM end to better serve families with school-aged children.
+- Christy Lewis from Trinity United Methodist Church expressed support for the partnership and the extended hours to improve safety and comfort for families.
+- Lindsay Hagan, zoning administrator, concurred with staff's recommendation and approved the permit extension with conditions.
+- No public comments were received during the hearing on this item.
+#### Commercial Building Permit Extension
+The committee considered a two-year permit extension for a previously approved four-story commercial building project at 1747 W Evelyn Ave. The project includes office, retail space, and underground parking, consistent with the Downtown Precise Plan. Staff recommended approval based on the applicant's timely response to city comments and alignment with the Downtown Parking Strategy. Public comments included a labor union representative advocating for local hiring and labor standards.
+- Eric Anderson, Advanced Planning Manager, presented the project details and recommended approval of the extension.
+- Tim McEnery from Marwood Company thanked staff for their support and had no additional comments.
+- Wing Tam, representing Norcal Carpenter Union Local 405, urged the developer to adopt local hiring, prevailing wages, and healthcare benefits standards.
+- Lindsay Hagan approved the extension with staff conditions, noting no material changes to the project.
+#### Condominium Project Permit Extension
+The committee reviewed a one-year extension request for a previously approved six-story, 44-unit condominium project at 2645-2655 Fayette Drive. The project includes commercial space, a roof deck, heritage tree removal, and subdivision mapping. Staff confirmed the project remains consistent with applicable plans and laws, and the applicant is preparing for building permit submission. The committee approved the extension following staff recommendations and public comments.
+- Jeffrey Tsumura, project planner, detailed the project's status and recommended conditional approval of the extension.
+- Wing Tam from the local Carpenter union reiterated support for labor standards including prevailing wages and local hiring.
+- Ed Arango moved to approve the vesting tentative map extension, seconded by Nicole Wright.
+- Lindsay Hagan approved the planned community permit, development review permit, and heritage tree removal permit extensions with conditions, noting minor updates to conditions and no substantial project changes.

@@ -1,0 +1,150 @@
+{
+  "meeting_context": "White House press briefing imported from 20230619_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Josh"
+  ],
+  "topics": [
+    {
+      "topic": "President Biden will be visiting Palo Alto California",
+      "points": [
+        {
+          "text": "President Biden will be visiting Palo Alto, California to announce over $600 million in funding for climate adaptation projects across the country, and he will also discuss his actions to combat the climate crisis and protect the environment for future generations, while also acknowledging the tragic shooting at an Illinois Juneteenth celebration and emphasizing the importance of commemorating Juneteenth and delivering on the promise of equality.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary of State Blinken emphasized the importance of",
+      "points": [
+        {
+          "text": "Secretary of State Blinken emphasized the importance of maintaining open channels of communication and managing competition responsibly with China to reduce the risk of conflict, while also using diplomacy to address concerns and explore areas of potential cooperation.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Blinken emphasized the importance of diplomacy and",
+      "points": [
+        {
+          "text": "Secretary Blinken emphasized the importance of diplomacy and maintaining open channels of communication with China to address concerns and explore potential cooperation, as mentioned in the transcript.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The press secretary states that President Biden has",
+      "points": [
+        {
+          "text": "The press secretary states that President Biden has been regularly updated by the National Security Council and will receive a full briefing from Secretary Blinken upon his return to the U.S.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The press secretary states that the meeting between",
+      "points": [
+        {
+          "text": "The press secretary states that the meeting between Secretary Blinken and China was constructive and important for America's interests.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The press secretary emphasizes the importance of diplomacy",
+      "points": [
+        {
+          "text": "The press secretary emphasizes the importance of diplomacy in maintaining relationships with heads of state, particularly with China, and highlights the constructive conversation between Secretary Blinken and President Xi as a positive step forward.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The press secretary mentions the President's frequent visits",
+      "points": [
+        {
+          "text": "The press secretary mentions the President's frequent visits to California and highlights the positive and personal working relationship between the President and Governor Newsom.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The press secretary mentions the President's visit to",
+      "points": [
+        {
+          "text": "The press secretary mentions the President's visit to California to discuss his aggressive policies on climate change and highlights his positive working relationship with Governor Newsom, while also addressing concerns from climate advocates about the Mountain Valley Pipeline.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The press secretary discusses the President's commitment to",
+      "points": [
+        {
+          "text": "The press secretary discusses the President's commitment to fighting climate change, including preserving the Inflation Reduction Act, creating clean energy jobs, and fostering responsible AI, with more details about the President's trip to be revealed later.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The press secretary is asked if anyone from",
+      "points": [
+        {
+          "text": "The press secretary is asked if anyone from the White House has spoken to Senator Tuberville regarding his stance on holding military promotions over the abortion policy at the Department of Defense.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The press secretary affirms the administration's commitment to",
+      "points": [
+        {
+          "text": "The press secretary affirms the administration's commitment to getting Julie Su confirmed as labor secretary and outlines the efforts being made, including regular communication with senators and outside groups advocating for her nomination.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The press secretary emphasizes the administration's commitment to",
+      "points": [
+        {
+          "text": "The press secretary emphasizes the administration's commitment to getting Julie Su confirmed as labor secretary and highlights ongoing efforts to communicate with senators and outside groups advocating for her nomination.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The press secretary expresses concern over the devastation",
+      "points": [
+        {
+          "text": "The press secretary expresses concern over the devastation in Ukraine, mentions ongoing aid efforts, and declines to comment on Russian allegations about a dirty bomb.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The press secretary discusses President Biden's forceful remarks",
+      "points": [
+        {
+          "text": "The press secretary discusses President Biden's forceful remarks on gun violence, his call for Congress to address the issue on a legislative level, and his belief that an assault weapons ban could decrease the number of shootings.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

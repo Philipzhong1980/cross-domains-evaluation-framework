@@ -1,0 +1,135 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Public Engagement and Contact Information",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Staff provided contact information john.lang@mountainview.gov for artist Naya and offered to provide background on committee processes and answer questions about public art.",
+              "source": "John Lang : Please e-mail me and I'll give you some background on this and I'm happy to answer your questions. So it is my first name, John John dot Lang, that's Lang at mountainview.gov",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        },
+        {
+          "topic": "CPA Gallery Exhibition Planning",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Call for artists for 2023 CPA gallery display received 29 submissions, closing Saturday with jury process starting Sunday.",
+              "source": "John Lang : So we we've had a call for artists out since October. On this coming Saturday that call will close. Currently we have 29 submissions, so starting Sunday you will be receiving some emails from CAFE to start to jury those submissions.",
+              "validation_note": "merged_conflict"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Annual plan targets approximately 5 exhibitions with 2-3 alternates. Due to contractual simplicity, only one artist will exhibit at a time, though combined shows may be considered in the future when staffing allows.",
+              "source": "John Lang : So typically for the year it's at least five with two alternatives... From a contractual standpoint, it needs to be one at a time.",
+              "validation_note": "merged_conflict"
+            },
+            {
+              "speaker": "John Lang",
+              "text": "Artists apply via CaFE with approximately three days remaining as of the meeting. Staff will forward the call link to VAC for broader sharing. Older works are acceptable; there is no requirement that submissions be newly created.",
+              "source": "John Lang : ...three days and a couple hours left to apply... They can apply through cafe... I will forward the, I will forward this call out after this meeting to all the VAC.",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        },
+        {
+          "topic": "Brown Act Compliance for Site Visits",
+          "points": [
+            {
+              "speaker": "John Lang",
+              "text": "Group site visits can be Brown Act compliant by noticing the meeting with purpose and time (e.g., on-site review of public art placement). Staff indicated this is an addressable process detail for future CIP art evaluations.",
+              "source": "John Lang : ...we just need to notice it as such and state exactly what is happening... we can certainly notice it as a meeting.",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Committee members",
+          "text": "Committee will review 29 CPA gallery submissions before December 13th meeting to select artists for 2023 exhibitions.",
+          "source": "John Lang : My hope is that between now and the December meeting, I'm hoping the VAC committee can spend some time before the December. I believe it's 13th meeting if I remember correctly reviewing those",
+          "validation_note": "merged_conflict"
+        }
+      ]
+    },
+    "rejected_items": [
+      {
+        "id": "review_005",
+        "item_type": "decision",
+        "original_point": {
+          "text": "Notify VAC when CPA jurying opens and request members review submissions before December 13.",
+          "source": "John Lang : ...starting Sunday you will be receiving some emails from CAFE to start to jury... before the December 13th meeting...",
+          "assignee": "John Lang"
+        },
+        "reason": "redundant",
+        "explanation": "This decision about John Lang notifying VAC is redundant with the validated decision about Committee members reviewing submissions. The transcript shows John Lang explaining the process (notification will happen automatically via CAFE emails) but the actual decision/commitment is for committee members to review submissions before December 13th. The notification is just part of the process, not a separate decision requiring tracking."
+      }
+    ],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Both GT points describe the same interaction with Naya where John Lang provided his contact information and offered to provide background. GT2 includes the specific email address while GT1 provides more context about Naya's introduction. These should be merged into a single comprehensive point.",
+        "transcript_evidence": [
+          "John Lang : Please e-mail me and I'll give you some background on this and I'm happy to answer your questions. So it is my first name, John John dot Lang, that's Lang at mountainview.gov"
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "merge",
+        "reasoning": "GT1 is correct about the annual plan targeting 'at least five with two alternatives' and contractual requirement for one artist at a time. GT2's '5-8 exhibition slots' appears to be an interpretation rather than what was stated. The transcript clearly supports GT1's specific numbers.",
+        "transcript_evidence": [
+          "John Lang : So typically for the year it's at least five with two alternatives",
+          "John Lang : From a contractual standpoint, it needs to be one at a time"
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "merge",
+        "reasoning": "Both points describe the same call for artists but at different stages of discussion. GT2 provides the current status (29 submissions, closing Saturday) while GT1 provides application details (3 days left, CaFE platform, forwarding to VAC). These complement each other and should be merged.",
+        "transcript_evidence": [
+          "John Lang : So we we've had a call for artists out since October. On this coming Saturday that call will close. Currently we have 29 submissions",
+          "John Lang : ...three days and a couple hours left to apply... They can apply through cafe... I will forward this call out after this meeting to all the VAC"
+        ]
+      },
+      {
+        "id": "review_004",
+        "decision": "merge",
+        "reasoning": "This point about Brown Act compliance for site visits is substantive as it addresses a specific procedural question raised by committee members about group site visits. The transcript shows John Lang providing a clear solution to enable compliant group site visits for future art evaluations.",
+        "transcript_evidence": [
+          "Clifford Bryant: Is the Brown Act issues John if we all meet together?",
+          "John Lang : ...we just need to notice it as such and state exactly what is happening... we can certainly notice it as a meeting"
+        ]
+      },
+      {
+        "id": "review_005",
+        "decision": "exclude",
+        "reasoning": "GT1 describes John Lang's action to notify VAC, but this is redundant with the validated decision about committee members reviewing submissions. The transcript shows the notification happens automatically via CAFE emails, making this a process step rather than a trackable decision. The substantive decision is the committee's commitment to review before December 13th.",
+        "transcript_evidence": [
+          "John Lang : starting Sunday you will be receiving some emails from CAFE to start to jury those submissions",
+          "John Lang : My hope is that between now and the December meeting, I'm hoping the VAC committee can spend some time before the December. I believe it's 13th meeting if I remember correctly reviewing those"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 5,
+      "merged": 4,
+      "excluded": 1,
+      "modified": 0,
+      "confidence": "High confidence in validation. All reviewed items had clear transcript evidence. Conflicts were resolved by identifying the most accurate version or merging complementary information. The excluded item was clearly redundant with validated content."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:47:50.704377+00:00"
+  }
+}

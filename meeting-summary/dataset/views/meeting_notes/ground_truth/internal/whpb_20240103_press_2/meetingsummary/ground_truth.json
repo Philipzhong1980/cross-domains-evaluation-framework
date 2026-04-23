@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20240103_press_2.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Q",
+    "MR. KIRBY",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "In this section of the transcript Ms Jean",
+      "points": [
+        {
+          "text": "In this section of the transcript, Ms. Jean-Pierre criticizes House Republicans for prioritizing baseless impeachment stunts instead of working on real issues and urges them to fund the government and deliver for the American people.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During the holidays the President received updates from",
+      "points": [
+        {
+          "text": "During the holidays, the President received updates from his National Security Advisor and spoke with Prime Minister Netanyahu about the situation in the Middle East.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is working with Israel to",
+      "points": [
+        {
+          "text": "The United States is working with Israel to secure the release of remaining hostages and is maintaining a significant force presence in the Middle East, including an aircraft carrier strike group and an amphibious ready group, to defend national security interests and protect the free flow of international commerce in the Red Sea, while also condemning Houthi attacks on commercial vessels and emphasizing the importance of holding malign actors accountable for their actions.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States does not have any indication",
+      "points": [
+        {
+          "text": "The United States does not have any indication that Israel was involved in the bombings in Iran and is working to prevent the conflict from escalating regionally.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States believes that it is an",
+      "points": [
+        {
+          "text": "The United States believes that it is an attainable goal for the Israeli military to degrade and defeat Hamas's abilities to conduct attacks inside Israel, although the elimination of Hamas as a group or its ideology is unlikely.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is concerned about the impact",
+      "points": [
+        {
+          "text": "The United States is concerned about the impact on global commerce and the potential risk to the supply chain if shipping companies pause or reroute their operations in the Gulf of Aden and Red Sea due to security concerns.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S acknowledges the potential impact on",
+      "points": [
+        {
+          "text": "The U.S. acknowledges the potential impact on the global economy if shipping operations in the Gulf of Aden and Red Sea are disrupted due to security concerns, but has not seen a specific effect on the U.S. economy so far.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S condemns Russia's continued attacks on",
+      "points": [
+        {
+          "text": "The U.S. condemns Russia's continued attacks on Ukraine and emphasizes the importance of passing the supplemental funding request to provide security assistance.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S does not believe that military",
+      "points": [
+        {
+          "text": "The U.S. does not believe that military attacks alone will eradicate Hamas, but they can eliminate the threat Hamas poses to the Israeli people by targeting their leadership, infrastructure, and resources.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S is actively engaged in ongoing",
+      "points": [
+        {
+          "text": "The U.S. is actively engaged in ongoing conversations and efforts to secure the release of hostages in Israel, with no specific progress to report at this time.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S acknowledges that the Russian military's",
+      "points": [
+        {
+          "text": "The U.S. acknowledges that the Russian military's war-making capability has been impacted by the ongoing conflict in Ukraine, particularly in terms of munitions, but they still possess a sizable air force and ground mechanized capability.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the lack of success of",
+      "points": [
+        {
+          "text": "The speaker discusses the lack of success of the Russian military in their engagement with Ukrainian forces and mentions that the United States does not want a second front and supports Israel's right to go after Hamas leadership.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses the Israeli airstrike on Hamas",
+      "points": [
+        {
+          "text": "The speaker addresses the Israeli airstrike on Hamas leadership, affirming their right to do so and emphasizing the US's desire to prevent the conflict from escalating, while also dismissing the notion that US actions in the region are a provocation.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker denies that the United States' actions",
+      "points": [
+        {
+          "text": "The speaker denies that the United States' actions have supported an escalation in the conflict and asserts that their defensive posture is aimed at protecting international shipping from attacks by the Houthis, who are backed by Iran.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker refuses to provide information about the",
+      "points": [
+        {
+          "text": "The speaker refuses to provide information about the tone and tenor of recent conversations between the President and Prime Minister Netanyahu.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the candid and forthright conversations",
+      "points": [
+        {
+          "text": "The speaker discusses the candid and forthright conversations between the President and Prime Minister Netanyahu, as well as the efforts to ensure accountability for the equipment provided to Ukraine in their fight against Russian aggression.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The US has added expertise and individuals to",
+      "points": [
+        {
+          "text": "The US has added expertise and individuals to the team in Kyiv for accountability purposes and the Ukrainians are willing to work with them on accountability measures for all the systems provided.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the deliberate and timely delivery",
+      "points": [
+        {
+          "text": "The speaker discusses the deliberate and timely delivery of military equipment to Ukraine, emphasizing their appropriate use in defense of the country.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker does not have any specific policy",
+      "points": [
+        {
+          "text": "The speaker does not have any specific policy changes to announce or preview at this time regarding strengthening institutions ahead of the elections, but acknowledges the unprecedented attack on democracy that occurred on January 6th.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the importance of a functioning",
+      "points": [
+        {
+          "text": "The speaker discusses the importance of a functioning democracy and fair elections, but does not have any new policy announcements regarding strengthening institutions, while also addressing the national debt and highlighting the President's efforts to lower it.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker dismisses the impeachment proceedings against Secretary",
+      "points": [
+        {
+          "text": "The speaker dismisses the impeachment proceedings against Secretary Mayorkas as baseless and a waste of time, emphasizing that the focus should be on delivering on matters that are important to the American people.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker expresses the need for more resources",
+      "points": [
+        {
+          "text": "The speaker expresses the need for more resources and policy changes to address the border situation, while also emphasizing the importance of moral clarity and condemning hate speech.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the need for bipartisan agreement",
+      "points": [
+        {
+          "text": "The speaker discusses the need for bipartisan agreement on both funding and policy regarding the border situation, while acknowledging ongoing conversations with Democratic and Republican leaders.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker expresses the need for bipartisan agreement",
+      "points": [
+        {
+          "text": "The speaker expresses the need for bipartisan agreement on immigration policy and funding, while also defending Secretary Mayorkas against baseless impeachment proceedings and emphasizing the importance of focusing on the American people's priorities.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes the importance of Congress addressing",
+      "points": [
+        {
+          "text": "The speaker emphasizes the importance of Congress addressing emergency requests, keeping the government open, and enhancing rail safety while also discussing the President's oversight of recovery efforts in East Palestine and potential concerns about a terror attack plot in Argentina.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker defends President Biden's actions to address",
+      "points": [
+        {
+          "text": "The speaker defends President Biden's actions to address the federal debt by attributing 90% of the increase to Republican tax cuts and highlighting the President's efforts to lower the deficit through legislation targeting prescription drug costs and wealthy tax cheats, while also criticizing GOP proposals that would add $3 trillion to the debt, and is asked about Vice President Harris' ability to address the root causes of migration.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker avoids directly answering questions about Vice",
+      "points": [
+        {
+          "text": "The speaker avoids directly answering questions about Vice President Harris' ability to address the root causes of migration and whether President Biden trusts Senator Menendez, stating that the decisions are up to them and not discussing any private discussions.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the increase in migrant encounters",
+      "points": [
+        {
+          "text": "The speaker acknowledges the increase in migrant encounters at the border but attributes it to the usual ebbs and flows of migration and efforts by smugglers, while emphasizing the administration's efforts to remove individuals without legal basis and engage in diplomacy and enforcement actions.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges the challenges at the border",
+      "points": [
+        {
+          "text": "The speaker acknowledges the challenges at the border and blames House Republicans for blocking the President's efforts to address the issue, while expressing hope for bipartisan negotiations on border security funding and policy.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre clarifies that the presence of",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre clarifies that the presence of razor wire at the border makes it more challenging for Border Patrol agents to apprehend individuals who have crossed into the US, rather than posing a direct risk to the agents' safety.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre explains that Speaker Johnson has",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre explains that Speaker Johnson has blocked the President from addressing the border issue, but the President has been able to have bipartisan negotiations on other matters such as infrastructure.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

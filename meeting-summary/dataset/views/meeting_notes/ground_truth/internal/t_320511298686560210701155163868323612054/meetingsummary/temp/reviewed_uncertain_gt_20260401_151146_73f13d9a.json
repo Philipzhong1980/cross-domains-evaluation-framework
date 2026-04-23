@@ -1,0 +1,193 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Subcommittee Appointments",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "Finalized subcommittee memberships: Mental Health—Nirvana Nwokidu, Jill Rakestraw, and Vice Chair IdaRose Sylvester; Bystander Intervention Training—Kevin Ball, Jill Rakestraw, and Xavier Webb; Housing and Security Storytelling—IdaRose Sylvester, Annette Lin, and Xavier Webb. Julie Solomon will close out prior housing project tasks.",
+              "source": "Laurel James : Mental Health Subcommittee, the interest is in Commissioners Noakito and Rick Straw and Vice Chair Sylvester, who will all be be continuing / Bystander Intervention Training has interest from Commissioners Ball, Rick Straw, and Webb / perhaps it makes sense, Chair Lynn, for you to serve on the Housing and Security Subcommittee until such a time as your term ends",
+              "validation_note": "merged_conflict"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Departing commissioners will help launch subcommittee work while seats transition, with memberships revisited in January when new appointees are seated. If overall HRC membership declines, project scopes or workloads may be adjusted to balance capacity.",
+              "source": "Laurel James : typically in January when new commissioners are sworn in and seated, there is a revisiting of the subcommittee appointments / If there is a reduction in the number of total HRC members serving, then it would also be an opportunity to rebalance the workload or to revisit the scope",
+              "validation_note": "validated_unique"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "A quorum of four is needed to hold HRC meetings (assuming seven seats). Laurel is seeking permission to share application counts with the Commission. If applicant numbers are low, recruitment can occur year-round.",
+              "source": "IdaRose Sylvester : I believe it's four / Laurel James : I have asked the City Clerk's office if I can have the number of applications and if I'm able to share it / Jill Rakestraw : there is an opportunity to go out and recruit, you know, people to apply at any point during the year",
+              "validation_note": "refined"
+            }
+          ]
+        },
+        {
+          "topic": "Housing Project Follow-up",
+          "points": [
+            {
+              "speaker": "Julie Solomon",
+              "text": "If any of the four wish to record stories for public archiving, Julie will conduct interviews and explore transcription support through Michael Kahn's Stanford research assistant, Camila, who continues working on the project.",
+              "source": "Julie Solomon : if they really are interested to share their story and have it archived and made available to the public / Camilla a research assistant to Michael Kahn from Stanford. Camilla continues to work for Michael / I would be willing to do interviews",
+              "validation_note": "validated_unique"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "City staff will enhance the project webpage by adding a video gallery, publishing oral histories for public access, and posting event information and Q&A. Laurel will consult Communications about hosting the video on the City's YouTube channel.",
+              "source": "Laurel James : updates to the web page including adding a video gallery, eventually adding the oral histories and or videos that are available and meant to be shared more publicly / That is a question for our communications team and I will post it to them",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting Procedures",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "The agenda was reordered to hear the Multicultural Engagement Program informational update earlier in the meeting so staff could depart sooner; no action was taken on the item.",
+              "source": "Annette Lin : we're moving Section 6.1 new business up on for the Multicultural Engagement Program informational update / No action will be taken on this item",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [
+      {
+        "id": "review_007",
+        "item_type": "decision",
+        "original_point": {
+          "text": "Mental Health Subcommittee will begin meeting with three continuing commissioners to develop mental health initiatives",
+          "assignee": "Mental Health Subcommittee (Commissioners Nwokidu, Rakestraw, Vice Chair Sylvester)",
+          "source": "Laurel James : Mental Health Subcommittee, the interest is in Commissioners Noakito and Rick Straw and Vice Chair Sylvester, who will all be be continuing"
+        },
+        "reason": "extraction_criteria_not_met",
+        "explanation": "Transcript shows this was discussion of subcommittee assignments and interest, not a formal decision with commitment language. No explicit decision-making language like 'will do' or formal commitment found. This is assignment discussion, not a decision requiring accountability."
+      },
+      {
+        "id": "review_008",
+        "item_type": "decision",
+        "original_point": {
+          "text": "Bystander Intervention Training Subcommittee will commence work with one departing and two continuing commissioners",
+          "assignee": "Bystander Intervention Training Subcommittee (Commissioners Ball, Rakestraw, Webb)",
+          "source": "Laurel James : Bystander Intervention Training has interest from Commissioners Ball, Rick Straw, and Webb"
+        },
+        "reason": "extraction_criteria_not_met",
+        "explanation": "Similar to review_007, this was discussion of interest and assignments, not a formal decision. The transcript shows 'interest from' language, not commitment or decision language. No formal decision-making process evident."
+      },
+      {
+        "id": "review_009",
+        "item_type": "decision",
+        "original_point": {
+          "text": "Housing and Security Storytelling Subcommittee will start with one departing and two continuing commissioners until new appointments in January",
+          "assignee": "Housing and Security Storytelling Subcommittee (Chair Lin, Vice Chair Sylvester, Commissioner Webb)",
+          "source": "Laurel James : perhaps it makes sense, Chair Lynn, for you to serve on the Housing and Security Subcommittee until such a time as your term ends"
+        },
+        "reason": "extraction_criteria_not_met",
+        "explanation": "This was a suggestion ('perhaps it makes sense') followed by agreement, not a formal decision with clear accountability. The transcript shows assignment discussion and agreement, but lacks the formal decision structure required for extraction as a decision."
+      }
+    ],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Both GT1 and GT2 describe the same subcommittee assignment announcement. GT1 provides comprehensive details of all three subcommittees while GT2 only covers Mental Health. They are describing the same discussion from different perspectives - GT1 from Annette Lin's summary and GT2 from Laurel James' confirmation. Should be merged into one comprehensive point.",
+        "transcript_evidence": [
+          "Laurel James : Mental Health Subcommittee, the interest is in Commissioners Noakito and Rick Straw and Vice Chair Sylvester, who will all be be continuing",
+          "Laurel James : Bystander Intervention Training has interest from Commissioners Ball, Rick Straw, and Webb",
+          "Laurel James : perhaps it makes sense, Chair Lynn, for you to serve on the Housing and Security Subcommittee until such a time as your term ends"
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "merge",
+        "reasoning": "This is a substantive policy point about subcommittee transition procedures and capacity management. The transcript shows Laurel James explaining formal procedures for January revisiting and workload rebalancing if membership declines. This meets extraction criteria as it describes formal processes and future planning.",
+        "transcript_evidence": [
+          "Laurel James : typically in January when new commissioners are sworn in and seated, there is a revisiting of the subcommittee appointments",
+          "Laurel James : If there is a reduction in the number of total HRC members serving, then it would also be an opportunity to rebalance the workload or to revisit the scope"
+        ]
+      },
+      {
+        "id": "review_003",
+        "decision": "modify",
+        "reasoning": "This combines multiple administrative topics that should be refined for clarity. The transcript supports all elements but they can be better organized. The quorum information, application sharing, and recruitment are all substantive administrative details worth capturing.",
+        "transcript_evidence": [
+          "IdaRose Sylvester : I believe it's four",
+          "Laurel James : I have asked the City Clerk's office if I can have the number of applications and if I'm able to share it",
+          "Jill Rakestraw : there is an opportunity to go out and recruit, you know, people to apply at any point during the year"
+        ]
+      },
+      {
+        "id": "review_004",
+        "decision": "merge",
+        "reasoning": "This is a substantive follow-up action with specific details about transcription support and Stanford connection. The transcript confirms Julie Solomon's willingness to conduct interviews and the ongoing relationship with Camila for transcription work. This represents concrete next steps for the housing project.",
+        "transcript_evidence": [
+          "Julie Solomon : if they really are interested to share their story and have it archived and made available to the public",
+          "Julie Solomon : Camilla a research assistant to Michael Kahn from Stanford. Camilla continues to work for Michael",
+          "Julie Solomon : I would be willing to do interviews"
+        ]
+      },
+      {
+        "id": "review_005",
+        "decision": "merge",
+        "reasoning": "GT1 and GT2 describe the same website update discussion. GT1 includes the additional YouTube consultation detail that GT2 lacks. The transcript supports both the general website updates and the specific YouTube consultation question. Should merge with GT1's more complete version.",
+        "transcript_evidence": [
+          "Laurel James : updates to the web page including adding a video gallery, eventually adding the oral histories and or videos that are available and meant to be shared more publicly",
+          "Laurel James : That is a question for our communications team and I will post it to them"
+        ]
+      },
+      {
+        "id": "review_006",
+        "decision": "merge",
+        "reasoning": "This is a notable procedural decision worth documenting. The transcript shows this was a deliberate agenda reordering to accommodate staff schedules, which represents good meeting management practice. While procedural, it demonstrates consideration for staff time and meeting efficiency.",
+        "transcript_evidence": [
+          "Annette Lin : we're moving Section 6.1 new business up on for the Multicultural Engagement Program informational update",
+          "Annette Lin : No action will be taken on this item"
+        ]
+      },
+      {
+        "id": "review_007",
+        "decision": "exclude",
+        "reasoning": "This was assignment discussion, not a formal decision. The transcript shows interest indication and assignment confirmation, but lacks the commitment language required for decision extraction. No explicit 'will do' or accountability language found.",
+        "transcript_evidence": [
+          "Laurel James : Mental Health Subcommittee, the interest is in Commissioners Noakito and Rick Straw and Vice Chair Sylvester, who will all be be continuing"
+        ]
+      },
+      {
+        "id": "review_008",
+        "decision": "exclude",
+        "reasoning": "Similar to review_007, this describes interest and assignment rather than a formal decision. The transcript uses 'interest from' language, not decision or commitment language. No formal decision-making process evident.",
+        "transcript_evidence": [
+          "Laurel James : Bystander Intervention Training has interest from Commissioners Ball, Rick Straw, and Webb"
+        ]
+      },
+      {
+        "id": "review_009",
+        "decision": "exclude",
+        "reasoning": "This was a suggestion followed by agreement, not a formal decision. The transcript shows 'perhaps it makes sense' language, which is suggestive rather than decisive. While there was agreement, it lacks the formal decision structure required for extraction as a decision.",
+        "transcript_evidence": [
+          "Laurel James : perhaps it makes sense, Chair Lynn, for you to serve on the Housing and Security Subcommittee until such a time as your term ends"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 9,
+      "merged": 6,
+      "excluded": 3,
+      "modified": 0,
+      "confidence": "High confidence in validation. Transcript evidence clearly supports all merge decisions and exclusions. The three excluded items were correctly identified as assignment discussions rather than formal decisions, lacking the commitment language required for decision extraction. All merged items have strong transcript support with specific quotes and timestamps."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:11:46.954605+00:00"
+  }
+}

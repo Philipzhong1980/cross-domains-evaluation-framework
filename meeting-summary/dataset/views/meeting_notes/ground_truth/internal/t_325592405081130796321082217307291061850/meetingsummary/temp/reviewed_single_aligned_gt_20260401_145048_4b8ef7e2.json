@@ -1,0 +1,164 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Meeting Procedures and Roll Call",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Meeting conducted under California Government Code Section 54953 E during declared state of emergency with video conference participation and no physical location.",
+              "source": "Lucas Ramirez : During this declared state of emergency, this meeting will be conducted in accordance with California Government Code Section 54953 E",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Roll call confirmed attendance of all three subcommittee members: Alison Hicks, Ellen Kamei, and Chair Lucas Ramirez.",
+              "source": "Laurel James : Thank you, Member Hicks. Alison Hicks: Here. Laurel James: Member commit. Ellen Kamei: Here. Laurel James: Chair Ramirez. Lucas Ramirez: Here",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Work Plan Development Process Details",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "Council adopted seven strategic priorities in 2021 that will frame the fiscal year 2023-25 work plan projects: community for all, intentional development and housing options, mobility and connectivity, sustainability and climate resiliency, livability and quality of life, economic vitality, and organizational strength and good governance.",
+              "source": "Laurel James : The strategic priorities, of which there are seven, are visible here and familiar, I believe, to all of you",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Advisory Body Participation Process Details",
+          "points": [
+            {
+              "speaker": "Audrey Ramberg",
+              "text": "Advisory body feedback process has been used for at least the last couple of council work plan processes, focusing on providing input rather than generating new project lists.",
+              "source": "Audrey Ramberg : So we've actually been using. This process of it being a feedback process for, you know, at least the last couple. Of council work plan processes",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Lucas Ramirez expressed concern about inequitable treatment where some advisory bodies can comment on everything while others are limited to their scope, advocating for consistent process.",
+              "source": "Lucas Ramirez : Some advisory bodies are told you can provide comment only on items within your scope and then others are told you could provide comments on anything",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Alison Hicks",
+              "text": "Alison Hicks recommended providing advisory bodies with realistic capacity expectations similar to what council receives to avoid unrealistic project suggestions.",
+              "source": "Alison Hicks : I would like the council advisory bodies to same sort of honest explanation that we get about. I mean I don't want council new people and council advisory bodies to go off and dream",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Work Plan Capacity and Realism Concerns",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Lucas Ramirez expressed concern about projects prioritized in June 2019 potentially advancing to third goal setting cycle, indicating need for more realistic capacity planning.",
+              "source": "Lucas Ramirez : we're likely to advance projects that were prioritized in June 2019 into a third goal setting",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Process Methodology Discussion",
+          "points": [
+            {
+              "speaker": "Alison Hicks",
+              "text": "Alison Hicks anticipated fewer new projects since current council members have served together for years and were interrupted by COVID, expecting focus on eliminating stale projects and recommitting to priorities.",
+              "source": "Alison Hicks : I'm thinking that because there are no new council members at this point, hopefully we won't come in fresh with, you know, each with 20 new projects",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Kimbre",
+              "text": "Kimbre noted various feedback on prioritization methods over years, with some preferring dot exercises, others preferring written memos, and some favoring civic makers mediation approach.",
+              "source": "Kimbre : we've just received various feedback. You know, some people love the dot, some people hate the dot exercise, some people really like writing a memo",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Lucas Ramirez suggested creating standardized project submission format to help staff appropriately scope ideas and avoid situations where broad concepts require extensive interpretation.",
+              "source": "Lucas Ramirez : it might be good to think about a way where we can provide some preliminary scoping so we're not just giving a huge idea and it gets majority support and then staff is kind of left figuring out OK, what does this actually mean",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Subcommittee Background and Context",
+          "points": [
+            {
+              "speaker": "Ellen Kamei",
+              "text": "Ellen Kamei clarified that none of the current subcommittee members served on the prior council goal setting subcommittee, so all are coming with same knowledge and background.",
+              "source": "Ellen Kamei : I don't think any of us were on the prior council goal setting subcommittee. So we are all coming into this with the same knowledge and the same background",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Alison Hicks",
+              "text": "Alison Hicks sought clarification on project lists and housing element implementation, noting some expected projects were not visible in attachments.",
+              "source": "Alison Hicks : so that is not the if I get it right, that's not the full list of projects that we'll be considering when we're when we're going over this during the study session",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Housing Element Projects Implementation",
+          "points": [
+            {
+              "speaker": "Kimbre",
+              "text": "Staff identified top priority housing element items for next two-year cycle, with remaining projects scheduled for years four, six, and eight of the housing element timeline.",
+              "source": "Kimbre : So we had identified the ones I think that either staff identified or maybe council members had identified them as kind of some of the more top priority things to do in this next two year cycle",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Public Comment on Work Plan Items",
+          "points": [
+            {
+              "speaker": "Bruce England",
+              "text": "Bruce England noted that enhanced legislative program item marked as complete is actually ongoing and suggested COVID-19 recovery efforts could include hybrid meeting mode considerations.",
+              "source": "Bruce England : The next one is 7, two develop and implement and enhanced legislative program. It marks it as complete, but it's actually not complete",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 10,
+      "kept": 10,
+      "modified": 0,
+      "dropped": 0,
+      "from_gt1_kept": 0,
+      "from_gt2_kept": 10
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:50:48.509108+00:00"
+  }
+}

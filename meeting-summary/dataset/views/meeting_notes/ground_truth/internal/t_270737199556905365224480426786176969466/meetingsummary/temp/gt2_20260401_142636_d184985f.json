@@ -1,0 +1,251 @@
+{
+  "result": {
+    "meeting_context": "This is a Visual Arts Committee (VAC) meeting for the City of Mountain View, focused on reviewing public art projects, developing a public art strategy, and conducting committee business including work plan approval and inventory updates.",
+    "participants": [
+      "Jesse Cupp",
+      "Cliff Grant",
+      "Regina cycles",
+      "Susi Merhar",
+      "John Lang",
+      "Naya",
+      "Jasmin Aber"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Administration and Roll Call",
+        "points": [
+          {
+            "speaker": "Jesse Cupp",
+            "text": "Meeting called to order at 6:03 PM with roll call completed for committee members",
+            "source": "Jesse Cupp : So this is chair Jessica on the meeting to order at six O 3:00 PM And let's go to roll call committee member Cliff Grant."
+          },
+          {
+            "speaker": "Jesse Cupp",
+            "text": "Meeting minutes approved unanimously without issues identified",
+            "source": "Jesse Cupp : OK, unanimous."
+          }
+        ]
+      },
+      {
+        "topic": "North Shoreline Master Plan Discussion",
+        "points": [
+          {
+            "speaker": "Susi Merhar",
+            "text": "North Shoreline Master Plan approved with 55,000 square feet allocated for community spaces",
+            "source": "Susi Merhar : Maste plan was approved, right. And I read that there's 55,000 square feet for. Community spaces."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Master plan creates framework for setting aside space but specific uses still need to be determined through future review processes",
+            "source": "John Lang : So it's one all this still needs to go through any review, building review to build. So it it's going to be a ways off, but it does create that framework of setting aside space to activate for me."
+          }
+        ]
+      },
+      {
+        "topic": "September Meeting Agenda Preview",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "September meeting will include Castro Street pedestrian mall treatment discussion with public works",
+            "source": "John Lang : Coming back in September you're going to have a very full agenda. So two items in particular that are going to be on your agenda, I don't want to flag for you that are you're not aware of today is one will be a conversation on street treatment of Castro Street in the central corridor for the pedestrian mall."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Evelyn Mini park call for artists will be presented at September meeting",
+            "source": "John Lang : And then two will be the Evelyn Mini park call for artists. So you will start to hear a new park project and a call for artists for that park project."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Transit grade separation project second round evaluation and Rankstore tennis building mural concepts will be reviewed in September",
+            "source": "John Lang : So new park project, transit grade separation, second round of what art is going to be proposed by the six artists will be evaluated at that meeting."
+          }
+        ]
+      },
+      {
+        "topic": "Capital Improvement Program Updates",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Aquatic Center project continues with public works engineer coordinating with three artists for installation preparation",
+            "source": "John Lang : So, so the first one is the Aquatic Center, not any new update there. Public works engineer continues to work with all three artists on getting their projects prepped for installation."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Fayette Park artist Colin Seelig completed all three functional art pieces and is ready for installation pending city pad completion",
+            "source": "John Lang : The artist Colin Seelig has actually this is one picture he sent, but he has now completed all three of the functional art pieces and he's actually ready to install. So we're just on the City side trying to wrap up the pads to get this installed in the park."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Rankstore park maintenance and tennis buildings agreements executed with Fernanda and Harumo for three concept designs due September",
+            "source": "John Lang : Is on rank store park, maintenance and tennis buildings. As I mentioned, agreements with Fernanda and Harumo have been executed and have asked them to complete 3 concept designs for consideration at your September meeting."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Transit grade separation project has five of six artists under contract with deliverables due July 21st",
+            "source": "John Lang : Five of the six artists are under contract. Sixth. We had a small issue with their W 9, which we're getting resolved, which should not impact this deliverable, but they have till July 21st either come up with renderings"
+          }
+        ]
+      },
+      {
+        "topic": "Public Art Inventory Subcommittee Progress",
+        "points": [
+          {
+            "speaker": "Susi Merhar",
+            "text": "Inventory spreadsheet organized by year with older pieces at top and newer ones at bottom, with ongoing neighborhood walks adding discoveries",
+            "source": "Susi Merhar : And right now it's, it's I I ordered by by year, right. You can just let me call them whatever. So before it was by map number that was just easier because that that's how I put it in. But now it's by year. So we have the older pieces on top and the new ones at the bottom."
+          },
+          {
+            "speaker": "Susi Merhar",
+            "text": "Google's new Charleston East building features six Burning Man-selected sculptures worth visiting with available parking",
+            "source": "Susi Merhar : They worked with the Burning Man people and got 6 sculptures close to each other around their new Charleston East building. And they're. Really worth a visit. And they have parking, so it's a bit of a problem out for all the other art."
+          },
+          {
+            "speaker": "Cliff Grant",
+            "text": "Two commissioned art pieces discovered missing, including one from 1995 that artist learned disappeared in 1997",
+            "source": "Cliff Grant : There's 2 2 I didn't find 2 pieces that were on the original spreadsheet and I was able to contact the artist of one who mentioned that in 1997 he was told it had disappeared."
+          },
+          {
+            "speaker": "Susi Merhar",
+            "text": "Three additional art pieces found at El Camino Hospital through Sunnyvale's mapping website",
+            "source": "Susi Merhar : I found on a different, I think it was City of Sunnyvale's kind of map that they're using. I looked at Mountain View on that map website and there were three more art pieces that were all in El Camino Hospital"
+          }
+        ]
+      },
+      {
+        "topic": "Economic Impact Research Findings",
+        "points": [
+          {
+            "speaker": "Jesse Cupp",
+            "text": "SV Creates published 2021 study showing arts improve community health and well-being with economic data",
+            "source": "Jesse Cupp : As he creates. Published this study in 2021 of. The Business of Arts and culture."
+          },
+          {
+            "speaker": "Jesse Cupp",
+            "text": "Americans for the Arts data shows Santa Clara County nonprofit arts events generate $26.27 average spending per attendee, with non-residents spending $35",
+            "source": "Jesse Cupp : These numbers that show that nonprofits, parts and cultural events, the average attendee spends $26.27 per person. So the cost of admission and then it's also broken down into different categories, transportation, food, etcetera and it's broken down into if. You're a non. Resident You spend more money. You spend $35 on average."
+          }
+        ]
+      },
+      {
+        "topic": "Work Plan Approval",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Work plan changes include definitive council presentation date for public art strategy and phase two sidewalk studio pilot program development",
+            "source": "John Lang : Item number one, the development of a public art strategy being more defiant definitive of when that would go to council just kind of looking at the dates that were available that aren't already planned study sessions."
+          },
+          {
+            "speaker": "Susi Merhar",
+            "text": "Committee suggested changing item 4 title to 'promote public art strategy' with milestones including art book, map and website updates",
+            "source": "Susi Merhar : I was just wondering as a title, as this description, it would work. Publish, you know, promote the public art strategy. And then the key milestones would be doing the art book, doing the online map and updating our website."
+          },
+          {
+            "speaker": "Jesse Cupp",
+            "text": "Work plan approved unanimously with suggested modifications",
+            "source": "Jesse Cupp : All right. It passes unanimously, OK."
+          }
+        ]
+      },
+      {
+        "topic": "Public Art Strategy Development",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Strategy includes vision statement: 'Creation of diverse public art enriches Mountain View's innovative and creative culture, enhances community vibrancy, supports local artists and transforms Mountain View'",
+            "source": "John Lang : The creation of diverse public art enriches mountain views innovative and creative culture, enhances the vibrancy of our community, supports local artists and transforms Mountain View into the North. That's the vision."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Three main strategies identified: develop city policies for art appreciation, create more public art opportunities, and pursue collaboration with artist organizations",
+            "source": "John Lang : So the three strategies are develop, augment, and refined city policies and procedures to better line and encourage art appreciation and placekeeping, create more public art opportunities, providing for public expression and vitality of art in the Mountain View community, and pursue new opportunities for collaboration with artist organizations."
+          },
+          {
+            "speaker": "Susi Merhar",
+            "text": "Committee suggested expanding goals to include diversity, art appreciation, participation and representation beyond current community, placemaking, heritage and economic development focus",
+            "source": "Susi Merhar : It it's not that we're missing it but in the goals we talk only community, place making heritage and economic development, we're leaving out diversity. We're leaving out like our depreciation, just the value of reflection, just as art as right, confrontation, reflection, all of those things."
+          }
+        ]
+      },
+      {
+        "topic": "Center for Performing Arts Scheduling",
+        "points": [
+          {
+            "speaker": "John Lang",
+            "text": "Call for artists timing needs adjustment to align with CPA's 2024 schedule, moving from fall to summer timeframe",
+            "source": "John Lang : So last late last year we did the call for artists for 2023, but normally the call for artists for the CPA is done during the summertime, so all the agreements next year are done in the fall. Not so the way we're off by about five months."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Second floor space now available at CPA allowing artists to display four to five additional pieces",
+            "source": "John Lang : The one thing I will share with you in 2024, there is an opportunity to now do art up on the second floor. So that is something there will be more. The ability for artists to actually display more pieces is The upshot."
+          },
+          {
+            "speaker": "Jesse Cupp",
+            "text": "Committee decided against themed call for artists, preferring to let artists show their best work without constraints",
+            "source": "Jesse Cupp : We try to do a theme and people will shoehorn anything into it."
+          }
+        ]
+      },
+      {
+        "topic": "Meeting Closure and Public Engagement",
+        "points": [
+          {
+            "speaker": "Jesse Cupp",
+            "text": "Meeting adjourned at 8:14 PM with thanks to participants",
+            "source": "Jesse Cupp : So then it is 814 and this meeting is adjourned. Thank you for coming."
+          },
+          {
+            "speaker": "John Lang",
+            "text": "Staff offered to provide additional information to public participant about VAC processes and engagement opportunities",
+            "source": "John Lang : So Jasmine, I stopped recording, but just it might be good if you and I chatted just so you can understand how the VAC works and how better to engage."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Committee",
+        "text": "Meeting minutes approved unanimously without modifications",
+        "source": "Jesse Cupp : OK, unanimous."
+      },
+      {
+        "assignee": "Committee",
+        "text": "Work plan approved unanimously with modification to change item 4 title to promote public art strategy",
+        "source": "Jesse Cupp : All right. It passes unanimously, OK."
+      },
+      {
+        "assignee": "Ad hoc committee",
+        "text": "Subcommittee will work on draft revisions to public art strategy goals and bring back to full committee in September",
+        "source": "Susi Merhar : We'll bring it back to the city, city will make changes."
+      },
+      {
+        "assignee": "Committee",
+        "text": "Decided against themed call for artists for 2024 CPA exhibitions, preferring open submissions",
+        "source": "Jesse Cupp : We try to do a theme and people will shoehorn anything into it."
+      },
+      {
+        "assignee": "John Lang",
+        "text": "Staff will research feasibility of moving K5 policy funds between projects and creating alternative funding mechanisms",
+        "source": "John Lang : So I put it here because I don't know the answer. Like this is good. Figure it out and see if there's a way to make it work."
+      },
+      {
+        "assignee": "John Lang",
+        "text": "Staff will work with GIS team to update public art map with new inventory data and explore enhanced functionality",
+        "source": "John Lang : So I think what I I see personally as a next step this can continue to be a living document and will be a living document means to but I think taking what what has been generated by the subcommittee and i'm. Happy to kind of talk with our GIS team"
+      }
+    ],
+    "metadata": {
+      "topicCount": 10,
+      "pointCount": 28,
+      "decisionCount": 6
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:26:35.999586+00:00"
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "result": {
+    "merged_gt": {
+      "meeting_context": "The Human Relations Commission held a remote regular meeting to manage attendance, approve prior minutes, and receive a staff presentation on CDBG and HOME program policies, funding, and timelines. Commissioners also provided subcommittee updates, discussed recruitment, upcoming community events, and noted a leadership transition by the Chair.",
+      "participants": [
+        "Annette Lin",
+        "Laurel James",
+        "Julie Solomon",
+        "Xavier Webb",
+        "Jill Rakestraw",
+        "Nirvana Nwokidu",
+        "Harsha Ramchandani",
+        "Michaela Helman-Tincher",
+        "Wayne Chen",
+        "Malia Perez"
+      ],
+      "topics": [
+        {
+          "topic": "Meeting administration and attendance",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "Vice Chair Sylvester's absence for personal matter is classified as unexcused under Council Policy K02 as it's not among qualified excuses, and Commissioner Ball's illness-related absence was deemed excused.",
+              "source": "Annette Lin : Vice Chair Sylvester's absence, her absence tonight is for a personal matter that is not among the list of qualified excuses",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "The Commission approved the minutes for the October 6, 2022 regular meeting by roll call vote. Each present commissioner voted \"yes,\" and the motion carried without noted objections.",
+              "source": "Laurel James : Chair Lynn,",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Annette Lin",
+              "text": "Annette Lin announced the meeting was conducted under California Government Code 54953(e) with no physical location; all commissioners participated by videoconference, and public comments were accepted via Zoom. Emails received by 5:00 PM were forwarded to the Commission.",
+              "source": "Annette Lin : All members of the HRC will participate in the meeting by video conference with no physical meeting location.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "CDBG and HOME program overview",
+          "topic_merge_note": "normalized_from: ['CDBG and HOME program overview', 'CDBG and HOME Program Overview']",
+          "points": [
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "City receives approximately $620,000 in CDBG funds and $295,000 in HOME funds annually from HUD on a formula basis.",
+              "source": "Harsha Ramchandani : In recent years, the City has received approximately 620,000 in CDBG funds and approximately 295,000 in home funds annually",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "City budget includes annual appropriation of $171,000 from General Fund to supplement federal funds for human services and programs not eligible for federal funding.",
+              "source": "Harsha Ramchandani : The City budget's an annual appropriation of 171,000 from the City's General Fund to supplement federal funds",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "CDBG funding allows maximum 15% for public services, up to 20% for administration, and minimum 65% for capital projects.",
+              "source": "Harsha Ramchandani : CDBG funding users allow for a maximum of 15% of the grant to go towards public services",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "Addressing a question on earthquake retrofitting, Michaela Helman-Tincher said she will research whether federal funds could support such work given restrictions and scale. Wayne Chen added a soft-story retrofit evaluation began about three years ago but was paused due to costs, staff capacity, and the pandemic.",
+              "source": "Michaela Helman-Tincher : The short answer is I'm not quite sure we will do some research.",
+              "original_priority": "p3",
+              "dedup_note": "from_p3_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Policy principles and recommendations",
+          "points": [
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "Staff recommends minimum funding threshold of $7,500 for CDBG Public Services grants, balancing administrative burden with funding capacity.",
+              "source": "Harsha Ramchandani : Staff commence a grant request of 7500 for the CDBG Public Services grants",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "Proposal to set aside $30,000 of CDBG Capital Projects funding for minor home repairs, providing grants up to $5,000 per household.",
+              "source": "Harsha Ramchandani : Staff recommends that 30,000 of CDBG Capital Projects funding be set aside and available for nonprofits that assist low income homeowners with minor home repairs",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "Staff recommends minimum threshold of $300,000 for capital project funding requests, with case-by-case evaluation for smaller amounts.",
+              "source": "Harsha Ramchandani : Based on recent examples of CDBG funded capital projects, staff recommends a minimum threshold. Auf three hundred 1000 e funding request",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "Staff recommends not issuing HOME NOFA and instead working directly with developers of shovel-ready affordable housing projects in city pipeline.",
+              "source": "Harsha Ramchandani : staff recommends not doing a NOFA for Home funds and working with developers of affordable housing projects in the City's pipeline that are shovel ready",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "CDBG and General Fund NOFA will be issued in early December 2022, closing in January 2023, with staff recommendations returning to HRC in March 2023, Council review in April 2023, and HUD submission in May 2023.",
+              "source": "Harsha Ramchandani : The timeline in line for the next steps includes issuing a notice of CDBG and general fund funding availability in early December 2022",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "Staff proposed principles to align expenditures with Consolidated Plan goals, administer capital funds flexibly (e.g., direct allocations such as the Crestview conversion or competitive NOFAs), and establish minimum funding thresholds due to federal reporting and monitoring burdens for recipients and the City.",
+              "source": "Harsha Ramchandani : The first principle is that all expenditures should fund activities that further the goals of the City's consolidated plan... staff recommends analyzing the best use and method of allocating the capital funds on an annual basis.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Harsha Ramchandani",
+              "text": "For public services, staff recommended a $7,500 minimum request for CDBG grants (with a $5,000 hard floor), and applying the same threshold to General Fund public service grants under Council Policy A-8, balancing administrative burden and broad demand for limited funds.",
+              "source": "Harsha Ramchandani : The hard minimum is $5000. Staff commends a grant request of 7500 for the CDBG Public Services grants and per Council policy A8. This threshold would also apply for the General Fund Public Service Grants.",
+              "original_priority": "p2",
+              "dedup_note": "partial_overlap_complementary"
+            }
+          ]
+        },
+        {
+          "topic": "Affordable housing pipeline and funding",
+          "points": [
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "Crestview hotel conversion expected to open next year, with LA Avenida development starting construction and other projects following.",
+              "source": "Michaela Helman-Tincher : we do anticipate the Crestview hotel opening next year, the LA Avenida affordable housing development starting construction next year",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Wayne Chen",
+              "text": "Staff is developing displacement response strategy including acquisition preservation program, discussed at August 30th Council study session.",
+              "source": "Wayne Chen : Michaela and I are also looking at, as part of our displacement response strategy, opportunities to implement an acquisition preservation program",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Wayne Chen",
+              "text": "City Council asked staff to evaluate soft story retrofits three years ago, but project was paused due to pandemic and staff capacity constraints.",
+              "source": "Wayne Chen : The City Council actually asked staff to evaluate the issue of soft story retrofits beginning approximately 3 years ago",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "On the $30,000 minor home repair set-aside, staff said the amount reflects nonprofit demand estimates and capacity; they plan to reintroduce and publicize the program, monitor uptake, and adjust funding in future years if demand proves higher to avoid unspent funds penalties.",
+              "source": "Michaela Helman-Tincher : ...we did reach out to some nonprofits... that's how we came up with the 30,000 recommendation... bring back the program, get the word out and if we see that the demand is high, we can adjust it next year as well.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "Staff noted many recommendations formalize existing practice while preserving discretion. Exceptions (e.g., capital requests below $300,000) may be considered case by case, and NOFAs can state HRC/Council discretion alongside published evaluation criteria to be summarized for HRC in March.",
+              "source": "Michaela Helman-Tincher : ...at the discretion of the HRC and and City Council, you know there, there may be exceptions.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "City has four affordable housing projects currently approved by Council to move forward, with two more likely in next year.",
+              "source": "Michaela Helman-Tincher : We have, I believe, have to count think 4 projects that are currently approved by the council to move forward",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Michaela Helman-Tincher",
+              "text": "City anticipates funding gap for affordable housing pipeline and Council recently approved funding for Terra Bella housing development.",
+              "source": "Michaela Helman-Tincher : we do anticipate A funding gap for our pipeline at large",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Subcommittee updates",
+          "points": [
+            {
+              "speaker": "Jill Rakestraw",
+              "text": "Bystander Intervention Training Subcommittee has meeting scheduled for tomorrow to discuss existing community resources and clarify program explanation.",
+              "source": "Jill Rakestraw : We have our next meeting tomorrow",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Annette Lin",
+              "text": "Housing and Security Subcommittee met this week with Commissioner Webb, Vice Chair Sylvester, and community member Malia Perez to discuss potential projects.",
+              "source": "Annette Lin : So we were able to meet earlier this week",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Julie Solomon",
+              "text": "Julie Solomon reported a remaining closeout task for the History of Housing in Mountain View project: completing review of one interview's recording and transcript and updating the transcript.",
+              "source": "Julie Solomon : I still have a remaining task that I'm responsible for on history of housing and Mountain View close out, which is completing review of one interview",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Annette Lin",
+              "text": "The Mental Health project subcommittee has not met and had no updates to report at this meeting.",
+              "source": "Annette Lin : ...we do have another subcommittee from the mental health project, but they haven't. My understanding is they haven't met yet.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Julie Solomon",
+              "text": "Three community members are interested in being interviewed about housing instability experiences, with contact information provided to staff.",
+              "source": "Julie Solomon : there are three members of the community who would be interested potentially to be interviewed together and share their stories together about housing instability",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Recruitment and transitions",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "Applications were received for all vacant HRC positions, with Council interviews scheduled for November 21st.",
+              "source": "Laurel James : There were applicants for all of the vacant positions on the HRC, both current and anticipated, and interviews will be conducted on November 21st",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Annette Lin",
+              "text": "Chair Lin announced resignation effective Monday to align with recruitment timeline, allowing new commissioners to fill position through regular process.",
+              "source": "Annette Lin : Since the new applicants are being interviewed on the 21st, I was notified that it that because I'm resigning that I will need to resign my chair by or resign my Commission position by Monday",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Events and meeting format",
+          "points": [
+            {
+              "speaker": "Laurel James",
+              "text": "City Council declared November 13-19 as United Against Hate Week, with library hosting author conversation and film screening events.",
+              "source": "Laurel James : at the November 1st City Council meeting, the Council declared November 13th through November 19th. This year, United Against Hate Week",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Council extended virtual meetings through December 1st and announced intent to return to in-person meetings in January 2023.",
+              "source": "Laurel James : council's at the same meeting has extended virtual meetings through December 1st and also announced an intent to return to in person meetings in January",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Laurel James",
+              "text": "Library events include an online talk with Kwame Christian on November 15 at 9:00 AM (registration required) and an in-person film screening on James Baldwin's work on November 19 at 3:00 PM (no advance registration).",
+              "source": "Laurel James : ...author conversation with Kwame Christian... Tuesday, November 15th at 9:00 AM... and the 2nd is a film screening about James Baldwin's work on Saturday, November 19th at 3:00 PM.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Recognition and meeting closure",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "Annette Lin thanked housing staff for their presentation and Q&A. Commissioners expressed appreciation for Annette Lin's service and wished her well as she relocates. The meeting adjourned, with the next regular HRC meeting scheduled for December 1, 2022 at 6:00 PM.",
+              "source": "Annette Lin : I'd like to thank staff for for giving this great presentation... I will go ahead and adjourn to the next regular meeting... December 1st, 2022 at six.",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Commissioners",
+              "text": "Commissioners thanked Chair Lin for her service and contributions to the city, wishing her well in her move to San Mateo.",
+              "source": "Jill Rakestraw : thank you for everything you've done for the city and I hope that you enjoy your new home outside Mountain View",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Housing and Security Subcommittee",
+          "points": [
+            {
+              "speaker": "Annette Lin",
+              "text": "The Housing and Security Subcommittee met (members: Lin, Vice Chair Sylvester, Webb) with input from community member Malia Perez (Reach Potential). They are exploring both events and an online storytelling artifact (e.g., Humans of New York style) to amplify residents' housing experiences; plans remain exploratory.",
+              "source": "Annette Lin : ...we were also able to have... Malia Perez, join us... the idea of... Humans of New York where they tell the stories of local residents... letting their stories be told... and being able to amplify their voices.",
+              "original_priority": "p3",
+              "dedup_note": "partial_overlap_complementary"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Annette Lin",
+          "text": "Chair Lin will resign Commission position by Monday to align with recruitment timeline.",
+          "source": "Annette Lin : I will need to resign my chair by or resign my Commission position by Monday",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Julie Solomon",
+          "text": "Commissioner Solomon will complete review of remaining interview recording and transcript for housing history project.",
+          "source": "Julie Solomon : I still have a remaining task that I'm responsible for on history of housing and Mountain View close out, which is completing review of one interview",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Bystander Intervention Subcommittee",
+          "text": "Subcommittee will meet tomorrow to discuss existing community resources and program explanations.",
+          "source": "Jill Rakestraw : We have our next meeting tomorrow",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "Housing and Security Subcommittee",
+          "text": "Subcommittee will reconvene in couple weeks to develop framework for housing security project.",
+          "source": "Xavier Webb : We're going to get back together in a couple more weeks to try and keep keep hashing it out to to try and get something, some kind of framework around it",
+          "original_priority": "p2",
+          "dedup_note": "from_p2_unique"
+        },
+        {
+          "assignee": "Michaela Helman-Tincher",
+          "text": "Michaela Helman-Tincher will research whether CDBG/HOME funds can support earthquake retrofits and report back.",
+          "source": "Michaela Helman-Tincher : The short answer is I'm not quite sure we will do some research.",
+          "original_priority": "p3",
+          "dedup_note": "from_p3_unique"
+        },
+        {
+          "assignee": "Staff",
+          "text": "Staff will bring funding recommendations back to HRC for consideration in March 2023.",
+          "source": "Harsha Ramchandani : Public service and capital funding applications and staff recommendations will be brought back to the HRC for consideration in March 2023",
+          "original_priority": "p3",
+          "dedup_note": "from_p3_unique"
+        },
+        {
+          "assignee": "City Council",
+          "text": "City Council will conduct interviews for HRC vacancies on November 21.",
+          "source": "Laurel James : ...interviews will be conducted on November 21st with the City Council.",
+          "original_priority": "p3",
+          "dedup_note": "from_p3_unique"
+        }
+      ]
+    },
+    "merge_statistics": {
+      "total_p1_items": 19,
+      "total_p2_items": 12,
+      "total_p3_items": 6,
+      "final_items": 30,
+      "duplicates_removed": 7,
+      "deduplication_details": {
+        "p2_skipped": [
+          {
+            "item_type": "point",
+            "text": "Staff highlighted a robust affordable housing pipeline and anticipated funding gaps; projects include Crestview hotel opening next year, La Avenida starting construction, Montecito and Lot 12 to follow, and Terra Bella funded. HOME funds would be allocated across pipeline projects to meet HUD timelines.",
+            "source": "Michaela Helman-Tincher : ...we do anticipate the Crestview hotel opening next year, the LA Avenida affordable housing development starting construction next year... Montecito... LOT 12... funding for the Terra Bella housing development...",
+            "speaker": "Michaela Helman-Tincher",
+            "reason": "duplicate_with_p1: same_source_paraphrase (Crestview hotel opening next year, LA Avenida starting construction)"
+          }
+        ],
+        "p3_skipped": [
+          {
+            "speaker": "Housing staff",
+            "text": "Housing staff will issue the CDBG and General Fund NOFA in early December 2022 and close it by January 2023.",
+            "source": "Harsha Ramchandani : ...issuing a notice of CDBG and general fund funding availability in early December 2022. The NOFA will close by January of 2023.",
+            "reason": "duplicate_with_p1: same_source_paraphrase (CDBG and General Fund NOFA early December 2022, closing January 2023)"
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_final_merge/generation_final_merge",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "96d6eff54eb8b4ced496aeb8e349890a5e5d3f8bdf8dd6229ebee2e637c5f8c8",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:41:45.398923+00:00"
+  }
+}

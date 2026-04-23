@@ -1,0 +1,171 @@
+{
+  "result": {
+    "meeting_context": "This is the final Human Relations Commission meeting of 2022, focused on farewells to departing commissioners and transition planning. The meeting includes subcommittee updates and administrative announcements about policy changes and new commissioner appointments.",
+    "participants": [
+      "IdaRose Sylvester",
+      "Laurel James",
+      "Kevin Ball",
+      "Julie Solomon",
+      "Xavier Webb",
+      "Nirvana Nwokidu",
+      "Annette"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Administration and Attendance Policy",
+        "points": [
+          {
+            "speaker": "IdaRose Sylvester",
+            "text": "Meeting called to order at 6:33 PM on December 1st, 2022, with three commissioners departing and three new commissioners joining in 2023.",
+            "source": "IdaRose Sylvester : I call this meeting to order at 0633 on December 1st, 2022"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "Commissioner Rakestraw's absence was classified as excused due to personal illness under Council policy K-02.",
+            "source": "Laurel James : Sure, I think it's appropriate to say that the Commissioner is absent for a personal illness"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "New attendance policy implemented to align HRC with Council policy K-02 governing advisory bodies, requiring general consensus vote on excused versus unexcused absences.",
+            "source": "Laurel James : They want to clarify that this process was introduced to bring the HRC into alignment with Council policy K02 governing Council advisory bodies"
+          }
+        ]
+      },
+      {
+        "topic": "Housing and Security Subcommittee Update",
+        "points": [
+          {
+            "speaker": "IdaRose Sylvester",
+            "text": "Subcommittee working with Malia Perez from Reach Potential and Annette Lynn as community volunteer to plan May 2023 in-person event.",
+            "source": "IdaRose Sylvester : As you all know, we're working with Malia Perez from Reach Potential and Annette Lynn is staying with our subcommittee as a community member and volunteer"
+          },
+          {
+            "speaker": "IdaRose Sylvester",
+            "text": "Event concept involves round table discussions with unstably housed individuals (initially unidentified) followed by storytelling and panel presentations.",
+            "source": "IdaRose Sylvester : Everyone will sit at a round table at different round tables, and each table will have a person who is unstably housed sitting at it, but this person will not be identified as such"
+          },
+          {
+            "speaker": "IdaRose Sylvester",
+            "text": "Unstably housed definition includes homeless individuals, vehicle residents, couch surfers, subsidized housing residents, and overcrowded housing situations.",
+            "source": "IdaRose Sylvester : In terms of what unstably housed means to our group, we are broadly defining this to include people who are St. homeless, vehicle residents, people who couch surf"
+          }
+        ]
+      },
+      {
+        "topic": "Mental Health Subcommittee Progress",
+        "points": [
+          {
+            "speaker": "Nirvana Nwokidu",
+            "text": "First subcommittee meeting focused on brainstorming goals, format, and potential partners while defining mental health scope for community program development.",
+            "source": "Nirvana Nwokidu : It was our first meeting. You know, as we had mentioned the previous meeting, we couldn't meet, but it was still a good meeting"
+          },
+          {
+            "speaker": "Nirvana Nwokidu",
+            "text": "Commissioner Rakestraw assigned to research NAMI and Parents Helping Parents as potential program partners for mental health initiative.",
+            "source": "Nirvana Nwokidu : And I think we Commissioner Direction was supposed to look into NAMI"
+          }
+        ]
+      },
+      {
+        "topic": "Administrative Updates and Policy Changes",
+        "points": [
+          {
+            "speaker": "Laurel James",
+            "text": "City Attorney's Office will host virtual Brown Act training for all board and commission members in January 2023 evenings.",
+            "source": "Laurel James : The City Attorney's Office will be hosting a Brown Act Training for all new and incumbent Board, Commission, and committee members in January 2023"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "Form 700 filings are due to Fair Political Practices Commission with City Clerk's Office available for assistance.",
+            "source": "Laurel James : I want to remind Commissioners that your Form 7 hundreds are due to the Fair Political Practices Commission"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "All meetings return to in-person format at City Hall Plaza conference room starting February 1st, 2023, ending virtual meeting authorization.",
+            "source": "Laurel James : All board, Commission and committee meetings from February 1st, 2023 onward will be held in person"
+          },
+          {
+            "speaker": "Laurel James",
+            "text": "Council Appointments Committee recommendations for new and incumbent HRC appointments will be considered by Council on December 13th.",
+            "source": "Laurel James : So the recommendation from the Council Appointments Committee, including new and incumbent appointments to the HRC will go before the Council for consideration on December 13th"
+          },
+          {
+            "speaker": "IdaRose Sylvester",
+            "text": "Seven to eight applicants applied for HRC positions with Webb and Sylvester nominated for reappointment and three new members nominated.",
+            "source": "IdaRose Sylvester : I believe there were seven or it may have been 8 applicants for HRC"
+          }
+        ]
+      },
+      {
+        "topic": "Housing Discrimination Research Project",
+        "points": [
+          {
+            "speaker": "Julie Solomon",
+            "text": "Continuing transcript edits for Spanish language interviews from housing discrimination study, requiring participant sign-off with Stanford's Camilla.",
+            "source": "Julie Solomon : So we we have been moving forward with that and specifically for Spanish language interviews, we want to be sure we have sign off from the participants on the transcripts"
+          }
+        ]
+      },
+      {
+        "topic": "Commissioner Farewells and Recognition",
+        "points": [
+          {
+            "speaker": "IdaRose Sylvester",
+            "text": "Departing commissioners Ball, Solomon, and Lynn recognized for enormous impact and contributions to HRC's community-focused mission.",
+            "source": "IdaRose Sylvester : I want to just say the three of you have left enormous impact and shape the HRC in ways that will continue long after you are gone"
+          },
+          {
+            "speaker": "Annette",
+            "text": "Former Chair Lynn expressed honor serving as chair and appreciation for thoughtful farewell card from commissioners.",
+            "source": "Annette : Last meeting was my last meeting chairing. And got to say goodbye to the commissioners and Laurel who was able to attend then"
+          },
+          {
+            "speaker": "Kevin Ball",
+            "text": "Ball emphasized Mountain View's strong sense of local community compared to other Bay Area cities, crediting HRC members for contributing to city's livability.",
+            "source": "Kevin Ball : I think the people who choose to do HRC are are part of that and I appreciate all of you and the time and energy and and care that you've put into making this a city that is great to live in"
+          },
+          {
+            "speaker": "Julie Solomon",
+            "text": "Solomon credited HRC participation with significantly increasing her sense of community and belonging in Mountain View over six years of service.",
+            "source": "Julie Solomon : And it really has been just really far exceeded my expectations at so many levels"
+          },
+          {
+            "speaker": "Xavier Webb",
+            "text": "Webb thanked departing commissioners for mentoring new members and creating foundation for future service to Mountain View community.",
+            "source": "Xavier Webb : You guys were so kind and so thoughtful and so giving of yourselves to helping us to become better partners in this process"
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Housing and Security Subcommittee",
+        "text": "Subcommittee will finalize date for May 2023 in-person housing event and provide comprehensive update at next meeting.",
+        "source": "IdaRose Sylvester : We have an open action item to nail a date, but this will be an in person event in May"
+      },
+      {
+        "assignee": "Commissioner Rakestraw",
+        "text": "Commissioner Rakestraw will research NAMI and Parents Helping Parents organizations as potential mental health program partners.",
+        "source": "Nirvana Nwokidu : And I think we Commissioner Direction was supposed to look into NAMI"
+      },
+      {
+        "assignee": "Laurel James",
+        "text": "Laurel will obtain Brown Act training duration information and provide feedback to City Clerk's office about attendance policy voting concerns.",
+        "source": "Laurel James : But I will find that out for you, OK?"
+      }
+    ],
+    "metadata": {
+      "topicCount": 6,
+      "pointCount": 19,
+      "decisionCount": 3
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:24:35.857503+00:00"
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "meeting_context": "White House press briefing imported from 20240108_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "MR. KIRBY"
+  ],
+  "topics": [
+    {
+      "topic": "President Biden is traveling to South Carolina and",
+      "points": [
+        {
+          "text": "President Biden is traveling to South Carolina and Dallas, where he will deliver remarks at Mother Emanuel AME Church and pay his respects to the late Congresswoman Eddie Bernice Johnson, while the Admiral provides an update on trucks entering Gaza.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The U S is focused on increasing humanitarian",
+      "points": [
+        {
+          "text": "The U.S. is focused on increasing humanitarian assistance into Gaza and expressing a strong desire to prevent the conflict from escalating or widening.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The main focus is on Secretary Austin's health",
+      "points": [
+        {
+          "text": "The main focus is on Secretary Austin's health and ensuring he receives the necessary care and support for a full recovery, with no mention of consequences for not informing the White House about his hospitalization.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The focus is on Secretary Austin's health and",
+      "points": [
+        {
+          "text": "The focus is on Secretary Austin's health and recovery, with no plans for him to be fired and the President valuing his leadership and looking forward to having him back at the Pentagon.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is committed to transparency and",
+      "points": [
+        {
+          "text": "The White House is committed to transparency and will release information about President Biden's medical procedures in a timely manner, as they have always prioritized transparency throughout his administration.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House acknowledges the lack of transparency",
+      "points": [
+        {
+          "text": "The White House acknowledges the lack of transparency regarding President Biden's medical procedure and plans to review their processes and procedures to ensure better communication in the future.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House acknowledges the expectation that when",
+      "points": [
+        {
+          "text": "The White House acknowledges the expectation that when a Cabinet official becomes hospitalized, it should be notified up the chain of command.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "On the morning of January 1st Secretary of",
+      "points": [
+        {
+          "text": "On the morning of January 1st, Secretary of Defense and other officials had a secure conference call with the President regarding operations in the Middle East.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the Secretary of Defense's health",
+      "points": [
+        {
+          "text": "The speaker discusses the Secretary of Defense's health and confirms that he is recovering well and expects to return to the Pentagon soon, while also mentioning the process in place for the Situation Room to know the general location of non-White House principals.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker explains that the process in place",
+      "points": [
+        {
+          "text": "The speaker explains that the process in place for the Situation Room is to know the general location of non-White House principals, and clarifies that there was no notification or knowledge at the White House or the National Security Council about a Cabinet official being hospitalized until Thursday afternoon.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker states that there was no prior",
+      "points": [
+        {
+          "text": "The speaker states that there was no prior notification or knowledge at the White House or National Security Council about a Cabinet official being hospitalized until Thursday afternoon.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker asks if someone is leaving",
+      "points": [
+        {
+          "text": "The speaker asks if someone is leaving.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre addresses Admiral J J who",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre addresses Admiral J.J. who is still within earshot and mentions that J.J. had a question.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre asks Admiral J J about",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre asks Admiral J.J. about reports on Elon Musk's alleged drug use and concerning behavior, as well as his government contracts, but Mr. Kirby declines to comment.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre declines to comment on reports",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre declines to comment on reports about Elon Musk and questions whether the American people should have confidence in Austin and the President due to a lack of transparency.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre reiterates the President's confidence in",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre reiterates the President's confidence in Secretary Austin and emphasizes the importance of his recovery and return to the Pentagon.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The transcript section discusses President Biden's conversation with",
+      "points": [
+        {
+          "text": "The transcript section discusses President Biden's conversation with Secretary Austin, his appreciation for Austin taking responsibility, and deferring to the Department of Defense to provide details on the incident and the administration's view on avoiding a shutdown.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is urging congressional Republicans to",
+      "points": [
+        {
+          "text": "The White House is urging congressional Republicans to fulfill their responsibility to fund critical domestic and national security priorities and avoid a government shutdown.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker highlights that during the first go",
+      "points": [
+        {
+          "text": "The speaker highlights that during the first go-around of the debt ceiling, the President was actively involved in securing a bipartisan agreement that received support from both Republican and Democratic lawmakers in order to prioritize the needs of the American people.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The administration was involved in providing technical guidance",
+      "points": [
+        {
+          "text": "The administration was involved in providing technical guidance to lawmakers during the negotiation process of the debt ceiling deal and believes it is consistent with the original agreement.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The administration states that the framework for the",
+      "points": [
+        {
+          "text": "The administration states that the framework for the debt ceiling deal adheres to the bipartisan budget agreement and maintains the agreed-upon levels of defense and non-defense discretionary spending.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "MS Jean Pierre states that the President is",
+      "points": [
+        {
+          "text": "MS. Jean-Pierre states that the President is aware of Defense Secretary Austin's medical condition and wants him to get well and return to his job at the Pentagon.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre confirms that the conversation being",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre confirms that the conversation being referred to is between the President and the Speaker.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre confirms that the President is",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre confirms that the President is regularly communicating and in contact with congressional leaders, including the Speaker, but she does not have any specific conversations between them to preview or announce at this time.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre mentions that a Republican negotiator",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre mentions that a Republican negotiator expects to have something related to the supplemental go out this week and expresses appreciation for the bipartisan conversation on border security in the Senate, while also being asked about former President's comments on January 6th detainees.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre emphasizes that the events on",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre emphasizes that the events on January 6th were an attack on democracy, with 2,000 insurrectionists assaulting the Capitol and a confederate flag being flown inside.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre acknowledges the loss of police",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre acknowledges the loss of police officers' lives during the January 6th attack on the Capitol and declines to comment on matters related to hostages, 2024, DOJ investigations, or legal processes.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre condemns the comparison between the",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre condemns the comparison between the January 6th attack on the Capitol and other events, emphasizing that the American people must make a choice.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre emphasizes the importance of not",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre emphasizes the importance of not repeating the events of January 6th, calls out misinformation about the attack, and states that President Biden will continue to uphold the dignity and rights of all Americans.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

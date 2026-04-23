@@ -1,0 +1,129 @@
+{
+  "result": {
+    "meeting_context": "Special City Council meeting to interview seven applicants for two four‑year Environmental Planning Commission (EPC) seats, conducted remotely with public access. Council adjusted the first interview question, used the policy-prescribed tally voting method, and reached a recommendation to reappoint two incumbents, with a formal resolution planned for December 13, 2022.",
+    "participants": [
+      "Lucas Ramirez",
+      "Heather Glaser",
+      "Margaret Abekoga",
+      "Ellen Kamei",
+      "Sally Leiber",
+      "Lisa Matichak",
+      "Alison Hicks",
+      "Anne Cavanaugh",
+      "Bill Cranston",
+      "Paul Donahue",
+      "Jose Gutierrez",
+      "Silja Paymer",
+      "Molly Smith",
+      "Li Zhang",
+      "Patricia Walter"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting setup and accessibility",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "The City piloted Zoom automated captioning for this meeting, noting captions were computer-generated, unedited, and not reliable for complete accuracy or as a verbatim transcript. Attendees were instructed on enabling captions, selecting language, and adjusting caption settings.",
+            "source": "Lucas Ramirez : The content represents unedited versions of computer generated captioning of City Council meetings, which should neither be relied upon for complete accuracy nor used as a verbatim transcript."
+          },
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "The meeting was conducted by video conference under California Government Code Section 54953(e) with no physical location. The public could watch on YouTube and provide oral comments via the City’s Zoom webinar or by phone per the agenda instructions.",
+            "source": "Lucas Ramirez : This meeting will be conducted in accordance with California Government Code Section 54953 E, as authorized by resolution of the City Council."
+          },
+          {
+            "speaker": "Heather Glaser",
+            "text": "Roll call established a quorum with Council Member Schwalter absent; other council members, including the Mayor and Vice Mayor, were present and participating via video conference.",
+            "source": "Heather Glaser : You have a quorum with Council Member Schwalter absent."
+          }
+        ]
+      },
+      {
+        "topic": "Interview process and questions",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Council interviewed seven EPC applicants in a panel format, using standardized questions with equal time limits and randomized round-robin order. The City Clerk tracked time, and clarifying questions from councilmembers were limited strictly to resolving unclear responses, not allowing candidates to expand answers.",
+            "source": "Lucas Ramirez : Interviews will be conducted in a panel format. Each applicant will receive the same amount of time to answer each question."
+          },
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "To maintain fairness while eliciting relevant input, the first question was modified to ask incumbents what they have personally contributed to the EPC and non‑incumbents what unique contributions they would bring, while keeping the limit at one minute for all applicants.",
+            "source": "Lucas Ramirez : The first question would be modified to what have you personally done to make a contribution to the EPC or if you are not currently serving, what would you bring to the EPC that is unique their general consensus on that modification?"
+          }
+        ]
+      },
+      {
+        "topic": "Voting method and procedure",
+        "points": [
+          {
+            "speaker": "Alison Hicks",
+            "text": "The Council proceeded with the policy‑prescribed tally method for selecting EPC appointees rather than using motions and seconds, after the Mayor and City Clerk noted that changing the method would require majority support.",
+            "source": "Alison Hicks : Why don't we use your tally method? And what? The statements I made are just my own comments."
+          }
+        ]
+      },
+      {
+        "topic": "EPC appointments outcome",
+        "points": [
+          {
+            "speaker": "Heather Glaser",
+            "text": "After two voting rounds for two four‑year terms, the Council reached majority support to reappoint Bill Cranston and Jose Gutierrez to the Environmental Planning Commission. The City Clerk will return on December 13 with a resolution to formally confirm these appointments.",
+            "source": "Heather Glaser : Yeah, it's just a study session. So on December 13, we'll bring a resolution to the council formally reappointing Bill and Jose for those next terms."
+          }
+        ]
+      },
+      {
+        "topic": "Training and meeting format proposals",
+        "points": [
+          {
+            "speaker": "Ellen Kamei",
+            "text": "Ellen Kamei proposed a Commission/Board Training 101 for EPC members, clearer guidance on EPC’s advisory role and framing of questions, and preparation for hybrid public comment processes as meetings transition from Zoom to hybrid or in‑person, to improve effectiveness and process clarity.",
+            "source": "Ellen Kamei : I would like to see us be able to do that particularly kind of I'm... a Commission or board training 101... and perhaps also some clarity on the questions being asked to to EPC and their advisory capacity... how that's going to be hybrid."
+          }
+        ]
+      },
+      {
+        "topic": "Meeting closure and next steps",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "Lucas Ramirez thanked all applicants for participating, noted that the Council will finalize EPC appointments by resolution, announced the next City Council meeting on December 6, 2022, and adjourned the meeting at 6:38 PM.",
+            "source": "Lucas Ramirez : The next City Council meeting will be held on December 6th, 2022... The meeting is adjourned at 6:38 PM."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "City Council",
+        "text": "Use a modified Question 1—incumbents describe personal EPC contributions; non‑incumbents state unique contributions—with a one‑minute limit for all applicants during this interview session.",
+        "source": "Lucas Ramirez : The first question would be modified to what have you personally done to make a contribution to the EPC or if you are not currently serving, what would you bring to the EPC that is unique their general consensus on that modification?"
+      },
+      {
+        "assignee": "City Council",
+        "text": "Follow the policy‑prescribed tally voting method for EPC selections rather than using motions and seconds.",
+        "source": "Alison Hicks : Why don't we use your tally method? And what? The statements I made are just my own comments."
+      },
+      {
+        "assignee": "City Clerk",
+        "text": "Bring a resolution on December 13 to formally reappoint Bill Cranston and Jose Gutierrez to four‑year EPC terms.",
+        "source": "Heather Glaser : So on December 13, we'll bring a resolution to the council formally reappointing Bill and Jose for those next terms."
+      }
+    ],
+    "metadata": {
+      "topicCount": 6,
+      "pointCount": 9,
+      "decisionCount": 3
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "openai",
+    "model": "gpt-5-2025-08-07",
+    "timestamp": "2026-04-01T06:54:36.470109+00:00"
+  }
+}

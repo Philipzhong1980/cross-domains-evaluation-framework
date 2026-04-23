@@ -1,0 +1,163 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "FY2022 ACFR Audit Results and Highlights",
+          "points": [
+            {
+              "speaker": "Banjamin Lau",
+              "text": "MGO completed the City's FY2022 financial statement audit and issued a clean opinion with an emphasis of matter for GASB 87 lease implementation. No internal control findings or unrecorded misstatements were identified.",
+              "source": "Banjamin Lau : In summary, we have completed our audit ... have issued A modified opinions ... In other words, it's a clean opinion ... We did not identify any findings on internal control over financial reporting for this year.",
+              "from_gt": "gt1",
+              "validation_note": "modified"
+            },
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "A Council consent item to accept the ACFR and related audit reports is scheduled for December 13, pending this committee's recommendation.",
+              "source": "Jesse Takahashi : a consent item ... scheduled for the December 13th agenda ... pending a recommendation from this committee today.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Equipment Replacement Fund Balance and Charges",
+          "points": [
+            {
+              "speaker": "Banjamin Lau",
+              "text": "The $26 million equipment maintenance and replacement fund balance shown as \"cash and investments\" reflects the fund's share of the City's pooled cash and investments, not a separate account. The pooling approach maximizes returns while maintaining liquidity to meet operational needs.",
+              "source": "Banjamin Lau : the city operate as a whole has a pool of cash... the dollar amount that you're seeing is the internal service funds respective portion of the whole pool... one of the criterias is always about liquidity.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "Charges are set to amortize replacement costs (including inflation) over asset lives, aiming for 100% funding without overcollecting. Longer-than-expected vehicle service lives can slow spending and increase balances; staff acknowledged reviewing funding levels and potential charge adjustments could be appropriate.",
+              "source": "Jesse Takahashi : those are amortized at an expected replacement value... we typically don't over fund... we may not spend as quickly as we initially project... maybe we can lower charges ... we ... can look at and ... get back to the committee with an update.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Community Benefit Revenues Tracking and Reporting",
+          "points": [
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "Some community benefits are provided directly by developers (e.g., below-market rents, parking, infrastructure) and do not flow through the City; these are not recorded on City ledgers, so external reports may present an incomplete picture of total benefits delivered.",
+              "source": "Jesse Takahashi : to the extent the city's not receiving the cash payment... that would not get recorded on our on our ledger's... we may have an incomplete picture from that standpoint.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Top Employers Schedule Clarification and Context",
+          "points": [
+            {
+              "speaker": "Banjamin Lau",
+              "text": "The ACFR's top employers schedule lists only the current top ten, with a cutoff around 500 employees; an employer like LinkedIn may not appear if below that threshold, not necessarily indicating zero employees. The schedule also shows the top ten from ten years ago for historical comparison.",
+              "source": "Banjamin Lau : this schedule only showed us a top 10 ... the cut off for this year is at 500... if they have 499, it doesn't get to this list. / Jesse Takahashi : it also shows what the top ten were up 10 years ago.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Public Safety Expenditure Variance Explanation",
+          "points": [
+            {
+              "speaker": "Grace Zheng",
+              "text": "A decrease in public safety expenses reflected in the ACFR relates to GASB 68 pension accounting: significant CalPERS investment income reduced entity-wide pension expense, and the public safety pension plan's impact appears specifically in the public safety category.",
+              "source": "Grace Zheng : including Gatsby 68 for Cowper's pension... significant investment income earning... positive impact reduce our entity wide expenditure... the public safety plan hits the public safety category only.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "State Budget Impact Briefing Request",
+          "points": [
+            {
+              "speaker": "Sally Lieber",
+              "text": "The Chair requested staff provide the Council with information on how the State's projected budget shortfalls (approximately $25 billion, potentially $50 billion next year) could affect City programs that currently rely on anticipated state funding.",
+              "source": "Sally Lieber : the legislative analysts report was concerning of $25 billion hole ... growing to a potential $50 billion ... information for council on how that will impact some of the programs that we've made a commitment to would be great.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting Procedures and Minutes Approval",
+          "points": [
+            {
+              "speaker": "Sally Lieber",
+              "text": "Committee approved February 28th, 2022 meeting minutes unanimously via roll call vote",
+              "source": "Sally Lieber : OK, all in favor, say aye... Unanimous",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Equipment Maintenance and Replacement Fund Analysis",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Equipment maintenance and replacement fund has $26 million balance, significantly higher than historical expenditure patterns over past 15 years",
+              "source": "Lucas Ramirez : the fund balance for the equipment maintenance and replacement fund is $26 million",
+              "from_gt": "gt2",
+              "validation_note": "modified"
+            }
+          ]
+        },
+        {
+          "topic": "Single Audit and Federal Compliance",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Single audit will include American Rescue Plan Act funds as federal funding subject to compliance review",
+              "source": "Lucas Ramirez : the single the audit will include the American Rescue Plan Act funds since those are federal funds",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "MGO (external auditor)",
+          "text": "Complete and submit the Single Audit by the March 31, 2023 statutory deadline.",
+          "source": "Banjamin Lau : we have not audited yet, but we expect to meet the statutory deadline of March 31st, 2023.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        },
+        {
+          "assignee": "Finance Department staff",
+          "text": "Update ACFR exhibits to replace \"citizens\" with \"residents\" and include the Public Safety Advisory Board.",
+          "source": "Jesse Takahashi : we need to make that change also here in that for... We'll get that corrected.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 11,
+      "kept": 9,
+      "modified": 2,
+      "dropped": 0,
+      "from_gt1_kept": 8,
+      "from_gt2_kept": 3
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:43:59.708679+00:00"
+  }
+}

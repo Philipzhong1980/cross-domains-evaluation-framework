@@ -1,0 +1,139 @@
+{
+  "result": {
+    "validated_single_aligned": {
+      "topics": [
+        {
+          "topic": "Virtual meeting compliance and attendance",
+          "points": [
+            {
+              "speaker": "Sally Lieber",
+              "text": "The meeting was conducted under California Government Code Section 54953(e) via videoconference without a physical location; the roll call reflected all committee members present. Public participation was available via website, Zoom, and phone, and no public or email comments were received.",
+              "source": "Sally Lieber : This meeting is being held in accordance with California Government Code Section 54953 E... And we can let the the role reflect that all the members of the committee are present. / Jesse Takahashi : And I'll just add that there were no communications by e-mail that were submitted as well.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "City investment portfolio status and performance",
+          "points": [
+            {
+              "speaker": "Carlos Oblites",
+              "text": "Within a 15% corporate policy limit (state code allows 30%), Chandler increased the corporate allocation by about one percentage point over three months. Reduced federal agency issuance and lower relative yields supported a preference for Treasuries' liquidity and similar or better yields.",
+              "source": "Carlos Oblites : ...policy allows up to 15% in corporate credit... we were able to increase that from three months ago about 1%... federal agencies... curtailed their issuance... pushes their yields down... we'd rather have the liquidity of the treasury... for similar or even higher yields.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Carlos Oblites",
+              "text": "A previously downgraded Toyota Motor Corp position that fell below the minimum credit quality had been held for strategic reasons but has since rolled out of the portfolio, eliminating the exception.",
+              "source": "Carlos Oblites : ...Toyota Motor Corp which had been downgraded beneath the minimum credit quality... was made to hold it... That's now rolled out of the portfolio. It's no longer there.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Corporate holdings and 144A policy considerations",
+          "points": [
+            {
+              "speaker": "Carlos Oblites",
+              "text": "In response to questions, Chandler affirmed that active bond management (selling at a loss to reinvest at higher yields) can add value, but the city's policy is to hold to maturity, and Chandler respects and follows this conservative policy for the city's portfolio.",
+              "source": "Carlos Oblites : ...active management actually does add value... it's been the policy of the city that the city simply holds to maturity... we've been respectful of that policy...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Chandler advisory engagement history",
+          "points": [
+            {
+              "speaker": "Carlos Oblites",
+              "text": "Chandler provided portfolio accounting and reporting services since the mid-2000s. The city retained Chandler for limited corporate investment advisory services in 2018 for 2019, with the engagement renewed in 2021.",
+              "source": "Carlos Oblites : We've been working with you since the mid 2000s to provide accounting reporting... in 2018 for 2019 you retained our services to provide investment advisory on a limited basis... then you renew that in 2021.",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "SRI outreach and meeting closure",
+          "points": [
+            {
+              "speaker": "Sally Lieber",
+              "text": "Sally Lieber thanked Councilmember Lisa Matichak, the Mayor, and staff (including Jesse Takahashi) for sending a letter to LAIF urging divestment from carbon-related investments, thanked participants for their contributions, and suggested the full council should receive the investment advisor's report for broader policy context.",
+              "source": "Sally Lieber : ...thank Councilmember Matichak and to the Mayor... and also to staff Mr. Takahashi for getting a letter out to Leif urging divestment from carbon related investments... we very much appreciate your report... it would be very beneficial for council to as a whole to receive the report...",
+              "from_gt": "gt1",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Economic Environment and Federal Reserve Policy",
+          "points": [
+            {
+              "speaker": "Carlos Oblites",
+              "text": "Federal Reserve raised target rate five times during fiscal year, from zero to 3.25% range, with 75 basis point increases in final three meetings.",
+              "source": "Carlos Oblites : They have raised the target rate for this for this chart on the right hand side five times the at the first clip they did 25 basis points. They raised it a quarter percent from zero. It was a zero to 25 basis point range, so zero to 25. They raised it 25 basis points, 1/4 of a percent the second time, 2nd, 3rd and 4th. The second they did 50. The 3rd, 4th and 5th, they did 75 basis points apiece",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Carlos Oblites",
+              "text": "Fed governors indicated rates will continue rising to approximately 4.5% target to combat persistent inflation.",
+              "source": "Carlos Oblites : Fed Governors Bostic and Kashkari and a couple others people that sit on the committee that sets the federal funds target rate have basically come out and said we're not done raising rates. Inflation is still too high. We think that this three and a quarter rate that that we set for for the federal funds target rate, we think we're going to be closer to 4 1/2",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        },
+        {
+          "topic": "Committee Operations and Recognition",
+          "points": [
+            {
+              "speaker": "Lisa Matichak",
+              "text": "Committee member expressed appreciation for monthly investment reports and regular financial updates from staff.",
+              "source": "Lisa Matichak : I do want to say I appreciate the monthly reports. I do look at them. So thanks for sending those out",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            },
+            {
+              "speaker": "Jesse Takahashi",
+              "text": "Staff confirmed upcoming city celebration event next week with committee members Steven and Doug planning to attend in person.",
+              "source": "Jesse Takahashi : Just one more, I just wanted to confirm. I think we have our celebration next week and I believe our two members, Steven and Doug are gonna be there",
+              "from_gt": "gt2",
+              "validation_note": "kept"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Finance Department",
+          "text": "Finance staff will bring the Shoreline bonds refinancing to the City Council for approval in November and aim to close the transaction shortly thereafter.",
+          "source": "Jesse Takahashi : ...should be coming back to council in November for the final approval and we expect to close also shortly thereafter in November.",
+          "from_gt": "gt1",
+          "validation_note": "kept"
+        }
+      ]
+    },
+    "dropped_points": [],
+    "validation_stats": {
+      "total_reviewed": 10,
+      "kept": 10,
+      "modified": 0,
+      "dropped": 0,
+      "from_gt1_kept": 6,
+      "from_gt2_kept": 4
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_single_align_v1/generation_review_single_align_v1",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "740b0bc1fbc4dfc5aed0c94a31aa821aff43df44bbab92a435634f26fa96dbc5",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:02:03.305251+00:00"
+  }
+}

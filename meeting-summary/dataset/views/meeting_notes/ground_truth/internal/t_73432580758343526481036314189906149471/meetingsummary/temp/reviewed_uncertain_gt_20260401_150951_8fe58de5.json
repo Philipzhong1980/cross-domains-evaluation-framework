@@ -1,0 +1,47 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "Closed Session Announcement",
+          "points": [
+            {
+              "speaker": "Danica Lowe",
+              "text": "City Council will conduct public employee performance evaluations in closed session pursuant to California Government Code Section 54957 for City Attorney, City Clerk, and City Manager.",
+              "source": "Danica Lowe : In close session this evening, City Council will be conducting public employee performance evaluations pursuant to California Government Code Section 54957 for the City Attorney. City of Clerk and City Manager and Council will not be taking any reportable action in closed session this evening.",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "modify",
+        "reasoning": "Transcript shows Danica Lowe mentioned all three positions across two consecutive statements. First statement mentions 'City Attorney', second statement adds 'City of Clerk and City Manager'. GT2 is correct about the scope but needs source correction to include both statements that establish the full list of positions.",
+        "transcript_evidence": [
+          "Danica Lowe : In close session this evening, City Council will be conducting public employee performance evaluations pursuant to California Government Code Section 54957 for the City Attorney.",
+          "Danica Lowe : City of Clerk and City Manager and Council will not be taking any reportable action in closed session this evening."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 1,
+      "merged": 0,
+      "excluded": 0,
+      "modified": 1,
+      "confidence": "High confidence - transcript clearly shows all three positions (City Attorney, City Clerk, City Manager) are subject to performance evaluations in closed session, mentioned across two consecutive statements by the same speaker."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:09:51.627707+00:00"
+  }
+}

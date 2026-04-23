@@ -1,0 +1,323 @@
+{
+  "meeting_context": "White House press briefing imported from 20231109_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "None",
+    "Unidentified",
+    "MR. KIRBY",
+    "MS. JEAN-PIERRE",
+    "AIDE"
+  ],
+  "topics": [
+    {
+      "topic": "Ms Jean Pierre greets everyone in the afternoon",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre greets everyone in the afternoon and receives greetings in return.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Voters in several states including Ohio Kentucky Virginia",
+      "points": [
+        {
+          "text": "Voters in several states, including Ohio, Kentucky, Virginia, and Pennsylvania, rejected attempts to impose extreme abortion bans and instead supported President Biden's agenda to protect reproductive rights and build an economy for the middle class.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The transcript discusses the administration's efforts to counter",
+      "points": [
+        {
+          "text": "The transcript discusses the administration's efforts to counter antisemitism and Islamophobia, condemning acts of hate and emphasizing the importance of protecting Jewish, Muslim, Arab, and Palestinian American communities.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The transcript discusses the efforts of the G7",
+      "points": [
+        {
+          "text": "The transcript discusses the efforts of the G7 foreign ministers and the US government to address the humanitarian crisis in Gaza, condemn Hamas terror attacks, support Israel's right to defend itself, and provide humanitarian aid and assistance to Palestinian civilians.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States aims to ensure that the",
+      "points": [
+        {
+          "text": "The United States aims to ensure that the Palestinians have control over their future and determine the governance structure in Gaza and the West Bank, while discussions on a three-day humanitarian pause continue.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States acknowledges the possibility of an",
+      "points": [
+        {
+          "text": "The United States acknowledges the possibility of an Israeli Defense Forces presence in Gaza during the immediate aftermath of the conflict but emphasizes that it should not be a long-term solution and urges Israel to be cautious and avoid civilian casualties.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States acknowledges that there has been",
+      "points": [
+        {
+          "text": "The United States acknowledges that there has been no change in their policy regarding the Golan Heights and expresses the need for a solution to govern Gaza involving the Palestinian Authority and other regional partners, while also emphasizing the priority of securing the release of hostages and providing aid.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson for the White House refuses to",
+      "points": [
+        {
+          "text": "The spokesperson for the White House refuses to negotiate publicly or provide details on the demands of Hamas regarding the release of hostages, stating that discussing the negotiating stance could jeopardize the ongoing process.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson for the White House declines to",
+      "points": [
+        {
+          "text": "The spokesperson for the White House declines to comment on negotiations between Qatar, Egypt, and Hamas regarding the release of hostages, and states that they do not have perfect visibility on all the identities of the hostages.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson for the White House discusses the",
+      "points": [
+        {
+          "text": "The spokesperson for the White House discusses the possibility of multiple humanitarian pauses in Gaza and expresses confidence in Ukraine's ability to win back its territory, while also addressing the need for border security funding and the dwindling funds available for Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson for the White House refuses to",
+      "points": [
+        {
+          "text": "The spokesperson for the White House refuses to comment on the UN Chief's assessment of Israeli military operations in Gaza, emphasizing the US's support for Israel's self-defense while urging caution to minimize civilian casualties, and dismisses the significance of a poll indicating lower public perception of President Biden's effectiveness as a world leader.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson affirms the President's belief in the",
+      "points": [
+        {
+          "text": "The spokesperson affirms the President's belief in the possibility of militarily disrupting and degrading terrorist networks, while emphasizing that policy decisions are not based on polling data but on principles and national security interests, including a commitment to Israel's right to exist and the pursuit of a two-state solution.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson addresses questions about the situation in",
+      "points": [
+        {
+          "text": "The spokesperson addresses questions about the situation in Gaza, stating that they do not have a complete picture of the hostage situation and acknowledging the possibility of other groups besides Hamas holding hostages, while also reiterating the US's stance against permanent displacement of Palestinians and mentioning upcoming meetings with leaders from Indonesia and China.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson reiterates the US's concerns about the",
+      "points": [
+        {
+          "text": "The spokesperson reiterates the US's concerns about the safety of civilians in Gaza and urges Israel to avoid military action that could harm innocent civilians, while stating that decisions on temporary refugee solutions are up to neighboring countries.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson discusses the ongoing negotiations and process",
+      "points": [
+        {
+          "text": "The spokesperson discusses the ongoing negotiations and process regarding the reopening of Rafah, while also highlighting the US's efforts to provide fair and transparent investment opportunities for lowerand middle-income countries through the Program for Global Investment and Infrastructure.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson explains that humanitarian pauses are as",
+      "points": [
+        {
+          "text": "The spokesperson explains that humanitarian pauses are as long as they need to be for accomplishing specific purposes, while a ceasefire implies an indefinite cessation of hostilities with the aim of finding an end to the conflict, which is not supported at this time as it would benefit Hamas and legitimize their actions.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is prepared for contingencies on",
+      "points": [
+        {
+          "text": "The United States is prepared for contingencies on the Korean Peninsula and in the region, with a focus on meeting security commitments to South Korea and maintaining a strong military force in the Indo-Pacific.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The United States is maintaining strong relationships and",
+      "points": [
+        {
+          "text": "The United States is maintaining strong relationships and conversations with its allies in the Indo-Pacific region, while also providing support to Ukraine and Israel in their conflicts.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges India's good relations with both",
+      "points": [
+        {
+          "text": "The speaker acknowledges India's good relations with both Israel and Palestine and suggests that India could potentially play a role in the region, given their previous collaborations with the United States.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker acknowledges India's strategic partnership with the",
+      "points": [
+        {
+          "text": "The speaker acknowledges India's strategic partnership with the United States and emphasizes that it is up to the Indian government and Prime Minister Modi to decide their stance on any crisis or contingency in the Middle East.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speakers express gratitude for each other's presence",
+      "points": [
+        {
+          "text": "The speakers express gratitude for each other's presence and thankfulness for the audience's return.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker discusses the President's actions to prevent",
+      "points": [
+        {
+          "text": "The speaker discusses the President's actions to prevent a government shutdown, expresses disagreement with Congresswoman Rashida Tlaib's comments, and highlights the American people's support for the President's agenda.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker emphasizes that the American people support",
+      "points": [
+        {
+          "text": "The speaker emphasizes that the American people support women's reproductive healthcare decisions and reject the extremism and conspiracy theories put forth by Republicans.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker does not have any information to",
+      "points": [
+        {
+          "text": "The speaker does not have any information to confirm the Biden-Xi meeting in San Francisco or whether President Biden will watch the Republican debate, but mentions that the President made phone calls to congratulate the Governor of Kentucky and other Democrats who won in the election.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is not willing to negotiate",
+      "points": [
+        {
+          "text": "The White House is not willing to negotiate or make concessions on immigration policy changes in order to secure funding for border security.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden will be delivering remarks and meeting",
+      "points": [
+        {
+          "text": "President Biden will be delivering remarks and meeting with UAW auto workers in Belvidere, Illinois to highlight his commitment to delivering for working families, creating good-paying union jobs, and marking the reopening of an assembly plant that will create thousands of jobs.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden's representative Ms Jean Pierre expresses satisfaction",
+      "points": [
+        {
+          "text": "President Biden's representative, Ms. Jean-Pierre, expresses satisfaction that the UAW auto workers were able to negotiate and achieve what they deserved in terms of their victory and support from the administration.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporters express their desire for Vice President",
+      "points": [
+        {
+          "text": "The reporters express their desire for Vice President Harris to come in and answer questions, but Ms. Jean-Pierre was not aware of her presence and will have to find out what happened.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre discusses President Biden's statement on",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre discusses President Biden's statement on Ohio Issue 1, highlights his conversations with various officials, mentions his upcoming remarks, emphasizes the rejection of extreme Republican policies and the support for his agenda, addresses the disconnect between his low approval rating and recent election wins, and asserts that the President will focus on delivering for the American people.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre expresses concern over Senator Tuberville's",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre expresses concern over Senator Tuberville's refusal to budge on Department of Defense nominees, emphasizing the threat it poses to national security and military readiness, and urging him to stop playing political games with the confirmation process.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Ms Jean Pierre declines",
+      "points": [
+        {
+          "text": "During a press briefing, Ms. Jean-Pierre declines to comment on the legalization of marijuana in Ohio and refers to President Biden's previous stance, while expressing frustration with the ongoing baseless investigation into the Bidens and urging Republicans to focus on important issues such as national security, the economy, healthcare, and gun violence.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

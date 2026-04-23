@@ -1,0 +1,231 @@
+{
+  "result": {
+    "merge_stats": {
+      "total_aligned_points": 12,
+      "total_aligned_decisions": 4,
+      "single_aligned_points_from_gt1": 4,
+      "single_aligned_points_from_gt2": 0,
+      "single_aligned_decisions_from_gt1": 0,
+      "single_aligned_decisions_from_gt2": 0,
+      "points_need_review": 1,
+      "decisions_need_review": 0,
+      "total_output_points": 17,
+      "total_output_decisions": 4,
+      "confidence_level": "high",
+      "notes": "Strong consensus between GTs with clear semantic alignment. Most points merged confidently. Only one minor speaker attribution issue requiring review."
+    },
+    "total_aligned_gt": {
+      "meeting_context": "A Joint Administrative, Zoning and Subdivision Committee public hearing conducted remotely under a declared emergency on November 9. The agenda covered a consent calendar continuance and three public hearing items: a shelter hours modification at 748 Mercy Street, a two-year extension for 1747 W Evelyn Avenue, and a one-year extension and vesting tentative map for 2645-2655 Fayette Drive.",
+      "participants": [
+        "Lindsay Hagan",
+        "Nicole Wright",
+        "Ed Arango",
+        "Aki Snelling",
+        "Kristi Blewis",
+        "Eric Anderson",
+        "Tim McEnery",
+        "Wing Tam",
+        "Jeffrey Tsumura",
+        "Linda Jones",
+        "Michelle Covert"
+      ],
+      "topics": [
+        {
+          "topic": "Remote Hearing Protocol and Roll Call",
+          "points": [
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "Lindsay Hagan opened the November 9 hearing, presiding as Assistant Community Development Director and Zoning Administrator. She stated the meeting was conducted under California Government Code provisions authorizing remote meetings during a declared emergency, with participation by video and the enabling resolution available from the City Clerk.",
+              "source": "Lindsay Hagan : This meeting will be conducted in accordance with the California Government Code Section 5, 4953 E as authorized by resolution."
+            },
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "All committee members present: Nicole Wright (City Attorney's office), Ed Arango (Public Works), and Lindsay Hagan (Assistant Community Development Director acting as zoning administrator).",
+              "source": "Lindsay Hagan : So I will start with Nicole Wright from the City Attorney's office present"
+            }
+          ]
+        },
+        {
+          "topic": "350 Ellis Street Item Continuance",
+          "points": [
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "350 Ellis Street planned community permit modification for office campus on 19.6 acre site continued from October 26th hearing and will be re-noticed when ready.",
+              "source": "Lindsay Hagan : This item will not be heard at this meeting and was previously continued from the October 26th Zoning Administrator hearing"
+            }
+          ]
+        },
+        {
+          "topic": "748 Mercy Street Shelter Hours Modification",
+          "points": [
+            {
+              "speaker": "Aki Snelling",
+              "text": "Trinity United Methodist Church requests extending cold weather shelter hours from 3:00 PM to 9:00 AM (currently 4:00 PM to 6:30 AM) to align with school hours for families with children.",
+              "source": "Aki Snelling : The church and home for services are requesting to extend the hours of operation to begin at 3:00 PM rather than the current 4:00 PM allowed, and to end at 9:00 AM rather than the existing 6:30 AM daily"
+            },
+            {
+              "speaker": "Aki Snelling",
+              "text": "Shelter operates annually during cold weather months from Thanksgiving week through March 31st for approximately 3.5 months, serving up to 50 women and families maximum.",
+              "source": "Aki Snelling : The shelter only operates during the cold weather months starting think the week of Thanksgiving through March 31st of the following year"
+            },
+            {
+              "speaker": "Aki Snelling",
+              "text": "Community meeting held with Old Mountain View Neighborhood Association on October 17th resulted in no concerns and full support from all speakers.",
+              "source": "Aki Snelling : A community meeting was also held with the Old Mountain View Neighborhood Association on October 17th. No speakers voiced any concerns, and all who spoke were in support of the project"
+            },
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "Lindsay Hagan approved the provisional use permit modification with staff-recommended conditions, finding the extended hours appropriate for aligning with school schedules.",
+              "source": "Lindsay Hagan : And so with that, I do make a motion to approve this item with the conditions that have been included in the findings report"
+            }
+          ]
+        },
+        {
+          "topic": "1747 West Evelyn Avenue Permit Extension",
+          "points": [
+            {
+              "speaker": "Eric Anderson",
+              "text": "Staff recommends approval based on applicant's work preparing modifications consistent with Downtown Parking Strategy adopted by City Council on November 9th, 2021.",
+              "source": "Eric Anderson : staff's recommending approval of this extension based on the work that the applicant has done to prepare and submit proposed modifications to the project consistent with the Downtown Parking Strategy which was adopted by the City Council on November 9th, 2021"
+            },
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "Lindsay Hagan approved the two-year extension with staff conditions, finding it materially the same project with minor condition tweaks.",
+              "source": "Lindsay Hagan : And so with that I do make a motion to approve this with the conditions as drafted by staff and posted online"
+            }
+          ]
+        },
+        {
+          "topic": "2645-2655 Fayette Drive Extension and Map",
+          "points": [
+            {
+              "speaker": "Jeffrey Tsumura",
+              "text": "Project originally approved November 17th, 2020; applicant has prepared comprehensive building permit submittal and expects to submit construction documents in coming weeks.",
+              "source": "Jeffrey Tsumura : The project was approved back in November 17th, 2020 and since then the applicant has worked diligently to prepare a comprehensive set for building permit submittal"
+            },
+            {
+              "speaker": "Ed Arango",
+              "text": "Ed Arango motioned to approve one-year extension of vesting tentative map subject to conditions of approval in conformance with General Plan and zoning ordinance.",
+              "source": "Ed Arango : I'd like to make a motion to approve the one year extension of their previously approved vesting tentative map"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting Closure and Appeals Information",
+          "points": [
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "All approved items have 10-day appeal periods, with follow-up questions directed to respective project planners (Aki Snelling, Eric Anderson, Jeffrey Tsumura).",
+              "source": "Lindsay Hagan : there is a 10 calendar day appeal. Should there be anyone interested in appealing this item"
+            },
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "Joint Administrative, Zoning and Subdivision Committee hearing concluded at 4:22 PM on November 9th.",
+              "source": "Lindsay Hagan : that will conclude our Joint Administrative, Zoning and Subdivision Committee public hearing of November 9th at 4:22"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Lindsay Hagan",
+          "text": "Lindsay Hagan approved provisional use permit modification for 748 Mercy Street cold weather shelter to extend hours from 3:00 PM to 9:00 AM with staff conditions.",
+          "source": "Lindsay Hagan : And so with that, I do make a motion to approve this item with the conditions that have been included in the findings report"
+        },
+        {
+          "assignee": "Lindsay Hagan",
+          "text": "Lindsay Hagan approved two-year extension for 1747 West Evelyn Avenue commercial building project with staff-drafted conditions.",
+          "source": "Lindsay Hagan : And so with that I do make a motion to approve this with the conditions as drafted by staff and posted online"
+        },
+        {
+          "assignee": "Ed Arango",
+          "text": "Ed Arango motioned to approve one-year extension of vesting tentative map for 2645-2655 Fayette Drive condominium project subject to conditions of approval.",
+          "source": "Ed Arango : I'd like to make a motion to approve the one year extension of their previously approved vesting tentative map"
+        },
+        {
+          "assignee": "Lindsay Hagan",
+          "text": "Lindsay Hagan approved related permits (planned community permit, development review permit, heritage tree removal permit) for Fayette Drive project with staff conditions.",
+          "source": "Lindsay Hagan : And so on that note I do make a motion to approve that item and so with that this approval has passed"
+        }
+      ]
+    },
+    "single_aligned_gt": {
+      "topics": [
+        {
+          "topic": "Remote Hearing Protocol and Roll Call",
+          "points": [
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "Hagan outlined public comment procedures: raise hand in Zoom or press star-6 to unmute by phone, with comments limited to three minutes. She opened oral communications for non-agenda items and, seeing no speakers, closed that public comment period.",
+              "source": "Lindsay Hagan : All right, seeing no one, I will close the public comment period for the oral communications.",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "350 Ellis Street Item Continuance",
+          "points": [
+            {
+              "speaker": "Lindsay Hagan",
+              "text": "Consent Item 4.1 (350 Ellis St) proposed modifying a prior planned community and development review permit for minor site and facade changes on a 19.6-acre office campus. The item was not heard, previously continued from October 26, and will be renoticed for a future hearing when ready; no action occurred.",
+              "source": "Lindsay Hagan : This item will not be heard at this meeting and was previously continued from the October 26th Zoning Administrator hearing.",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "748 Mercy Street Shelter Hours Modification",
+          "points": [
+            {
+              "speaker": "Kristi Blewis",
+              "text": "Kristi Blewis, representing Los Altos United Methodist Church (owner of Trinity UMC), affirmed partnership with HomeFirst Services to provide cold-weather shelter and supported extending hours to better accommodate families with school-aged children before and after school.",
+              "source": "Kristi Blewis : We're really happy to partner with Home First to provide housing for families during the cold weather months and eager to extend the hours to make it a better option for families with school aged children...",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "1747 West Evelyn Avenue Permit Extension",
+          "points": [
+            {
+              "speaker": "Tim McEnery",
+              "text": "Applicant representative Tim McEnery (Marwood) thanked City staff for working with them on the extension request and offered no additional comments.",
+              "source": "Tim McEnery : Just thank you for the support by the staff for working with us on this extension request.",
+              "from_gt": "gt1"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "needreview_gt": [
+      {
+        "id": "review_001",
+        "item_type": "point",
+        "issue_type": "speaker_minor",
+        "gt1_point": {
+          "text": "Public commenter Wing Tam, representing NorCal Carpenters Union Local 405, urged developers to adopt labor standards on the discussed projects, specifically local hiring, healthcare benefits, and prevailing wages. He offered union assistance and provided contact information (wtam@nccrc.org).",
+          "source": "Wing Tam : I want to let the developer know so help help us to to have a provenil wages, healthcare and local hiring for our Labor Standards... So my my e-mail is wtam@nccrc.org.",
+          "speaker": "Wing Tam",
+          "location": "topics[5].points[0]"
+        },
+        "gt2_point": {
+          "text": "Norcal Carpenter Union Local 405 representative requested developer use prevailing wage standards, healthcare benefits, and local hiring for the project.",
+          "source": "Wing Tam : Today I would like to speaking in here and spit out our provenant area standards labor",
+          "speaker": "Wing Tam",
+          "location": "topics[3].points[2]"
+        },
+        "question": "Which project was Wing Tam commenting on - all projects generally (GT1) or specifically the 1747 West Evelyn Avenue project (GT2 placement)?",
+        "merge_if_valid": "If GT1 is correct (general comment), place in Labor Standards topic. If GT2 is correct (specific to Evelyn project), place in that topic."
+      }
+    ]
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_alignment/generation_alignment",
+    "prompt_version": "v3",
+    "prompt_fingerprint": "fae28f5dd5207c57cdcd5bc1a3c29bc286c4fd8b12a9eae99e41969f0bebb744",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:31:14.474963+00:00"
+  }
+}

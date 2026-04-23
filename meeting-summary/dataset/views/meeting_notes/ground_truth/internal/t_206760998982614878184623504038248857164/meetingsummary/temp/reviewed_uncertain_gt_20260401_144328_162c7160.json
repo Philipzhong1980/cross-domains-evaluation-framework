@@ -1,0 +1,67 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [
+        {
+          "topic": "ACFR Updates and Corrections",
+          "points": [
+            {
+              "speaker": "Lisa Matichak",
+              "text": "A request was made to replace \"Mountain View citizens\" with \"Mountain View residents\" and to add the Public Safety Advisory Board in the ACFR exhibits. Staff acknowledged the discrepancy and agreed to correct these references in the ACFR.",
+              "source": "Lisa Matichak : Instead of having Mountain View citizens, it would be Mountain View residents... add Public Safety Advisory Board. / Jesse Takahashi : we need to make that change also here in that for... We'll get that corrected.",
+              "validation_note": "merged_conflict"
+            }
+          ]
+        },
+        {
+          "topic": "Community Benefits Tracking",
+          "points": [
+            {
+              "speaker": "Lisa Matichak",
+              "text": "Some community benefits don't flow through city finances when developers directly provide subsidized rent or infrastructure improvements",
+              "source": "Lisa Matichak : Most of the community benefits are subsidizing rent, building parking spaces, and building out the infrastructure",
+              "validation_note": "validated_unique"
+            }
+          ]
+        }
+      ],
+      "decisions": []
+    },
+    "rejected_items": [],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "merge",
+        "reasoning": "Both GT1 and GT2 describe the same request and staff response. GT1 provides the complete picture including both the request and staff acknowledgment. GT2 has a transcription error ('Mountain Dew residents' instead of 'Mountain View residents') and only captures part of the interaction. The transcript clearly shows Lisa Matichak making the request and Jesse Takahashi acknowledging and agreeing to make the corrections.",
+        "transcript_evidence": [
+          "Lisa Matichak : Instead of having Mountain View citizens, it would be Mountain View residents... add Public Safety Advisory Board.",
+          "Jesse Takahashi : we need to make that change also here in that for... We'll get that corrected."
+        ]
+      },
+      {
+        "id": "review_002",
+        "decision": "merge",
+        "reasoning": "This is a unique point from Lisa Matichak that provides important context about community benefits tracking. The transcript shows her explaining that some community benefits (subsidized rent, parking spaces, infrastructure) don't flow through city finances because developers provide them directly. This is distinct from Jesse's earlier comments about tracking mechanisms and provides valuable insight into the limitations of financial reporting for community benefits.",
+        "transcript_evidence": [
+          "Lisa Matichak : Most of the community benefits are subsidizing rent, building parking spaces, and building out the infrastructure to support the retail environment.",
+          "Lisa Matichak : And that that doesn't flow through the city, does it? The developer just expends those money."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 2,
+      "merged": 2,
+      "excluded": 0,
+      "modified": 0,
+      "confidence": "High confidence in validation. Both items had clear transcript evidence supporting their inclusion. Review_001 resolved a conflict between two versions describing the same interaction, with GT1 being more complete and accurate. Review_002 confirmed a unique point about community benefits that adds important context to financial tracking discussions."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:43:28.574233+00:00"
+  }
+}

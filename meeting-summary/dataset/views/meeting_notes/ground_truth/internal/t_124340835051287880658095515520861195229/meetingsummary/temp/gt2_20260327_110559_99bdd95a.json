@@ -1,0 +1,90 @@
+{
+  "result": {
+    "meeting_context": "This was the January 9th, 2023 Rental Housing Committee Meeting for Mountain View, conducted virtually in accordance with California Government Code 54953 E. The meeting covered routine administrative business and announcements.",
+    "participants": [
+      "Haines-Livesay",
+      "Andrea Kennedy",
+      "Rosas",
+      "Almond",
+      "Ramos",
+      "Anky van Deursen"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Procedures and Roll Call",
+        "points": [
+          {
+            "speaker": "Haines-Livesay",
+            "text": "Meeting called to order at 7:02 PM with virtual participation by all committee members and public access via mountainview.legistar.com, YouTube, and Comcast Channel 26.",
+            "source": "Haines-Livesay : The meeting is called to order at 7 O 2:00 PM"
+          },
+          {
+            "speaker": "Andrea Kennedy",
+            "text": "Roll call conducted with committee members Grunwald and Pardo Dazella absent, while Rosas, Almond, Ramos, and Chair Haines-Livesay present.",
+            "source": "Andrea Kennedy : We will begin with a committee member Grunwald, who is absent. Next we will call on committee member Pardo Dazella, who is also absent"
+          }
+        ]
+      },
+      {
+        "topic": "Consent Calendar Approval",
+        "points": [
+          {
+            "speaker": "Almond",
+            "text": "Committee unanimously approved resolution to continue virtual meetings pursuant to Brown Act provisions as amended by AB 361.",
+            "source": "Almond : I'll make a motion to adopt A resolution to continue virtual meetings pursuant to Brown Act provisions as amended by AB 361"
+          }
+        ]
+      },
+      {
+        "topic": "Chair Departure Announcement",
+        "points": [
+          {
+            "speaker": "Haines-Livesay",
+            "text": "Chair Haines-Livesay announced resignation effective after January meeting due to failing to meet residency requirements in February.",
+            "source": "Haines-Livesay : I just wanted to let the committee and the public know that regretfully, next meeting, the meeting at the end of January will be my last meeting because I will have to step down and February I won't meet the residency test"
+          },
+          {
+            "speaker": "Committee Members",
+            "text": "Committee members expressed appreciation for Haines-Livesay's service as chair, with Rosas, van Deursen, Almond, and Ramos offering thanks and well wishes.",
+            "source": "Rosas : We'll miss you"
+          }
+        ]
+      },
+      {
+        "topic": "January Meeting Scheduling",
+        "points": [
+          {
+            "speaker": "Anky van Deursen",
+            "text": "Staff will poll committee members about potential date change for January 30th meeting due to City Council scheduling conflict on same date.",
+            "source": "Anky van Deursen : I will pull all the Rental Housing Committee members separately to see if the date needs to be changed. It seems like the City Council just planned an extra meeting for January 30, which is the same date as we have a Rental Housing Committee meeting"
+          },
+          {
+            "speaker": "Haines-Livesay",
+            "text": "Meeting adjourned at 7:08 PM with next meeting tentatively scheduled for January 30th at 7:00 PM, pending potential date change.",
+            "source": "Haines-Livesay : The meeting is adjourned at 7 O 8:00 PM. This Rental housing committee meeting is scheduled to be held maybe on Monday, January 30th at 7:00 PM or maybe a different day"
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "assignee": "Anky van Deursen",
+        "text": "Staff will poll all Rental Housing Committee members to determine if January 30th meeting date needs to be changed due to City Council conflict.",
+        "source": "Anky van Deursen : I will pull all the Rental Housing Committee members separately to see if the date needs to be changed"
+      }
+    ],
+    "metadata": {
+      "topicCount": 4,
+      "pointCount": 7,
+      "decisionCount": 1
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-03-27T03:05:59.139240+00:00"
+  }
+}

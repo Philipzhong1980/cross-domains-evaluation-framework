@@ -1,0 +1,322 @@
+{
+  "meeting_context": "White House press briefing imported from 20230925_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "Unidentified",
+    "MS. JEAN-PIERRE",
+    "SECRETARY VILSACK",
+    "MS. DALTON"
+  ],
+  "topics": [
+    {
+      "topic": "Ms Jean Pierre greets someone and comments on",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre greets someone and comments on the presence of cameras, expressing her shyness towards them.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section of the transcript Ms Jean",
+      "points": [
+        {
+          "text": "In this section of the transcript, Ms. Jean-Pierre and Secretary Vilsack discuss the potential impacts of an extreme Republican shutdown on vital nutrition assistance programs, farm loans, rural home purchases, national forests, and USDA employees.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Vilsack discusses the potential consequences of a",
+      "points": [
+        {
+          "text": "Secretary Vilsack discusses the potential consequences of a Republican shutdown on vital nutrition assistance programs, firefighting staff, and the Supplemental Nutrition Assistance Program (SNAP).",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Vilsack explains that if there is a",
+      "points": [
+        {
+          "text": "Secretary Vilsack explains that if there is a government shutdown, the WIC program would immediately stop, leading to a reduction and elimination of benefits for nearly 7 million moms and children, causing stress for farm families and potentially risking smalland mid-sized farming operations.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Vilsack explains that while food inspection for",
+      "points": [
+        {
+          "text": "Secretary Vilsack explains that while food inspection for meat, poultry, and processed eggs will continue during a government shutdown, there may be potential problems with lab analysis and detecting animal diseases that could affect the food supply.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Vilsack explains that the potential government shutdown",
+      "points": [
+        {
+          "text": "Secretary Vilsack explains that the potential government shutdown will impact and affect every county in the country, leading to furloughed workers across various programs, including FSA offices, rural development offices, NRCS conservation employees, Forest Service employees, researchers and staff from the Agricultural Research Service (ARS), and administrative staff, which would be incredibly disruptive and undermine the ability to pass a new farm bill.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Vilsack explains that a government shutdown would",
+      "points": [
+        {
+          "text": "Secretary Vilsack explains that a government shutdown would hinder the ability of their office to provide technical assistance and support for the farm bill, emphasizing the need for the Speaker to fulfill his responsibilities and pass the bill.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Vilsack acknowledges concerns about Chinese corporations or",
+      "points": [
+        {
+          "text": "Secretary Vilsack acknowledges concerns about Chinese corporations or nationals purchasing farmland near military installations, highlighting the need for better tools and information collection to monitor these transactions.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Secretary Vilsack highlights the need for improved tools",
+      "points": [
+        {
+          "text": "Secretary Vilsack highlights the need for improved tools and information collection to monitor transactions involving Chinese corporations or nationals purchasing farmland near military installations, while also discussing the potential impacts of a government shutdown on programs used by farmers.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Secretary Vilsack discusses the",
+      "points": [
+        {
+          "text": "During a press briefing, Secretary Vilsack discusses the frustration with deals not being completed on time in Washington and the importance of encouraging the public to get vaccinated, while also mentioning the President's COVID booster shot being administered privately due to his busy schedule.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House emphasizes that it is the",
+      "points": [
+        {
+          "text": "The White House emphasizes that it is the responsibility of House Republicans to pass a clean CR and highlights the potential negative impact of a shutdown on programs like WIC, while stating that the decision regarding Senator Menendez's future in the Democratic Party is up to him and Senate leadership.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden is showing his support for union",
+      "points": [
+        {
+          "text": "President Biden is showing his support for union workers by attending a historic visit to the UAW and emphasizing his pro-union stance and belief in collective bargaining.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker is addressing a question about whether",
+      "points": [
+        {
+          "text": "The speaker is addressing a question about whether Trump's visit to UAW workers influenced President Biden's decision to go.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden's decision to visit the picket line",
+      "points": [
+        {
+          "text": "President Biden's decision to visit the picket line of UAW workers was not influenced by Trump's visit, as it was based on his own desire to stand with autoworkers and highlight his support for unions.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson reiterates that the government",
+      "points": [
+        {
+          "text": "The White House spokesperson reiterates that the government shutdown would be the responsibility of extreme House Republicans who are not upholding the bipartisan deal made earlier, and emphasizes the negative consequences it would have on various aspects of American life.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson acknowledges a reporter's presence",
+      "points": [
+        {
+          "text": "The White House spokesperson acknowledges a reporter's presence and comments on their seating arrangement.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson states that the President",
+      "points": [
+        {
+          "text": "The White House spokesperson states that the President supports autoworkers but does not take sides in the negotiation between autoworkers and auto companies.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson affirms that the President",
+      "points": [
+        {
+          "text": "The White House spokesperson affirms that the President is a strong supporter of autoworkers and their fair treatment, while not delving into the specific details of the ongoing negotiations.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson emphasizes that the focus",
+      "points": [
+        {
+          "text": "The White House spokesperson emphasizes that the focus is on supporting workers and delivering for the American people, while not discussing specific details of the ongoing negotiations and stating that the President's visit to the picket line is to show solidarity with workers.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House is aware of the issues",
+      "points": [
+        {
+          "text": "The White House is aware of the issues with insurance coverage and denials at the point of service for COVID-19 vaccinations and is working with HHS to resolve them quickly.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson expresses concern that the",
+      "points": [
+        {
+          "text": "The White House spokesperson expresses concern that the potential government shutdown caused by extreme Republicans in the House could harm the country's economy and reputation, despite the positive economic progress made under President Biden.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson expresses concern that a",
+      "points": [
+        {
+          "text": "The White House spokesperson expresses concern that a potential government shutdown caused by extreme Republicans in the House could disrupt the return to repayment effort and servicing support for borrowers of student loans, despite the Department of Education's efforts to support them.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The White House spokesperson reiterates that President Biden",
+      "points": [
+        {
+          "text": "The White House spokesperson reiterates that President Biden stands with union workers and is joining the picket line to show solidarity, while emphasizing that the specifics of the contract dispute are for the workers and management to negotiate.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden is standing with the auto workers",
+      "points": [
+        {
+          "text": "President Biden is standing with the auto workers and siding with them in their contract dispute, while emphasizing that negotiations are for the parties involved to decide.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden is accepting an invitation from the",
+      "points": [
+        {
+          "text": "President Biden is accepting an invitation from the UAW president to stand with auto workers and show his support for union workers.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "During a press briefing Karine Jean Pierre is",
+      "points": [
+        {
+          "text": "During a press briefing, Karine Jean-Pierre is interrupted and asked a follow-up question regarding her previous statement.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre is unable to provide any",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre is unable to provide any information regarding recent conversations or meetings between President Biden and automakers, as well as details about his upcoming trip to Michigan.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre is asked about President Biden's",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre is asked about President Biden's concern regarding the situation in Nagorno-Karabakh and whether he agrees with Armenia's statement of \"ethnic cleansing.\"",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Karine Jean Pierre defers to her NSC colleagues",
+      "points": [
+        {
+          "text": "Karine Jean-Pierre defers to her NSC colleagues for updates on President Biden's concern about the situation in Nagorno-Karabakh and whether he agrees with Armenia's statement of \"ethnic cleansing.\"",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The questioning shifts to the situation at the",
+      "points": [
+        {
+          "text": "The questioning shifts to the situation at the Southwest border and the administration's engagement with Mexico, as well as inquiries about China's support for resuming trilateral summits and potential impacts on the U.S.-ROK-Japan partnership.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes the importance of the U",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes the importance of the U.S.-Japan partnership and states that the responsibility to fix the Republican shutdown lies with them as they already voted on and agreed to a deal.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

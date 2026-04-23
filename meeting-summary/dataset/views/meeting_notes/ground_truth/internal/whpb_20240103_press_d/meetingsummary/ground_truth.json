@@ -1,0 +1,229 @@
+{
+  "meeting_context": "White House press briefing imported from 20240103_press_d.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MODERATOR",
+    "SENIOR ADMINISTRATION OFFICIAL",
+    "Andrea Mitchell",
+    "Michael Gordon",
+    "MJ Lee",
+    "David Sanger",
+    "Steve Holland",
+    "Hiba Nasr",
+    "Missy Ryan",
+    "Aamer Madhani",
+    "Nadia"
+  ],
+  "topics": [
+    {
+      "topic": "The moderator thanks everyone for joining the call",
+      "points": [
+        {
+          "text": "The moderator thanks everyone for joining the call to discuss recent attacks in the Red Sea by the Houthis and informs them that the call is on background and embargoed until its conclusion.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the recent attacks",
+      "points": [
+        {
+          "text": "The senior administration official discusses the recent attacks by the Iranian-backed Houthis in the Red Sea, highlighting their use of various weapons and the international efforts to address and defend against these attacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses the USS Gravely",
+      "points": [
+        {
+          "text": "The senior administration official discusses the USS Gravely shooting down two anti-ship ballistic missiles in the Red Sea, which targeted a Singapore-flagged, Denmark-operated and Denmark-owned ship, the Maersk Hangzhou, as well as the subsequent attack on the same ship by Yemeni forces in fast boats.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The USS Gravely successfully shot down two anti",
+      "points": [
+        {
+          "text": "The USS Gravely successfully shot down two anti-ship ballistic missiles targeting the Maersk Hangzhou, and U.S. naval helicopters responded to an attack by Yemeni forces in fast boats, sinking three of the four boats and ensuring no damage to U.S. personnel or equipment.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President convened his national security team to",
+      "points": [
+        {
+          "text": "The President convened his national security team to discuss the situation in the Red Sea and issued a statement with 13 countries warning the Houthis of the consequences for further attacks on commercial vessels.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official states that they do",
+      "points": [
+        {
+          "text": "The senior administration official states that they do not anticipate issuing another warning and that the statement issued by the coalition speaks for itself in regards to potential further action in response to attacks on commercial vessels.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official states that they have",
+      "points": [
+        {
+          "text": "The senior administration official states that they have taken defensive action and the coalition's statement speaks for itself regarding potential further action in response to attacks on commercial vessels.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official declines to comment on",
+      "points": [
+        {
+          "text": "The senior administration official declines to comment on any private warnings to the Houthis and states that they cannot speak for the actions of the Houthis.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official states that the actions",
+      "points": [
+        {
+          "text": "The senior administration official states that the actions taken by the Houthis have impacted global commerce and are a threat that would require building coalitions to confront, while also noting that countries make their own decisions and any additional measures taken would be done in concert with different collections of countries.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The journalist asks if there are any actions",
+      "points": [
+        {
+          "text": "The journalist asks if there are any actions the US would consider too escalatory and if the recent sinking of Houthi boats indicates that such actions will continue if the Houthis continue their attacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official states that the US",
+      "points": [
+        {
+          "text": "The senior administration official states that the US is not seeking escalation but rather acting in self-defense to protect global commerce, and that the killing of Houthis in the recent incident was a clear act of self-defense that would be repeated if necessary.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official explains that the US",
+      "points": [
+        {
+          "text": "The senior administration official explains that the US is acting in self-defense to protect global commerce and that the recent incident involving the killing of Houthis was a clear act of self-defense, while also emphasizing that the threat to the Bab el-Mandeb shipping route is distinct from the Yemeni civil war.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Steve Holland asks who is arming the Houthis",
+      "points": [
+        {
+          "text": "Steve Holland asks who is arming the Houthis and how to stop the flow of weapons to them, as well as inquiring about any updates on the responsible party for the bombing at Soleimani's funeral.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Iran is arming the Houthis and efforts have",
+      "points": [
+        {
+          "text": "Iran is arming the Houthis and efforts have been made to stop the flow of weapons, while the Houthis also possess their own domestic capacity for weapon production with Iranian support, and it is believed that the bombing at Soleimani's funeral in Tehran was a terrorist attack resembling past actions by ISIS.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official discusses Iran's clear role",
+      "points": [
+        {
+          "text": "The senior administration official discusses Iran's clear role in arming the Houthis and the need for a diplomatic resolution to the tension on the northern border between Israel and Hezbollah.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official defends the Biden administration's",
+      "points": [
+        {
+          "text": "The senior administration official defends the Biden administration's approach to the Houthi situation, highlighting their forceful actions against threats while avoiding deep involvement that could benefit proxy groups, such as the airstrikes against Hezbollah in Iraq and the organized partnership with a warning to the Houthis, as well as their ongoing consultations with Congress.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes the importance of",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes the importance of protecting the Red Sea and Bab el-Mandeb as a major commerce route, stating that the US would take similar actions regardless of the location and highlighting the coalition of global partners they have built, including Bahrain and various naval task forces in the region.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes that protecting the",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes that protecting the Red Sea and Bab el-Mandeb as a major commerce route is a global challenge, and the United States is prepared to work with partners and allies worldwide to safeguard these shipping lanes.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official addresses the report of",
+      "points": [
+        {
+          "text": "The senior administration official addresses the report of Israel requesting the USS Gerald Ford to stay in the Mediterranean, stating that it has been withdrawn but replaced with additional capabilities, including Marine expeditionary unit destroyers.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official confirms that the Eisenhower",
+      "points": [
+        {
+          "text": "The senior administration official confirms that the Eisenhower Carrier Strike Group is still operating in the region and emphasizes the significant military force and readiness to respond to any contingency, while also mentioning the withdrawal of the USS Gerald Ford from the Mediterranean but its replacement with additional capabilities.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The senior administration official emphasizes that the response",
+      "points": [
+        {
+          "text": "The senior administration official emphasizes that the response to international commercial shipping and the Yemeni civil war are distinct problems, with diplomatic efforts being made to address the violence in Yemen and a global response being built to tackle the challenges posed by attacks on commercial vessels in the Red Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

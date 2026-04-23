@@ -1,0 +1,44 @@
+{
+  "result": {
+    "rejected_items": [],
+    "validated_gt": {
+      "topics": [],
+      "decisions": [
+        {
+          "assignee": "Edgar Maravilla",
+          "text": "Edgar will provide update on 845 Bella Street business status to John for distribution to committee",
+          "source": "Edgar Maravilla : I can definitely provide an update to John and he can send it out to everyone or or I think that'll be quicker than waiting till next month",
+          "validation_note": "refined"
+        }
+      ]
+    },
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "modify",
+        "reasoning": "Transcript evidence clearly shows the address is 845 Bella Street, not Villa Street. Jamil Shaikh asks about '845 Bella' and Edgar confirms he will provide an update. The GT2 source citation is more accurate as it includes the full context of Edgar's response.",
+        "transcript_evidence": [
+          "Jamil Shaikh: Yeah, Edgar, do you know, Do you have any information on business on Bella Street? I believe it's 845 where Sweet Honey used to be.",
+          "Edgar Maravilla: No. So let's see what was the address? Let me go ahead and.",
+          "Jamil Shaikh: I believe it's 8:45 next to 833. The first block, 845 Bella, used to be sweet honey.",
+          "Edgar Maravilla: OK. No, I I can definitely provide an update to John and he can send it out to everyone or or I think that'll be quicker than waiting till next month to to give you an update."
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 1,
+      "merged": 0,
+      "excluded": 0,
+      "modified": 1,
+      "confidence": "High confidence - transcript clearly shows the correct address is 845 Bella Street, not Villa Street. The conversation context and Jamil's specific question about 845 Bella Street provides definitive evidence for the correction."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:16:34.086064+00:00"
+  }
+}

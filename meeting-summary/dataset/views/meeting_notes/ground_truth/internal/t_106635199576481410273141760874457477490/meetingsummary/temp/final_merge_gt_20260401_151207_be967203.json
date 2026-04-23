@@ -1,0 +1,418 @@
+{
+  "result": {
+    "merged_gt": {
+      "meeting_context": "Regular meeting of the Mountain View Rental Housing Committee conducted via videoconference on October 17, 2022. Agenda covered consent approvals, teleconference/hybrid meeting policy, monthly status metrics, adoption of compliance hearing procedures, an in-depth update on tenant relocation and SB 330, discussion of the 2023 work plan, outreach updates, and meeting closure details.",
+      "participants": [
+        "Nicole Haynes",
+        "Unidentified 1",
+        "Grunwald",
+        "Almond",
+        "Pardo Dazella",
+        "Emily Ramos",
+        "Anky van Deursen",
+        "Steven",
+        "Patricia Henslow",
+        "Karen",
+        "Andrea",
+        "Joshua Howard"
+      ],
+      "topics": [
+        {
+          "topic": "Consent calendar approvals",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Emily Ramos",
+              "text": "The committee approved the consent calendar items excluding 3.2, specifically approving the September 19, 2022 RHC meeting minutes and adopting amendments to CSFRA Regulations Chapter 3 (Rules of Conduct) and CSFRA Six and MRMHRSO Chapter 7 (upward adjustments). The motion passed unanimously following roll call.",
+              "source": "Emily Ramos : I move to approve the balance the consent calendar -3.2, so to approve the minutes September 19, 2022 RHC meeting and to adopt amendments to the CSFRA Regulations Chapter 3 Rules of Conduct and CSFRA Six and MRMHRSO Chapter 7 upward adjustments.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting Setup and Roll Call",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Nicole Haynes",
+              "text": "Meeting called to order at 7:04 PM with all committee members participating by video conference.",
+              "source": "Nicole Haynes : Now I am calling the meeting to order at 7 O 4:00 PM",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Unidentified 1",
+              "text": "Roll call confirmed attendance: Grunwald, Almond, Pardo Dazella, Emily Ramos present; Rosas absent.",
+              "source": "Unidentified 1 : Committee member Rosas is absent committee member Almond",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Remote meetings and hybrid discussion",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Anky van Deursen",
+              "text": "Staff reported the City Council is not yet ready to run hybrid meetings; committees may go hybrid only after Council moves to hybrid. IT is still addressing hybrid meeting issues and will not be ready within two weeks; staff will seek an updated readiness timeline.",
+              "source": "Anky van Deursen : the City Council is not ready yet to go hybrid and committees can go go hybrid after the City Council has decided to go hybrid... it is not ready yet is still tackling of the problems that come with hybrid meetings",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Nicole Haynes",
+              "text": "Chair noted a state of emergency remains in effect through February 28, 2023. Counsel clarified remote meetings are not required but the emergency allows Brown Act findings for remote meetings. The committee discussed volunteering as a hybrid test case; staff will request guidance from the City Manager and IT.",
+              "source": "Nicole Haynes : the governor did announce that it would remain in effect until... February 28th, 2023... it is not a requirement that you hold your meetings remotely, but it does give you the ability to make the findings that are required under the Brown Act",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Pardo Dazella",
+              "text": "Committee Member Pardo Dazella proposed moving to a hybrid model starting next meeting, allowing in-person attendance with a remote option for those uncomfortable, citing available space and distance. The motion did not receive a second after discussion of City readiness constraints.",
+              "source": "Pardo Dazella : my motion would be that we move to a hybrid model as of the next meeting... anyone that feels uncomfortable is completely willing or able to participate remotely",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Public Comment on COVID Concerns",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Steven",
+              "text": "Steven supported continued virtual meetings citing new COVID variants, moderate to high wastewater levels in Santa Clara County, and poor air circulation in City Council chambers.",
+              "source": "Steven : The wastewater situation is still moderate to high in in Santa Clara County and that's the reason why both the state and the Federal Emergency regarding COVID has been continued",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Monthly status report September 2022",
+          "topic_merge_note": "normalized_from: ['Monthly status report September 2022', 'Monthly Status Report - September 2022']",
+          "points": [
+            {
+              "speaker": "Patricia Henslow",
+              "text": "Program recorded nearly 600 public inquiries in Q1, with about 30% requiring Spanish. Staff provided Russian translation for a petition hearing. Nine workshops drew 52 attendees; 13 office hours provided one-on-one support to 147 people; outreach events reached nearly 1,000 people; 316 targeted letters were sent.",
+              "source": "Patricia Henslow : We've already had almost 600 public inquiries... About 30%... need of Spanish... first need for Russian support... We've held nine workshops and had 52 attendees... 13 office hours... one-on-one support to 147 people... reach nearly 1000 people... We've sent out 316 targeted letters.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Patricia Henslow",
+              "text": "Mediation remains strong with 47 mediations/conciliations and 36 resolved. Staff observed an uptick in failure-to-pay notices and will analyze new versus repeat cases next month.",
+              "source": "Patricia Henslow : We've had 47 mediations and conciliations so far 36 of those have been resolved... We've seen a slight uptick in failure to pay rent notices... we will next month.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Patricia Henslow",
+              "text": "Nine tenant petitions were filed (4 unlawful rent, 5 tenant hardship).",
+              "source": "Patricia Henslow : We've had nine tenant petitions... four for unlawful rent and five for tenant hardship.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Patricia Henslow",
+              "text": "Vacancy rates: 4.4% for fully covered units, 4.1% for partially covered, and 16% for newly built, averaging 6.6% across all units. Market rents surpassed pre-COVID, with fully covered units averaging about $2,700 per month, reported as a 6.5% increase since earlier baseline.",
+              "source": "Patricia Henslow : fully covered units, we have a vacancy rate of 4.4%... partially covered... 4.1%... newly built... 16%... averaged out we get a 6.6%... As for market rents... fully covered units about $2700 a month. This is a increase of 6.5%...",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Patricia Henslow",
+              "text": "Beginning next month (Q2), reports will add new data points including mobile homes separated, per-unit rent details, vacancy rates in more detail, and registry compliance (percentage of fees paid and properties registered). Staff will also differentiate new versus repeat eviction notices and consider annualized views for inquiries and petitions.",
+              "source": "Patricia Henslow : next month when reporting for the Q2, it will look different... add... mobile homes pulled out... per unit rent and vacancy rates... include the percentage of people who paid their fees and the percentage of property owners who have registered... which ones are new... versus repeats.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Patricia Henslow",
+              "text": "Staff issued 18 email updates reaching 913 subscribers per email and will start outreach via Mountain View Voice for the Housing and Eviction Help Center. Mediation remains strong with 47 mediations/conciliations and 36 resolved. Staff observed an uptick in failure-to-pay notices and will analyze new versus repeat cases next month.",
+              "source": "Patricia Henslow : We've had 18 e-mail updates for reach of 913 e-mail subscribers per e-mail... will begin starting our Mountain View Voice outreach... We've had 47 mediations and conciliations so far 36 of those have been resolved... We've seen a slight uptick in failure to pay rent notices... we will next month.",
+              "original_priority": "p3",
+              "dedup_note": "partial_overlap_complementary"
+            },
+            {
+              "speaker": "Patricia Henslow",
+              "text": "Year-to-date notices: 136 rent increase notices, 278 termination notices, 0 tenant buyouts, and 0 additional occupant notices. No new properties have entered redevelopment this calendar year; two households received assistance as carryovers from prior year actions. Nine tenant petitions were filed (4 unlawful rent, 5 tenant hardship).",
+              "source": "Patricia Henslow : We've received 136 banks rent increases notices, 278 termination notices, 0 tenant buyouts and zero additional occupant notices... two households have received assistance and that those two households are carryovers from prior calendar year redevelopment actions... We've had nine tenant petitions... four for unlawful rent and five for tenant hardship.",
+              "original_priority": "p3",
+              "dedup_note": "partial_overlap_complementary"
+            }
+          ]
+        },
+        {
+          "topic": "Status Report Enhancement Plans",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Emily Ramos",
+              "text": "Vice Chair Ramos expressed excitement about mobile home park resident data separation and registry compliance numbers inclusion.",
+              "source": "Emily Ramos : I'm kind of very curious about the separation and separating out of the mobile Home Park residents so that we can actually have more ingrained data there",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            },
+            {
+              "speaker": "Grunwald",
+              "text": "Committee member Grunwald requested petition volume tracking over time by type and information request volume trends for annual review.",
+              "source": "Grunwald : Yeah, Do we have, and maybe I missed this, but do we have another view that has petitions over time by petition type?",
+              "original_priority": "p2",
+              "dedup_note": "from_p2_unique"
+            }
+          ]
+        },
+        {
+          "topic": "Compliance hearing procedures amendments",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Patricia Henslow",
+              "text": "Staff proposed amending CSFRA Chapter 5 and MHRSO Chapter 6 to establish a process for compliance disputes after a final decision. Either party can request a compliance hearing with documentation; notice issues within 10 days; if no objection, decision on papers; if objected, a hearing is held; landlord bears burden.",
+              "source": "Patricia Henslow : proposed regulations would permit any party to a downward adjustment petition to request a compliance hearing... Within 10 days... staff will send a notice... In the case of no objection... decision on the papers... In the case of an objection, compliance hearing will be scheduled... the landlord has the burden of demonstrating compliance.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Karen",
+              "text": "Hearing officers must include a 30-day tenant notice before rent restoration and inform parties about the compliance hearing process. Counsel confirmed the 30-day notice aligns with state law treating post-reduction restoration as a rent increase requiring notice; this reflects current decision practices.",
+              "source": "Karen : it's been very clear that rents cannot be raised after the reduction without a 30 day notice.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Tenant relocation and SB330 update",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Andrea",
+              "text": "Under the Tenant Relocation Assistance Ordinance (TRIO), income-eligible households (≤120% AMI + $5,000 buffer) displaced for specified just causes receive a security deposit refund (less necessary repairs), rental listing service access, cash equal to three months median rent by unit size, special-circumstance payment ($8,503 in 2022), and first right of return.",
+              "source": "Andrea : households are eligible... if their annual household income does not exceed 120% of the AMI plus $5000... cash equivalent of three months rent... special circumstance households... $8503... first right of return... if the rental unit is returned to the rental market.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Andrea",
+              "text": "SB 330 applies to demolitions replacing protected rental units and provides benefits for households at or below 80% AMI: 42 months of rent differential (using the lower of 30% income or current rent), a relocation advisor, moving cost allowance or reimbursement, and first right of return to a comparable affordable unit in the new development.",
+              "source": "Andrea : SB330... income eligible... cannot exceed 80% of the AMI... 42 month rent differential... relocation advisor... choice of either a moving cost allowance or reimbursement... first right of return... to rent or buy a comparable unit in the new development at an affordable rent or... price.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Andrea",
+              "text": "Where both TRIO and SB 330 apply, the stricter provision governs, and income-eligible households may receive both sets of benefits where applicable. Staff has observed a decline in redevelopment projects demolishing CSFRA-covered units since SB 330 due to replacement and affordability requirements.",
+              "source": "Andrea : in some instances both the trail and SV330 applied... the stricter of the provisions of the two laws is going to apply... you can notice a decline in redevelopment projects which demolished CSFRA covered rental units.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Andrea",
+              "text": "Project update—1851 Charleston Rd: Four CSFRA-covered units will be demolished to build parking for Google's Landings office. The project is subject to TRIO only (no housing replacement). The current vacate date is set for June 1, 2023.",
+              "source": "Andrea : 1851 Charleston Rd... four CSFRA covered rental units... demolished in order to construct a parking lot... subject to the trail because no replacement housing is going to be built... vacate date is currently set for June 1st, 2023.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Andrea",
+              "text": "Project update—1919–1945 Gamal Way: Proposal to demolish 29 CSFRA units and construct 121 for-sale condominiums. Though initiated pre–SB 330, negotiated benefits mirror SB 330. The developer has placed the project on hold for economic reasons and is extending vacate dates; current vacate date is January 31, 2023.",
+              "source": "Andrea : 1919 to 1945 Gamal Way... demolish all of the 29 CSFRA covered rental units... 121 for sale condominium units... only subject to the Treo... benefits that mirror SB 330... project has currently been put on hold by the developer due to economic reasons... current vacate date is set for January 31st, 2023.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Andrea",
+              "text": "Project update—870 E El Camino Real: Site with 180 CSFRA units proposes demolishing 42 and constructing two six-story buildings with 233 rentals. Subject to both TRIO and SB 330; demolished units must be replaced at affordable rents, with income-eligible former tenants having first right to return. Council approved in late September; no terminations issued yet.",
+              "source": "Andrea : 870 E El Camino Real... 180 CSFRA... proposing to demolish 42... construct 233 rental units... subject to both the trail and SV 330... former tenants... will have the first right to... return... approved by the City Council at the end of September... there have not been any termination notices.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Andrea",
+              "text": "Project update—660 Mariposa: Rehabilitation of 48 CSFRA units used as alternative mitigation for another project's BMR requirement. Temporary relocation began December 2021; renovations completed September 2022; all tenants returned. Benefits included options for temporary housing or payments, paid moving/storage, first right to return, and rent increases deferred until September 2023 and capped thereafter.",
+              "source": "Andrea : 660 Mariposa... rehabilitate the 48 naturally affordable CSFRA covered units... temporary relocation... renovations were just recently complete as of September 2022 and all the tenants have moved back... options... on site... extended stay hotel... relocation payment... rents will not be raised until one year after the last tenant had returned... Max rent increase of 4% a year.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Andrea",
+              "text": "Project updates—570 S Rank Stock Ave and 777 W Middlefield Rd: At 570 S Rank Stock Ave, 70 CSFRA units were demolished for 92 row homes; 40 households received $617,612 total relocation aid, with most relocating within Mountain View/Bay Area. At 777 W Middlefield, 208 units were demolished; 150 households received over $1.8M in enhanced benefits; relocations spanned local, state, and abroad.",
+              "source": "Andrea : 570 S Rank Stock Ave... demolition of 70 CSFRA covered rental units... 40 households... $617,612.00... 27... within Mountain View, 11 in the Bay Area... 777 W Middlefield Rd... demolition of 208 CSFRA covered rental units... a little over 1.8 million dollars was paid to the 150 households... 50 within Mountain View, 73 in the Bay Area... 3 out of country.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "2023 committee work plan discussion",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Anky van Deursen",
+              "text": "Staff presented the draft 2023 work plan covering as-needed regulatory items (appeals, potential regulations), monthly data reports and outreach updates, quarterly financial updates, and annual items. The plan includes possible regulations on ratio utility billing systems (RUBS) and tenant master lease/subtenant issues for CSFRA-covered units.",
+              "source": "Anky van Deursen : we asked the Brown Housing Committee to review this draft work plan... include the ratio utility billing systems... as well as tenant tenant master lease issues for CSFR recall units.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Joshua Howard",
+              "text": "Public comment requested a stakeholder engagement process when developing regulations, greater transparency by updating the work plan when new regulations are added, and spreading major items across the year to avoid front-loading the first five months.",
+              "source": "Joshua Howard : request that... the Rental Housing committee commits to a process of stakeholder engagement... hope that the committee would first amend its work plan... spread those issues out throughout the year versus trying to front load everything in the first five months.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Nicole Haynes",
+              "text": "Chair proposed allocating more time for RUBS and shifting the tenant/subtenant study session to August to prevent compression and allow stakeholder meetings. Vice Chair suggested a midyear work plan review to adjust priorities. Staff clarified the tenant master lease topic stems from a petition needing CSFRA clarification.",
+              "source": "Nicole Haynes : build more times in more time into the ratio billing by one month and then move the tenant sub tenant study session to 8/21... Anky... it comes out of an out of a petition case.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Anky van Deursen",
+              "text": "Staff will revise the work plan by moving the master tenant/subtenant topic to the second half of 2023 and scheduling a June midyear work plan review, then recirculate the updated plan to the committee for confirmation.",
+              "source": "Anky van Deursen : I will revise the work plan a little bit and put the Master 10 and Septan and Topic to the second-half of 2000, 23 and then at at least in June like like a revisiting of the work plan. And then I will recirculate that to everyone.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Outreach and upcoming events",
+          "topic_merge_note": "",
+          "points": [
+            {
+              "speaker": "Unidentified 1",
+              "text": "Housing and Eviction Help Center operates the 1st and 3rd Thursdays, 1–5 PM, at Mountain View Public Library (second-floor program room) with an online option. Services include affordable housing applications, rent assistance, eviction guidance for tenants and landlords, legal referrals (e.g., CLSEPA), and connections to supportive resources.",
+              "source": "Unidentified 1 : This is how the 1st and 3rd Thursday of every month... Mountain View Public Library... second floor program room... join online... help on various housing related topics... rent assistance programs... Eviction help... legal assistance and referrals... to Klezpa... and many other types of supportive services.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Unidentified 1",
+              "text": "Upcoming activities: weekly virtual office hours Tuesdays 10 AM–12 PM (mountainview.gov/RSPOfficehours); 10/20 workshop on habitability and maintenance (4–5 PM, English with Spanish translation, with a multifamily housing inspector); bilingual outreach at Castro/Mistral (10/19) and Rengstorff Park; staff presence at the Monster Bash/Día de los Muertos exhibit on 10/29.",
+              "source": "Unidentified 1 : virtual office hours every single Tuesday from 10:00 AM to 12:00 PM... workshop this Thursday... habitability and maintenance... bilingual staff doing outreach at Castro Mistral School... at Rangsdorf Park... the Monster Bash... Saturday, October 29th from 10:00 AM to 2:00 PM.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Nicole Haynes",
+              "text": "Chair asked whether RV residents are increasingly seeking assistance at the Help Center. Staff observed a recent overall increase in visitors, including more petition-related questions, but not a significant rise specifically in RV-related assistance requests.",
+              "source": "Nicole Haynes : have we seen any influx of our residents in the community who are RV residents coming in... Unidentified 1 : We have seen an increase... I haven't noticed a big increase in specifically RV related questions",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            }
+          ]
+        },
+        {
+          "topic": "Meeting closure and recognition",
+          "topic_merge_note": "normalized_from: ['Meeting closure and recognition', 'Committee Appreciation and Meeting Closure']",
+          "points": [
+            {
+              "speaker": "Nicole Haynes",
+              "text": "Committee members thanked staff for the September status report enhancements and the tenant relocation/SB 330 presentation. Emily Ramos reported representing the committee at the Celebration of Leader Service and noted five-year service recognition for herself, Grunwald, and Pardo Dazella.",
+              "source": "Nicole Haynes : I do want to say I'm really excited for the next month's status report... Andrea, you... that was a wonderful presentation... Emily Ramos : presented our committee at the celebration of Leader Service... recognized for five years years in service of the city.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Nicole Haynes",
+              "text": "The meeting adjourned at 8:57 PM, with the next RHC meeting scheduled for Monday, November 14, 2022, at 7:00 PM.",
+              "source": "Nicole Haynes : the meeting is adjourned at 8:57 PM... next Rental Housing committee meeting is scheduled to be held on Monday, November 14th, 2022 at 7:00 PM.",
+              "original_priority": "p1",
+              "dedup_note": "from_p1"
+            },
+            {
+              "speaker": "Almond",
+              "text": "Almond thanked the City for volunteer appreciation benefits and described attending a Shoreline concert with VIP amenities, noting an intention to send a thank-you letter. The meeting adjourned at 8:57 PM, with the next RHC meeting scheduled for Monday, November 14, 2022, at 7:00 PM.",
+              "source": "Almond : I felt very appreciated and I'm going to send a letter to the city and thank them. Nicole Haynes : the meeting is adjourned at 8:57 PM... next Rental Housing committee meeting is scheduled to be held on Monday, November 14th, 2022 at 7:00 PM.",
+              "original_priority": "p3",
+              "dedup_note": "partial_overlap_complementary"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "Rental Housing Committee",
+          "text": "Approved September 19, 2022 RHC minutes and adopted amendments to CSFRA Chapter 3 Rules of Conduct and CSFRA Six and MRMHRSO Chapter 7 upward adjustments (consent items 3.1 and 3.3).",
+          "source": "Unidentified 1 : The motion passes unanimously.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Rental Housing Committee",
+          "text": "Adopted a resolution to continue virtual meetings pursuant to Government Code Section 54953 (AB 361). Vote passed 4–1 (Pardo Dazella no).",
+          "source": "Emily Ramos : I will move to adopt A resolution to continue virtual meetings pursuant to Government Code Section 54953... Unidentified 1 : Motion passes four votes to 1.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Rental Housing Committee",
+          "text": "Adopted amendments to CSFRA Chapter 5 and MHRSO Chapter 6 hearing procedures to add compliance hearing processes and 30-day notice prior to rent restoration. Vote passed 4 ayes, 1 abstention.",
+          "source": "Nicole Haynes : a motion to approve should include... adopt the amendment to the CSFRA Regulation Chapter 5... and... MHRSO Regulations Chapter 6... Unidentified 1 : The motion passes four votes and one abstention.",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        },
+        {
+          "assignee": "Anky van Deursen",
+          "text": "Staff will revise 2023 work plan to move master tenant/subtenant topic to second half of year and add mid-year work plan review in June.",
+          "source": "Anky van Deursen : So if I can summarize what I heard is that I will revise the work plan a little bit and put the Master 10 and Septan and Topic to the second-half of 2000, 23 and then at at least in June like like a revisiting of the work plan",
+          "original_priority": "p1",
+          "dedup_note": "from_p1"
+        }
+      ]
+    },
+    "merge_statistics": {
+      "total_p1_items": 28,
+      "total_p2_items": 5,
+      "total_p3_items": 5,
+      "final_items": 33,
+      "duplicates_removed": 5,
+      "deduplication_details": {
+        "p2_skipped": [],
+        "p3_skipped": [
+          {
+            "speaker": "Patricia Henslow",
+            "text": "Mediation remains strong with 47 mediations/conciliations and 36 resolved. Staff observed an uptick in failure-to-pay notices and will analyze new versus repeat cases next month.",
+            "source": "Patricia Henslow : We've had 47 mediations and conciliations so far 36 of those have been resolved... We've seen a slight uptick in failure to pay rent notices... we will next month.",
+            "reason": "duplicate_with_p1: same_source_paraphrase (mediation statistics and failure-to-pay analysis identical)"
+          },
+          {
+            "speaker": "Patricia Henslow",
+            "text": "Nine tenant petitions were filed (4 unlawful rent, 5 tenant hardship).",
+            "source": "Patricia Henslow : We've had nine tenant petitions... four for unlawful rent and five for tenant hardship.",
+            "reason": "duplicate_with_p1: same_source_paraphrase (identical petition counts and breakdown)"
+          },
+          {
+            "text": "Approved consent calendar items 3.1 and 3.3 covering September meeting minutes and CSFRA regulation amendments by unanimous vote.",
+            "source": "Unidentified 1 : The motion passes unanimously",
+            "reason": "duplicate_with_p1: same_source_paraphrase (consent calendar approval with unanimous vote)"
+          },
+          {
+            "text": "Authorized continued virtual meetings pursuant to Government Code Section 54953 by four votes to one.",
+            "source": "Unidentified 1 : Motion passes four votes to 1",
+            "reason": "duplicate_with_p1: same_source_paraphrase (virtual meeting authorization with 4-1 vote)"
+          },
+          {
+            "text": "Adopted amendments to CSFRA Chapter 5 and MHRSO Chapter 6 hearing procedures to add compliance hearing processes and 30-day notice prior to rent restoration. Vote passed 4 ayes, 1 abstention.",
+            "source": "Nicole Haynes : a motion to approve should include... adopt the amendment to the CSFRA Regulation Chapter 5... and... MHRSO Regulations Chapter 6... Unidentified 1 : The motion passes four votes and one abstention.",
+            "reason": "duplicate_with_p1: same_source_paraphrase (CSFRA/MHRSO amendments with 4 ayes, 1 abstention)"
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_final_merge/generation_final_merge",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "96d6eff54eb8b4ced496aeb8e349890a5e5d3f8bdf8dd6229ebee2e637c5f8c8",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:12:07.695351+00:00"
+  }
+}

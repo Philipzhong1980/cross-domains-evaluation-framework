@@ -1,0 +1,46 @@
+{
+  "result": {
+    "validated_gt": {
+      "topics": [],
+      "decisions": []
+    },
+    "rejected_items": [
+      {
+        "id": "review_001",
+        "item_type": "point",
+        "original_point": {
+          "text": "Staff conducted 24 pop-ups and Eviction Help Center clinics connecting with 1,665 people in community outreach efforts",
+          "source": "Unidentified : We've held 24 Pop Ups and Eviction Help Center clinics with 1600 and 1065 people being connected",
+          "speaker": "Unidentified"
+        },
+        "reason": "no_evidence",
+        "explanation": "The transcript shows the speaker saying '1600 and 1065 people being connected' which appears to be two separate numbers (1,600 and 1,065), not a combined total of 1,665. The GT2 point claims 1,665 people were connected, but this number does not appear anywhere in the transcript. The actual transcript evidence shows two distinct numbers that were likely referring to different metrics or categories, not a sum that equals 1,665."
+      }
+    ],
+    "validation_details": [
+      {
+        "id": "review_001",
+        "decision": "exclude",
+        "reasoning": "The transcript clearly states '1600 and 1065 people being connected' which presents two separate numbers, not a combined total. The GT2 point claims 1,665 people were connected, but this specific number does not appear in the transcript. The numbers 1,600 and 1,065 do not add up to 1,665 (they sum to 2,665). There is no evidence in the transcript supporting the claim of exactly 1,665 people being connected.",
+        "transcript_evidence": [
+          "Unidentified : We've held 24 Pop Ups and Eviction Help Center clinics with 1600 and 1065 people being connected"
+        ]
+      }
+    ],
+    "validation_stats": {
+      "total_reviewed": 1,
+      "merged": 0,
+      "excluded": 1,
+      "modified": 0,
+      "confidence": "High confidence in validation decision. The transcript evidence is clear and unambiguous - the speaker states two distinct numbers (1,600 and 1,065) that do not support the claimed total of 1,665 people."
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_review_uncertain/generation_review_uncertain",
+    "prompt_version": "v2",
+    "prompt_fingerprint": "5de8dae6875ba6e8c3d2ce7fdb91ed6ed871933b101621c8f59ab86c3cc08070",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:52:19.924113+00:00"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "meeting_context": "White House press briefing imported from 20240118_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. DALTON",
+    "MR. KIRBY",
+    "Unidentified"
+  ],
+  "topics": [
+    {
+      "topic": "The President will announce 82 million in investments",
+      "points": [
+        {
+          "text": "The President will announce $82 million in investments from the American Rescue Plan's Capital Project Fund to expand high-speed internet access in North Carolina, a state where one in three people live in rural areas, and highlight the significance of these investments for the workers, families, small businesses, and economy of the state.",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby will provide updates on current events",
+      "points": [
+        {
+          "text": "Admiral Kirby will provide updates on current events after Olivia shares news about the President's announcement regarding investments in expanding high-speed internet access in North Carolina.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby provides updates on recent strikes conducted",
+      "points": [
+        {
+          "text": "Admiral Kirby provides updates on recent strikes conducted by the US military to destroy Houthi missiles that were being prepared for imminent firing into the Southern Red Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby provides updates on recent strikes by",
+      "points": [
+        {
+          "text": "Admiral Kirby provides updates on recent strikes by the US military to destroy Houthi missiles in the Southern Red Sea.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby mentions that the US military conducted",
+      "points": [
+        {
+          "text": "Admiral Kirby mentions that the US military conducted strikes to destroy Houthi missiles in the Southern Red Sea and expresses concern over reports of missile firing in Iran by Pakistan, emphasizing the need to prevent escalation in South and Central Asia.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby mentions that Jake Sullivan the national",
+      "points": [
+        {
+          "text": "Admiral Kirby mentions that Jake Sullivan, the national security advisor, will be meeting with families of American hostages held by Hamas, with the expectation that most, if not all, families will be represented in the meeting.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby states that the United States does",
+      "points": [
+        {
+          "text": "Admiral Kirby states that the United States does not want to see an escalation of armed conflict between Pakistan and Iran, emphasizing Iran's destabilizing behavior in the region and expressing unawareness of any prenotification of attacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby expresses that the United States does",
+      "points": [
+        {
+          "text": "Admiral Kirby expresses that the United States does not want to see Iran possess nuclear weapons due to the negative impact it would have on the region and globally, and acknowledges that diplomatic resolution is unlikely in the near future.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby states that while the United States",
+      "points": [
+        {
+          "text": "Admiral Kirby states that while the United States does not want a conflict with the Houthis or in the region, they will continue airstrikes as long as necessary to disrupt and degrade the Houthis' ability to conduct attacks.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby states that the airstrikes against the",
+      "points": [
+        {
+          "text": "Admiral Kirby states that the airstrikes against the Houthis are aimed at reducing their capability to conduct attacks and that if the Houthis do not choose to stop these attacks, there are additional options available, without specifying what those options may be.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby states that the US will continue",
+      "points": [
+        {
+          "text": "Admiral Kirby states that the US will continue to disrupt and degrade the Houthis' ability to conduct attacks if they choose not to stop, without specifying additional options, while also expressing concern over the Taliban's lack of commitment to treating women and girls appropriately and abiding by international law.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby reaffirms President Biden's commitment to a",
+      "points": [
+        {
+          "text": "Admiral Kirby reaffirms President Biden's commitment to a two-state solution and expresses disagreement with Prime Minister Netanyahu's rejection of a Palestinian state, emphasizing the need for independent governance in Gaza and ongoing discussions with regional counterparts.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby maintains that a two state solution",
+      "points": [
+        {
+          "text": "Admiral Kirby maintains that a two-state solution is still considered feasible and beneficial for both Israelis and Palestinians, despite Prime Minister Netanyahu's opposition to a Palestinian state.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby acknowledges that Prime Minister Netanyahu has",
+      "points": [
+        {
+          "text": "Admiral Kirby acknowledges that Prime Minister Netanyahu has expressed his opposition to a Palestinian state in recent comments.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby confirms that Prime Minister Netanyahu has",
+      "points": [
+        {
+          "text": "Admiral Kirby confirms that Prime Minister Netanyahu has publicly expressed his opposition to a Palestinian state.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The Wall Street Journal reported that the Iraqi",
+      "points": [
+        {
+          "text": "The Wall Street Journal reported that the Iraqi Prime Minister has requested the U.S.-led military leadership to leave Iraq.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes that the US is in",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes that the US is in Iraq at the invitation of the Iraqi government to help combat ISIS, expresses gratitude for the cooperation and relationship with the Iraqi security forces, and states that they will consult with the Iraqi government on the mission going forward; in regards to Israel, the spokesperson states that the record does not support claims that Israel has ignored American advice or guidance, and highlights various ways in which Israel has adjusted its military operations based on US recommendations.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The administration does not plan to seek congressional",
+      "points": [
+        {
+          "text": "The administration does not plan to seek congressional authorization for strikes against the Houthis as they are being conducted under the President's Article 2 authorities and in accordance with U.N. Charter Article 51.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The purpose of Jake Sullivan's meeting with the",
+      "points": [
+        {
+          "text": "The purpose of Jake Sullivan's meeting with the hostages is to maintain communication and reassure them of the administration's efforts to bring their loved ones back home, while ongoing discussions are being held for another hostage deal; the White House cannot comment on the influence of former President Trump on its ability to make a deal with Congress due to the Hatch Act.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President has emphasized the need for bipartisan",
+      "points": [
+        {
+          "text": "The President has emphasized the need for bipartisan action on the border, including introducing comprehensive immigration reform and requesting more resources from Congress.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President believes that the ongoing discussions with",
+      "points": [
+        {
+          "text": "The President believes that the ongoing discussions with Senate Democrats and Republicans on the border are moving in a positive direction, despite not having reached a final agreement on funding and policy.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The President believes that the ongoing discussions with",
+      "points": [
+        {
+          "text": "The President believes that the ongoing discussions with Senate Democrats and Republicans on the border are productive and moving in the right direction, expressing cautious optimism about reaching an agreement.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker jokes about the possibility of the",
+      "points": [
+        {
+          "text": "The speaker jokes about the possibility of the discussion being productive and then someone else interrupts with an inaudible comment.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The speaker addresses concerns about difficulties in charging",
+      "points": [
+        {
+          "text": "The speaker addresses concerns about difficulties in charging electric vehicle batteries during extreme weather and emphasizes that this issue is not unique to electric vehicles.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In response to concerns about recent incidents involving",
+      "points": [
+        {
+          "text": "In response to concerns about recent incidents involving electric vehicles, Ms. Dalton acknowledges the isolated nature of these incidents and expresses the administration's commitment to addressing the recommendations outlined in the DOJ report, emphasizing the importance of congressional action to prevent future tragedies.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Dalton expresses optimism about the progress of",
+      "points": [
+        {
+          "text": "Ms. Dalton expresses optimism about the progress of congressional talks on a bill without making any specific forecasts.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

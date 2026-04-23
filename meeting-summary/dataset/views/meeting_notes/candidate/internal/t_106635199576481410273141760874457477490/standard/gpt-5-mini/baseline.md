@@ -1,0 +1,63 @@
+### Overview
+  The Rental Housing Committee convenes to address operational, regulatory, and tenant-relocation matters. Key participants include Chair Nicole Haynes, Vice Chair Emily Ramos, committee members Grunwald, Almond, and Pardo Dazella, and staff presenters Patricia Henslow, Anky van Deursen, Andrea, and outreach staff; Joshua Howard represented the California Apartment Association during the work-plan discussion and a member of the public commented on COVID concerns. The committee voted to continue virtual meetings under Government Code Section 54953 (motion passes 4–1), received the September monthly status report with expanded data forthcoming, and adopted amendments to CSFRA Chapter 5 and MHRSO Chapter 6 to create a formal compliance-hearing process for final decisions (motion passes with four votes and one abstention). Staff updated the committee on TRAO and SB 330 relocation obligations and recent redevelopment projects and outcomes, and presented a draft 2023 work plan that includes RUBS and tenant master/subtenant topics; staff will revise the timeline per committee feedback and recirculate the plan, with a mid-year review planned. The meeting closed with outreach and Help Center updates, committee announcements, and confirmation of the next meeting on November 14, 2022.
+  
+  ### Detailed Summary
+  #### Remote Meeting Authorization
+  Committee members debated whether to continue fully remote meetings or shift to a hybrid model and reviewed staff guidance about city readiness. The City Clerk and manager have not authorized committees to go hybrid yet, and staff said City Council continues to meet virtually. The committee voted to continue virtual meetings under Government Code Section 54953, with one member dissenting.
+- Committee member Pardo Dazella recommends moving to a hybrid model and states the committee is an independent body that can meet in person if it chooses.
+- Staff (Anky van Deursen) reports the City Council is not ready to go hybrid and committees may follow after Council decides to do so.
+- Chair Nicole Haynes notes a state of emergency remains in effect through February 28, 2023, which allows the committee to make remote meeting findings.
+- Vice Chair Emily Ramos moves to adopt staff's recommendation to continue virtual meetings under Government Code Section 54953.
+- Committee member Almond seconds the motion to continue virtual meetings.
+- The committee votes to continue virtual meetings, and the motion passes four votes to one.
+#### Public Health Comment
+  A member of the public raised a COVID-19 public-health concern during oral communications and urged caution about returning to in-person meetings. The speaker cited wastewater and variant data and noted poor ventilation in the council chamber. The comment supported continuing virtual meetings on health grounds.
+- Steven states new COVID-19 variants are emerging and that wastewater data in Santa Clara County remains moderate to high.
+- Steven says federal and state emergency declarations remain in effect and that the City Council chamber has limited air circulation.
+- Steven recommends basing decisions about in-person meetings on demonstrated public-health safety rather than convenience.
+#### Monthly Status Report
+  Staff presented the September 2022 monthly status report, covering inquiries, outreach, mediations, notices, vacancy and rent data, and planned report enhancements. Staff highlighted nearly 600 public inquiries with significant bilingual needs, expanding data collection next month to include mobile homes and per-unit rent details. Market metrics show vacancy stabilizing and rents recovering past pre-COVID levels, and staff will add additional data breakdowns in the next report.
+- Patricia Henslow reports almost 600 public inquiries for the quarter and says about 30% of inquiries required Spanish-language services.
+- Patricia Henslow says staff provided translation for a Russian-language hearing and noted the first Russian petition request.
+- Patricia Henslow reports nine workshops with 52 attendees, 13 office-hours sessions serving 147 people, and outreach reaching nearly 1,000 people.
+- Patricia Henslow states the mediation program has conducted 47 mediations or conciliations with 36 resolved so far.
+- Patricia Henslow reports 136 bank rent increase notices and 278 termination notices year-to-date and says staff will track new versus repeat eviction notices next month.
+- Patricia Henslow reports vacancy rates of 4.4% for fully covered units, 4.1% for partially covered units, 16% for newly built units, and an overall 6.6% vacancy rate.
+- Patricia Henslow states market rents have recovered past pre-COVID levels with an average of about $2,700 per month for fully covered units.
+- Chair Nicole Haynes thanks staff and expresses anticipation for next month's expanded data points.
+#### Hearing Procedure Amendments
+  Staff proposed and the committee considered amendments to CSFRA Chapter 5 and MHRSO Chapter 6 to establish a compliance-hearing process when parties dispute whether a landlord has complied with final hearing decisions. The proposed process allows either party to request a compliance hearing with supporting documentation, sets a 10-day filing window for documentation, and gives the landlord the burden to prove compliance; outcomes are appealable to the Rental Housing Committee. The committee adopted the amendments after discussion about the 30-day notice for rent restoration mandated by state law.
+- Patricia Henslow explains the amendments create a formal compliance-hearing process to resolve disputes after a decision becomes final.
+- Patricia Henslow describes the procedure: a request with supporting documentation, a 10-day submission window, notice to affected parties, and administrative decision on the papers if there is no objection.
+- Patricia Henslow states that when objections occur a hearing officer will schedule a compliance hearing where the landlord bears the burden of proving compliance and the hearing officer can order restoration of rent or other equitable relief.
+- Patricia Henslow notes hearing officers must include a 30-day notice requirement prior to rent restoration to comply with state notice rules.
+- Chair Nicole Haynes and staff discuss the interaction between rent-restoration notice requirements and prior concession rules, and Karen confirms the 30-day notice practice is standard.
+- Vice Chair Emily Ramos moves to adopt the amendments and Committee member Almond seconds the motion.
+- The committee adopts the amendments to CSFRA Chapter 5 and MHRSO Chapter 6, and the motion passes with four votes and one abstention.
+#### Relocation Assistance & SB330
+  Staff provided an update on the Tenant Relocation Assistance Ordinance (TRAO) and the Housing Crisis Act (SB 330), reviewing eligibility, benefits, how the laws interact, and project-specific activity and outcomes. TRAO covers eligible households up to 120% AMI plus $5,000 and provides payments, security deposit refunds, and first-right-of-return; SB 330 protects certain demolished units and provides stricter benefits for households at or below 80% AMI including a 42-month rent differential and a relocation advisor. Staff summarized ongoing and completed redevelopment projects (1851 Charleston, Gamal Way, 870 E El Camino Real, 660 Mariposa, 570 S Rankin, and 777 W Middlefield) and reported amounts paid and tenant relocation outcomes.
+- Andrea explains TRAO eligibility applies to tenants covered by local rent stabilization and to households with income at or below 120% AMI plus $5,000, and lists TRAO benefits including three months' rent cash equivalent and special-circumstance payments.
+- Andrea explains SB 330 protections apply to certain demolished protected units and require income-qualifying households at or below 80% AMI to receive a 42-month rent differential, relocation advisor services, and moving-cost assistance.
+- Andrea states that when both TRAO and SB 330 apply, the stricter provisions govern and first-right-of-return rules differ between the two laws.
+- Andrea reports project updates: 1851 Charleston (four units, TRAO applies, vacate date June 1, 2023), 1919–1945 Gamal Way (29 units, project on hold with vacate date January 31, 2023), and 870 E El Camino Real (42 units to be demolished, subject to both TRAO and SB 330, project approved and no termination notices issued yet).
+- Andrea reports completed projects and outcomes: 660 Mariposa renovations completed in September 2022 with tenants returned; 570 S Rankin closed in 2021 with $617,612 paid to 40 eligible households; and 777 W Middlefield paid about $1.8 million to 150 households under enhanced relocation benefits.
+#### Draft 2023 Work Plan
+  Staff presented a draft annual work plan for the Rental Housing Committee covering monthly, quarterly, annual, and as-needed items and requested committee feedback on content and timeline. The draft lists priority topics including ratio utility billing systems (RUBS) and tenant master/subtenant issues; stakeholders urged transparent engagement and spreading heavy items across the year. The committee requested a mid-year review and staff committed to revising the timeline and recirculating the plan.
+- Anky van Deursen outlines the draft 2023 work plan categories and notes key items such as RUBS and tenant master/subtenant topics for potential study or regulation in 2023.
+- Joshua Howard (California Apartment Association) requests the committee commit to stakeholder engagement and transparency when developing regulations and to amend the work plan before adding additional regulations.
+- Chair Nicole Haynes requests more time for some items and suggests moving the tenant subtenant study session later in the year to avoid compressing multiple heavy topics.
+- Vice Chair Emily Ramos supports proceeding with RUBS early because it has been pending and recommends a mid-year work-plan check-in in June.
+- Committee member Grunwald asks staff to prioritize items by likely staff bandwidth and meeting time and requests information on how items are added to the list.
+- Staff (Anky van Deursen) commits to revise the work plan timing, move some items into the second half of 2023 as discussed, and recirculate the updated plan to the committee.
+#### Help Center & Outreach
+  Staff reviewed the Housing & Eviction Help Center operations, regular office hours, upcoming bilingual workshops, and outreach events to increase community engagement and service access. The Help Center runs in-person at the library on the first and third Thursdays and holds virtual office hours every Tuesday; staff highlighted habitability workshops, school and park outreach, and participation in a Dia de Los Muertos event. Staff emphasized multi-language support and community referrals to legal services.
+- Staff reports the Housing & Eviction Help Center operates the 1st and 3rd Thursday of each month at the Mountain View Public Library and provides a virtual attendance option.
+- Staff states virtual office hours run every Tuesday from 10:00 AM to 12:00 PM and attendees can register online for one-on-one assistance.
+- Staff announces a bilingual habitability and maintenance workshop at the Help Center this Thursday with a multi-family housing inspector available to answer questions.
+- Staff lists upcoming outreach events including school and park outreach on October 19 and the Monster Bash/Dia de Los Muertos event at Rangsdorf Park on October 29.
+- Staff reiterates direct tenant supports available through the Help Center, including eviction assistance, referrals to legal services, and connections to financial and homeless-prevention resources.
+#### Committee Announcements
+  Committee members shared brief announcements about recent outreach and recognition events and adjourned the meeting with the next meeting date confirmed. Members reported participation in a leadership celebration where several RHC members received recognition and one member described city-provided concert benefits. The meeting adjourned at 8:57 PM with the next RHC meeting scheduled for November 14, 2022.
+- Vice Chair Emily Ramos reports she and other committee members were recognized at the city's leadership celebration and notes that several members reached five-year service milestones.
+- Committee member Almond thanks the city for the appreciation event and shares her experience attending a Shoreline concert as part of the recognition benefits.
+- Chair Nicole Haynes adjourns the meeting at 8:57 PM and confirms the next Rental Housing Committee meeting is scheduled for November 14, 2022.

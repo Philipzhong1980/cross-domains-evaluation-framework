@@ -1,0 +1,283 @@
+{
+  "result": {
+    "merge_stats": {
+      "total_aligned_points": 8,
+      "total_aligned_decisions": 1,
+      "single_aligned_points_from_gt1": 1,
+      "single_aligned_points_from_gt2": 17,
+      "single_aligned_decisions_from_gt1": 2,
+      "single_aligned_decisions_from_gt2": 0,
+      "points_need_review": 0,
+      "decisions_need_review": 0,
+      "total_output_points": 26,
+      "total_output_decisions": 3,
+      "confidence_level": "high",
+      "notes": "High-quality merge with clear consensus on key meeting outcomes. GT2 captured significantly more detailed applicant responses and discussion content, while GT1 provided better process documentation. No conflicts detected."
+    },
+    "total_aligned_gt": {
+      "meeting_context": "Special City Council meeting to interview seven applicants for two four-year Environmental Planning Commission (EPC) seats, conducted remotely with public access. Council used standardized questions in panel format with equal time limits, followed by tally voting method to recommend reappointment of two incumbents, with formal resolution planned for December 13, 2022.",
+      "participants": [
+        "Lucas Ramirez",
+        "Heather Glaser",
+        "Margaret Abekoga",
+        "Ellen Kamei",
+        "Sally Leiber",
+        "Lisa Matichak",
+        "Alison Hicks",
+        "Anne Cavanaugh",
+        "Bill Cranston",
+        "Paul Donahue",
+        "Jose Gutierrez",
+        "Silja Paymer",
+        "Molly Smith",
+        "Li Zhang",
+        "Patricia Walter"
+      ],
+      "topics": [
+        {
+          "topic": "Meeting setup and accessibility",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "The City piloted Zoom automated captioning for this meeting, noting captions were computer-generated, unedited, and not reliable for complete accuracy or as a verbatim transcript.",
+              "source": "Lucas Ramirez : The content represents unedited versions of computer generated captioning of City Council meetings, which should neither be relied upon for complete accuracy nor used as a verbatim transcript."
+            },
+            {
+              "speaker": "Heather Glaser",
+              "text": "Roll call established a quorum with Council Member Schwalter absent; other council members were present and participating via video conference.",
+              "source": "Heather Glaser : You have a quorum with Council Member Schwalter absent."
+            },
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Council interviewed seven EPC applicants in a panel format, using standardized questions with equal time limits and randomized round-robin order.",
+              "source": "Lucas Ramirez : The Council will interview 7 applicants for the Environmental Planning Commission for the selection process outlined in Council Policy Number K2."
+            }
+          ]
+        },
+        {
+          "topic": "Interview process and questions",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "The first question was modified to ask incumbents what they have personally contributed to the EPC and non-incumbents what unique contributions they would bring, while keeping the limit at one minute for all applicants.",
+              "source": "Lucas Ramirez : So the first question would be modified to what have you personally done to make a contribution to the EPC or if you are not currently serving, what would you bring to the EPC that is unique"
+            }
+          ]
+        },
+        {
+          "topic": "EPC appointments outcome",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Council voted to recommend Bill Cranston and Jose Gutierrez for reappointment to four-year EPC terms.",
+              "source": "Lucas Ramirez : So congratulations, Commissioner Cranston, Unless the Council deviates from this recommendation, it looks like you will have an opportunity to continue your service."
+            },
+            {
+              "speaker": "Heather Glaser",
+              "text": "The City Clerk will return on December 13 with a resolution to formally confirm the reappointments of Bill Cranston and Jose Gutierrez.",
+              "source": "Heather Glaser : So on December 13, we'll bring a resolution to the council formally reappointing Bill and Jose for those next terms."
+            }
+          ]
+        },
+        {
+          "topic": "Meeting closure and next steps",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Lucas Ramirez announced the next City Council meeting on December 6, 2022, and adjourned the meeting at 6:38 PM.",
+              "source": "Lucas Ramirez : The next City Council meeting will be held on December 6th, 2022. Until then, stay healthy. The meeting is adjourned at 6:38 PM."
+            }
+          ]
+        },
+        {
+          "topic": "Training and meeting format proposals",
+          "points": [
+            {
+              "speaker": "Ellen Kamei",
+              "text": "Ellen Kamei recommended Commission/Board Training 101 and clearer guidance on EPC's advisory role and framing of questions.",
+              "source": "Ellen Kamei : So I I did take the opportunity to watch several EPC meetings and thought that something I believe the the city clerk has brought up and I believe our city manager has brought up or worth pursuing and I'm not sure how we do that which is a a Commission or board training 101."
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "City Clerk",
+          "text": "Bring a resolution on December 13 to formally reappoint Bill Cranston and Jose Gutierrez to four-year EPC terms.",
+          "source": "Heather Glaser : So on December 13, we'll bring a resolution to the council formally reappointing Bill and Jose for those next terms."
+        }
+      ]
+    },
+    "single_aligned_gt": {
+      "topics": [
+        {
+          "topic": "Meeting setup and accessibility",
+          "points": [
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "The meeting was conducted by video conference under California Government Code Section 54953(e) with no physical location. The public could watch on YouTube and provide oral comments via the City's Zoom webinar or by phone per the agenda instructions.",
+              "source": "Lucas Ramirez : This meeting will be conducted in accordance with California Government Code Section 54953 E, as authorized by resolution of the City Council.",
+              "from_gt": "gt1"
+            }
+          ]
+        },
+        {
+          "topic": "Interview question modifications",
+          "points": [
+            {
+              "speaker": "Lisa Matichak",
+              "text": "Matichak suggested modifying first question to ask incumbents what they've contributed versus asking non-incumbents what they would bring",
+              "source": "Lisa Matichak : So maybe it could be amended to include what have you personally done to make a contribution to the EPC or if you are not an incumbent, what what do you think you would bring to the EPC",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Heather Glaser",
+              "text": "Policy requires asking everyone same questions with same time allocation for fairness",
+              "source": "Heather Glaser : Yeah, the policy discussed is asking everyone the same questions and giving everyone the same amount of time.",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Applicant interview responses",
+          "points": [
+            {
+              "speaker": "Anne Cavanaugh",
+              "text": "Cavanaugh brings 22 years Mountain View residency, downtown resident and small landlord perspective, and talent for perspective taking",
+              "source": "Anne Cavanaugh : So I think probably the most unique thing that I would bring to the EPCI mean I've been a resident of Mountain View for many years, 22 years.",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Bill Cranston",
+              "text": "Cranston brings small business owner perspective with employees in below market rate and moderate income categories",
+              "source": "Bill Cranston : I'm a small business owner and one of the things that has what I've tried to do is bring the perspective of somebody who's trying to work with with that has employees who are trying to live in the Bay Area.",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Paul Donahue",
+              "text": "Donahue has 16 years experience on city advisory bodies including 7 years PRC, 8 years library board, and 9 years Airport Land Use Commission",
+              "source": "Paul Donahue : I've been involved in the city on various advisory bodies for the last 16 years, seven years on the PRC, eight years on the library board.",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Jose Gutierrez",
+              "text": "Gutierrez is single parent, 22+ year community member, ethnic minority, and has worked on affordable housing partnerships including charities program",
+              "source": "Jose Gutierrez : I'm a single parent. I'm got two beautiful girls. I've been a member of the community for now over 22 plus years.",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Silja Paymer",
+              "text": "Paymer brings environmental science teaching background, daily bike commuting experience, and inside view of city-school relationships",
+              "source": "Silja Paymer : And I think one unique perspective I bring is that I've been an environmental science teacher.",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Molly Smith",
+              "text": "Smith is newer resident from Boulder with environmental studies degree and train commuting experience",
+              "source": "Molly Smith : I am newer to the area. I have been here just over 2 years. I've came from Boulder, Co",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Li Zhang",
+              "text": "Zhang has lived in Mountain View over 20 years, has PhD in chemistry, and wants to bring sustainability perspective and remove housing development restraints",
+              "source": "Li Zhang : I also lived in Mountain View for over 20 years, and I've lived here since I was single.",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "General Plan and Precise Plans Discussion",
+          "points": [
+            {
+              "speaker": "Bill Cranston",
+              "text": "General Plan implemented 8 years ago with change areas including Bayshore, San Antonio, El Camino and E Wiseman having significant development impact",
+              "source": "Bill Cranston : So the the general plan was put in place about eight years ago. A lot of things were included in that with the the change areas",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Jose Gutierrez",
+              "text": "Gutierrez supports General Plan revision due to changed times and COVID impacts, believes it would strengthen city's negotiating position with developers",
+              "source": "Jose Gutierrez : I like to see it revised. I like for us to be able to, for the City Council to sit down together as a team, work through that because times have changed, needs have changed.",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Paul Donahue",
+              "text": "Donahue opposes reopening General Plan, noting it took 4 years to complete and shouldn't spend 4 out of every 10 years redoing it",
+              "source": "Paul Donahue : I mean the the General Plan was put in place about 10 years ago and I my recollection is it took about four years to to get that thing through",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Li Zhang",
+              "text": "Zhang notes General Plan finalized in 2012, reworking would take 3-4 years, and council needs to evaluate available resources",
+              "source": "Li Zhang : I understood the general plan was this, I was finalized in 2012, it was quite some time ago, but it was a visionary plan.",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Property Rights and Community Benefits Balance",
+          "points": [
+            {
+              "speaker": "Paul Donahue",
+              "text": "Donahue generally leans toward public open space over private as it benefits entire community",
+              "source": "Paul Donahue : generally I would, I would lean towards public open space that can be used by all of the the community",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Silja Paymer",
+              "text": "Paymer leans toward public benefit in denser development since residents need shared spaces when lacking private backyards",
+              "source": "Silja Paymer : So I think probably if it was a set of scales, I'd probably learn more towards public benefit when I was thinking about the property rights, especially as we're going more dense.",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Bill Cranston",
+              "text": "Cranston believes property owners should work within existing rules, but density bonus law limits cities' ability to ask for community benefits",
+              "source": "Bill Cranston : So when it comes to public versus private, I'm a pretty strong believer in that somebody who owns property should be able to look at the rules that the city has",
+              "from_gt": "gt2"
+            }
+          ]
+        },
+        {
+          "topic": "Council deliberation and process improvements",
+          "points": [
+            {
+              "speaker": "Alison Hicks",
+              "text": "Hicks praised Cranston for asking smartest questions during Google walking tour and EPC meetings",
+              "source": "Alison Hicks : I have to say I first became familiar with his work when I was on a Google walking tour with a bunch of people and he was just asking, I have to say this, the smartest questions in the tour group.",
+              "from_gt": "gt2"
+            },
+            {
+              "speaker": "Lucas Ramirez",
+              "text": "Ramirez noted Molly and Ann have been recommended for appointments to other advisory bodies",
+              "source": "Lucas Ramirez : It didn't make a difference in this context, but I think it is important to note that both, if unless I'm mistaken, correct me if I'm wrong, Council Appointments Review committee. But Molly and Ann have been recommended for appointments to other advisory bodies",
+              "from_gt": "gt2"
+            }
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "assignee": "City Council",
+          "text": "Use a modified Question 1—incumbents describe personal EPC contributions; non-incumbents state unique contributions—with a one-minute limit for all applicants during this interview session.",
+          "source": "Lucas Ramirez : The first question would be modified to what have you personally done to make a contribution to the EPC or if you are not currently serving, what would you bring to the EPC that is unique their general consensus on that modification?",
+          "from_gt": "gt1"
+        },
+        {
+          "assignee": "City Council",
+          "text": "Follow the policy-prescribed tally voting method for EPC selections rather than using motions and seconds.",
+          "source": "Alison Hicks : Why don't we use your tally method? And what? The statements I made are just my own comments.",
+          "from_gt": "gt1"
+        }
+      ]
+    },
+    "needreview_gt": []
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation_alignment/generation_alignment",
+    "prompt_version": "v3",
+    "prompt_fingerprint": "fae28f5dd5207c57cdcd5bc1a3c29bc286c4fd8b12a9eae99e41969f0bebb744",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T06:56:58.513415+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+### Overview
+  Senior administration officials preview President Widodo’s White House visit as a consequential bilateral that elevates U.S.-Indonesia ties and helps set the stage for President Biden’s APEC meetings, including his session with President Xi. Officials (attributed to "senior administration official" and "senior administration official 2") say the leaders will announce a Comprehensive Strategic Partnership and agree to a work plan to explore critical minerals cooperation while emphasizing high labor and environmental standards. The agenda also includes discussions on the South China Sea and China’s regional diplomacy, Myanmar and ASEAN leadership, the Middle East and Gaza, climate and energy initiatives (including carbon capture and grid support), semiconductor and broader technology cooperation, strengthened defense and Coast Guard and cybersecurity cooperation, and people-to-people projects such as a Georgetown satellite program in Jakarta and U.S. assistance to restore Indonesia’s National Museum. Officials describe the meeting format as a private Oval Office conversation followed by a larger high tea and indicate that whole-of-government teams from USAID, State, Commerce, Treasury, and climate offices will support a range of deliverables and follow-up work.
+  
+  ### Detailed Summary
+  #### Visit purpose and context
+  Senior administration officials frame President Widodo’s White House visit as a consequential bilateral ahead of APEC and President Biden’s meeting with President Xi. They emphasize the long-standing U.S.-Indonesia relationship, timing ahead of Indonesia’s presidential campaign, and the goal of deepening cooperation across multiple domains. The meeting structure will include a private Oval Office conversation followed by a larger Cabinet Room bilateral.
+- Senior administration official said the visit begins a consequential week in which President Biden will also meet President Xi at APEC.
+- Senior administration official said the meeting comes as Indonesia prepares to enter its presidential campaign season and that the leaders enjoy a warm relationship.
+- Senior administration official said the White House will host an afternoon tea, a private small-group meeting, and then a larger bilateral in the Cabinet Room.
+#### Foreign policy priorities
+  Officials identify several foreign policy and national security topics for leader-level discussion, including the South China Sea, China’s regional diplomacy, and ASEAN centrality. They stress Indonesia’s role as a key interlocutor within ASEAN and its influence on regional issues. The meeting will solicit Indonesian perspectives to inform U.S. approaches in the Indo-Pacific and beyond.
+- Senior administration official said Indonesia provides important perspectives on the South China Sea and China’s diplomatic engagement in the region.
+- Senior administration official said the United States values Indonesia’s central convening role within ASEAN when addressing regional security and diplomacy.
+- Senior administration official 2 said bolstering ASEAN centrality will be a key theme of bilateral cooperation.
+#### Myanmar/Burma concerns
+  Officials flagged Myanmar as a critical mutual interest and expressed disappointment at limited ASEAN progress in improving the situation. They said Indonesia has played and will continue to play a leadership role on Myanmar within ASEAN, and the U.S. looks to coordinate next steps with regional partners. The conversation will include consideration of practical measures in response to the deteriorating security and humanitarian conditions.
+- Senior administration official said the United States is discouraged that ASEAN engagement with Myanmar has not produced more progress.
+- Senior administration official 2 said Indonesia plays an important and continuing leadership role on Myanmar inside ASEAN, including through a forthcoming ASEAN troika.
+- Senior administration official said the U.S. believes it will soon be time to consider coordinated next steps on Myanmar given the untenable situation.
+#### Middle East/Gaza discussion
+  Officials expect to discuss the ongoing conflict in Gaza and Indonesia’s perspectives following President Widodo’s travel to Riyadh and the Islamic Summit. They emphasize the U.S. interest in Indonesia’s views as the largest Muslim-majority democracy and the potential for Indonesia to play a larger practical and diplomatic role. Conversations will cover immediate ceasefire concerns as well as medium- and long-term aims like a two-state solution and reconstruction needs.
+- Senior administration official said President Biden will listen closely to President Widodo’s perspectives from Riyadh and the Islamic Summit.
+- Senior administration official said Indonesia’s views are consequential and that discussions will include ceasefire priorities and longer-term goals such as a two-state solution and reconstruction.
+- Senior administration official said the U.S. welcomes Indonesia’s interest in moving beyond vocal support to practical engagement on the Middle East.
+#### Comprehensive Strategic Partnership
+  The two administrations plan to announce a Comprehensive Strategic Partnership elevating bilateral ties to Indonesia’s highest partnership tier. Officials say this builds on recent similar U.S. partnerships in the region and signals a new phase of strategic cooperation across political, economic, security, and people-to-people areas. The announcement frames multiple parallel deliverables and deeper whole-of-government engagement.
+- Senior administration official 2 said the visit will include the announcement of a Comprehensive Strategic Partnership, Indonesia’s highest partnership tier.
+- Senior administration official 2 said the partnership follows recent U.S. Comprehensive Strategic Partnership announcements in the region and advances deeper engagement.
+- Senior administration official said the partnership represents a whole-of-government approach with agencies across State, Commerce, Treasury, USAID, and climate offices engaged.
+#### Critical minerals work plan
+  Officials describe critical minerals cooperation as an early-stage but important area for bilateral work and say leaders will agree to an initial work plan. The work plan is intended to define expectations on both sides and prepare systems for potential negotiations while adhering to high labor and environmental standards. This reflects U.S. interest in diversifying supply chains and accessing Indonesia’s significant resource base for future industries.
+- Senior administration official said the United States and Indonesia are at the very early stages of exploring cooperation on critical minerals and will begin a process to align expectations.
+- Senior administration official 2 said the leaders will agree to a work plan intended to prepare both systems to move forward on a critical minerals pathway.
+- Senior administration official 2 said any future critical minerals cooperation will adhere to the administration’s highest labor and environmental standards.
+#### Technology and semiconductors
+  Indonesia expresses strong interest in advancing its technology and manufacturing capabilities, including semiconductors, and U.S. officials say they will explore diversification of Indonesia’s semiconductor ecosystem. Officials frame this as an Indonesian priority and as part of broader efforts to deepen economic and tech cooperation. Concrete steps are in early discussion and will be part of the leaders’ talks.
+- Senior administration official said Indonesia seeks to move up the technology and manufacturing ladder, including fab development.
+- Senior administration official 2 said the United States is looking closely at how to cooperate to diversify Indonesia’s semiconductor ecosystem.
+- Senior administration official said conversations will focus on mutual expectations and potential concrete steps over time.
+#### Climate and energy initiatives
+  The administrations plan to announce initiatives building on the U.S.-Indonesia just energy transition partnership, including carbon capture, electricity grid support, air quality improvements, and enhanced ASEAN climate cooperation. Officials present these as tangible deliverables that layer on existing climate work and advance regional decarbonization and resilience. These initiatives reflect cross-agency collaboration and will be highlighted at the visit.
+- Senior administration official 2 said the visit will include announcements on carbon capture and storage and support for Indonesia’s electricity grid.
+- Senior administration official 2 said initiatives will also address air quality and expand climate cooperation through ASEAN.
+- Senior administration official said the climate work builds on the recently established just energy transition partnership.
+#### Security and defense cooperation
+  Officials describe a package of security initiatives including a strengthened defense cooperation arrangement, new Coast Guard cooperation, expanded cybersecurity partnerships, and growth in routine exercises and training. They do not plan a single headline defense procurement announcement but signal substantial progress in everyday defense ties and looming procurement decisions in areas such as radars, patrol vessels, and aircraft. Secretary Austin is expected to advance these efforts with counterparts at ADMM-Plus.
+- Senior administration official 2 said the leaders will announce security initiatives that include a strengthened defense cooperation arrangement and new Coast Guard cooperation.
+- Senior administration official said the administration expects expanded exercises and deeper training in areas like cybersecurity and combating WMD.
+- Senior administration official said the U.S. will support dialogues around Indonesia’s looming procurement decisions for maritime domain awareness, patrol boats, and aircraft.
+#### People-to-people initiatives
+  The bilateral will feature people-to-people commitments including the first American university satellite program in Jakarta with Georgetown’s School of Foreign Service and educational cooperation to train future policymakers. Officials frame the Georgetown program as both a bridge between peoples and a way to align future policymaker perspectives. They will also announce U.S. support for restoration of Indonesia’s National Museum following a fire.
+- Senior administration official 2 said Georgetown University’s School of Foreign Service will announce the first American university satellite program in Jakarta.
+- Senior administration official 2 said the program will facilitate degree programs for current and future American and Indonesian policymakers and is the first American campus in Indonesia.
+- Senior administration official 2 said U.S. experts will partner with Indonesian counterparts to help restore the National Museum damaged by a September fire.
+#### Meeting format and logistics
+  Officials confirm the meeting will include a private Oval Office conversation and a subsequent larger high tea in the Cabinet Office with senior U.S. and Indonesian participants. They note that sensitive issues will be discussed in the private session and that a full government delegation across agencies will be present. Officials also commit to providing exact timing to press when available.
+- Senior administration official 2 said the leaders will meet privately in the Oval Office with a small group of aides and then have a larger high tea in the Cabinet Office.
+- Senior administration official 2 said sensitive issues are likely to be discussed during the private meeting.
+- Senior administration official 2 said the White House will provide an exact schedule for the visit upon request.
+#### Relation to APEC/Xi meeting
+  Officials present the Widodo meeting as part of a broader U.S. strategy to bolster alliances and partnerships ahead of President Biden’s APEC engagement with President Xi. They say deeper ties with Indonesia and other regional partners strengthen the U.S. position and facilitate presenting a coordinated approach on shared challenges. Officials emphasize that partners want sustained U.S.-China communication but not a duopoly excluding regional voices.
+- Senior administration official said this visit is one element of sustained U.S. investment in Indo-Pacific partnerships ahead of APEC and the Biden-Xi meeting.
+- Senior administration official 2 said a stronger U.S. alliance and partnership network in the region positions the United States well as it engages China at APEC.
+- Senior administration official said regional partners seek communication between the United States and China but do not want decisions made by a U.S.-China duopoly.

@@ -1,0 +1,207 @@
+{
+  "meeting_context": "The committee convened to approve prior minutes, hear a guest presentation from Friendly Voices on combating senior isolation, receive updates from the Communications and Senior Survey subcommittees, and get Senior Center operational and program updates. The meeting concluded with recognition and closure.",
+  "participants": [
+    "Vicki",
+    "Ashley Bittle",
+    "Elna Tymes",
+    "Irigon",
+    "Laura Steuer",
+    "Jim Nichols",
+    "Ish Sinha"
+  ],
+  "topics": [
+    {
+      "topic": "Meeting administration and minutes approval",
+      "points": [
+        {
+          "text": "Committee achieved quorum with members present at the start of the meeting after roll call.",
+          "source": "Ashley Bittle : We have a quorum",
+          "speaker": "Ashley Bittle",
+          "id": "t_001_p_001"
+        },
+        {
+          "text": "July 20th meeting minutes were approved with Elna Tymes making motion and Ish providing second.",
+          "source": "Elna Tymes : I move to approve",
+          "speaker": "Elna Tymes",
+          "id": "t_001_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Friendly Voices program overview and expansion",
+      "points": [
+        {
+          "text": "Friendly Voices currently serves 70 seniors through weekly phone calls with trained volunteers, with each volunteer typically supporting two seniors.",
+          "source": "Laura Steuer : We're serving 70 seniors right now",
+          "speaker": "Laura Steuer",
+          "id": "t_002_p_001"
+        },
+        {
+          "text": "Organization received grant from Joseph and Vera Long Foundation to triple capacity to 250 seniors within two years.",
+          "source": "Laura Steuer : We just received a grant from the Joseph and Vera Long Foundation based up in Walnut Creek to triple that in the next two years",
+          "speaker": "Laura Steuer",
+          "id": "t_002_p_002"
+        },
+        {
+          "text": "Service currently has wait list and expects to reopen enrollment November 1st.",
+          "source": "Laura Steuer : We have a wait list. We're hoping to open it up November 1st",
+          "speaker": "Laura Steuer",
+          "id": "t_002_p_003"
+        },
+        {
+          "text": "Most senior clients come through referrals from agencies like Community Services Agency in Mountain View, targeting vulnerable, low-income, homebound seniors without computers or cars.",
+          "source": "Laura Steuer : Most of our senior clients come to us through referrals from senior agencies and we're reaching the most vulnerable seniors, low income, no computer, no car, fully isolated, homebound",
+          "speaker": "Laura Steuer",
+          "id": "t_002_p_004"
+        },
+        {
+          "text": "All volunteers make calls from personal phones at home, creating intimate personal connections rather than call center approach.",
+          "source": "Laura Steuer : All the phone calls are made from our own personal phones, wherever we happen to be",
+          "speaker": "Laura Steuer",
+          "id": "t_002_p_005"
+        },
+        {
+          "text": "Friendly Voices connects isolated seniors with trained, background-checked volunteers for weekly one-to-one phone calls. Volunteers are mentored and supervised, safety is prioritized, calls are documented, and relationships are continuous rather than rotating. The program is entirely volunteer-run, Bay Area\u2013based, and collaborates with multiple local agencies.",
+          "source": "Laura Steuer : We train them, we mentor them, we background check them, we supervise them. We document every call... we match each senior and each volunteer 1 to 1... We are entirely volunteer run.",
+          "speaker": "Laura Steuer",
+          "id": "t_002_p_006"
+        },
+        {
+          "text": "Members suggested outreach avenues: connect with the Alzheimer's Association 24/7 line (primarily serving caregivers), present briefly at the Senior Center's nutrition program lunch, and speak at local senior organizations. Friendly Voices noted a planned mention in Saratoga Area Senior Center's newsletter in December and potential follow-up with Senior Center staff.",
+          "source": "Elna Tymes : ...the Alzheimer's 24 by 7 line... caregivers... I would suggest very strongly that you explore that connection.",
+          "speaker": "Elna Tymes",
+          "id": "t_002_p_007"
+        }
+      ]
+    },
+    {
+      "topic": "Senior survey planning and vendor option (CASOA)",
+      "points": [
+        {
+          "text": "Committee retrieved 2019 senior survey questions and considers them suitable for re-use.",
+          "source": "Elna Tymes : We retrieved the copy of the senior survey from 2019 along with the questions and absent knowing what it is that is is going on elsewhere in the in the North county, we think those questions are fine and they need to be re asked",
+          "speaker": "Elna Tymes",
+          "id": "t_003_p_001"
+        },
+        {
+          "text": "CASOA organization is conducting senior surveys for multiple Santa Clara County cities including Saratoga, Cupertino, Los Gatos, and Sunnyvale.",
+          "source": "Elna Tymes : They have have done a survey for the city of Saratoga. They are doing currently in different phases of surveys for Avenidas and Palo Alto, for the city of Cupertino, for the the city of Los Gatos",
+          "speaker": "Elna Tymes",
+          "id": "t_003_p_002"
+        },
+        {
+          "text": "Professional survey would cost Mountain View approximately $20,000 and would require City Council approval through formal vetting process.",
+          "source": "Elna Tymes : It would cost us a Mountain View about 20,000 dollars to the survey",
+          "speaker": "Elna Tymes",
+          "id": "t_003_p_003"
+        },
+        {
+          "text": "Survey would use standard statistical methods with online and mail components, targeting Mountain View's estimated 14,400 seniors (16% of 90,000 population).",
+          "source": "Elna Tymes : We have probably well, let's see if we believe the census figures probably close to 90,000 people in Mountain View, of which about 16% are seniors",
+          "speaker": "Elna Tymes",
+          "id": "t_003_p_004"
+        }
+      ]
+    },
+    {
+      "topic": "Communications subcommittee and outreach",
+      "points": [
+        {
+          "text": "The Communications Subcommittee update was deferred due to connectivity issues and Kieran being out of the country until December. Ashley asked that Vicki or the vice chair email Ish with expectations and request a subcommittee update for the November meeting.",
+          "source": "Ashley Bittle : ...maybe if one of you two... shoot him an e-mail and just let him know, you know what kind of update we'd like for the November",
+          "speaker": "Ashley Bittle",
+          "id": "t_004_p_001"
+        },
+        {
+          "text": "Ish proposed exploring a local friendly visitor program in Mountain View, based on his successful Alameda County experience. He emphasized that in-person visits build trust more than phone calls and suggested preparing and distributing flyers to increase senior outreach and awareness.",
+          "source": "Ish Sinha : ...a friendly visitors program in Alameda County and it was a very successful program... visiting somebody's house is much better... I think we should start it in our county... we had some flies ready to distribute",
+          "speaker": "Ish Sinha",
+          "id": "t_004_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Senior Center programs and operations update",
+      "points": [
+        {
+          "text": "Anthony Kukar hired as new recreation coordinator, replacing Alejandra who moved laterally to Community Center.",
+          "source": "Ashley Bittle : We've have a new recreation coordinator at the Senior Center. His name is Anthony Kukar",
+          "speaker": "Ashley Bittle",
+          "id": "t_005_p_001"
+        },
+        {
+          "text": "Three October workshops conducted: police cybercrime prevention, Roadrunners transportation, and upcoming VTA transportation workshop.",
+          "source": "Ashley Bittle : We have 3 workshops this month in October. So at the beginning of the month, we had the Mountain View Police Department out here doing the latest trends in crime prevention",
+          "speaker": "Ashley Bittle",
+          "id": "t_005_p_002"
+        },
+        {
+          "text": "Holiday bazaar scheduled for Saturday November 19th with approximately 40 vendors confirmed, first time since 2019.",
+          "source": "Ashley Bittle : We do have our holiday bazaar coming back Saturday, November 19th",
+          "speaker": "Ashley Bittle",
+          "id": "t_005_p_003"
+        },
+        {
+          "text": "City Council approved virtual meetings continuation until November 10th, with in-person return unlikely until spring 2023.",
+          "source": "Ashley Bittle : Council just approved at their meeting last Tuesday that virtual meetings would continue until November 10th",
+          "speaker": "Ashley Bittle",
+          "id": "t_005_p_004"
+        }
+      ]
+    },
+    {
+      "topic": "Recognition and meeting closure",
+      "points": [
+        {
+          "text": "Ish Sinha successfully represented SAC at celebration of service event, receiving positive feedback from multiple attendees.",
+          "source": "Ashley Bittle : I want to thank for being there on behalf of the SAC at the celebration of service",
+          "speaker": "Ashley Bittle",
+          "id": "t_006_p_001"
+        },
+        {
+          "text": "Irigon provided positive feedback on Ish's presentation performance at the celebration event, noting that people who attended were very impressed with his presentation.",
+          "source": "Irigon : I heard feedback as well on Ish from people I know who attended and they're very impressed with Ish's presentation",
+          "speaker": "Irigon",
+          "id": "t_006_p_002"
+        },
+        {
+          "text": "With no further business raised during roundtable, the chair adjourned the meeting.",
+          "source": "Vicki : Being no further business before the committee, I will adjourn the meeting.",
+          "speaker": "Vicki",
+          "id": "t_006_p_003"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "text": "Elna will provide additional CASOA survey information to committee members once received via email.",
+      "source": "Elna Tymes : I will be able to send that around to people as soon as it gets here",
+      "assignee": "Elna Tymes",
+      "id": "d_001"
+    },
+    {
+      "text": "Ashley will contact committee members immediately when City Council decides on in-person meeting return.",
+      "source": "Ashley Bittle : As soon as I know you guys are the 1st, I will contact SO",
+      "assignee": "Ashley Bittle",
+      "id": "d_002"
+    },
+    {
+      "text": "Elna will write justification proposal for $20,000 senior survey to present to City Council through formal vetting process.",
+      "source": "Elna Tymes : I would be glad to write this up as a justification, but that the proposal to the City Council would have to go through the whole vetting process",
+      "assignee": "Elna Tymes",
+      "id": "d_003"
+    },
+    {
+      "text": "Friendly Voices will expand to serve approximately 250 seniors annually within two years under the new Long Foundation grant.",
+      "source": "Laura Steuer : ...to triple that in the next two years. So within two years we will be serving 250 seniors a year.",
+      "assignee": "Friendly Voices",
+      "id": "d_004"
+    }
+  ],
+  "metadata": {
+    "topicCount": 6,
+    "pointCount": 22,
+    "decisionCount": 4
+  }
+}

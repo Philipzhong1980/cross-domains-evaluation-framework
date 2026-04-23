@@ -1,0 +1,321 @@
+{
+  "meeting_context": "White House press briefing imported from 20230606_press.vtt; ground truth derived from aligned summary segments.",
+  "participants": [
+    "MS. JEAN-PIERRE",
+    "Unidentified",
+    "MR. KIRBY"
+  ],
+  "topics": [
+    {
+      "topic": "In this section of the transcript Ms Jean",
+      "points": [
+        {
+          "text": "In this section of the transcript, Ms. Jean-Pierre wishes a happy birthday to Justin Sink and congratulates Scott on his last day in the briefing room and his new role as the weekend host of \"All Things Considered\" and \"Consider This.\"",
+          "speaker": "DerivedSummary",
+          "id": "t_001_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "In this section Ms Jean Pierre announces the",
+      "points": [
+        {
+          "text": "In this section, Ms. Jean-Pierre announces the launch of Invest.gov, which showcases the investments and infrastructure projects resulting from President Biden's agenda, and highlights that the President's administration will embark on a second Investing in America tour to further emphasize the impact of these initiatives.",
+          "speaker": "DerivedSummary",
+          "id": "t_002_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Ms Jean Pierre discusses the initial investment in",
+      "points": [
+        {
+          "text": "Ms. Jean-Pierre discusses the initial investment in stabilizing and rebuilding a city's water system, President Biden's commitment to providing safe drinking water for all Americans, and the Inflation Reduction Act that allows Medicare to negotiate lower prescription drug prices for seniors.",
+          "speaker": "DerivedSummary",
+          "id": "t_003_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "President Biden has successfully taken on Big Pharma",
+      "points": [
+        {
+          "text": "President Biden has successfully taken on Big Pharma and won in allowing Medicare to negotiate lower drug costs, despite pharmaceutical giants challenging this historic action in court.",
+          "speaker": "DerivedSummary",
+          "id": "t_004_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby addresses the destruction of the Nova",
+      "points": [
+        {
+          "text": "Admiral Kirby addresses the destruction of the Nova Kakhovka dam in Ukraine, stating that it has caused massive flooding, casualties, and the evacuation of thousands of Ukrainians.",
+          "speaker": "DerivedSummary",
+          "id": "t_005_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby acknowledges the reports of Russia's responsibility",
+      "points": [
+        {
+          "text": "Admiral Kirby acknowledges the reports of Russia's responsibility for the explosion at the illegally occupied Nova Kakhovka dam in Ukraine, expressing concern over the significant damage caused to the Ukrainian people, region, energy security, and canal system, while also pledging continued support to Ukraine in various forms.",
+          "speaker": "DerivedSummary",
+          "id": "t_006_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby states that they will continue to",
+      "points": [
+        {
+          "text": "Admiral Kirby states that they will continue to monitor the situation, stay in touch with Ukraine, and provide more information as it becomes available.",
+          "speaker": "DerivedSummary",
+          "id": "t_007_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby states that it is too soon",
+      "points": [
+        {
+          "text": "Admiral Kirby states that it is too soon to determine the impact of the dam's destruction on counteroffensive operations and that they are still gathering information to assess responsibility and intentionality.",
+          "speaker": "DerivedSummary",
+          "id": "t_008_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby responds to questions about Iran's launch",
+      "points": [
+        {
+          "text": "Admiral Kirby responds to questions about Iran's launch of a hypersonic ballistic missile, stating that the Biden administration has been clear and firm in pushing back against Iran's destabilizing activities, including their ballistic missile program.",
+          "speaker": "DerivedSummary",
+          "id": "t_009_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby asserted that the Biden administration has",
+      "points": [
+        {
+          "text": "Admiral Kirby asserted that the Biden administration has been aware and resolute in countering Iran's destabilizing actions, including their ballistic missile program.",
+          "speaker": "DerivedSummary",
+          "id": "t_010_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby states that the Biden administration has",
+      "points": [
+        {
+          "text": "Admiral Kirby states that the Biden administration has enough funds to support Ukraine on the battlefield for the rest of the fiscal year and it is too early to determine if the dam explosion will have an impact on supplemental funding.",
+          "speaker": "DerivedSummary",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby states that the Department of Defense",
+      "points": [
+        {
+          "text": "Admiral Kirby states that the Department of Defense will review the process of responding to the event over the weekend and if any procedures needed to be done differently, they will address it, while also mentioning that there are three European investigations underway regarding the Nord Stream pipeline.",
+          "speaker": "DerivedSummary",
+          "id": "t_012_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Admiral Kirby states that the Department of Defense",
+      "points": [
+        {
+          "text": "Admiral Kirby states that the Department of Defense trusts the ongoing independent investigations by three European countries regarding the gas pipeline situation and other incidents, while also reiterating that the U.S. does not support attacks inside Russia and has expressed concerns to Ukrainian officials.",
+          "speaker": "DerivedSummary",
+          "id": "t_013_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson states that the President intends to",
+      "points": [
+        {
+          "text": "The spokesperson states that the President intends to visit Africa later this year, but does not have a trip scheduled at the moment, and mentions that the Department of Defense is not currently investigating the NORAD event and advises referring to them for more information.",
+          "speaker": "DerivedSummary",
+          "id": "t_014_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson addresses concerns about the supply of",
+      "points": [
+        {
+          "text": "The spokesperson addresses concerns about the supply of F-16 fighter jets to Ukraine, stating that they are meant for long-term defense needs and to help Ukraine with its self-defense, emphasizing that the United States does not want to see the conflict escalate into the nuclear realm.",
+          "speaker": "DerivedSummary",
+          "id": "t_015_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson emphasizes that the deliberate destruction of",
+      "points": [
+        {
+          "text": "The spokesperson emphasizes that the deliberate destruction of civilian infrastructure, including dams, is a violation of the laws of war and mentions ongoing discussions with Ukraine regarding a decision.",
+          "speaker": "DerivedSummary",
+          "id": "t_016_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to comment on the announced",
+      "points": [
+        {
+          "text": "The spokesperson declines to comment on the announced merger and states that they have no position on it.",
+          "speaker": "DerivedSummary",
+          "id": "t_017_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson reaffirms the administration's position against attacks",
+      "points": [
+        {
+          "text": "The spokesperson reaffirms the administration's position against attacks inside Russia, expresses concerns about the war escalating, and hints at providing additional security assistance packages to Ukraine.",
+          "speaker": "DerivedSummary",
+          "id": "t_018_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson confirms that the President has not",
+      "points": [
+        {
+          "text": "The spokesperson confirms that the President has not yet chosen a candidate for the next Secretary General of NATO and praises the current Secretary General's performance, but states that no decisions have been made regarding extending his term.",
+          "speaker": "DerivedSummary",
+          "id": "t_019_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson discusses efforts to lower tensions in",
+      "points": [
+        {
+          "text": "The spokesperson discusses efforts to lower tensions in the Indo-Pacific through diplomacy and dialogue, addressing criticisms of both parties and emphasizing the importance of engagement.",
+          "speaker": "DerivedSummary",
+          "id": "t_020_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter asks if the White House has",
+      "points": [
+        {
+          "text": "The reporter asks if the White House has any concerns about the Saudi-backed LIV tour merging with the American PGA and their human rights record.",
+          "speaker": "DerivedSummary",
+          "id": "t_021_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson states that they will not comment",
+      "points": [
+        {
+          "text": "The spokesperson states that they will not comment on the merger between the Saudi-backed LIV tour and the American PGA, but emphasizes that President Biden is committed to addressing human rights concerns and that ongoing lawsuits will not hinder his efforts to lower drug prices.",
+          "speaker": "DerivedSummary",
+          "id": "t_022_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson reiterates the President's commitment to lowering",
+      "points": [
+        {
+          "text": "The spokesperson reiterates the President's commitment to lowering drug prices and addressing healthcare concerns, while stating that they cannot speak for pharmaceutical companies and their potential lawsuits.",
+          "speaker": "DerivedSummary",
+          "id": "t_023_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson addresses questions about ongoing litigation regarding",
+      "points": [
+        {
+          "text": "The spokesperson addresses questions about ongoing litigation regarding the release of migrants, the potential housing of migrants with residents in New York City, and the impact of upcoming retirements on the administration's ability to manage the border, while highlighting the decline in legal migration at the border due to the President's plan and leadership.",
+          "speaker": "DerivedSummary",
+          "id": "t_024_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson defers to the Department of Defense",
+      "points": [
+        {
+          "text": "The spokesperson defers to the Department of Defense when asked about a whistleblower report alleging the retrieval of non-human craft by the U.S. military and whether or not we are alone in the universe.",
+          "speaker": "DerivedSummary",
+          "id": "t_025_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson defers to the Department of Justice",
+      "points": [
+        {
+          "text": "The spokesperson defers to the Department of Justice regarding the ongoing lawsuit against Merck and emphasizes the importance of the legislation signed into law to help American families with their healthcare expenses.",
+          "speaker": "DerivedSummary",
+          "id": "t_026_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson highlights the significance of the Bipartisan",
+      "points": [
+        {
+          "text": "The spokesperson highlights the significance of the Bipartisan Infrastructure Law and the American Rescue Plan in providing funding for water infrastructure repairs in cities like Jackson and Flint, emphasizing the broader aim of addressing antiquated systems and improving communities across the country.",
+          "speaker": "DerivedSummary",
+          "id": "t_027_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson declines to comment on a potential",
+      "points": [
+        {
+          "text": "The spokesperson declines to comment on a potential golf merger and avoids discussing whether it would be subject to federal regulatory oversight.",
+          "speaker": "DerivedSummary",
+          "id": "t_028_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The spokesperson deflects questions about the President's incidents",
+      "points": [
+        {
+          "text": "The spokesperson deflects questions about the President's incidents on steps and instead highlights his accomplishments and ability to deliver on legislation.",
+          "speaker": "DerivedSummary",
+          "id": "t_029_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter and spokesperson engage in a tense",
+      "points": [
+        {
+          "text": "The reporter and spokesperson engage in a tense exchange about the importance of addressing specific questions regarding staffing.",
+          "speaker": "DerivedSummary",
+          "id": "t_030_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "The reporter and spokesperson argue about the need",
+      "points": [
+        {
+          "text": "The reporter and spokesperson argue about the need to address specific questions regarding staffing, with the spokesperson asserting that the President will continue to deliver for the American people.",
+          "speaker": "DerivedSummary",
+          "id": "t_031_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": []
+}

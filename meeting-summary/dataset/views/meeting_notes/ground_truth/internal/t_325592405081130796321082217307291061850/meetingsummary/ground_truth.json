@@ -1,0 +1,327 @@
+{
+  "meeting_context": "The Goal Setting Subcommittee met to review and direct the Fiscal Years 2023\u201324 and 2024\u201325 Council work plan development process. Members discussed timeline, analysis criteria, advisory body participation, and prioritization categories, approved prior minutes, and provided guidance to staff on process improvements, transparency, and equity considerations. Public comment addressed meeting access and hybrid participation preferences.",
+  "participants": [
+    "Lucas Ramirez",
+    "Laurel James",
+    "Alison Hicks",
+    "Ellen Kamei",
+    "Kimbre",
+    "Audrey Ramberg",
+    "Bruce England"
+  ],
+  "topics": [
+    {
+      "topic": "Work Plan Development Process Overview",
+      "points": [
+        {
+          "text": "Staff presented the proposed work plan development process and sought subcommittee feedback on analysis criteria, advisory body input, and a prioritization approach. The process begins in January and culminates in June 2023 adoption alongside the FY 2023/24 budget, with regular check-ins during implementation.",
+          "source": "Laurel James : So the purpose of this presentation, as you mentioned, is to provide an overview of the proposed work plan development process...and an approach to categorize projects by priority.",
+          "speaker": "Laurel James",
+          "id": "t_001_p_001"
+        },
+        {
+          "text": "Next steps are to incorporate subcommittee input and bring the development process to Council on January 24 for adoption, followed by a February 28 update on the FY21\u201323 work plan (with the midyear budget) and start of FY23\u201325 project discussion.",
+          "source": "Audrey Ramberg : Following this meeting will be for staff to incorporate the Subcommittee's input...to bring to the Council in January on the 24th...followed by a February 28th update...and also the beginning of the fiscal year 2325 work plan project discussion.",
+          "speaker": "Audrey Ramberg",
+          "id": "t_001_p_002"
+        },
+        {
+          "text": "Staff emphasized biannual progress check-ins throughout the two-year cycle to improve transparency and accountability, noting visuals and timelines can be included in the Council agenda report to clearly show how the process will unfold.",
+          "source": "Kimbre : ...check insurance, which I know that that's been important to council, which essentially is a check in every six months over the full two years. We can certainly include those sort of visual aids and charts in the actual agenda staff report.",
+          "speaker": "Kimbre",
+          "id": "t_001_p_003"
+        },
+        {
+          "text": "Council adopted seven strategic priorities in 2021 that will frame the fiscal year 2023-25 work plan projects: community for all, intentional development and housing options, mobility and connectivity, sustainability and climate resiliency, livability and quality of life, economic vitality, and organizational strength and good governance.",
+          "source": "Laurel James : The strategic priorities, of which there are seven, are visible here and familiar, I believe, to all of you",
+          "speaker": "Laurel James",
+          "id": "t_001_p_004"
+        }
+      ]
+    },
+    {
+      "topic": "Analysis Criteria and Equity Alignment",
+      "points": [
+        {
+          "text": "Proposed analysis will consider impact on strategic priorities, equity implications for underserved communities, dependencies and future capacity impacts, staff capacity, and costs and revenues. Staff requested input on any additional criteria the subcommittee wants included.",
+          "source": "Laurel James : One of the items we're seeking feedback on today is analysis criteria...impact on achieving the strategic priorities...equity...impact on future capacity...Staff capacity...and then finally, staff will estimate the cost...",
+          "speaker": "Laurel James",
+          "id": "t_002_p_001"
+        },
+        {
+          "text": "Ellen Kamei requested that equity analysis align with the City's Race Equity and Inclusion Action Plan and that each proposed project explicitly indicate which of the seven strategic priorities it advances to reinforce consistency and strategic alignment.",
+          "source": "Ellen Kamei : ...under the umbrella of equity...we have our race equity and inclusion action plan...is there going to be like analysis...And then another item...is to include the alignment on the strategic priorities. We have 7 strategic priorities...I'd love to see...alignment...",
+          "speaker": "Ellen Kamei",
+          "id": "t_002_p_002"
+        },
+        {
+          "text": "Alison Hicks asked staff to add urgency or timeliness as a criterion so projects with time-sensitive risks (e.g., Moffett Precise Plan impacts on neighborhood-serving retail) can be appropriately prioritized earlier in the cycle.",
+          "source": "Alison Hicks : ...the one thing that I sort of see missing...is if there's a sense of urgency to any of the particular items...one that comes to mind for me is the Moffett Precise plan...there's a sense of urgency...",
+          "speaker": "Alison Hicks",
+          "id": "t_002_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Advisory Body Input Approach",
+      "points": [
+        {
+          "text": "Staff proposed having City Manager's Office staff and advisory body liaisons attend meetings to facilitate structured work plan discussions, gather high-level input on projects and priorities, identify critical issues, and summarize feedback for Council's prioritization.",
+          "source": "Laurel James : The proposed process is that CMO staff...and Council Advisory Body Staff liaisons will attend regular meetings to facilitate a structured discussion...eliciting feedback on high level input...identify critical issues...and...share input...The feedback will be summarized and provided to Council...",
+          "speaker": "Laurel James",
+          "id": "t_003_p_001"
+        },
+        {
+          "text": "The subcommittee asked for a consistent, equitable solicitation method across all advisory bodies using one or two standardized questions, enabling each body to provide broad feedback and feel heard, while ensuring capacity constraints are clearly communicated.",
+          "source": "Ellen Kamei : ...narrowing the scope...Perhaps one or two questions for each advisory body would be a way to to make it more equitable...and then being able to provide that back to council...",
+          "speaker": "Ellen Kamei",
+          "id": "t_003_p_002"
+        },
+        {
+          "text": "Staff clarified advisory bodies cannot provide input before Council's February identification of projects due to timing. Miss James will attend each advisory meeting to ensure consistent explanations of process and questions across bodies.",
+          "source": "Audrey Ramberg : ...we wouldn't be able to do that in advance of your February identification of projects...our office which is namely Miss James would be going to each of the advisory body meetings...to present...and provide that consistency...",
+          "speaker": "Audrey Ramberg",
+          "id": "t_003_p_003"
+        },
+        {
+          "text": "Advisory body feedback process has been used for at least the last couple of council work plan processes, focusing on providing input rather than generating new project lists.",
+          "source": "Audrey Ramberg : So we've actually been using. This process of it being a feedback process for, you know, at least the last couple. Of council work plan processes",
+          "speaker": "Audrey Ramberg",
+          "id": "t_003_p_004"
+        },
+        {
+          "text": "Lucas Ramirez expressed concern about inequitable treatment where some advisory bodies can comment on everything while others are limited to their scope, advocating for consistent process.",
+          "source": "Lucas Ramirez : Some advisory bodies are told you can provide comment only on items within your scope and then others are told you could provide comments on anything",
+          "speaker": "Lucas Ramirez",
+          "id": "t_003_p_005"
+        },
+        {
+          "text": "Alison Hicks recommended providing advisory bodies with realistic capacity expectations similar to what council receives to avoid unrealistic project suggestions.",
+          "source": "Alison Hicks : I would like the council advisory bodies to same sort of honest explanation that we get about. I mean I don't want council new people and council advisory bodies to go off and dream",
+          "speaker": "Alison Hicks",
+          "id": "t_003_p_006"
+        }
+      ]
+    },
+    {
+      "topic": "Prioritization Categories and Capacity",
+      "points": [
+        {
+          "text": "To address capacity limits, staff proposed three priority buckets: A (highest, first in allocation), B (next), and C (important but executed as time/resources allow). This structure introduces hierarchy to manage a large work plan within finite resources.",
+          "source": "Laurel James : ...proposing that Council prioritize projects based on buckets...A would be the highest priority...B would be high priority...and then projects...in the C bucket...worked on as time and resources allow...to address the workload and capacity considerations.",
+          "speaker": "Laurel James",
+          "id": "t_004_p_001"
+        },
+        {
+          "text": "Staff will bring an initial A/B/C categorization based on analysis for Council to adjust, avoiding a 1\u201350 ranking or dot exercises. To keep the plan realistic, staff noted a target around 40 items and cautioned against 80\u201390 item work plans.",
+          "source": "Kimbre : ...staff would suggest the three buckets...give you all something to react to...we were definitely trying to avoid...one through 50...getting to a work plan that has, you know, 40 items on it is probably most realistic...we just can't have like the work plans of the past...",
+          "speaker": "Kimbre",
+          "id": "t_004_p_002"
+        },
+        {
+          "text": "Ellen Kamei requested clearer status transparency by showing each project's estimated completion quarter/year and its ABC priority, noting at least 33 items are currently in progress; in-progress items would generally be treated as category A to finish them.",
+          "source": "Ellen Kamei : ...there were at least 33 in progress items...I'd love just a separate column that tells me maybe like projected date completed Q3 and then the update...and...another column that said priority A...",
+          "speaker": "Ellen Kamei",
+          "id": "t_004_p_003"
+        },
+        {
+          "text": "Staff agreed most in-progress projects should be completed in this cycle and will clarify timelines and status in future updates; items already underway would generally be Category A, while not-started items may be reconsidered or removed.",
+          "source": "Kimbre : I think most of the projects that are in progress should be completed in this work plan cycle...we would put those items that have already been started probably in category A...The items that are not yet started...would really be the question...to...continue...or...remove...",
+          "speaker": "Kimbre",
+          "id": "t_004_p_004"
+        },
+        {
+          "text": "Lucas Ramirez expressed concern about projects prioritized in June 2019 potentially advancing to third goal setting cycle, indicating need for more realistic capacity planning.",
+          "source": "Lucas Ramirez : we're likely to advance projects that were prioritized in June 2019 into a third goal setting",
+          "speaker": "Lucas Ramirez",
+          "id": "t_004_p_005"
+        }
+      ]
+    },
+    {
+      "topic": "Housing Element and Non-Discretionary Items",
+      "points": [
+        {
+          "text": "Housing Element implementation items are non-discretionary over the eight-year cycle. Council can prioritize which to tackle in the next two years, but staff must balance choices with available capacity\u2014multiple items cannot be done simultaneously.",
+          "source": "Kimbre : ...all of those items that are going to end up being included in the housing element are non discretionary...we do have to do them within the next eight-year housing element cycle...you all will have the opportunity to discuss that...staff's going to also have to look at just their capacity...",
+          "speaker": "Kimbre",
+          "id": "t_005_p_001"
+        },
+        {
+          "text": "Staff clarified that the tabled attachment was a recent status update on the FY21\u201323 work plan, and the non-discretionary list includes Housing Element actions scheduled within this work plan; later-scheduled items were not included.",
+          "source": "Laurel James : ...that attachment is the most recent update on the current existing work plan...the non discretionary projects list...includes the housing element projects...scheduled for during this work plan...projects...further out...were not listed...",
+          "speaker": "Laurel James",
+          "id": "t_005_p_002"
+        },
+        {
+          "text": "Staff identified top priority housing element items for next two-year cycle, with remaining projects scheduled for years four, six, and eight of the housing element timeline.",
+          "source": "Kimbre : So we had identified the ones I think that either staff identified or maybe council members had identified them as kind of some of the more top priority things to do in this next two year cycle",
+          "speaker": "Kimbre",
+          "id": "t_005_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Holistic Workload Visibility",
+      "points": [
+        {
+          "text": "Lucas Ramirez urged presenting the full workload\u2014core services, non-discretionary obligations, and ongoing programmatic plans\u2014alongside council-initiated ideas so the Council prioritizes within realistic capacity and avoids repeatedly rolling over older priorities.",
+          "source": "Lucas Ramirez : ...we should no longer divorce counsel initiated projects from the rest of the immense workload...share with us what that work looks like...so...we all come in with similar expectations that what's achievable...",
+          "speaker": "Lucas Ramirez",
+          "id": "t_006_p_001"
+        },
+        {
+          "text": "To support holistic visibility, Ellen Kamei suggested consistent, side-by-side tables: one listing the full work plan (with department lead, status, and origin) and another listing goal-setting proposals, presented visually to aid council deliberations.",
+          "source": "Ellen Kamei : ...would it be possible to get them...visually...attachment to have a work plan that's a table and then for attachment 3 have a work plan of our goal setting...and maybe we can add a a section in the table that kind of clarifies...the genesis of the item.",
+          "speaker": "Ellen Kamei",
+          "id": "t_006_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Meeting Procedures and Roll Call",
+      "points": [
+        {
+          "text": "Meeting conducted under California Government Code Section 54953 E during declared state of emergency with video conference participation and no physical location.",
+          "source": "Lucas Ramirez : During this declared state of emergency, this meeting will be conducted in accordance with California Government Code Section 54953 E",
+          "speaker": "Lucas Ramirez",
+          "id": "t_007_p_001"
+        },
+        {
+          "text": "Roll call confirmed attendance of all three subcommittee members: Alison Hicks, Ellen Kamei, and Chair Lucas Ramirez.",
+          "source": "Laurel James : Thank you, Member Hicks. Alison Hicks: Here. Laurel James: Member commit. Ellen Kamei: Here. Laurel James: Chair Ramirez. Lucas Ramirez: Here",
+          "speaker": "Laurel James",
+          "id": "t_007_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Process Methodology Discussion",
+      "points": [
+        {
+          "text": "Alison Hicks anticipated fewer new projects since current council members have served together for years and were interrupted by COVID, expecting focus on eliminating stale projects and recommitting to priorities.",
+          "source": "Alison Hicks : I'm thinking that because there are no new council members at this point, hopefully we won't come in fresh with, you know, each with 20 new projects",
+          "speaker": "Alison Hicks",
+          "id": "t_008_p_001"
+        },
+        {
+          "text": "Kimbre noted various feedback on prioritization methods over years, with some preferring dot exercises, others preferring written memos, and some favoring civic makers mediation approach.",
+          "source": "Kimbre : we've just received various feedback. You know, some people love the dot, some people hate the dot exercise, some people really like writing a memo",
+          "speaker": "Kimbre",
+          "id": "t_008_p_002"
+        },
+        {
+          "text": "Lucas Ramirez suggested creating standardized project submission format to help staff appropriately scope ideas and avoid situations where broad concepts require extensive interpretation.",
+          "source": "Lucas Ramirez : it might be good to think about a way where we can provide some preliminary scoping so we're not just giving a huge idea and it gets majority support and then staff is kind of left figuring out OK, what does this actually mean",
+          "speaker": "Lucas Ramirez",
+          "id": "t_008_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Subcommittee Background and Context",
+      "points": [
+        {
+          "text": "Ellen Kamei clarified that none of the current subcommittee members served on the prior council goal setting subcommittee, so all are coming with same knowledge and background.",
+          "source": "Ellen Kamei : I don't think any of us were on the prior council goal setting subcommittee. So we are all coming into this with the same knowledge and the same background",
+          "speaker": "Ellen Kamei",
+          "id": "t_009_p_001"
+        },
+        {
+          "text": "Alison Hicks sought clarification on project lists and housing element implementation, noting some expected projects were not visible in attachments.",
+          "source": "Alison Hicks : so that is not the if I get it right, that's not the full list of projects that we'll be considering when we're when we're going over this during the study session",
+          "speaker": "Alison Hicks",
+          "id": "t_009_p_002"
+        }
+      ]
+    },
+    {
+      "topic": "Public Access and Hybrid Participation Feedback",
+      "points": [
+        {
+          "text": "A public commenter asked that the published Zoom link include the meeting ID and not require manual email entry, noting accessibility issues on mobile devices. He also urged the City to prioritize hybrid meeting capability for inclusion, even if February in-person plans are delayed.",
+          "source": "Bruce England : ...the link to the Zoom meeting does not include the meeting ID...and it also asks for the person's e-mail address...not user friendly...the goal...should be to always include the meeting ID...and to not require somebody entering their e-mail address...really against [in-person only] just for the sake of inclusion and equity...",
+          "speaker": "Bruce England",
+          "id": "t_010_p_001"
+        },
+        {
+          "text": "The commenter also suggested considering an International Dark Sky ordinance, clarifying the intranet redesign's scope, updating status entries, consolidating tree and biodiversity items, treating the legislative program as ongoing, and addressing hybrid meetings under COVID\u201319 recovery efforts.",
+          "source": " Bruce England : ...potential projects previously raised by council members...International Dark Sky Association ordinance...intranet design redesign...a lot of the updates aren't actually up to date...why are four one and four five separate?...develop and implement and enhanced legislative program...oversee COVID-19 recovery efforts...",
+          "speaker": "Bruce England",
+          "id": "t_010_p_002"
+        },
+        {
+          "text": "Bruce England noted that enhanced legislative program item marked as complete is actually ongoing and suggested COVID-19 recovery efforts could include hybrid meeting mode considerations.",
+          "source": "Bruce England : The next one is 7, two develop and implement and enhanced legislative program. It marks it as complete, but it's actually not complete",
+          "speaker": "Bruce England",
+          "id": "t_010_p_003"
+        }
+      ]
+    },
+    {
+      "topic": "Minutes Approval",
+      "points": [
+        {
+          "text": "The subcommittee approved the December 15, 2020 meeting minutes unanimously. Alison Hicks moved to accept the minutes as written, Ellen Kamei seconded, and the roll-call vote was 3\u20130 in favor.",
+          "source": "Laurel James : Committee member Hicks. / Alison Hicks : Yes. / Laurel James : Committee member Kumay. / Ellen Kamei : Yes / Laurel James : Chair Ramirez. / Lucas Ramirez : Yes, fantastic. ... Passes unanimously.",
+          "speaker": "Lucas Ramirez",
+          "id": "t_011_p_001"
+        }
+      ]
+    },
+    {
+      "topic": "Meeting Closure and Acknowledgments",
+      "points": [
+        {
+          "text": "Ellen Kamei thanked staff for clarifying that none of the current members served on the prior goal setting subcommittee, and Lucas Ramirez adjourned the meeting at 5:35 PM with thanks to participants.",
+          "source": "Lucas Ramirez : This meeting is adjourned at 5:35 PM...It has been a pleasure to chair this meeting for the first and last time for this committee. I should say thank you, everybody.",
+          "speaker": "Lucas Ramirez",
+          "id": "t_012_p_001"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "text": "Place the January Council work plan process item on the consent calendar and include clear visuals/timelines in the staff report.",
+      "source": "Lucas Ramirez : So we'll start with question one. I was outvoted, so this will be a consent item.",
+      "assignee": "City Manager's Office",
+      "id": "d_001"
+    },
+    {
+      "text": "Incorporate additional analysis criteria: urgency/timeliness, explicit mapping to the seven strategic priorities, and equity analysis aligned with the Race Equity and Inclusion Action Plan.",
+      "source": "Lucas Ramirez : For question 2...add a an urgency or timeliness criterion...have a criterion around alignment with the strategic priorities and then to to incorporate into the equity criterion the REI action plan...",
+      "assignee": "City Manager's Office",
+      "id": "d_002"
+    },
+    {
+      "text": "Implement a standardized advisory body input process using the same broad questions across all bodies, with a CMO representative attending each meeting; allow bodies to provide broad feedback beyond narrow scopes.",
+      "source": "Lucas Ramirez : For question 3, there's majority support for applying A consistent process across all of the council advisory bodies...the same questions...and...a representative from the city manager's office will be...to...solicit input.",
+      "assignee": "City Manager's Office",
+      "id": "d_003"
+    },
+    {
+      "text": "Adopt three prioritization buckets (A, B, C) and have staff present an initial categorization for Council to adjust during prioritization.",
+      "source": "Lucas Ramirez : For question 4 support for the categorization buckets that are proposed by staff and staff will produce the preliminary set of recommendations...",
+      "assignee": "City Manager's Office",
+      "id": "d_004"
+    },
+    {
+      "text": "Enhance status reporting by showing each project's estimated completion quarter/year and its ABC priority, and provide a process to remove stale or unnecessary items.",
+      "source": "Lucas Ramirez : ...including the the quarter and year the estimated completion and then I think also including the relative priority ABC...and having some type of process for the removal of projects.",
+      "assignee": "City Manager's Office",
+      "id": "d_005"
+    },
+    {
+      "text": "Approve the December 15, 2020 meeting minutes as written.",
+      "source": "Lucas Ramirez : ...the motion is in order to approve these Minutes... / Alison Hicks : I move to accept the minutes as written. / Ellen Kamei : I'll second the motion. / ... Passes unanimously.",
+      "assignee": "Goal Setting Subcommittee",
+      "id": "d_006"
+    }
+  ],
+  "metadata": {
+    "topicCount": 12,
+    "pointCount": 35,
+    "decisionCount": 6
+  }
+}

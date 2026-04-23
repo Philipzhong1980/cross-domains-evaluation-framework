@@ -1,0 +1,60 @@
+{
+  "result": {
+    "meeting_context": "This is a City Council meeting opening where the council is preparing to enter closed session for public employee performance evaluations. The meeting is conducted entirely by video conference with public comment opportunity provided.",
+    "participants": [
+      "Lucas Ramirez",
+      "Danica Lowe"
+    ],
+    "topics": [
+      {
+        "topic": "Meeting Format and Authorization",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "City Council meeting authorized by resolution with all members participating by video conference and no physical meeting location.",
+            "source": "Lucas Ramirez : All members of the City Council are participating in this meeting by video conference with no physical meeting location."
+          }
+        ]
+      },
+      {
+        "topic": "Closed Session Announcement",
+        "points": [
+          {
+            "speaker": "Danica Lowe",
+            "text": "City Council will conduct public employee performance evaluations in closed session pursuant to California Government Code Section 54957 for City Attorney, City Clerk, and City Manager.",
+            "source": "Danica Lowe : In close session this evening, City Council will be conducting public employee performance evaluations pursuant to California Government Code Section 54957 for the City Attorney."
+          },
+          {
+            "speaker": "Danica Lowe",
+            "text": "Council will not be taking any reportable action in closed session this evening.",
+            "source": "Danica Lowe : City of Clerk and City Manager and Council will not be taking any reportable action in closed session this evening."
+          }
+        ]
+      },
+      {
+        "topic": "Public Comment Process",
+        "points": [
+          {
+            "speaker": "Lucas Ramirez",
+            "text": "No members of the public requested to speak on closed session item, so council proceeded to recess to closed session.",
+            "source": "Lucas Ramirez : Not seeing any member of the public wishing to speak, so we will now recess to closed session."
+          }
+        ]
+      }
+    ],
+    "decisions": [],
+    "metadata": {
+      "topicCount": 3,
+      "pointCount": 4,
+      "decisionCount": 0
+    }
+  },
+  "metadata": {
+    "prompt_name": "groundtruth/meetingsummary/generation/gt_generation",
+    "prompt_version": "v6",
+    "prompt_fingerprint": "fa7c0020a451e4b91753fbddc68df3e2d7bbe90b265b749309508ccd91709914",
+    "provider": "anthropic",
+    "model": "anthropic.claude-sonnet-4-20250514-v1:0",
+    "timestamp": "2026-04-01T07:09:28.080382+00:00"
+  }
+}
