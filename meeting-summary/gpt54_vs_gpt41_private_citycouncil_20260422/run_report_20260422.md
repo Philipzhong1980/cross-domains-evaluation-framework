@@ -2,12 +2,15 @@
 
 This report documents the latest completed `gpt-5.4` versus `gpt-4.1` benchmark run over the `private_data` and `city_council` slices. It is intended as an operational companion to the paper's focused comparison results.
 
+This packaged repository includes the derived CSV and Markdown outputs for the run. The original run-summary JSON files remained in the source execution workspace and are not redistributed here.
+
 ## Run Identity
 
-- Run summary: [meeting_notes_model_comparison_run_standard_20260422_134801.json](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/report/private_citycouncil_model_comparison_gpt41_gpt54_20260422/full/meeting_notes_model_comparison_run_standard_20260422_134801.json)
-- Offline-eval summary: [meeting_notes_model_comparison_offline_eval_standard_20260422_134801.json](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/report/private_citycouncil_model_comparison_gpt41_gpt54_20260422/full/meeting_notes_model_comparison_offline_eval_standard_20260422_134801.json)
-- Combined report: [meeting_notes_model_comparison_combined_20260422_134801.csv](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/report/private_citycouncil_model_comparison_gpt41_gpt54_20260422/full/meeting_notes_model_comparison_combined_20260422_134801.csv)
-- Significance report: [meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/report/private_citycouncil_model_comparison_gpt41_gpt54_20260422/full/meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv)
+- Packaged bundle README: [README.md](README.md)
+- Combined report: [meeting_notes_model_comparison_combined_20260422_134801.csv](meeting_notes_model_comparison_combined_20260422_134801.csv)
+- Significance report: [meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv](meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv)
+- Analysis note: [meeting_notes_model_comparison_gpt54_vs_gpt41_analysis_20260422.md](meeting_notes_model_comparison_gpt54_vs_gpt41_analysis_20260422.md)
+- Original run-summary JSON and offline-eval JSON were produced in the source execution workspace and are not bundled in this repository.
 
 ## Scope
 
@@ -30,7 +33,7 @@ This report documents the latest completed `gpt-5.4` versus `gpt-4.1` benchmark 
 
 This latest run was not a zero-baseline execution. It was a rerun over the same output directory after an earlier partial run:
 
-- Earlier partial run summary: [meeting_notes_model_comparison_run_standard_20260422_120039.json](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/report/private_citycouncil_model_comparison_gpt41_gpt54_20260422/full/meeting_notes_model_comparison_run_standard_20260422_120039.json)
+- Earlier partial-run summary JSON was produced in the source execution workspace and is not bundled in this repository.
 - Earlier run launch time: `2026-04-22 12:00:39 +0800`
 - Earlier run concurrency: `2`
 - Earlier run partial progress: `20 completed`, `2 reused`, `0 failed`, `0 exceptions`

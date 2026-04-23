@@ -2,22 +2,24 @@
 
 This folder packages the focused `gpt-5.4` versus `gpt-4.1` comparison for the `private_data` and `city_council` slices only.
 
+The bundle includes the derived CSV and Markdown artifacts needed to inspect the result. The original run-summary JSON files stayed in the source execution workspace and are not redistributed here.
+
 ## Included Artifacts
 
-- [meeting_notes_model_comparison_combined_20260422_134801.csv](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/paper/gpt54_vs_gpt41_private_citycouncil_20260422/meeting_notes_model_comparison_combined_20260422_134801.csv)
-- [meeting_notes_model_comparison_overall_by_model_20260422_134801.csv](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/paper/gpt54_vs_gpt41_private_citycouncil_20260422/meeting_notes_model_comparison_overall_by_model_20260422_134801.csv)
-- [meeting_notes_model_comparison_overall_by_model_dataset_type_20260422_134801.csv](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/paper/gpt54_vs_gpt41_private_citycouncil_20260422/meeting_notes_model_comparison_overall_by_model_dataset_type_20260422_134801.csv)
-- [meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/paper/gpt54_vs_gpt41_private_citycouncil_20260422/meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv)
-- [meeting_notes_model_comparison_gpt54_vs_gpt41_analysis_20260422.md](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/paper/gpt54_vs_gpt41_private_citycouncil_20260422/meeting_notes_model_comparison_gpt54_vs_gpt41_analysis_20260422.md)
-- [run_report_20260422.md](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/paper/gpt54_vs_gpt41_private_citycouncil_20260422/run_report_20260422.md)
+- [meeting_notes_model_comparison_combined_20260422_134801.csv](meeting_notes_model_comparison_combined_20260422_134801.csv)
+- [meeting_notes_model_comparison_overall_by_model_20260422_134801.csv](meeting_notes_model_comparison_overall_by_model_20260422_134801.csv)
+- [meeting_notes_model_comparison_overall_by_model_dataset_type_20260422_134801.csv](meeting_notes_model_comparison_overall_by_model_dataset_type_20260422_134801.csv)
+- [meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv](meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv)
+- [meeting_notes_model_comparison_gpt54_vs_gpt41_analysis_20260422.md](meeting_notes_model_comparison_gpt54_vs_gpt41_analysis_20260422.md)
+- [run_report_20260422.md](run_report_20260422.md)
 
 ## Recommended Reading Order
 
-1. Start with [meeting_notes_model_comparison_overall_by_model_20260422_134801.csv](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/paper/gpt54_vs_gpt41_private_citycouncil_20260422/meeting_notes_model_comparison_overall_by_model_20260422_134801.csv) for the top-line model comparison.
-2. Then read [meeting_notes_model_comparison_overall_by_model_dataset_type_20260422_134801.csv](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/paper/gpt54_vs_gpt41_private_citycouncil_20260422/meeting_notes_model_comparison_overall_by_model_dataset_type_20260422_134801.csv) to see whether the gains hold in both `private_data` and `city_council`.
-3. Use [meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/paper/gpt54_vs_gpt41_private_citycouncil_20260422/meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv) for meeting-level win counts and exact paired sign tests.
-4. Use [meeting_notes_model_comparison_gpt54_vs_gpt41_analysis_20260422.md](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/paper/gpt54_vs_gpt41_private_citycouncil_20260422/meeting_notes_model_comparison_gpt54_vs_gpt41_analysis_20260422.md) for mechanism-level interpretation.
-5. Use [meeting_notes_model_comparison_combined_20260422_134801.csv](/Users/lizhon/PycharmProjects/WebexSuiteAI/dataset-pipeline/paper/gpt54_vs_gpt41_private_citycouncil_20260422/meeting_notes_model_comparison_combined_20260422_134801.csv) when you need both the aggregate rows and the meeting-level detail in one file.
+1. Start with [meeting_notes_model_comparison_overall_by_model_20260422_134801.csv](meeting_notes_model_comparison_overall_by_model_20260422_134801.csv) for the top-line model comparison.
+2. Then read [meeting_notes_model_comparison_overall_by_model_dataset_type_20260422_134801.csv](meeting_notes_model_comparison_overall_by_model_dataset_type_20260422_134801.csv) to see whether the gains hold in both `private_data` and `city_council`.
+3. Use [meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv](meeting_notes_model_comparison_gpt54_vs_gpt41_significance_20260422.csv) for meeting-level win counts and exact paired sign tests.
+4. Use [meeting_notes_model_comparison_gpt54_vs_gpt41_analysis_20260422.md](meeting_notes_model_comparison_gpt54_vs_gpt41_analysis_20260422.md) for mechanism-level interpretation.
+5. Use [meeting_notes_model_comparison_combined_20260422_134801.csv](meeting_notes_model_comparison_combined_20260422_134801.csv) when you need both the aggregate rows and the meeting-level detail in one file.
 
 ## Scope
 
