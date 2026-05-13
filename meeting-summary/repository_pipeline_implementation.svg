@@ -21,35 +21,31 @@
     and Packaged Artifact Layout
   </text>
   <text x="720" y="132" text-anchor="middle" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#486581">
-    Logical flow behind the benchmarked artifacts and the derived comparison reports bundled with this paper
+    High-level artifact flow behind the benchmarked reports bundled with this paper
   </text>
 
   <g>
     <rect x="70" y="196" width="250" height="126" rx="20" fill="#EAF2FF" stroke="#8CB9FF"/>
     <text x="195" y="240" text-anchor="middle" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1B4D9B">Transcript Asset</text>
-    <text x="195" y="272" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">dataset/assets/transcripts</text>
-    <text x="195" y="294" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">original_transcript.txt</text>
+    <text x="195" y="283" text-anchor="middle" font-size="17" font-family="Arial, Helvetica, sans-serif" fill="#355070">persisted source transcript</text>
   </g>
 
   <g>
     <rect x="400" y="196" width="250" height="126" rx="20" fill="#EEF8FF" stroke="#7BC4DE"/>
     <text x="525" y="240" text-anchor="middle" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#0E7490">GT Construction</text>
-    <text x="525" y="272" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#3D5A68">normalize transcripts into canonical</text>
-    <text x="525" y="294" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#3D5A68">topics, points, decisions, and IDs</text>
+    <text x="525" y="283" text-anchor="middle" font-size="17" font-family="Arial, Helvetica, sans-serif" fill="#3D5A68">normalize into typed GT items</text>
   </g>
 
   <g>
     <rect x="730" y="196" width="250" height="126" rx="20" fill="#FFF7E8" stroke="#F3BC59"/>
     <text x="855" y="240" text-anchor="middle" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#9A5A00">Candidate Generator</text>
-    <text x="855" y="272" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#7C5A1D">generate application-facing meeting</text>
-    <text x="855" y="294" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#7C5A1D">summaries with structured prompting</text>
+    <text x="855" y="283" text-anchor="middle" font-size="17" font-family="Arial, Helvetica, sans-serif" fill="#7C5A1D">hold the prompt family fixed</text>
   </g>
 
   <g>
     <rect x="1060" y="196" width="300" height="126" rx="20" fill="#FCEFFF" stroke="#DA9FFF"/>
     <text x="1210" y="240" text-anchor="middle" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#7C3AAD">Offline Evaluation Service</text>
-    <text x="1210" y="272" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#6B3E8A">compare candidate claims against GT</text>
-    <text x="1210" y="294" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#6B3E8A">accuracy, completeness, coverage</text>
+    <text x="1210" y="283" text-anchor="middle" font-size="17" font-family="Arial, Helvetica, sans-serif" fill="#6B3E8A">score candidate claims against GT</text>
   </g>
 
   <path d="M320 259H400" stroke="#3559A6" stroke-width="4" marker-end="url(#arrow2)"/>
@@ -59,22 +55,19 @@
   <g>
     <rect x="170" y="422" width="310" height="136" rx="20" fill="#F9FCFF" stroke="#C9D6E3"/>
     <text x="325" y="468" text-anchor="middle" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1F3A5F">Ground-Truth Artifact</text>
-    <text x="325" y="500" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#52667A">dataset/views/meeting_notes/ground_truth</text>
-    <text x="325" y="522" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#52667A">ground_truth.json</text>
+    <text x="325" y="511" text-anchor="middle" font-size="17" font-family="Arial, Helvetica, sans-serif" fill="#52667A">typed GT JSON artifact</text>
   </g>
 
   <g>
     <rect x="565" y="422" width="310" height="136" rx="20" fill="#F9FCFF" stroke="#C9D6E3"/>
     <text x="720" y="468" text-anchor="middle" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1F3A5F">Candidate Artifact</text>
-    <text x="720" y="500" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#52667A">dataset/views/meeting_notes/candidate</text>
-    <text x="720" y="522" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#52667A">standard/&lt;model&gt;/baseline.md</text>
+    <text x="720" y="511" text-anchor="middle" font-size="17" font-family="Arial, Helvetica, sans-serif" fill="#52667A">model-conditioned candidate artifact</text>
   </g>
 
   <g>
     <rect x="960" y="422" width="310" height="136" rx="20" fill="#F9FCFF" stroke="#C9D6E3"/>
     <text x="1115" y="468" text-anchor="middle" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1F3A5F">Evaluation Artifact</text>
-    <text x="1115" y="500" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#52667A">dataset/views/meeting_notes/evaluation</text>
-    <text x="1115" y="522" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#52667A">evaluation_report_standard_*.json</text>
+    <text x="1115" y="511" text-anchor="middle" font-size="17" font-family="Arial, Helvetica, sans-serif" fill="#52667A">judge outputs and score objects</text>
   </g>
 
   <path d="M525 322L325 422" stroke="#3559A6" stroke-width="4" fill="none" marker-end="url(#arrow2)"/>
@@ -87,10 +80,10 @@
       Benchmark Reporting and Model-Selection Layer
     </text>
     <text x="720" y="742" text-anchor="middle" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#52667A">
-      aggregate reports, model comparison CSVs, judge disagreement analysis,
+      merged tables, significance reports, judge disagreement analysis,
     </text>
     <text x="720" y="768" text-anchor="middle" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#52667A">
-      error taxonomy, sensitivity checks, and deployment-facing comparisons
+      slice diagnostics, sensitivity checks, and deployment-facing follow-up reruns
     </text>
 
     <g>

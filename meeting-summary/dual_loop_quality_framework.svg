@@ -47,29 +47,26 @@
   <g>
     <rect x="105" y="292" width="220" height="110" rx="18" fill="url(#blueBox)" stroke="#8BB5FF"/>
     <text x="215" y="336" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1B4D9B">Transcripts</text>
-    <text x="215" y="364" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">raw meetings, internal datasets,</text>
-    <text x="215" y="384" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">simulated production inputs</text>
+    <text x="215" y="366" text-anchor="middle" font-size="15.5" font-family="Arial, Helvetica, sans-serif" fill="#355070">benchmark sources</text>
+    <text x="215" y="386" text-anchor="middle" font-size="15.5" font-family="Arial, Helvetica, sans-serif" fill="#355070">and deployed inputs</text>
   </g>
 
   <g>
     <rect x="380" y="292" width="220" height="110" rx="18" fill="url(#blueBox)" stroke="#8BB5FF"/>
     <text x="490" y="336" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1B4D9B">Ground Truth</text>
-    <text x="490" y="364" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">topics, points, decisions,</text>
-    <text x="490" y="384" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">canonical meeting artifacts</text>
+    <text x="490" y="374" text-anchor="middle" font-size="16" font-family="Arial, Helvetica, sans-serif" fill="#355070">typed topics, points, and decisions</text>
   </g>
 
   <g>
     <rect x="655" y="292" width="220" height="110" rx="18" fill="url(#blueBox)" stroke="#8BB5FF"/>
     <text x="765" y="336" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#1B4D9B">Candidate Models</text>
-    <text x="765" y="364" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">prompted summary generation</text>
-    <text x="765" y="384" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#355070">across comparable model variants</text>
+    <text x="765" y="374" text-anchor="middle" font-size="16" font-family="Arial, Helvetica, sans-serif" fill="#355070">fixed generation prompt family</text>
   </g>
 
   <g>
     <rect x="930" y="292" width="220" height="110" rx="18" fill="url(#orangeBox)" stroke="#E2A84A"/>
     <text x="1040" y="336" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#9A5A00">Offline Evaluation</text>
-    <text x="1040" y="364" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#7C5A1D">accuracy, completeness, coverage,</text>
-    <text x="1040" y="384" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#7C5A1D">judge explanations, error types</text>
+    <text x="1040" y="374" text-anchor="middle" font-size="16" font-family="Arial, Helvetica, sans-serif" fill="#7C5A1D">accuracy, completeness, and coverage</text>
   </g>
 
   <path d="M325 347H380" stroke="#3559A6" stroke-width="4" marker-end="url(#arrow)"/>
@@ -99,22 +96,22 @@
   <g>
     <rect x="110" y="610" width="260" height="112" rx="18" fill="url(#greenBox)" stroke="#56B88B"/>
     <text x="240" y="654" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#136F46">Application Outputs</text>
-    <text x="240" y="682" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">customer summaries, user feedback,</text>
-    <text x="240" y="702" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">support escalations</text>
+    <text x="240" y="682" text-anchor="middle" font-size="15.5" font-family="Arial, Helvetica, sans-serif" fill="#256B50">summary use, feedback,</text>
+    <text x="240" y="702" text-anchor="middle" font-size="15.5" font-family="Arial, Helvetica, sans-serif" fill="#256B50">and escalations</text>
   </g>
 
   <g>
     <rect x="435" y="610" width="260" height="112" rx="18" fill="url(#greenBox)" stroke="#56B88B"/>
     <text x="565" y="654" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#136F46">Online Evaluation</text>
-    <text x="565" y="682" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">diagnose no-GT failures and cluster</text>
-    <text x="565" y="702" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">issues for benchmark expansion</text>
+    <text x="565" y="682" text-anchor="middle" font-size="15.5" font-family="Arial, Helvetica, sans-serif" fill="#256B50">aggregate metrics</text>
+    <text x="565" y="702" text-anchor="middle" font-size="15.5" font-family="Arial, Helvetica, sans-serif" fill="#256B50">and pattern discovery</text>
   </g>
 
   <g>
     <rect x="760" y="610" width="260" height="112" rx="18" fill="url(#greenBox)" stroke="#56B88B"/>
     <text x="890" y="654" text-anchor="middle" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#136F46">Dataset Generator</text>
-    <text x="890" y="682" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">turn hard cases into new GT and</text>
-    <text x="890" y="702" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#256B50">refresh the offline regression suite</text>
+    <text x="890" y="682" text-anchor="middle" font-size="15.5" font-family="Arial, Helvetica, sans-serif" fill="#256B50">curate nominations into</text>
+    <text x="890" y="702" text-anchor="middle" font-size="15.5" font-family="Arial, Helvetica, sans-serif" fill="#256B50">benchmark refresh</text>
   </g>
 
   <path d="M370 666H435" stroke="#178A57" stroke-width="4" marker-end="url(#arrowGreen)"/>
